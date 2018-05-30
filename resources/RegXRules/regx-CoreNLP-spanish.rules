@@ -1,0 +1,1270 @@
+(TUE|trado) /[0-9]{4}	Law_Reference	
+(STEDH|STJUE|RUAM,|RUAM) de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}	Law_Reference	
+(STS|STC|Tribunal) [0-9]{1,5}/[0-9]{4} de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)	Law_Reference	
+(art|artículo|artículos|ART) [0-9]{0,5}.[0-9]{0,5} [0-9]{0,5} y [0-9]{0,5}	Law_Reference		
+(art|artículo|artículos|ART) [0-9]{0,5}.[0-9]{0,5}	Law_Reference	
+(art|artículo|artículos|ART) [0-9]{0,5}.[a-zA-Z]{0,2}	Law_Reference
+(art|artículo|ART) [0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5}	Law_Reference	
+(art|artículo|ART) [0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5} y [0-9]{0,5}.[0-9]{0,5}	Law_Reference
+(art|artículo|ART) [0-9]{0,5} (CE|LRJSP)	Law_Reference	
+(art|artículo|ART) [0-9]{0,5},[0-9]{0,5} y [0-9]{0,5}	Law_Reference	
+CE\w[0-9]{4}	Law_Reference	ORG	
+CE-[0-9]{1,7}-[0-9]{1,5}	Law_Reference	ORG	
+(LRJSP|RDL) [0-9]{1,5}/[0-9]{4}	Law_Reference	ORG
+Law_Reference [0-9]{1,5}/[0-9]{1,5}	Law_Reference	ORG
+(Dir|Directiva|dir) [0-9]{1,5}.[0-9]{1,5}	Law_Reference	
+(Rec|rec|Recurso) [0-9]{0,5}.[0-9]{0,5}	Law_Reference	
+(R|Reglamento)(UE) nº [0-9]{1,5}/[0-9]{4}	Law_Reference	
+(R|Reglamento)(UE) [0-9]{1,5}/[0-9]{4}	Law_Reference	
+(Dec|Decreto|dec) no [0-9]{4}/[0-9]{1,5}/UE	Law_Reference	
+(Dec|Decreto|dec) [0-9]{4}/[0-9]{1,5}/UE	Law_Reference	
+(O.|O|Orden) PRA/[0-9]{1,5}/[0-9]{4}	Law_Reference	
+(Dict|Dictamen) CES	Law_Reference	
+sentencia [0-9]{1,5}/[0-9]{1,5}	Law_Reference	
+sentencia de [0-9]{1,5}/[0-9]{1,5}	Law_Reference	
+sentencia de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}	Law_Reference
+sentencia de (\w+) [0-9]{1,5}/[0-9]{1,5}	Law_Reference	
+sentencia nº [0-9]{1,5}/[0-9]{1,5}	Law_Reference	
+(Apelación|ordinario) [0-9]{1,5}/[0-9]{4}	Law_Reference
+A-RES	Abreviation	ORG
+AHDE	Abreviation	ORG
+AJEC	Abreviation	ORG
+AP	Abreviation	ORG
+ATCu	Abreviation	ORG
+ATS	Abreviation	ORG
+ATSJ	Abreviation	ORG
+BCE	Abreviation	ORG
+BIMJ	Abreviation	ORG
+BJC	Abreviation	ORG
+BOCG	Abreviation	ORG
+BOE	Abreviation	ORG
+BOP	Abreviation	ORG
+BORME	Abreviation	ORG
+CC	Abreviation	ORG
+CCEO	Abreviation	ORG
+CCom	Abreviation	ORG
+CD	Abreviation	ORG
+CE	Abreviation	ORG
+CEAL	Abreviation	ORG
+CEC	Abreviation	ORG
+CECA	Abreviation	ORG
+CEDH	Abreviation	ORG
+CEE	Abreviation	ORG
+CEEA	Abreviation	ORG
+CGPJ	Abreviation	ORG
+CIC	Abreviation	ORG
+CMNUCC	Abreviation	ORG
+CNMV	Abreviation	ORG
+CP	Abreviation	ORG
+CP-1973	Abreviation	ORG
+CPM	Abreviation	ORG
+CR	Abreviation	ORG
+CVDT	Abreviation	ORG
+D	Abreviation	ORG
+DC	Abreviation	ORG
+DGRN	Abreviation	ORG
+DH	Abreviation	ORG
+DIT	Abreviation	ORG
+DOCE	Abreviation	ORG
+DOUE	Abreviation	ORG
+DSS	Abreviation	ORG
+DUDH	Abreviation	ORG
+EAA	Abreviation	ORG
+EAAR	Abreviation	ORG
+EAAS	Abreviation	ORG
+EAC	Abreviation	ORG
+EACAN	Abreviation	ORG
+EACANT	Abreviation	ORG
+EACE	Abreviation	ORG
+EACLM	Abreviation	ORG
+EACM	Abreviation	ORG
+EACV	Abreviation	ORG
+EACYL	Abreviation	ORG
+EAEX	Abreviation	ORG
+EAG	Abreviation	ORG
+EAIB	Abreviation	ORG
+EAME	Abreviation	ORG
+EAMU	Abreviation	ORG
+EAPV	Abreviation	ORG
+EAR	Abreviation	ORG
+EBEP	Abreviation	ORG
+ET	Abreviation	ORG
+FJ	Abreviation	ORG
+LA	Abreviation	ORG
+LABE	Abreviation	ORG
+LAC	Abreviation	ORG
+LAECSP	Abreviation	ORG
+LAIE	Abreviation	ORG
+LAR	Abreviation	ORG
+LARH	Abreviation	ORG
+LAU	Abreviation	ORG
+LCon	Abreviation	ORG
+LC	Abreviation	ORG
+LCa	Abreviation	ORG
+LCA	Abreviation	ORG
+LCAFB	Abreviation	ORG
+LCAT	Abreviation	ORG
+LCCH	Abreviation	ORG
+LCCR	Abreviation	ORG
+LCCSNS	Abreviation	ORG
+LCD	Abreviation	ORG
+LCENFFS	Abreviation	ORG
+LCGC	Abreviation	ORG
+LCOOP	Abreviation	ORG
+LCP	Abreviation	ORG
+LCPE	Abreviation	ORG
+LCS	Abreviation	ORG
+LCSP	Abreviation	ORG
+LCVFL	Abreviation	ORG
+LCZ	Abreviation	ORG
+LD	Abreviation	ORG
+LDA	Abreviation	ORG
+LDC	Abreviation	ORG
+LDIC	Abreviation	ORG
+LDIEC	Abreviation	ORG
+LDPD	Abreviation	ORG
+LE	Abreviation	ORG
+LEC	Abreviation	ORG
+LEC-1881	Abreviation	ORG
+LECrim	Abreviation	ORG
+LEF	Abreviation	ORG
+LEOMF	Abreviation	ORG
+LETT	Abreviation	ORG
+LF	Abreviation	ORG
+LFCE	Abreviation	ORG
+LFN	Abreviation	ORG
+LG	Abreviation	ORG
+LGDCU	Abreviation	ORG
+LGP	Abreviation	ORG
+LGP-1988	Abreviation	ORG
+LGPub	Abreviation	ORG
+LGSa	Abreviation	ORG
+LGSS	Abreviation	ORG
+LGSu	Abreviation	ORG
+LGT	Abreviation	ORG
+LGT-1963	Abreviation	ORG
+LGTEL	Abreviation	ORG
+LH	Abreviation	ORG
+LHMPSD	Abreviation	ORG
+LHN	Abreviation	ORG
+LI	Abreviation	ORG
+LIIC	Abreviation	ORG
+LIS	Abreviation	ORG
+LIS-1995	Abreviation	ORG
+LISD	Abreviation	ORG
+LISMI	Abreviation	ORG
+LISOS	Abreviation	ORG
+LIT	Abreviation	ORG
+LITN	Abreviation	ORG
+LITP	Abreviation	ORG
+LIVA	Abreviation	ORG
+LJCA	Abreviation	ORG
+LJCA-1956	Abreviation	ORG
+LM	Abreviation	ORG
+LMo	Abreviation	ORG
+LMAD	Abreviation	ORG
+LMI	Abreviation	ORG
+LMMGL	Abreviation	ORG
+LMRFP	Abreviation	ORG
+LMV	Abreviation	ORG
+LN	Abreviation	ORG
+LNA	Abreviation	ORG
+LO	Abreviation	ORG
+LOCE	Abreviation	ORG
+LOCEs	Abreviation	ORG
+LOCJ	Abreviation	ORG
+LOCM	Abreviation	ORG
+LOCOJM	Abreviation	ORG
+LODE	Abreviation	ORG
+LODEPE	Abreviation	ORG
+LODN	Abreviation	ORG
+LODP	Abreviation	ORG
+LOE	Abreviation	ORG
+LOEd	Abreviation	ORG
+LOEX	Abreviation	ORG
+LOFAGE	Abreviation	ORG
+LOFCA	Abreviation	ORG
+LOFCS	Abreviation	ORG
+LOGP	Abreviation	ORG
+LOI	Abreviation	ORG
+LOLR	Abreviation	ORG
+LOLS	Abreviation	ORG
+LOMCE	Abreviation	ORG
+LOPDCP	Abreviation	ORG
+LOPJ	Abreviation	ORG
+LOPP	Abreviation	ORG
+LOPSC	Abreviation	ORG
+LORAFNA	Abreviation	ORG
+LORCA	Abreviation	ORG
+LORDFA	Abreviation	ORG
+LOREG	Abreviation	ORG
+LORIP	Abreviation	ORG
+LORPM	Abreviation	ORG
+LOSC	Abreviation	ORG
+LOSP	Abreviation	ORG
+LOSSEC	Abreviation	ORG
+LOSSP	Abreviation	ORG
+LOTC	Abreviation	ORG
+LOTCU	Abreviation	ORG
+LOTJ	Abreviation	ORG
+LOTT	Abreviation	ORG
+LOU	Abreviation	ORG
+LOVG	Abreviation	ORG
+LP	Abreviation	ORG
+LPA	Abreviation	ORG
+LPAC	Abreviation	ORG
+LPAP	Abreviation	ORG
+LPEMM	Abreviation	ORG
+LPH	Abreviation	ORG
+LPHE	Abreviation	ORG
+LPHN	Abreviation	ORG
+LPI	Abreviation	ORG
+LPL	Abreviation	ORG
+LPM	Abreviation	ORG
+LPN	Abreviation	ORG
+LPND	Abreviation	ORG
+LPRL	Abreviation	ORG
+LR	Abreviation	ORG
+LrBRL	Abreviation	ORG
+LRC	Abreviation	ORG
+LRCS	Abreviation	ORG
+LRJAE	Abreviation	ORG
+LRJPAC	Abreviation	ORG
+LRJS	Abreviation	ORG
+LRSAL	Abreviation	ORG
+LRSC	Abreviation	ORG
+LRJSP	Abreviation	ORG
+LS	Abreviation	ORG
+LSA	Abreviation	ORG
+LSC	Abreviation	ORG
+LSF	Abreviation	ORG
+LSGR	Abreviation	ORG
+LSH	Abreviation	ORG
+LSL	Abreviation	ORG
+LSP	Abreviation	ORG
+LSPU	Abreviation	ORG
+LSPU-1998	Abreviation	ORG
+LSRL	Abreviation	ORG
+LSSC	Abreviation	ORG
+LSSI	Abreviation	ORG
+LSV	Abreviation	ORG
+LTH	Abreviation	ORG
+LTSV	Abreviation	ORG
+LV	Abreviation	ORG
+LVP	Abreviation	ORG
+LVP-1974	Abreviation	ORG
+OEPM	Abreviation	ORG
+OICVM	Abreviation	ORG
+OM	Abreviation	ORG
+P	Abreviation	ORG
+PGC	Abreviation	ORG
+PIDESC	Abreviation	ORG
+PJ	Abreviation	ORG
+RA	Abreviation	ORG
+RAA	Abreviation	ORG
+RAC	Abreviation	ORG
+RAEIE	Abreviation	ORG
+RAMINP	Abreviation	ORG
+RAPA	Abreviation	ORG
+RBEL	Abreviation	ORG
+RBEL-1955	Abreviation	ORG
+RC	Abreviation	ORG
+RC-1989	Abreviation	ORG
+RCAP	Abreviation	ORG
+RCCL	Abreviation	ORG
+RCD	Abreviation	ORG
+RCDE	Abreviation	ORG
+RCGC	Abreviation	ORG
+RCPMHA	Abreviation	ORG
+RD	Abreviation	ORG
+RDCLV	Abreviation	ORG
+RDGRN	Abreviation	ORG
+RDLeg	Abreviation	ORG
+RDLey	Abreviation	ORG
+RDL	Abreviation	ORG
+RDLRT	Abreviation	ORG
+RDPH	Abreviation	ORG
+RDSAD	Abreviation	ORG
+RDU	Abreviation	ORG
+REF	Abreviation	ORG
+REFRS	Abreviation	ORG
+REPEPOS	Abreviation	ORG
+RFE	Abreviation	ORG
+RGC	Abreviation	ORG
+RGCE	Abreviation	ORG
+RGCir	Abreviation	ORG
+RGCond	Abreviation	ORG
+RGIPPT	Abreviation	ORG
+RGR	Abreviation	ORG
+RGRM	Abreviation	ORG
+RGU	Abreviation	ORG
+RGVeh	Abreviation	ORG
+RH	Abreviation	ORG
+RHL	Abreviation	ORG
+RIVA	Abreviation	ORG
+RLPD	Abreviation	ORG
+RLTAN	Abreviation	ORG
+RMo	Abreviation	ORG
+RM	Abreviation	ORG
+RO	Abreviation	ORG
+ROF	Abreviation	ORG
+ROFRJCL	Abreviation	ORG
+ROTT	Abreviation	ORG
+RP	Abreviation	ORG
+RPDEL	Abreviation	ORG
+RPEA	Abreviation	ORG
+RPFP	Abreviation	ORG
+RPI	Abreviation	ORG
+RPSan	Abreviation	ORG
+RPSTr	Abreviation	ORG
+RPU	Abreviation	ORG
+RRC	Abreviation	ORG
+RRM	Abreviation	ORG
+RRVA	Abreviation	ORG
+RS	Abreviation	ORG
+RSAAE	Abreviation	ORG
+RSCL	Abreviation	ORG
+RSE	Abreviation	ORG
+RSP	Abreviation	ORG
+SAN	Abreviation	ORG
+SAP	Abreviation	ORG
+SCIJ	Abreviation	ORG
+SCLV	Abreviation	ORG
+SCom	Abreviation	ORG
+SE	Abreviation	ORG
+SRL	Abreviation	ORG
+STC	Abreviation	ORG
+STJCE	Abreviation	ORG
+STJUE	Abreviation	ORG
+STS	Abreviation	ORG
+TC	Abreviation	ORG
+TCECA	Abreviation	ORG
+TCEE	Abreviation	ORG
+TCEEA, EURATOM	Abreviation	ORG
+TCEur	Abreviation	ORG
+TEDH	Abreviation	ORG
+TFUE	Abreviation	ORG
+TJCE	Abreviation	ORG
+TJUE	Abreviation	ORG
+TL	Abreviation	ORG
+TRLA	Abreviation	ORG
+TRLCAP	Abreviation	ORG
+TRLCI	Abreviation	ORG
+TRLCSP	Abreviation	ORG
+TRLGDPD	Abreviation	ORG
+TRLHL	Abreviation	ORG
+TRLIS	Abreviation	ORG
+TRLPEMM	Abreviation	ORG
+TRLS	Abreviation	ORG
+TRLSA	Abreviation	ORG
+TRRL	Abreviation	ORG
+TS	Abreviation	ORG
+TUE	Abreviation	ORG
+VM	Abreviation	ORG
+RUAM	Abreviation	ORG
+Dir	Abreviation	ORG
+Dec	Abreviation	ORG
+Rec	Abreviation	ORG
+Dict	Abreviation	ORG
+CES	Abreviation	ORG
+STC	Abreviation	ORG
+STS	Abreviation	ORG
+STEDH	Abreviation	ORG
+STJUE	Abreviation	ORG
+ap.	Abreviation	ORG
+apdo.	Abreviation	ORG
+ap.	Abreviation	ORG
+art.	Abreviation	ORG
+as.	Abreviation	ORG
+c.	Abreviation	ORG
+cfr.	Abreviation	ORG
+cap.	Abreviation	ORG
+coord.	Abreviation	ORG
+desus.	Abreviation	ORG
+Dic.	Abreviation	ORG
+dir.	Abreviation	ORG
+disp.	Abreviation	ORG
+disp.	Abreviation	ORG
+disp. final	Abreviation	ORG
+disp. trans.	Abreviation	ORG
+ed.	Abreviation	ORG
+etc.	Abreviation	ORG
+Exp. Mot.	Abreviation	ORG
+germ.	Abreviation	ORG
+ibid.	Abreviation	ORG
+Instr.	Abreviation	ORG
+mod.	Abreviation	ORG
+n.º	Abreviation	ORG
+núm.	Abreviation	ORG
+pág.	Abreviation	ORG
+párr.	Abreviation	ORG
+p. ej.	Abreviation	ORG
+pon.	Abreviation	ORG
+pr.	Abreviation	ORG
+pról.	Abreviation	ORG
+rec.	Abreviation	ORG
+rgto.	Abreviation	ORG
+s.	Abreviation	ORG
+sec.	Abreviation	ORG
+sig.	Abreviation	ORG
+tít.	Abreviation	ORG
+V.	Abreviation	ORG
+vol.	Abreviation	ORG
+recurso de casación	Law_Reference
+recurso extraordinario por infracción procesal	Law_Reference
+recurso en interés de ley	Law_Reference
+recurso de apelación	Law_Reference
+Concursal	Law_Reference
+recurso de suplicación	Law_Reference
+recurso de casación para unificación de doctrina	Law_Reference
+appeal for protection of fundamental rights	Law_Reference
+Custom against legislation	Law_Reference
+recurso en interés de la ley	Law_Reference
+Boletín Oficial de la Junta de Andalucía	Law_Reference
+Boletín Oficial de Aragón	Law_Reference
+Boletín Oficial del Principado de Asturias	Law_Reference
+Butlletí Oficial de la Comunitat Autònoma de les Illes Balears	Law_Reference
+Boletín Oficial de Canarias	Law_Reference
+Boletín Oficial de Cantabria	Law_Reference
+Boletín Oficial de Castilla y León	Law_Reference
+Diario Oficial de Castilla-La Mancha	Law_Reference
+Diari Oficial de la Generalitat de Catalunya	Law_Reference
+Diari Oficial de la Comunitat Valenciana	Law_Reference
+Diario Oficial de la Junta de Extremadura	Law_Reference
+Diario Oficial de Galicia	Law_Reference
+Boletín Oficial de La Rioja	Law_Reference
+Boletín Oficial de la Comunidad de Madrid	Law_Reference
+Boletín Oficial de la Región de Murcia	Law_Reference
+Boletín Oficial de Navarra	Law_Reference
+Boletín Oficial del País Vasco	Law_Reference
+Boletín Oficial de la Ciudad de Ceuta	Law_Reference
+Boletín Oficial de la Ciudad Autónoma de Melilla	Law_Reference
+Boletín de las Comunidades Europeas	Law_Reference
+Boletín de Información del Ministerio de Justicia	Law_Reference
+Boletín de Jurisprudencia Constitucional	Law_Reference
+Boletín O?cial de las Cortes Generales	Law_Reference
+Boletín O?cial del Estado	Law_Reference
+Boletin Oficial de la Provincia	Law_Reference
+Boletín O?cial del Registro Mercantil	Law_Reference
+municipios 	Location_Spain
+partidos judiciales	Location_Spain
+provincias 	Location_Spain
+Comunidades Autónomas 	Location_Spain
+Parlamento de Andalucía	Governemental_Institution
+Junta de Andalucía	Governemental_Institution
+Cortes de Aragón	Governemental_Institution
+Diputación General de Aragón	Governemental_Institution
+Junta General del Principado de Asturias	Governemental_Institution
+Gobierno del Principado de Asturias	Governemental_Institution
+Parlament de les Illes Balears	Governemental_Institution
+Govern de les Illes Balears	Governemental_Institution
+Parlamento de Canarias	Governemental_Institution
+Gobierno de Canarias	Governemental_Institution
+Parlamento de Cantabria	Governemental_Institution
+Gobierno de Cantabria	Governemental_Institution
+Cortes de Castilla y León	Governemental_Institution
+Junta de Castilla y León	Governemental_Institution
+Cortes de Castilla-La Mancha	Governemental_Institution
+Gobierno de Castilla-La Mancha	Governemental_Institution
+Parlament de Catalunya	Governemental_Institution
+Generalitat de Catalunya	Governemental_Institution
+Corts Valencianes	Governemental_Institution
+Generalitat Valenciana	Governemental_Institution
+Asamblea de Extremadura	Governemental_Institution
+Gobierno de Extremadura	Governemental_Institution
+Parlamento de Galicia	Governemental_Institution
+Xunta de Galicia	Governemental_Institution
+Parlamento de la Rioja	Governemental_Institution
+Gobierno de La Rioja	Governemental_Institution
+Asamblea de la Comunidad de Madrid	Governemental_Institution
+Gobierno de la Comunidad de Madrid	Governemental_Institution
+Asamblea Regional de Murcia	Governemental_Institution
+Consejo de Gobierno de Murcia	Governemental_Institution
+Parlamento de Navarra	Governemental_Institution
+Diputación Foral de Navarra	Governemental_Institution
+Parlamento Vasco	Governemental_Institution
+Gobierno Vasco	Governemental_Institution
+Gobierno de la Ciudad Autónoma de Ceuta	Governemental_Institution
+Gobierno de la Ciudad Autónoma de Melilla	Governemental_Institution
+Ley Orgánica	Law_Reference	ORG
+Ley 	Law_Reference	ORG
+Circulares	Law_Reference	ORG
+Consejo de Estado	Law_Reference	ORG
+Defensor del Pueblo	Law_Reference	ORG
+Decreto-ley	Law_Reference	ORG
+Decreto legislativo	Law_Reference	ORG
+Ley de Bases	Law_Reference	ORG
+Reglamento	Law_Reference	ORG
+Decreto	Law_Reference	ORG
+Orden	Law_Reference	ORG
+Instrucción	Law_Reference	ORG
+Boletín Oficial del Estado	Law_Reference	ORG
+Proyecto de Ley	Law_Reference	ORG
+Proposición de Ley	Law_Reference	ORG
+Consejo de Ministros	Law_Reference	ORG
+Real Decreto	Law_Reference	ORG
+Código Civil	Law_Reference	ORG
+Código Penal	Law_Reference	ORG
+Código Penal Militar	Law_Reference	ORG
+Directiva	Law_Reference	ORG
+Real Decreto Legislativo	Law_Reference	ORG
+Orden Social	Law_Reference	ORG
+Orden Ministerial	Law_Reference	ORG
+Real Decreto-Ley	Law_Reference	ORG
+Registro Mercantil	Law_Reference	ORG
+Real Orden	Law_Reference	ORG
+Real Decreto	Law_Reference	ORG
+Reglamento	Law_Reference	ORG
+Sentencia	Law_Reference	ORG
+Tratado	Law_Reference	ORG
+Resolución	Law_Reference	ORG
+Directiva	Law_Reference	ORG
+Decisión	Law_Reference	ORG
+Recomendación	Law_Reference	ORG
+Dictamen	Law_Reference	ORG
+Auto	Law_Reference	ORG
+Tribunal Supremo 	Governemental_Institution	ORG
+Tribunal Constitucional	Governemental_Institution	ORG
+Audiencia Nacional	Governemental_Institution	ORG
+Juzgados de Paz 	Governemental_Institution	ORG
+Cortes Generales	Governemental_Institution	ORG
+Audiencia Provincial 	Governemental_Institution	ORG
+Congreso de los Diputados	Governemental_Institution	ORG
+senado	Governemental_Institution	ORG
+Tribunal Superior de Justicia	Governemental_Institution	ORG
+Juzgados de Primera Instancia e Instrucción 	Governemental_Institution	ORG
+Juzgados de lo Penal	Governemental_Institution	ORG
+Juzgados de lo Contencioso-administrativo	Governemental_Institution	ORG
+Juzgados de lo Social	Governemental_Institution	ORG
+Juzgados Centrales de Instrucción	Governemental_Institution	ORG
+Juzgados de Menores 	Governemental_Institution	ORG
+Juzgado Central de lo Penal	Governemental_Institution	ORG
+Juzgados de Vigilancia penitenciaria 	Governemental_Institution	ORG
+Juzgados Centrales de lo Contencioso-administrativo	Governemental_Institution	ORG
+Juzgado de Violencia sobre la Mujer 	Governemental_Institution	ORG
+Sala Quinta	Governemental_Institution	ORG
+Cortes Generales	Governemental_Institution	ORG
+Congreso de los Diputados	Governemental_Institution	ORG
+Mesa	Governemental_Institution	ORG
+Junta de Portavoces	Governemental_Institution	ORG
+cuestión de confianza	Governemental_Institution	ORG
+ministros sin cartera	Governemental_Institution	ORG
+Secretarios de Estado	Governemental_Institution	ORG
+Consejo General del Poder Judicial	Governemental_Institution	ORG
+Juzgados togados militares	Governemental_Institution	ORG
+Tribunal militar territorial	Governemental_Institution	ORG
+Estatuto de Autonomía	Governemental_Institution	ORG
+Tribunal Constitucional	Governemental_Institution	ORG
+Audiencia Nacional	Governemental_Institution	ORG
+Audiencia Provincial	Governemental_Institution	ORG
+Corte Internacional de Justicia	Governemental_Institution	ORG
+Tribunal Constitucional	Governemental_Institution	ORG
+Tribunal de Justicia de las Comunidades Europeas	Governemental_Institution	ORG
+Tribunal Supremo	Governemental_Institution	ORG
+Tribunal Europeo de Derechos Humanos	Governemental_Institution	ORG
+Tribunal de Justicia de las Comunidades Europeas	Governemental_Institution	ORG
+Tribunal de Justicia de la Unión Europea	Governemental_Institution	ORG
+Congreso de los Diputados	Governemental_Institution	ORG
+Tribunal de Cuentas	Governemental_Institution	ORG
+Comisión Nacional	Governemental_Institution	ORG
+Tribunal Superior de Justicia	Governemental_Institution	ORG
+Ministerio de Justicia	Governemental_Institution	ORG
+Cortes Generales	Governemental_Institution	ORG
+Comité Económico y Social Europeo	Governemental_Institution	ORG
+Andalucía	Location_Spain	OTROS
+Aragón	Location_Spain	OTROS
+Asturias	Location_Spain	OTROS
+Baleares	Location_Spain	OTROS
+Canarias	Location_Spain	OTROS
+Cantabria	Location_Spain	OTROS
+Castilla Y León	Location_Spain	OTROS
+Castilla La Mancha	Location_Spain	OTROS
+Cataluña	Location_Spain	OTROS
+Comunidad Valenciana	Location_Spain	OTROS
+Extremadura	Location_Spain	OTROS
+Galicia	Location_Spain	OTROS
+La Rioja	Location_Spain	OTROS
+Madrid	Location_Spain	OTROS
+Murcia	Location_Spain	OTROS
+Navarra	Location_Spain	OTROS
+País Vasco	Location_Spain	OTROS
+Ceuta	Location_Spain	OTROS
+Melilla	Location_Spain	OTROS
+Asamblea de la ONU	Law_Reference
+Anuario de Historia del Derecho Español	Law_Reference
+Acuerdo de la Junta Electoral Central	Law_Reference
+Audiencia Provincial	Law_Reference
+Comunidades Europeas	Law_Reference
+Jurisprudencia Constitucional	Law_Reference
+Codex Canonum Ecclesiarum Orientalum	Law_Reference
+Constitución Española	Law_Reference
+Carta Europea de Autonomía Local	Law_Reference
+Catechismus Ecclesiae Catholicae	Law_Reference
+Comunidad Europea del Carbón y del Acero	Law_Reference
+Convenio de Roma	Law_Reference
+Comunidad Económica Europea	Law_Reference
+Comunidad Europea de la Energía Atómica	Law_Reference
+Consejo General del Poder Judicial	Law_Reference
+Codex Iuris Canonici	Law_Reference
+Convención Marco	Law_Reference
+Convenio de Roma	Law_Reference
+Convención de Viena	Law_Reference
+Dignitas Connubii	Law_Reference
+Dirección General de los Registros y del Notariado	Law_Reference
+Dignitatis Humanae	Law_Reference
+Diario O?cial de las Comunidades Europeas	Law_Reference
+Diario O?cial de la Unión Europea	Law_Reference
+Diario de Sesiones del Senado	Law_Reference
+Declaración Universal de Derechos Humanos	Law_Reference
+Fundamento Jurídico	Law_Reference
+Ley de Régimen Jurídico del Sector Público	Law_Reference
+Ley de Seguridad Aérea	Law_Reference
+Oficina Española de Patentes y Marcas	Law_Reference
+Orden Ministerial	Law_Reference
+Partidas	Law_Reference
+Plan General de Contabilidad	Law_Reference
+Poder Judicial	Law_Reference
+Revista de Aeronáutica y Astronáutica	Law_Reference
+Ministerio del Aire	Law_Reference
+Ley de Auditoría de Cuentas	Law_Reference
+Ley de Expropiación Forzosa	Law_Reference
+Registro Mercantil	Law_Reference
+Reglamento de Planeamiento	Law_Reference
+Servicio de Compensación y Liquidación de Valores	Law_Reference
+Sociedad Comanditaria	Law_Reference
+Sociedad Anónima Europea	Law_Reference
+Sociedad de Responsabilidad Limitada	Law_Reference
+Ley de Aguas	Law_Reference
+Ley de Contratos de las Administraciones Públicas	Law_Reference
+Ley del Catastro Inmobiliario	Law_Reference
+Ley de Contratos del Sector Público	Law_Reference
+Ley General de derechos de las personas con discapacidad y de su inclusión social	Law_Reference
+Ley Reguladora de las Haciendas Locales	Law_Reference
+Ley del Impuesto sobre Sociedades	Law_Reference
+Ley de Puertos del Estado y de la Marina Mercante	Law_Reference
+Ley del Suelo	Law_Reference
+Ley de Sociedades Anónimas	Law_Reference
+Vidal Mayor	Law_Reference
+Asuntos Exteriores y Cooperación	Governemental_Institution
+Justícia	Governemental_Institution
+Defensa	Governemental_Institution
+Hacienda	Governemental_Institution
+Interior	Governemental_Institution
+Fomento	Governemental_Institution
+Educación, Cultura y Deportes	Governemental_Institution
+Empleo	Governemental_Institution
+Industria, Energía y Turismo	Governemental_Institution
+Agricultura, Alimentación y Medio Ambiente	Governemental_Institution
+Economy and Competitivity	Governemental_Institution
+Sanidad, Servicios Sociales e Igualdad	Governemental_Institution
+Asuntos Exteriores y Cooperación	Governemental_Institution
+Justícia	Governemental_Institution
+Defensa	Governemental_Institution
+Hacienda	Governemental_Institution
+Interior	Governemental_Institution
+Fomento	Governemental_Institution
+Educación, Cultura y Deportes	Governemental_Institution
+Empleo	Governemental_Institution
+Industria, Energía y Turismo	Governemental_Institution
+Agricultura, Alimentación y Medio Ambiente	Governemental_Institution
+Economy and Competitivity	Governemental_Institution
+Sanidad, Servicios Sociales e Igualdad	Governemental_Institution
+Demandante	Detection_words
+Acusado	Detection_words	ORG
+Acusada	Detection_words	ORG
+Abogada	Detection_words	ORG
+Abogado	Detection_words	ORG
+Juez	Detection_words	ORG
+Policía	Detection_words	ORG
+Jurado	Detection_words	ORG
+juzgado	Detection_words	ORG
+Tribunal	Detection_words	ORG
+Palacio de justicia	Detection_words	ORG
+Delito	Detection_words	ORG
+Sala de justicia	Detection_words	ORG
+Crimen	Detection_words	ORG
+Infracción	Detection_words	ORG
+Detener	Detection_words	ORG
+Derecho	Detection_words	ORG
+Arrestar	Detection_words	ORG
+detención	Detection_words	ORG
+Arresto	Detection_words	ORG
+arrest 	Detection_words	ORG
+detention	Detection_words	ORG
+Juicio	Detection_words	ORG
+Pedimento	Detection_words	ORG
+mandato judicial	Detection_words	ORG
+Mandato	Detection_words	ORG
+Afidávit	Detection_words	ORG
+Multa	Detection_words	ORG
+Ley	Detection_words	ORG
+Law_Reference	Detection_words	ORG
+Juramento	Detection_words	ORG
+Investigar	Detection_words	ORG
+Acusar	Detection_words	ORG
+Apelar	Detection_words	ORG
+Absolver	Detection_words	ORG
+Alegar	Detection_words	ORG
+Fianza	Detection_words	ORG
+Prueba	Detection_words	ORG
+Admisible	Detection_words	ORG
+Carga de la prueba	Detection_words	ORG
+proceso judicial	Detection_words	ORG
+pleito	Detection_words	ORG
+acción judicial	Detection_words	ORG
+caso	Detection_words	ORG
+Causa	Detection_words	ORG
+Delictivo	Detection_words	ORG
+Daños y perjuicios	Detection_words	ORG
+Revelar	Detection_words	ORG
+Sobreseer	Detection_words	ORG
+Entrar en vigor	Detection_words	ORG
+Testigo	Detection_words	ORG
+Tribunales	Detection_words	ORG
+Hecho	Detection_words	ORG
+expediente	Detection_words	ORG
+Archivo	Detection_words	ORG
+sentencia	Detection_words	ORG
+decisión	Detection_words	ORG
+fallo	Detection_words	ORG
+Determinación	Detection_words	ORG
+Aconsejar	Detection_words	ORG
+Almería	Location_Spain	LUG
+Almería	Location_Spain	LUG
+Cádiz	Location_Spain	LUG
+Algeciras	Location_Spain	LUG
+Arcos de la Frontera	Location_Spain	LUG
+Cádiz	Location_Spain	LUG
+Chiclana de la Frontera	Location_Spain	LUG
+El Puerto de Santa María	Location_Spain	LUG
+Jerez de la Frontera	Location_Spain	LUG
+La Línea	Location_Spain	LUG
+Puerto Real	Location_Spain	LUG
+San Fernando	Location_Spain	LUG
+Sanlúcar de Barrameda	Location_Spain	LUG
+Córdoba	Location_Spain	LUG
+Bujalance	Location_Spain	LUG
+Cabra	Location_Spain	LUG
+Córdoba	Location_Spain	LUG
+Lucena	Location_Spain	LUG
+Montilla	Location_Spain	LUG
+Peñarroya-Pueblonuevo	Location_Spain	LUG
+Priego de Córdoba	Location_Spain	LUG
+Puente-Genil	Location_Spain	LUG
+Granada	Location_Spain	LUG
+Andújar	Location_Spain	LUG
+Baza	Location_Spain	LUG
+Granada	Location_Spain	LUG
+Guadix	Location_Spain	LUG
+Motril	Location_Spain	LUG
+Huelva	Location_Spain	LUG
+Huelva	Location_Spain	LUG
+Jaén	Location_Spain	LUG
+Jaén	Location_Spain	LUG
+Linares	Location_Spain	LUG
+Martos	Location_Spain	LUG
+Úbeda	Location_Spain	LUG
+Málaga	Location_Spain	LUG
+Antequera	Location_Spain	LUG
+Coín	Location_Spain	LUG
+Málaga	Location_Spain	LUG
+Melilla	Location_Spain	LUG
+Ronda	Location_Spain	LUG
+Sevilla	Location_Spain	LUG
+Alcalá de Guadaira	Location_Spain	LUG
+Carmona	Location_Spain	LUG
+Dos Hermanas	Location_Spain	LUG
+Ecija	Location_Spain	LUG
+Lebrija	Location_Spain	LUG
+Lora del Río	Location_Spain	LUG
+Marchena	Location_Spain	LUG
+Morón de la Frontera	Location_Spain	LUG
+Osuna	Location_Spain	LUG
+Sevilla	Location_Spain	LUG
+Utrera	Location_Spain	LUG
+Aragon	Location_Spain	LUG
+Huesca	Location_Spain	LUG
+Huesca	Location_Spain	LUG
+Jaca	Location_Spain	LUG
+Teruel	Location_Spain	LUG
+Teruel	Location_Spain	LUG
+Zaragoza	Location_Spain	LUG
+Zaragoza	Location_Spain	LUG
+Asturias	Location_Spain	LUG
+Avilés	Location_Spain	LUG
+Cabañaquinta	Location_Spain	LUG
+Cangas de Narcea	Location_Spain	LUG
+Covadonga	Location_Spain	LUG
+Gijón	Location_Spain	LUG
+Luarca	Location_Spain	LUG
+Mieres	Location_Spain	LUG
+Oviedo	Location_Spain	LUG
+Pola de Siero	Location_Spain	LUG
+San Martín del Rey Aurelio	Location_Spain	LUG
+Tineo	Location_Spain	LUG
+Villaviciosa	Location_Spain	LUG
+Balearic Islands	Location_Spain	LUG
+Palma	Location_Spain	LUG
+Maó	Location_Spain	LUG
+Basque Country	Location_Spain	LUG
+Álava	Location_Spain	LUG
+Vitoria-Gasteiz	Location_Spain	LUG
+Guipúzcoa	Location_Spain	LUG
+Donostia–San Sebastián	Location_Spain	LUG
+Eibar	Location_Spain	LUG
+Irun	Location_Spain	LUG
+Vizcaya	Location_Spain	LUG
+Barakaldo	Location_Spain	LUG
+Bilbao	Location_Spain	LUG
+Getxo	Location_Spain	LUG
+Guernica	Location_Spain	LUG
+Portugalete	Location_Spain	LUG
+Santurtzi	Location_Spain	LUG
+Sestao	Location_Spain	LUG
+Canary Islands	Location_Spain	LUG
+Las Palmas	Location_Spain	LUG
+Arucas	Location_Spain	LUG
+Las Palmas	Location_Spain	LUG
+Telde	Location_Spain	LUG
+Santa Cruz de Tenerife	Location_Spain	LUG
+La Orotava	Location_Spain	LUG
+Santa Cruz de Tenerife	Location_Spain	LUG
+Cantabria	Location_Spain	LUG
+Santander	Location_Spain	LUG
+Torrelavega	Location_Spain	LUG
+Castile–La Mancha	Location_Spain	LUG
+Albacete	Location_Spain	LUG
+Albacete	Location_Spain	LUG
+Hellín	Location_Spain	LUG
+Villarrobledo	Location_Spain	LUG
+Ciudad Real	Location_Spain	LUG
+Alcázar de San Juan	Location_Spain	LUG
+Almadén	Location_Spain	LUG
+Ciudad Real	Location_Spain	LUG
+Puertollano	Location_Spain	LUG
+Tomelloso	Location_Spain	LUG
+Valdepeñas	Location_Spain	LUG
+Cuenca	Location_Spain	LUG
+Cuenca	Location_Spain	LUG
+Guadalajara	Location_Spain	LUG
+Guadalajara	Location_Spain	LUG
+Toledo	Location_Spain	LUG
+Talavera de la Reina	Location_Spain	LUG
+Toledo	Location_Spain	LUG
+Castile–León	Location_Spain	LUG
+Ávila	Location_Spain	LUG
+Ávila	Location_Spain	LUG
+Burgos	Location_Spain	LUG
+Burgos	Location_Spain	LUG
+Miranda de Ebro	Location_Spain	LUG
+León	Location_Spain	LUG
+Astorga	Location_Spain	LUG
+León	Location_Spain	LUG
+Ponferrada	Location_Spain	LUG
+Palencia	Location_Spain	LUG
+Palencia	Location_Spain	LUG
+Salamanca	Location_Spain	LUG
+Ciudad Rodrigo	Location_Spain	LUG
+Salamanca	Location_Spain	LUG
+Segovia	Location_Spain	LUG
+San Ildefonso	Location_Spain	LUG
+Segovia	Location_Spain	LUG
+Soria	Location_Spain	LUG
+Soria	Location_Spain	LUG
+Valladolid	Location_Spain	LUG
+Simancas	Location_Spain	LUG
+Valladolid	Location_Spain	LUG
+Zamora	Location_Spain	LUG
+Toro	Location_Spain	LUG
+Zamora	Location_Spain	LUG
+Catalonia	Location_Spain	LUG
+Barcelona	Location_Spain	LUG
+Badalona	Location_Spain	LUG
+Barcelona	Location_Spain	LUG
+Cornellà	Location_Spain	LUG
+Granollers	Location_Spain	LUG
+L’Hospitalet de Llobregat	Location_Spain	LUG
+Manresa	Location_Spain	LUG
+Mataró	Location_Spain	LUG
+Reus	Location_Spain	LUG
+Sabadell	Location_Spain	LUG
+Santa Coloma de Gramenet	Location_Spain	LUG
+Terrassa	Location_Spain	LUG
+Vic	Location_Spain	LUG
+Vilanova i la Geltrú	Location_Spain	LUG
+Girona	Location_Spain	LUG
+Girona	Location_Spain	LUG
+Llívia	Location_Spain	LUG
+Lleida	Location_Spain	LUG
+Lleida	Location_Spain	LUG
+Tarragona	Location_Spain	LUG
+Tarragona	Location_Spain	LUG
+Tortosa	Location_Spain	LUG
+Ceuta	Location_Spain	LUG
+Extremadura	Location_Spain	LUG
+Badajoz	Location_Spain	LUG
+Almendralejo	Location_Spain	LUG
+Badajoz	Location_Spain	LUG
+Don Benito	Location_Spain	LUG
+Mérida	Location_Spain	LUG
+Villanueva de la Serena	Location_Spain	LUG
+Cáceres	Location_Spain	LUG
+Alcántara	Location_Spain	LUG
+Cáceres	Location_Spain	LUG
+Guadalupe	Location_Spain	LUG
+Plasencia	Location_Spain	LUG
+Trujillo	Location_Spain	LUG
+Galicia	Location_Spain	LUG
+A Coruña	Location_Spain	LUG
+A Coruña	Location_Spain	LUG
+Carballo	Location_Spain	LUG
+Ferrol	Location_Spain	LUG
+Ortigueira	Location_Spain	LUG
+Ribeira	Location_Spain	LUG
+Santiago de Compostela	Location_Spain	LUG
+Lugo	Location_Spain	LUG
+Lugo	Location_Spain	LUG
+Mondoñedo	Location_Spain	LUG
+Monforte de Lemos	Location_Spain	LUG
+Vilalba	Location_Spain	LUG
+Ourense	Location_Spain	LUG
+Ourense	Location_Spain	LUG
+Vigo	Location_Spain	LUG
+Vilagarcía de Arousa	Location_Spain	LUG
+Pontevedra	Location_Spain	LUG
+Pontevedra	Location_Spain	LUG
+Madrid	Location_Spain	LUG
+Alcalá de Henares	Location_Spain	LUG
+Aranjuez	Location_Spain	LUG
+El Escorial	Location_Spain	LUG
+Getafe	Location_Spain	LUG
+Madrid	Location_Spain	LUG
+Melilla	Location_Spain	LUG
+Murcia	Location_Spain	LUG
+Caravaca	Location_Spain	LUG
+Cartagena	Location_Spain	LUG
+Cieza	Location_Spain	LUG
+Jumilla	Location_Spain	LUG
+Lorca	Location_Spain	LUG
+Murcia	Location_Spain	LUG
+Yecla	Location_Spain	LUG
+Navarra	Location_Spain	LUG
+Funes	Location_Spain	LUG
+Pamplona	Location_Spain	LUG
+Roncesvalles	Location_Spain	LUG
+La Rioja	Location_Spain	LUG
+Calahorra	Location_Spain	LUG
+Logroño	Location_Spain	LUG
+Valencia	Location_Spain	LUG
+Alicante	Location_Spain	LUG
+Alcoy	Location_Spain	LUG
+Alicante	Location_Spain	LUG
+Elche	Location_Spain	LUG
+Elda	Location_Spain	LUG
+Orihuela	Location_Spain	LUG
+Villena	Location_Spain	LUG
+Castellón	Location_Spain	LUG
+Castellón de la Plana	Location_Spain	LUG
+Villarreal	Location_Spain	LUG
+Valencia	Location_Spain	LUG
+Alzira	Location_Spain	LUG
+Gandía	Location_Spain	LUG
+Requena	Location_Spain	LUG
+Sagunto	Location_Spain	LUG
+Sueca	Location_Spain	LUG
+Torrent	Location_Spain	LUG
+Valencia	Location_Spain	LUG
+Ley de navegación aérea de España	Law_Reference
+Ley hipotecaria (España)	Law_Reference
+Ley Organica de Proteccion de Datos de Caracter Personal (España)	Law_Reference
+Ley de Defensa de Consumidores y Usuarios de España	Law_Reference
+Ley de Amnistía de 1977	Law_Reference
+Ley Organica de Calidad de la Educacion (España)	Law_Reference
+Ley 35/2010	Law_Reference
+Ley 48/1960 sobre Navegación Aérea	Law_Reference
+Ley 46/1977, de 15 de octubre, de Amnistía	Law_Reference
+Ley General de Sanidad de España	Law_Reference
+Ley del Suelo (España)	Law_Reference
+Ley del Suelo (España)	Law_Reference
+Ley 3871999, de 5 de noviembre, de Ordenación de la Edificación	Law_Reference
+Ley Estatal de Modernizacion del Gobierno Local (España)	Law_Reference
+Ley Organica de Educacion (España)	Law_Reference
+Ley de Ordenación Urbanística de Andalucia, ley 7/2002	Law_Reference
+Ley hipotecaria española	Law_Reference
+Ley del Suelo (España)	Law_Reference
+Ley de Evaluacion de Impacto Ambiental de España	Law_Reference
+Ley Sinde	Law_Reference
+Ley Orgánica 9/2011 de 27 de julio de derechos y deberes de los miembros de las Fuerzas Armadas	Law_Reference
+Ley 34/2002, de 11 de Julio de Servicios de la Sociedad de Información y Comercio Electrónico	Law_Reference
+Ley Hipotecaria española	Law_Reference
+Ley del Mercado de Valores	Law_Reference
+Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común	Law_Reference
+Ley de presupuesto	Law_Reference
+Ley hipotecaria (España)	Law_Reference
+Ley General de Educación de 1970	Law_Reference
+Ley hipotecaria española	Law_Reference
+Ley Organica de Proteccion de Datos de Caracter Personal (España)	Law_Reference
+Ley Organica de Proteccion de Datos de Caracter Personal (España)	Law_Reference
+Ley de Reforma Agraria de España	Law_Reference
+Ley de Sucesion en la Jefatura del Estado	Law_Reference
+Ley de Sucesion en la Jefatura del Estado	Law_Reference
+Ley de Navegación Aérea de España	Law_Reference
+Ley electoral de España	Law_Reference
+Ley antitabaco de España	Law_Reference
+Ley 35/2010	Law_Reference
+Ley de Organización y Funcionamiento de la Administración General del Estado	Law_Reference
+Ley hipotecaria española	Law_Reference
+constitucion de 1978	Law_Reference
+constitución del 78	Law_Reference
+constitución española	Law_Reference
+constitución española de 1981	Law_Reference
+ley de consultas de cataluña	Law_Reference
+ley de nacionalidad española para los sefardíes	Law_Reference
+ley del referéndum de autodeterminación	Law_Reference
+ley del referéndum de autodeterminación de cataluña	Law_Reference
+ley antitabaco de espana	Law_Reference
+ley antitabaco de españa 2011	Law_Reference
+ley concursal	Law_Reference
+ley constitutiva de las cortes	Law_Reference
+ley constitutiva de las cortes españolas	Law_Reference
+ley de cortes	Law_Reference
+ley de creación de las cortes espanolas	Law_Reference
+ley de acceso electronico de los ciudadanos a los servicios publicos	Law_Reference
+ley 46/1977, de 15 de octubre, de amnistía	Law_Reference
+ley de amnistia de 1977	Law_Reference
+ley 22/1988	Law_Reference
+ley de costas	Law_Reference
+ley de defensa de la republica	Law_Reference
+ley de dependencia (españa)	Law_Reference
+ley de promoción de autonomía personal y atención a las personas dependientes	Law_Reference
+servicio de ayuda a domicilio	Law_Reference
+ley de derechos y garantias de la dignidad de la persona en el proceso de la muerte	Law_Reference
+ley biden-sinde	Law_Reference
+ley de economia sostenible	Law_Reference
+ley sinde	Law_Reference
+ley sinde-wert	Law_Reference
+ley wert	Law_Reference
+ley wert-sinde	Law_Reference
+ley de educacion de andalucia	Law_Reference
+ley de evaluacion de impacto ambiental	Law_Reference
+ley de integracion de los inmigrantes	Law_Reference
+ley de lenguas de aragon	Law_Reference
+ley de medidas sobre urbanismo y suelo de castilla y leon	Law_Reference
+ley de la memoria historica	Law_Reference
+ley por la que se reconocen y amplian derechos y se establecen medidas en favor de quienes padecieron persecucion o violencia durante la guerra civil y la dictadura	Law_Reference
+ley de ordenacion del territorio de la comunidad de castilla y leon	Law_Reference
+ley de ordenacion urbanistica de andalucia	Law_Reference
+ley de organizacion y atribuciones de los tribunales	Law_Reference
+ley de participacion ciudadana	Law_Reference
+ley de principios del movimiento nacional	Law_Reference
+ley de principios fundamentales del movimiento	Law_Reference
+ley de principios fundamentales del movimiento nacional	Law_Reference
+principios fundamentales del movimiento	Law_Reference
+principios fundamentales del movimiento nacional	Law_Reference
+ley de reforma agraria de 1932	Law_Reference
+reforma agraria de la ii república	Law_Reference
+ley de responsabilidad política	Law_Reference
+tribunal de responsabilidades politicas	Law_Reference
+ley de santa maria de nieva	Law_Reference
+ley de simbolos de navarra	Law_Reference
+ley de transitoriedad jurídica	Law_Reference
+ley de uso y ensenanza del valenciano	Law_Reference
+ley de uso y promocion del asturiano	Law_Reference
+ley de organización de veguerías de cataluña	Law_Reference
+ley del referendum nacional	Law_Reference
+ley del suelo de la region de murcia	Law_Reference
+ley del tercer canal de television	Law_Reference
+ley 14/1970	Law_Reference
+ley 14 1970	Law_Reference
+ley general de educación de 1970	Law_Reference
+lge 1970	Law_Reference
+ley de instruccion publica	Law_Reference
+ley omnibus	Law_Reference
+ley organica	Law_Reference
+ley orgánica española	Law_Reference
+ley organica 1/2002, de 22 de marzo, reguladora del derecho de asociacion	Law_Reference
+ley de partido	Law_Reference
+ley de partidos políticos	Law_Reference
+ley organica de partidos politicos	Law_Reference
+ley orgánica de armonizacion del proceso autonómico	Law_Reference
+ley organica para la armonizacion del proceso autonomico	Law_Reference
+loapa	Law_Reference
+ley orgánica de educación de españa	Law_Reference
+ley organica de estabilidad presupuestaria y sostenibilidad financiera	Law_Reference
+ley organica de medidas de proteccion integral contra la violencia de genero	Law_Reference
+ley de ordenacion general del sistema educativo	Law_Reference
+ley organica de ordenacion general del sistema educativo	Law_Reference
+ley organica general del sistema educativo	Law_Reference
+logse	Law_Reference
+ley organica de proteccion de datos de caracter personal	Law_Reference
+ley mordaza	Law_Reference
+lopsc	Law_Reference
+lopsc-2015	Law_Reference
+ley organica de transferencias complementarias a canarias	Law_Reference
+ley organica de universidades	Law_Reference
+ley orgánica del estado de 1967	Law_Reference
+keep calm and speak catalan	Law_Reference
+ley de mejora de la calidad educativa	Law_Reference
+ley orgánica para la mejora de la calidad de la educación	Law_Reference
+ley orgánica para la mejora de la calidad en la enseñanza	Law_Reference
+locme o ley orgánica para la mejora de la calidad en la enseñanza	Law_Reference
+lomce	Law_Reference
+lomce o ley orgánica para la mejora de la calidad en la enseñanza	Law_Reference
+ley de modificacion de fueros de navarra	Law_Reference
+ley paccionada	Law_Reference
+ley paccionada de 1841	Law_Reference
+ley para la igualdad efectiva de hombres y mujeres	Law_Reference
+ley de la reforma politica	Law_Reference
+ley de reforma politica	Law_Reference
+ley para la reforma política (españa)	Law_Reference
+norma penal en blanco	Law_Reference
+ley reguladora de la subcontratacion en el sector de la construccion	Law_Reference
+ley reguladora del derecho a la vivienda en andalucia	Law_Reference
+ley de estadounidenses minusvalidos de 1990	Law_Reference
+ley urbanistica valenciana	Law_Reference
+leyenda de la fundacion de madrid	Law_Reference
+leyenda del lago de sanabria	Law_Reference
+leyenda negra de la inquisicion espanola	Law_Reference
+leyendas del atletico de madrid	Law_Reference
+leyes raciales de núremberg	Law_Reference
+reglamento de desarrollo de la ley orgánica de protección de datos	Law_Reference
+reglamento lopd	Law_Reference
+rlopd	Law_Reference
+real decreto 1835/1991, de 20 de diciembre, sobre federaciones deportivas españolas y registro de asociaciones deportivas	Law_Reference
+real decreto ley	Law_Reference
+referéndum sobre la ley para la reforma politica	Law_Reference
+Constitución española de 1978	Law_Reference
+Constitución española de 1978	Law_Reference
+Constitución española de 1978	Law_Reference
+Constitución española de 1978	Law_Reference
+Ley 10/2014, de 26 de septiembre, de consultas populares no referendarias y otras formas de participación ciudadana	Law_Reference
+Ley 12/2015, de 24 de junio, en materia de concesión de la nacionalidad española a los sefardíes originarios de España	Law_Reference
+Ley 19/2017 del referéndum de autodeterminación de Cataluña	Law_Reference
+Ley 19/2017 del referéndum de autodeterminación de Cataluña	Law_Reference
+Ley antitabaco de España de 2006	Law_Reference
+Ley antitabaco de España de 2011	Law_Reference
+Ley Concursal	Law_Reference
+Ley Constitutiva de las Cortes	Law_Reference
+Ley de Acceso Electrónico de los Ciudadanos a los Servicios Públicos	Law_Reference
+Ley de Amnistía en España de 1977	Law_Reference
+Ley de Amnistía en España de 1977	Law_Reference
+Ley de Costas de España	Law_Reference
+Ley de Costas de España	Law_Reference
+Ley de Defensa de la República	Law_Reference
+Ley de dependencia	Law_Reference
+Ley de derechos y garantías de la dignidad de la persona en el proceso de la muerte	Law_Reference
+Ley de Economía Sostenible	Law_Reference
+Ley de educación de Andalucía	Law_Reference
+Ley de Evaluación de Impacto Ambiental	Law_Reference
+Ley de Integración de los inmigrantes	Law_Reference
+Ley de Lenguas de Aragón	Law_Reference
+Ley de Medidas sobre Urbanismo y Suelo de Castilla y León	Law_Reference
+Ley de Memoria Histórica de España	Law_Reference
+Ley de Memoria Histórica de España	Law_Reference
+Ley de Ordenación del Territorio de la Comunidad de Castilla y León	Law_Reference
+Ley de Ordenación Urbanística de Andalucía	Law_Reference
+Ley de Organización y Atribuciones de los Tribunales	Law_Reference
+Ley de Participación Ciudadana	Law_Reference
+Ley de Principios del Movimiento Nacional	Law_Reference
+Ley de Reforma Agraria de España de 1932	Law_Reference
+Ley de Responsabilidades Políticas	Law_Reference
+Ley de Santa María de Nieva	Law_Reference
+Ley de Símbolos de Navarra	Law_Reference
+Ley de transitoriedad jurídica y fundacional de la República	Law_Reference
+Ley de uso y enseñanza del valenciano	Law_Reference
+Ley de uso y promoción del asturiano	Law_Reference
+Ley de Veguerías de Cataluña	Law_Reference
+Ley del Referéndum Nacional	Law_Reference
+Ley del Suelo de la Región de Murcia	Law_Reference
+Ley del Tercer Canal de Televisión	Law_Reference
+Ley General de Educación (España)	Law_Reference
+Ley Moyano	Law_Reference
+Ley Ómnibus	Law_Reference
+Ley Orgánica	Law_Reference
+Ley Orgánica	Law_Reference
+Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación	Law_Reference
+Ley Orgánica 6/2002, de 27 de junio, de Partidos Políticos	Law_Reference
+Ley Orgánica de Armonización del Proceso Autonómico	Law_Reference
+Ley Orgánica de Educación	Law_Reference
+Ley Orgánica de Estabilidad Presupuestaria y Sostenibilidad Financiera	Law_Reference
+Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género	Law_Reference
+Ley Orgánica de Ordenación General del Sistema Educativo de España	Law_Reference
+Ley Orgánica de Protección de Datos de Carácter Personal de España	Law_Reference
+Ley orgánica de protección de la seguridad ciudadana (2015)	Law_Reference
+Ley Orgánica de Transferencias Complementarias a Canarias	Law_Reference
+Ley Orgánica de Universidades	Law_Reference
+Ley Orgánica del Estado	Law_Reference
+Ley Orgánica para la Mejora de la Calidad Educativa	Law_Reference
+Ley Paccionada Navarra	Law_Reference
+Ley para la igualdad efectiva de mujeres y hombres	Law_Reference
+Ley para la Reforma Política	Law_Reference
+Ley penal en blanco	Law_Reference
+Ley Reguladora de la Subcontratación en el Sector de la Construcción	Law_Reference
+Ley reguladora del Derecho a la vivienda en Andalucía	Law_Reference
+Ley sobre Estadounidenses con Discapacidades de 1990	Law_Reference
+Ley Urbanística Valenciana	Law_Reference
+Leyenda de la fundación de Madrid	Law_Reference
+Leyenda del lago de Sanabria	Law_Reference
+Leyenda negra de la Inquisición española	Law_Reference
+Leyendas del Atlético de Madrid	Law_Reference
+Leyes de Núremberg	Law_Reference
+Real Decreto 1720/2007, de 21 de Diciembre de desarrollo de la Ley Orgánica de Protección de Datos	Law_Reference
+Real Decreto 1835/1991, de 20 de diciembre, sobre Federaciones deportivas españolas	Law_Reference
+Real Decreto-ley	Law_Reference
+Referéndum sobre la Ley para la Reforma Política	Law_Reference
+Ley del Suelo (España)	Law_Reference
+Ley del Suelo (España)	Law_Reference
+Ley para la Reforma Politica (España)	Law_Reference
+Ley Organica General del Sistema Educativo (España)	Law_Reference
+Ley Integral contra la violencia de género	Law_Reference
+Ley de Dependencia (España)	Law_Reference
+Ley Orgánica del Estado de 1967	Law_Reference
+Ley antiterrorista española	Law_Reference
+Ley de Navegación Aérea	Law_Reference
+Ley Hipotecaria (España)	Law_Reference
+Ley Orgánica de Protección de Datos de Carácter Personal de España	Law_Reference
+Legislación española de consumidores y usuarios	Law_Reference
+Ley de Amnistía en España de 1977	Law_Reference
+Ley Orgánica de Calidad de la Educación	Law_Reference
+Reforma laboral en España en 2010	Law_Reference
+Ley de Navegación Aérea	Law_Reference
+Ley de Amnistía en España de 1977	Law_Reference
+Ley General de Sanidad	Law_Reference
+Ley del Suelo de España	Law_Reference
+Ley del Suelo de España	Law_Reference
+Ley de Ordenación de la Edificación de España	Law_Reference
+Ley de Grandes Ciudades de España	Law_Reference
+Ley Orgánica de Educación (España)	Law_Reference
+Ley de Ordenación Urbanística de Andalucía	Law_Reference
+Ley Hipotecaria (España)	Law_Reference
+Ley del Suelo de España	Law_Reference
+Ley de Evaluación de Impacto Ambiental (España)	Law_Reference
+Ley de Economía Sostenible	Law_Reference
+Ley Orgánica de derechos y deberes de los miembros de las Fuerzas Armadas de España	Law_Reference
+Ley de Servicios de la Sociedad de Información de España	Law_Reference
+Ley Hipotecaria (España)	Law_Reference
+Mercado de valores	Law_Reference
+Procedimiento administrativo	Law_Reference
+Presupuesto público	Law_Reference
+Ley Hipotecaria (España)	Law_Reference
+Ley General de Educación (España)	Law_Reference
+Ley Hipotecaria (España)	Law_Reference
+Ley Orgánica de Protección de Datos de Carácter Personal de España	Law_Reference
+Ley Orgánica de Protección de Datos de Carácter Personal de España	Law_Reference
+Ley de Reforma Agraria de España de 1932	Law_Reference
+Ley de Sucesión en la Jefatura del Estado	Law_Reference
+Ley de Sucesión en la Jefatura del Estado	Law_Reference
+Ley de Navegación Aérea	Law_Reference
+Legislación electoral española	Law_Reference
+Ley antitabaco de España de 2011	Law_Reference
+Reforma laboral en España en 2010	Law_Reference
+Administración General del Estado	Law_Reference
+Ley Hipotecaria (España)	Law_Reference
+Ley del Suelo de España	Law_Reference
+Ley del Suelo de España	Law_Reference
+Ley para la Reforma Política	Law_Reference
+Ley Orgánica de Ordenación General del Sistema Educativo de España	Law_Reference
+Violencia contra la mujer	Law_Reference
+Ley de dependencia	Law_Reference
+Ley Orgánica del Estado	Law_Reference
+Legislación antiterrorista española	Law_Reference

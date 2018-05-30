@@ -1,0 +1,9 @@
+[[CoreNLP,  Law_Reference
+, [CoreNLP,  Law_Reference
+, [IxaPipe, ORG
+, [GateNLP, Person
+, [CoreNLP,  Governemental_Institution
+, [OpenNLP,  Law_Reference
+, [CoreNLP,  TITLE
+, [CoreNLP,  PERSON
+, [IxaPipe, PER

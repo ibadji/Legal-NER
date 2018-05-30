@@ -1,0 +1,118 @@
+http://es.dbpedia.org/sparql
+Gets all the same as, their labels, redirects and its labels for uris starting with Ley
+
+Run on dbpedia
+
+FOR THE EXTERNAL LINKS
+
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/resource/>
+PREFIX owl:<http://www.w3.org/2002/07/owl#>
+SELECT ?uri ?label ?redirect ?redirect_lable ?external_redirect #?sameAs_label ?sameAs_link
+WHERE {
+?uri rdfs:label ?label.
+FILTER regex( ?uri, "http://es.dbpedia.org/resource/Ley" )
+#?sameAs_link  (owl:sameAs|^owl:sameAs) ?uri.
+#?sameAs_link  rdfs:label ?sameAs_label.
+?uri dbo:wikiPageRedirects ?redirect.
+?redirect rdfs:label ?redirect_lable.
+?redirect dbo:wikiPageExternalLink ?external_redirect
+FILTER regex( ?external_redirect, "http://www.boe.es" )
+}
+
+FOR THE SAME AS
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/resource/>
+PREFIX owl:<http://www.w3.org/2002/07/owl#>
+SELECT ?uri ?label ?sameAs_link ?redirect #?redirect_lable ?sameAs_label ?external_redirect
+WHERE {
+?uri rdfs:label ?label.
+FILTER regex( ?uri, "http://es.dbpedia.org/resource/Ley" )
+?sameAs_link  (owl:sameAs|^owl:sameAs) ?uri.
+#?sameAs_link  rdfs:label ?sameAs_label.
+?uri dbo:wikiPageRedirects ?redirect.
+#?redirect rdfs:label ?redirect_lable.
+#?redirect dbo:wikiPageExternalLink ?external_redirect
+#FILTER regex( ?external_redirect, "http://www.boe.es" )
+}
+
+WITH ALL 
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/resource/>
+PREFIX owl:<http://www.w3.org/2002/07/owl#>
+SELECT ?uri ?label ?sameAs_link ?redirect ?redirect_lable  ?external_redirect
+WHERE {
+?uri rdfs:label ?label.
+FILTER regex( ?uri, "http://es.dbpedia.org/resource/Ley" )
+?sameAs_link  (owl:sameAs|^owl:sameAs) ?uri.
+#?sameAs_link  rdfs:label ?sameAs_label.
+?uri dbo:wikiPageRedirects ?redirect.
+?redirect rdfs:label ?redirect_lable.
+?redirect dbo:wikiPageExternalLink ?external_redirect
+FILTER regex( ?external_redirect, "http://www.boe.es" )
+}
+
+
+
+
+Run on Wikidata
+
+
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT DISTINCT ?item ?label ?cosa ?link ?URL ?p WHERE {
+
+#BOE
+  ?item wdt:P1433 wd:Q2029273.
+ ?item rdfs:label ?label.
+  ?item skos:altLabel ?cosa.
+  FILTER((LANG(?cosa)) = "es")
+  FILTER((LANG(?label)) = "es")
+
+#Instance of law
+?item wdt:P31 wd:Q7748.
+?item rdfs:label ?label.
+  ?item skos:altLabel ?cosa.
+  FILTER regex( ?label, "(Ley|ley)+" )
+  FILTER((LANG(?cosa)) = "es")
+  FILTER((LANG(?label)) = "es")
+ 
+#Jurisdiction
+  ?item wdt:P1001 wd:Q29.
+  ?item rdfs:label ?label.
+  ?item skos:altLabel ?cosa.
+  FILTER regex( ?label, "(Ley|ley)+" )
+  FILTER((LANG(?cosa)) = "es")
+  FILTER((LANG(?label)) = "es")
+
+#legislation
+  ?item wdt:P31 wd:Q49371.
+  ?item wdt:P17 wd:Q29.
+  ?item rdfs:label ?label.
+  ?item skos:altLabel ?cosa.
+  FILTER((LANG(?cosa)) = "es")
+  FILTER((LANG(?label)) = "es")
+
+#Country Spain
+  ?item wdt:P17 wd:Q29.
+  ?item rdfs:label ?label.
+  ?item skos:altLabel ?cosa.
+  FILTER regex( ?label, "(Ley|ley)+" )
+  FILTER((LANG(?cosa)) = "es")
+  FILTER((LANG(?label)) = "es")
+
+#Catalunia
+  ?item wdt:P1001 wd:Q5705.
+  ?item rdfs:label ?label.
+  ?item skos:altLabel ?cosa.
+  FILTER(REGEX(?label, "(Ley|ley)+"))
+  FILTER((LANG(?cosa)) = "es")
+  FILTER((LANG(?label)) = "es")
+
+  OPTIONAL { ?item wdt:P953 ?link. }
+  OPTIONAL { ?item wdt:P2699 ?URL. }
+  OPTIONAL { ?item wdt:P1433 ?p. }
+
+}

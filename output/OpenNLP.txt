@@ -1,0 +1,14 @@
+Article   :  [4..5) organization
+European Parliament   :  [103..105) organization
+The Council   :  [226..228) organization
+European Union   :  [230..232) organization
+European Parliament   :  [103..105) Law_Reference
+European Union   :  [230..232) Law_Reference
+The Council   :  [226..228) Law_Reference
+European Parliament   :  [103..105) Law_Reference
+European Union   :  [230..232) Law_Reference
+The Council   :  [226..228) Law_Reference
+European Parliament   :  [103..105) Law_Reference
+European Union   :  [230..232) Law_Reference
+The Council   :  [226..228) Law_Reference
+TFEU   :  [6..7) Law_Reference

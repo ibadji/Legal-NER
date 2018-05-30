@@ -1,0 +1,242 @@
+Article [0-9]{0,4}	Law_Reference
+[No][0-9]{4}/[0-9]{0,4}/EC	Law_Reference
+[0-9]{4}/[0-9]{0,4}/EC	Law_Reference
+(EC) [No][0-9]{4}/[0-9]{0,4}	Law_Reference
+(EC) [0-9]{4}/[0-9]{0,4}	Law_Reference
+[a-zA-Z] [0-9]{4}/[0-9]{0,4}	Law_Reference
+OJ [a-zA-Z] [0-9]{0,4}	Law_Reference
+OJ [0-9]{4} [a-zA-Z] [0-9]{0,4}	Law_Reference
+[0-9]{4}/[a-zA-Z] [0-9]{0,4}/[0-9]{0,4}	Law_Reference
+[a-zA-Z]:[0-9]{4}:[0-9]{0,4}:[0-9]{0,4}	Law_Reference
+EU:[a-zA-Z]:[0-9]{4}:[0-9]{0,4}	Law_Reference
+[a-zA-Z]-[0-9]{0,4}/[0-9]{0,4}	Law_Reference
+[a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}	Law_Reference
+Court of First Instance	Governemental_Institution
+Common Foreign and Security Policy	Governemental_Institution
+Court of Justice of the European Union	Governemental_Institution
+Court of Justice	Governemental_Institution
+The Committee of the Regions	Governemental_Institution
+Committee of the Regions	Governemental_Institution
+European Commission	Governemental_Institution
+European Court of Auditors	Governemental_Institution
+European Central Bank	Governemental_Institution
+European Court of Justice	Governemental_Institution
+European Coal and Steel Community	Governemental_Institution
+European Economic Area	Governemental_Institution
+European Economic Committee	Governemental_Institution
+European Free Trade Association	Governemental_Institution
+European Parliament	Governemental_Institution
+The Economic and Social Committee	Governemental_Institution
+European Economic and Social Committee	Governemental_Institution
+European Union	Governemental_Institution
+European Atomic Energy Community	Governemental_Institution
+Official Journal	Governemental_Institution
+Staff and joint staff working documents	Governemental_Institution
+Treaty on the Functioning of the European Union	Governemental_Institution
+Council of the European Union	Governemental_Institution
+The Council	Governemental_Institution
+Council of Ministers	Governemental_Institution
+The European Council	Governemental_Institution
+Civil Service Tribunal	Governemental_Institution
+Court of Appeal	Governemental_Institution
+court of first instance	Governemental_Institution
+common foreign and security policy	Governemental_Institution
+court of justice of the european union	Governemental_Institution
+the committee of the regions	Governemental_Institution
+committee of the regions	Governemental_Institution
+european commission	Governemental_Institution
+european court of auditors	Governemental_Institution
+european central bank	Governemental_Institution
+european court of justice	Governemental_Institution
+european coal and steel community	Governemental_Institution
+european economic area	Governemental_Institution
+european economic committee	Governemental_Institution
+european free trade association	Governemental_Institution
+european parliament	Governemental_Institution
+the economic and social committee	Governemental_Institution
+european economic and social committee	Governemental_Institution
+european union	Governemental_Institution
+european atomic energy community	Governemental_Institution
+official journal	Governemental_Institution
+staff and joint staff working documents	Governemental_Institution
+treaty on the functioning of the european union	Governemental_Institution
+council of the european union	Governemental_Institution
+the council	Governemental_Institution
+council of ministers	Governemental_Institution
+the european council	Governemental_Institution
+civil service tribunal	Governemental_Institution
+court of appeal	Governemental_Institution
+COURT OF FIRST INSTANCE	Governemental_Institution
+COMMON FOREIGN AND SECURITY POLICY	Governemental_Institution
+COURT OF JUSTICE OF THE EUROPEAN UNION	Governemental_Institution
+COURT OF JUSTICE	Governemental_Institution
+THE COMMITTEE OF THE REGIONS	Governemental_Institution
+COMMITTEE OF THE REGIONS	Governemental_Institution
+EUROPEAN COMMISSION	Governemental_Institution
+EUROPEAN COURT OF AUDITORS	Governemental_Institution
+EUROPEAN CENTRAL BANK	Governemental_Institution
+EUROPEAN COURT OF JUSTICE	Governemental_Institution
+EUROPEAN COAL AND STEEL COMMUNITY	Governemental_Institution
+EUROPEAN ECONOMIC AREA	Governemental_Institution
+EUROPEAN ECONOMIC COMMITTEE	Governemental_Institution
+EUROPEAN FREE TRADE ASSOCIATION	Governemental_Institution
+EUROPEAN PARLIAMENT	Governemental_Institution
+THE ECONOMIC AND SOCIAL COMMITTEE	Governemental_Institution
+EUROPEAN ECONOMIC AND SOCIAL COMMITTEE	Governemental_Institution
+EUROPEAN UNION	Governemental_Institution
+EUROPEAN ATOMIC ENERGY COMMUNITY	Governemental_Institution
+OFFICIAL JOURNAL	Governemental_Institution
+STAFF AND JOINT STAFF WORKING DOCUMENTS	Governemental_Institution
+TREATY ON THE FUNCTIONING OF THE EUROPEAN UNION	Governemental_Institution
+COUNCIL OF THE EUROPEAN UNION	Governemental_Institution
+THE COUNCIL	Governemental_Institution
+COUNCIL OF MINISTERS	Governemental_Institution
+THE EUROPEAN COUNCIL	Governemental_Institution
+CIVIL SERVICE TRIBUNAL	Governemental_Institution
+COURT OF APPEAL	Governemental_Institution
+CFI	Abreviation
+CFSP	Abreviation
+CJEU	Abreviation
+CoR	Abreviation
+EC	Abreviation
+ECA	Abreviation
+ECB	Abreviation
+ECJ	Abreviation
+ECSC	Abreviation
+EEA	Abreviation
+EEC	Abreviation
+EFTA	Abreviation
+EP	Abreviation
+ESC	Abreviation
+EESC	Abreviation
+EU	Abreviation
+EAEC	Abreviation
+EURATOM	Abreviation
+OJ	Abreviation
+SEC	Abreviation
+SWD	Abreviation
+TFEU	Abreviation
+Abkhaz	Language
+Adyghe	Language
+Albanian	Language
+Aragonese	Language
+Arbëresh	Language
+Armenian	Language
+Aromanian	Language
+Asturian (Astur-Leonese)	Language
+Austro-Bavarian	Language
+Avar	Language
+Azerbaijani	Language
+Bashkir	Language
+Basque	Language
+Belarusian	Language
+Bosnian	Language
+Breton	Language
+Bulgarian	Language
+Catalan	Language
+Chechen	Language
+Chuvash	Language
+Cimbrian	Language
+Cornish	Language
+Corsican	Language
+Crimean Tatar	Language
+Croatian	Language
+Czech	Language
+Danish	Language
+Dutch	Language
+English	Language
+Erzya	Language
+Estonian	Language
+Extremaduran	Language
+Faroese	Language
+Finnish	Language
+Franco-Provençal (Arpitan)	Language
+French	Language
+Frisian	Language
+Gagauz	Language
+Galician	Language
+Georgian	Language
+German	Language
+Greek	Language
+Hungarian	Language
+Icelandic	Language
+Ingrian	Language
+Ingush	Language
+Irish	Language
+Istriot	Language
+Istro-Romanian	Language
+Italian	Language
+Italiot Greek	Language
+Judaeo-Spanish (Ladino)	Language
+Judeo-Italian	Language
+Kabardian	Language
+Kalmyk	Language
+Karachay-Balkar	Language
+Karelian	Language
+Kashubian	Language
+Kazakh	Language
+Komi	Language
+Latin	Language
+Latvian	Language
+Ligurian	Language
+Lithuanian	Language
+Lombard	Language
+Low German	Language
+Luxembourgish	Language
+Macedonian	Language
+Mainfränkisch	Language
+Maltese	Language
+Manx	Language
+Mari	Language
+Megleno-Romanian	Language
+Mirandese	Language
+Moksha	Language
+Neapolitan	Language
+Nenets	Language
+Norman	Language
+Norwegian	Language
+Occitan	Language
+Ossetian	Language
+Palatinate German	Language
+Picard	Language
+Piedmontese	Language
+Polish	Language
+Portuguese	Language
+Rhaeto-Romance	Language
+Ripuarian (Platt)	Language
+Romani	Language
+Romanian	Language
+Russian	Language
+Sami	Language
+Sardinian	Language
+Scots	Language
+Scottish Gaelic	Language
+Serbian	Language
+Sicilian	Language
+Silesian	Language
+Silesian German	Language
+Slovak	Language
+Slovene	Language
+Sorbian	Language
+Wendish	Language
+Spanish	Language
+Castilian	Language
+Swabian German	Language
+Swedish	Language
+Swiss German	Language
+Tabasaran	Language
+Tat	Language
+Tatar	Language
+Turkish	Language
+Udmurt	Language
+Ukrainian	Language
+Upper Saxon	Language
+Venetian	Language
+Vepsian	Language
+Voro	Language
+Walloon	Language
+Walser German	Language
+Welsh	Language
+Wymysorys	Language
+Yenish	Language
+Yiddish	Language

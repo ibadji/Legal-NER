@@ -1,0 +1,242 @@
+﻿article\s[0-9]{0,5}
+[No][0-9]{4}/[0-9]{0,4}/EC
+[0-9]{4}/[0-9]{0,4}/EC
+(EC) [No][0-9]{4}/[0-9]{0,4}
+(EC) [0-9]{4}/[0-9]{0,4}
+[a-zA-Z] [0-9]{4}/[0-9]{0,4}
+OJ [a-zA-Z] [0-9]{0,4}
+OJ [0-9]{4} [a-zA-Z] [0-9]{0,4}
+[0-9]{4}/[a-zA-Z] [0-9]{0,4}/[0-9]{0,4}
+[a-zA-Z]:[0-9]{4}:[0-9]{0,4}:[0-9]{0,4}
+EU:[a-zA-Z]:[0-9]{4}:[0-9]{0,4}
+[a-zA-Z]-[0-9]{0,4}/[0-9]{0,4}
+[a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}
+Court of First Instance
+Common Foreign and Security Policy
+Court of Justice of the European Union
+Court of Justice
+The Committee of the Regions
+Committee of the Regions
+European Commission
+European Court of Auditors
+European Central Bank
+European Court of Justice
+European Coal and Steel Community
+European Economic Area
+European Economic Committee
+European Free Trade Association
+European Parliament
+The Economic and Social Committee 
+European Economic and Social Committee
+European Union
+European Atomic Energy Community
+Official Journal
+Staff and joint staff working documents
+Treaty on the Functioning of the European Union
+Council of the European Union  
+The Council
+Council of Ministers
+The European Council
+Civil Service Tribunal 
+Court of Appeal
+court of first instance
+common foreign and security policy
+court of justice of the european union
+the committee of the regions
+committee of the regions
+european commission
+european court of auditors
+european central bank
+european court of justice
+european coal and steel community
+european economic area
+european economic committee
+european free trade association
+european parliament
+the economic and social committee 
+european economic and social committee
+european union
+european atomic energy community
+official journal
+staff and joint staff working documents
+treaty on the functioning of the european union
+council of the european union  
+the council
+council of ministers
+the european council
+civil service tribunal 
+court of appeal 
+COURT OF FIRST INSTANCE
+COMMON FOREIGN AND SECURITY POLICY
+COURT OF JUSTICE OF THE EUROPEAN UNION
+COURT OF JUSTICE
+THE COMMITTEE OF THE REGIONS
+COMMITTEE OF THE REGIONS
+EUROPEAN COMMISSION
+EUROPEAN COURT OF AUDITORS
+EUROPEAN CENTRAL BANK
+EUROPEAN COURT OF JUSTICE
+EUROPEAN COAL AND STEEL COMMUNITY
+EUROPEAN ECONOMIC AREA
+EUROPEAN ECONOMIC COMMITTEE
+EUROPEAN FREE TRADE ASSOCIATION
+EUROPEAN PARLIAMENT
+THE ECONOMIC AND SOCIAL COMMITTEE 
+EUROPEAN ECONOMIC AND SOCIAL COMMITTEE
+EUROPEAN UNION
+EUROPEAN ATOMIC ENERGY COMMUNITY
+OFFICIAL JOURNAL
+STAFF AND JOINT STAFF WORKING DOCUMENTS
+TREATY ON THE FUNCTIONING OF THE EUROPEAN UNION
+COUNCIL OF THE EUROPEAN UNION  
+THE COUNCIL
+COUNCIL OF MINISTERS
+THE EUROPEAN COUNCIL
+CIVIL SERVICE TRIBUNAL 
+COURT OF APPEAL 
+CFI
+CFSP
+CJEU
+CoR
+EC
+ECA
+ECB
+ECJ
+ECSC
+EEA
+EEC
+EFTA
+EP
+ESC
+EESC
+EU
+EAEC
+EURATOM
+OJ
+SEC
+SWD
+TFEU
+Abkhaz
+Adyghe
+Albanian
+Aragonese
+Arbëresh
+Armenian
+Aromanian
+Asturian (Astur-Leonese)
+Austro-Bavarian
+Avar
+Azerbaijani
+Bashkir
+Basque
+Belarusian
+Bosnian
+Breton
+Bulgarian
+Catalan
+Chechen
+Chuvash
+Cimbrian
+Cornish
+Corsican
+Crimean Tatar
+Croatian
+Czech
+Danish
+Dutch
+English
+Erzya
+Estonian
+Extremaduran
+Faroese
+Finnish
+Franco-Provençal (Arpitan)
+French
+Frisian
+Gagauz
+Galician
+Georgian
+German
+Greek
+Hungarian
+Icelandic
+Ingrian
+Ingush
+Irish
+Istriot
+Istro-Romanian
+Italian
+Italiot Greek
+Judaeo-Spanish (Ladino)
+Judeo-Italian
+Kabardian
+Kalmyk
+Karachay-Balkar
+Karelian
+Kashubian
+Kazakh
+Komi
+Latin
+Latvian
+Ligurian
+Lithuanian
+Lombard
+Low German (Low Saxon)
+Luxembourgish
+Macedonian
+Mainfränkisch
+Maltese
+Manx
+Mari
+Megleno-Romanian
+Mirandese
+Moksha
+Neapolitan
+Nenets
+Norman
+Norwegian
+Occitan
+Ossetian
+Palatinate German
+Picard
+Piedmontese
+Polish
+Portuguese
+Rhaeto-Romance
+Ripuarian (Platt)
+Romani
+Romanian
+Russian
+Sami
+Sardinian
+Scots
+Scottish Gaelic
+Serbian
+Sicilian
+Silesian
+Silesian German
+Slovak
+Slovene
+Sorbian
+Wendish
+Spanish
+Castilian
+Swabian German
+Swedish
+Swiss German
+Tabasaran
+Tat
+Tatar
+Turkish
+Udmurt
+Ukrainian
+Upper Saxon
+Venetian
+Vepsian
+Voro
+Walloon
+Walser German
+Welsh
+Wymysorys
+Yenish
+Yiddish

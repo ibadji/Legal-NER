@@ -1,0 +1,8 @@
+EUR	ORG	
+European Parliament	ORG	
+Ms Myl	PER	
+Troszczynski	PER	
+EUR	ORG	
+EUR	ORG	
+Ms Troszczynksi	PER	
+European Union	ORG	

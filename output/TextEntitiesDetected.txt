@@ -1,0 +1,13 @@
+Article 9384       [CoreNLP,  Law_Reference]         =https://www.journals.elsevier.com/physiology-and-behavior/
+EUR      [IxaPipe, ORG]         h?q=EUR
+Ms Troszczynksi      [GateNLP, Person]         =https://eur-lex.europa.eu/legal-content/EN/TXT/%3Furi%3DCELEX%253A62017TB0148
+TFEU         [OpenNLP,  Law_Reference]         =http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/%3Furi%3DCELEX:12012E/TXT
+Ms Myl      [GateNLP, Person]         h?q=Ms+Myl
+Article 263       [CoreNLP,  Law_Reference]         =http://eur-lex.europa.eu/LexUriServ/LexUriServ.do%3Furi%3DCELEX:12008E263:EN:HTML
+European Union         [OpenNLP,  Law_Reference]         =http://europa.eu/
+Troszczynski      [IxaPipe, PER]         =http://www.europarl.europa.eu/meps/es/124758/MYLENE_TROSZCZYNSKI_home.html
+European Parliament         [OpenNLP,  Law_Reference]         =http://www.europarl.europa.eu/
+her       [CoreNLP,  PERSON]         =https://es.wikipedia.org/wiki/Her
+Secretary General       [CoreNLP,  TITLE]         =https://en.wikipedia.org/wiki/Secretary-General_of_the_United_Nations
+The Council         [OpenNLP,  Law_Reference]         =http://www.thecouncil-game.com/
+Council of the European Union       [CoreNLP,  Governemental_Institution]         =https://en.wikipedia.org/wiki/Council_of_the_European_Union
