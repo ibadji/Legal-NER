@@ -37,9 +37,9 @@ public class OpenNLP {
     
     public static void main (String [] args) throws IOException{       
         String sentence = read.readFile("resources/inputText/test.txt");
-        runIt("spanish","",sentence);
+        runIt("spanish","",sentence,"rule");
     }
-    public static void runIt(String language, String regXLaw,String sentences) throws IOException
+    public static void runIt(String language, String regXLaw,String sentences,String Type) throws IOException
     {
         TokenizerModel="resources/Libraries and Properties/OpenNLP/en-token.bin";
         String [] tokens= tokenize(sentences);
@@ -56,10 +56,10 @@ public class OpenNLP {
         entities= namedEntityRecognition( tokens, writer);   
         
         Map<String, Pattern[]> regexMap = new HashMap<>();
-        regexMap.put("Law_Reference", readFileRegx("resources/RegXRules/regx-OpenNLP-"+language+".txt"));
+        regexMap.put("Law_Reference", readFileRegx("resources/RegXRules/regx-OpenNLP-"+Type+"-"+language+".txt"));
 
-            RegexNameFinder finder = new RegexNameFinder(regexMap);
-            Span[] result = finder.find(tokens);
+        RegexNameFinder finder = new RegexNameFinder(regexMap);
+        Span[] result = finder.find(tokens);
 
             // nameSpans contain all the possible entities detected
             for(Span s: result){

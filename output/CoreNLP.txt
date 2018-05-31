@@ -1,7 +1,5 @@
-Council of the European Union : Governemental_Institution
-European Parliament : Governemental_Institution
+European : NATIONALITY
 Article 9384 : Law_Reference
-TFEU : Abreviation
 Article 263 : Law_Reference
 her : PERSON
 Secretary General : TITLE

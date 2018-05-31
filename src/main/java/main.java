@@ -33,26 +33,27 @@ public class main {
         String text = "resources/inputText/test-english.txt";
         String sentence = read.readFile(text);
         String Language = ENGLISH;
-             
-            OpenNLP open = new OpenNLP();
-            open. runIt(Language,"",sentence);
+        String Type = "rule";// can be rule, nickname or other for spanish or rule and other for english
+        
+        OpenNLP open = new OpenNLP();
+        open. runIt(Language,"",sentence,Type);
 
-            CoreNLP core = new CoreNLP();
-            core.regX(sentence,Language);
+        CoreNLP core = new CoreNLP();
+        core.regX(sentence,Language,Type);
 
  
-           IxaPipe exec= new IxaPipe();
-           exec.initProperties(Language);        
-           exec.findEntities(sentence);
+        IxaPipe exec= new IxaPipe();
+        exec.initProperties(Language);        
+        exec.findEntities(sentence);
            
-            if (Language == "english")
-            {
-                GateNER gate = new GateNER();
-                gate.init(sentence);
-            }
+        if (Language == "english")
+        {
+            GateNER gate = new GateNER();
+            gate.init(sentence);
+        }
   
-        Combine combine = new Combine();
-        combine.filter(text);
+        //Combine combine = new Combine();
+        //combine.filter(text);
             
        //Assess Outputs
     }

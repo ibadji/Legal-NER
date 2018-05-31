@@ -92,6 +92,8 @@ public class Combine {
         priority.put("other",4);
         priority.put("OTH",4);
         priority.put("OTROS",4);
+        priority.put("NATIONALITY",4);
+
         
         color.put("Law_Reference","#00FF00");
         color.put("Abreviation","#0000FF");
@@ -121,7 +123,9 @@ public class Combine {
         color.put("MISC","#01D0FF");
         color.put("other","#E56FFE");
         color.put("OTH","#E56FFE");
-        color.put("OTROS","#E56FFE");
+        color.put("OTROS","#E56FFE"); 
+        color.put("NATIONALITY","#E56FFE");
+                
     }
     public static void filter(String text) throws IOException
     {
@@ -175,7 +179,6 @@ public class Combine {
                 List<String> p1 = outputList.get(array[i]);
                 List<String> p2 = outputList.get(array[j]);
                 //found a similar dup
-
                 if(array[i].contains(array[j]) && priority.get(p1.get(1).toString().trim()) < priority.get(p2.get(1).toString().trim()))
                 {  
                     todelete.put(array[j], p2);                     
@@ -279,8 +282,7 @@ public class Combine {
          t.color(Color.decode(color.get(value.trim())), key.trim());
          t1.color(Color.decode(color.get(value.trim())), value.trim());
          Link link = new Link();
-         //if(value == "LAW")
-            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLink(mentry.getKey().toString()));       
+         writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLink(mentry.getKey().toString()));       
       }
         writer2.close();
         

@@ -41,7 +41,7 @@ public class CoreNLP {
 
     public static void main(String[] args) throws FileNotFoundException, IOException, ParseException, TokenSequenceParseException, ClassNotFoundException {
         String sentence = read.readFile("resources/inputText/test.txt");
-        regX(sentence,"spanish");
+        regX(sentence,"spanish","rule");
         
         //XMLinline tagginwith no regx
         //doTagging(getModel("resources/spanish.ancora.distsim.s512.crf.ser.gz"), "resources/test.txt");
@@ -51,9 +51,9 @@ public class CoreNLP {
 
     }
  
-    public static void regX(String text, String language) throws IOException, ParseException, TokenSequenceParseException 
+    public static void regX(String text, String language, String type) throws IOException, ParseException, TokenSequenceParseException 
     {
-        String rulesFile = "resources/RegXRules/regx-CoreNLP-"+language+".rules";
+        String rulesFile = "resources/RegXRules/regx-CoreNLP-"+type+"-"+language+".rules";
         Properties props = StringUtils.argsToProperties(new String[]{"-props", "resources/Libraries and Properties/CoreNLP/"+language+".properties"});
         props.put("annotators", "tokenize, ssplit, pos, lemma, ner,regexner,entitymentions");
         //props.setProperty("regexner.caseInsensitive", "true");

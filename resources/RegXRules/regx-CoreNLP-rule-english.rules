@@ -1,0 +1,13 @@
+Article [0-9]{0,4}	Law_Reference
+[No][0-9]{4}/[0-9]{0,4}/EC	Law_Reference
+[0-9]{4}/[0-9]{0,4}/EC	Law_Reference
+(EC) [No][0-9]{4}/[0-9]{0,4}	Law_Reference
+(EC) [0-9]{4}/[0-9]{0,4}	Law_Reference
+[a-zA-Z] [0-9]{4}/[0-9]{0,4}	Law_Reference
+OJ [a-zA-Z] [0-9]{0,4}	Law_Reference
+OJ [0-9]{4} [a-zA-Z] [0-9]{0,4}	Law_Reference
+[0-9]{4}/[a-zA-Z] [0-9]{0,4}/[0-9]{0,4}	Law_Reference
+[a-zA-Z]:[0-9]{4}:[0-9]{0,4}:[0-9]{0,4}	Law_Reference
+EU:[a-zA-Z]:[0-9]{4}:[0-9]{0,4}	Law_Reference
+[a-zA-Z]-[0-9]{0,4}/[0-9]{0,4}	Law_Reference
+[a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}	Law_Reference

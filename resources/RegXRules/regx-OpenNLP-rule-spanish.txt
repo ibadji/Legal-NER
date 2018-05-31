@@ -1,0 +1,25 @@
+﻿(TUE|trado) /[0-9]{4}
+(STEDH|STJUE|RUAM,|RUAM) de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}	
+(STS|STC|Tribunal) [0-9]{1,5}/[0-9]{4} de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)	
+artículo\s[0-9]{0,5}.[0-9]{0,5}
+artículo\s[0-9]{0,5}.[a-zA-Z]{1}
+artículos\s[0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5}[0-9]{0,5},\s[0-9]{0,5}\s[a-zA-Z]\s[0-9]{0,5}
+(art.|artículo|artículos|ART.) [0-9]{0,5} (CE|LRJSP)	
+CE\w[0-9]{4}
+CE-[0-9]{1,7}-[0-9]{1,5}
+(LRJSP|RDL) [0-9]{1,5}/[0-9]{4}
+Ley [0-9]{1,5}/[0-9]{1,5}
+(Dir.|Directiva|dir.) [0-9]{1,5}.[0-9]{1,5}
+(Rec|rec.|Recurso) [0-9]{0,5}.[0-9]{0,5}
+(R|Reglamento)(UE) nº [0-9]{1,5}/[0-9]{4}
+(R|Reglamento)(UE) [0-9]{1,5}/[0-9]{4}
+(Dec|Decreto|dec) no [0-9]{4}/[0-9]{1,5}/UE
+(Dec|Decreto|dec) [0-9]{4}/[0-9]{1,5}/UE
+(O.|O|Orden) PRA/[0-9]{1,5}/[0-9]{4}
+(Dict|Dictamen) CES	
+sentencia [0-9]{1,5}/[0-9]{1,5}	
+sentencia de [0-9]{1,5}/[0-9]{1,5}	
+sentencia de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}
+sentencia de (\w+) [0-9]{1,5}/[0-9]{1,5}	
+sentencia nº [0-9]{1,5}/[0-9]{1,5}	
+(Apelación|ordinario) [0-9]{1,5}/[0-9]{4}

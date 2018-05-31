@@ -1,0 +1,903 @@
+A-RES
+AHDE
+AJEC
+AP
+ATCu
+ATS
+ATSJ
+BCE
+BIMJ
+BJC
+BOCG
+BOE
+BOP
+BORME
+CC
+CCEO
+CCom
+CD
+CE
+CEAL
+CEC
+CECA
+CEDH
+CEE
+CEEA
+CGPJ
+CIC
+CMNUCC
+CNMV
+CP
+CP-1973
+CPM
+CR
+CVDT
+DC
+DGRN
+DH
+DIT
+DOCE
+DOUE
+DSS
+DUDH
+EAA
+EAAR
+EAAS
+EAC
+EACAN
+EACANT
+EACE
+EACLM
+EACM
+EACV
+EACYL
+EAEX
+EAG
+EAIB
+EAME
+EAMU
+EAPV
+EAR
+EBEP
+ET
+FJ
+LABE
+LAC
+LAECSP
+LAIE
+LAR
+LARH
+LAU
+LCon
+LC
+LCa
+LCA
+LCAFB
+LCAT
+LCCH
+LCCR
+LCCSNS
+LCD
+LCENFFS
+LCGC
+LCOOP
+LCP
+LCPE
+LCS
+LCSP
+LCVFL
+LCZ
+LD
+LDA
+LDC
+LDIC
+LDIEC
+LDPD
+LEC
+LEC-1881
+LECrim
+LEF
+LEOMF
+LETT
+LF
+LFCE
+LFN
+LG
+LGDCU
+LGP
+LGP-1988
+LGPub
+LGSa
+LGSS
+LGSu
+LGT
+LGT-1963
+LGTEL
+LH
+LHMPSD
+LHN
+LI
+LIIC
+LIS
+LIS-1995
+LISD
+LISMI
+LISOS
+LIT
+LITN
+LITP
+LIVA
+LJCA
+LJCA-1956
+LM
+LMo
+LMAD
+LMI
+LMMGL
+LMRFP
+LMV
+LN
+LNA
+LOCE
+LOCEs
+LOCJ
+LOCM
+LOCOJM
+LODE
+LODEPE
+LODN
+LODP
+LOE
+LOEd
+LOEX
+LOFAGE
+LOFCA
+LOFCS
+LOGP
+LOI
+LOLR
+LOLS
+LOMCE
+LOPDCP
+LOPJ
+LOPP
+LOPSC
+LORAFNA
+LORCA
+LORDFA
+LOREG
+LORIP
+LORPM
+LOSC
+LOSP
+LOSSEC
+LOSSP
+LOTC
+LOTCU
+LOTJ
+LOTT
+LOU
+LOVG
+LP
+LPA
+LPAC
+LPAP
+LPEMM
+LPH
+LPHE
+LPHN
+LPI
+LPL
+LPM
+LPN
+LPND
+LPRL
+LR
+LrBRL
+LRC
+LRCS
+LRJAE
+LRJPAC
+LRJS
+LRSAL
+LRSC
+LRJSP
+LS
+LSA
+LSC
+LSF
+LSGR
+LSH
+LSL
+LSP
+LSPU
+LSPU-1998
+LSRL
+LSSC
+LSSI
+LSV
+LTH
+LTSV
+LV
+LVP
+LVP-1974
+OEPM
+OICVM
+OM
+P
+PGC
+PIDESC
+PJ
+RA
+RAA
+RAC
+RAEIE
+RAMINP
+RAPA
+RBEL
+RBEL-1955
+RC
+RC-1989
+RCAP
+RCCL
+RCD
+RCDE
+RCGC
+RCPMHA
+RD
+RDCLV
+RDGRN
+RDLeg
+RDLey
+RDL
+RDLRT
+RDPH
+RDSAD
+RDU
+REF
+REFRS
+REPEPOS
+RFE
+RGC
+RGCE
+RGCir
+RGCond
+RGIPPT
+RGR
+RGRM
+RGU
+RGVeh
+RH
+RHL
+RIVA
+RLPD
+RLTAN
+RMo
+RM
+RO
+ROF
+ROFRJCL
+ROTT
+RP
+RPDEL
+RPEA
+RPFP
+RPI
+RPSan
+RPSTr
+RPU
+RRC
+RRM
+RRVA
+RS
+RSAAE
+RSCL
+RSE
+RSP
+SAN
+SAP
+SCIJ
+SCLV
+SCom
+SRL
+STC
+STJCE
+STJUE
+STS
+TC
+TCECA
+TCEE
+TCEEA, EURATOM
+TCEur
+TEDH
+TFUE
+TJCE
+TJUE
+TL
+TRLA
+TRLCAP
+TRLCI
+TRLCSP
+TRLGDPD
+TRLHL
+TRLIS
+TRLPEMM
+TRLS
+TRLSA
+TRRL
+TS
+TUE
+VM
+RUAM
+Dir
+Dec
+Rec
+Dict
+CES
+STC
+STS
+STEDH
+STJUE
+recurso de casación
+recurso extraordinario por infracción procesal
+recurso en interés de ley
+recurso de apelación
+Concursal
+recurso de suplicación
+recurso de casación para unificación de doctrina
+appeal for protection of fundamental rights
+Custom against legislation
+recurso en interés de la ley
+Boletín Oficial de la Junta de Andalucía
+Boletín Oficial de Aragón
+Boletín Oficial del Principado de Asturias
+Butlletí Oficial de la Comunitat Autònoma de les Illes Balears
+Boletín Oficial de Canarias
+Boletín Oficial de Cantabria
+Boletín Oficial de Castilla y León
+Diario Oficial de Castilla-La Mancha
+Diari Oficial de la Generalitat de Catalunya
+Diari Oficial de la Comunitat Valenciana
+Diario Oficial de la Junta de Extremadura
+Diario Oficial de Galicia
+Boletín Oficial de La Rioja
+Boletín Oficial de la Comunidad de Madrid
+Boletín Oficial de la Región de Murcia
+Boletín Oficial de Navarra
+Boletín Oficial del País Vasco
+Boletín Oficial de la Ciudad de Ceuta
+Boletín Oficial de la Ciudad Autónoma de Melilla
+Boletín de las Comunidades Europeas
+Boletín de Información del Ministerio de Justicia
+Boletín de Jurisprudencia Constitucional
+Boletín O?cial de las Cortes Generales
+Boletín O?cial del Estado
+Boletin Oficial de la Provincia
+Boletín O?cial del Registro Mercantil
+Almería
+Almería
+Cádiz
+Algeciras
+Arcos de la Frontera
+Cádiz
+Chiclana de la Frontera
+El Puerto de Santa María
+Jerez de la Frontera
+La Línea
+Puerto Real
+San Fernando
+Sanlúcar de Barrameda
+Córdoba
+Bujalance
+Cabra
+Córdoba
+Lucena
+Montilla
+Peñarroya-Pueblonuevo
+Priego de Córdoba
+Puente-Genil
+Granada
+Andújar
+Baza
+Granada
+Guadix
+Motril
+Huelva
+Huelva
+Jaén
+Jaén
+Linares
+Martos
+Úbeda
+Málaga
+Antequera
+Coín
+Málaga
+Melilla
+Ronda
+Sevilla
+Alcalá de Guadaira
+Carmona
+Dos Hermanas
+Ecija
+Lebrija
+Lora del Río
+Marchena
+Morón de la Frontera
+Osuna
+Sevilla
+Utrera
+Aragon
+Huesca
+Huesca
+Jaca
+Teruel
+Teruel
+Zaragoza
+Zaragoza
+Asturias
+Avilés
+Cabañaquinta
+Cangas de Narcea
+Covadonga
+Gijón
+Luarca
+Mieres
+Oviedo
+Pola de Siero
+San Martín del Rey Aurelio
+Tineo
+Villaviciosa
+Balearic Islands
+Palma
+Maó
+Basque Country
+Álava
+Vitoria-Gasteiz
+Guipúzcoa
+Donostia–San Sebastián
+Eibar
+Irun
+Vizcaya
+Barakaldo
+Bilbao
+Getxo
+Guernica
+Portugalete
+Santurtzi
+Sestao
+Canary Islands
+Las Palmas
+Arucas
+Las Palmas
+Telde
+Santa Cruz de Tenerife
+La Orotava
+Santa Cruz de Tenerife
+Cantabria
+Santander
+Torrelavega
+Castile–La Mancha
+Albacete
+Albacete
+Hellín
+Villarrobledo
+Ciudad Real
+Alcázar de San Juan
+Almadén
+Ciudad Real
+Puertollano
+Tomelloso
+Valdepeñas
+Cuenca
+Cuenca
+Guadalajara
+Guadalajara
+Toledo
+Talavera de la Reina
+Toledo
+Castile–León
+Ávila
+Ávila
+Burgos
+Burgos
+Miranda de Ebro
+León
+Astorga
+León
+Ponferrada
+Palencia
+Palencia
+Salamanca
+Ciudad Rodrigo
+Salamanca
+Segovia
+San Ildefonso
+Segovia
+Soria
+Soria
+Valladolid
+Simancas
+Valladolid
+Zamora
+Toro
+Zamora
+Catalonia
+Barcelona
+Badalona
+Barcelona
+Cornellà
+Granollers
+L’Hospitalet de Llobregat
+Manresa
+Mataró
+Reus
+Sabadell
+Santa Coloma de Gramenet
+Terrassa
+Vic
+Vilanova i la Geltrú
+Girona
+Girona
+Llívia
+Lleida
+Lleida
+Tarragona
+Tarragona
+Tortosa
+Ceuta (autonomous city)
+Extremadura
+Badajoz
+Almendralejo
+Badajoz
+Don Benito
+Mérida
+Villanueva de la Serena
+Cáceres
+Alcántara
+Cáceres
+Guadalupe
+Plasencia
+Trujillo
+Galicia
+A Coruña
+A Coruña
+Carballo
+Ferrol
+Ortigueira
+Ribeira
+Santiago de Compostela
+Lugo
+Lugo
+Mondoñedo
+Monforte de Lemos
+Vilalba
+Ourense
+Ourense
+Vigo
+Vilagarcía de Arousa
+Pontevedra
+Pontevedra
+Madrid
+Alcalá de Henares
+Aranjuez
+El Escorial
+Getafe
+Madrid
+Melilla
+Murcia
+Caravaca
+Cartagena
+Cieza
+Jumilla
+Lorca
+Murcia
+Yecla
+Navarra
+Funes
+Pamplona
+Roncesvalles
+La Rioja
+Calahorra
+Logroño
+Valencia
+Alicante
+Alcoy
+Alicante
+Elche
+Elda
+Orihuela
+Villena
+Castellón
+Castellón de la Plana
+Villarreal
+Valencia
+Alzira
+Gandía
+Requena
+Sagunto
+Sueca
+Torrent
+Valencia
+Demandante
+Acusado
+Acusada
+Abogada
+Abogado
+Juez
+Policía
+Jurado
+juzgado
+Tribunal
+Palacio de justicia
+Delito
+Sala de justicia
+Crimen
+Infracción
+Detener
+Arrestar
+detención
+Arresto
+arrest 
+detention
+Juicio
+Pedimento
+mandato judicial
+Mandato
+Afidávit
+Multa
+Ley
+law
+Juramento
+Investigar
+Acusar
+Apelar
+Absolver
+Alegar
+Fianza
+Prueba
+Admisible
+Carga de la prueba
+proceso judicial
+pleito
+acción judicial
+caso
+Causa
+Delictivo
+Daños y perjuicios
+Revelar
+Sobreseer
+Entrar en vigor
+Testigo
+Hecho
+expediente
+Archivo
+sentencia
+decisión
+fallo
+Determinación
+Aconsejar
+Municipalities
+Judicial Districts
+Provinces
+Autonomous Communities
+de demarcación y planta judicial
+Parlamento de Andalucía
+Junta de Andalucía
+Cortes de Aragón
+Diputación General de Aragón
+Junta General del Principado de Asturias
+Gobierno del Principado de Asturias
+Parlament de les Illes Balears
+Govern de les Illes Balears
+Parlamento de Canarias
+Gobierno de Canarias
+Parlamento de Cantabria
+Gobierno de Cantabria
+Cortes de Castilla y León
+Junta de Castilla y León
+Cortes de Castilla-La Mancha
+Gobierno de Castilla-La Mancha
+Parlament de Catalunya
+Generalitat de Catalunya
+Corts Valencianes
+Generalitat Valenciana
+Asamblea de Extremadura
+Gobierno de Extremadura
+Parlamento de Galicia
+Xunta de Galicia
+Parlamento de la Rioja
+Gobierno de La Rioja
+Asamblea de la Comunidad de Madrid
+Gobierno de la Comunidad de Madrid
+Asamblea Regional de Murcia
+Consejo de Gobierno de Murcia
+Parlamento de Navarra
+Diputación Foral de Navarra
+Parlamento Vasco
+Gobierno Vasco
+Gobierno de la Ciudad Autónoma de Ceuta
+Gobierno de la Ciudad Autónoma de Melilla
+Ley Orgánica
+Ley 
+Circulares
+Consejo de Estado
+Defensor del Pueblo
+Tribunal Constitucional
+Decreto-ley
+Decreto legislativo
+Ley de Bases
+Reglamento
+Decreto
+Orden
+Instrucción
+Boletín Oficial del Estado
+Proyecto de Ley
+Proposición de Ley
+Consejo de Ministros
+Real Decreto
+Código Civil
+Código Penal
+Código Penal Militar
+Directiva
+Real Decreto Legislativo
+Orden Social
+Orden Ministerial
+Real Decreto-Ley
+Registro Mercantil
+Real Orden
+Real Decreto
+Reglamento
+Sentencia
+Tratado
+Resolución
+Directiva
+Decisión
+Recomendación
+Dictamen
+Auto
+Tribunal Supremo 
+Audiencia Nacional
+Juzgados de Paz 
+Cortes Generales
+Audiencia Provincial 
+Congreso de los Diputados
+senado
+Tribunal Superior de Justicia
+Juzgados de Primera Instancia e Instrucción 
+Juzgados de lo Penal
+Juzgados de lo Contencioso-administrativo
+Juzgados de lo Social
+Juzgados Centrales de Instrucción
+Juzgados de Menores 
+Juzgado Central de lo Penal
+Juzgados de Vigilancia penitenciaria 
+Juzgados Centrales de lo Contencioso-administrativo
+Juzgado de Violencia sobre la Mujer 
+Sala Quinta
+Cortes Generales
+Congreso de los Diputados
+Mesa
+Junta de Portavoces
+cuestión de confianza
+ministros sin cartera
+Secretarios de Estado
+Consejo General del Poder Judicial
+Juzgados togados militares
+Tribunal militar territorial
+Estatuto de Autonomía
+Tribunal Constitucional
+Audiencia Nacional
+Audiencia Provincial
+Corte Internacional de Justicia
+Tribunal Constitucional
+Tribunal de Justicia de las Comunidades Europeas
+Tribunal Supremo
+Tribunal Europeo de Derechos Humanos
+Tribunal de Justicia de las Comunidades Europeas
+Tribunal de Justicia de la Unión Europea
+Congreso de los Diputados
+Tribunal de Cuentas
+Comisión Nacional
+Tribunal Superior de Justicia
+Ministerio de Justicia
+Cortes Generales
+Comité Económico y Social Europeo
+Asuntos Exteriores y Cooperación
+Justícia
+Defensa
+Hacienda
+Interior
+Fomento
+Educación, Cultura y Deportes
+Empleo
+Industria, Energía y Turismo
+Agricultura, Alimentación y Medio Ambiente
+Economy and Competitivity
+Sanidad, Servicios Sociales e Igualdad
+Asuntos Exteriores y Cooperación
+Justícia
+Defensa
+Hacienda
+Interior
+Fomento
+Educación, Cultura y Deportes
+Empleo
+Industria, Energía y Turismo
+Agricultura, Alimentación y Medio Ambiente
+Economy and Competitivity
+Sanidad, Servicios Sociales e Igualdad
+Asamblea de la ONU
+Anuario de Historia del Derecho Español
+Acuerdo de la Junta Electoral Central
+Audiencia Provincial
+Comunidades Europeas
+Jurisprudencia Constitucional
+Codex Canonum Ecclesiarum Orientalum
+Constitución Española
+Carta Europea de Autonomía Local
+Catechismus Ecclesiae Catholicae
+Comunidad Europea del Carbón y del Acero
+Convenio de Roma
+Comunidad Económica Europea
+Comunidad Europea de la Energía Atómica
+Consejo General del Poder Judicial
+Codex Iuris Canonici
+Convención Marco
+Convenio de Roma
+Convención de Viena
+Dignitas Connubii
+Dirección General de los Registros y del Notariado
+Dignitatis Humanae
+Diario O?cial de las Comunidades Europeas
+Diario O?cial de la Unión Europea
+Diario de Sesiones del Senado
+Declaración Universal de Derechos Humanos
+Fundamento Jurídico
+Ley de Régimen Jurídico del Sector Público
+Ley de Seguridad Aérea
+Oficina Española de Patentes y Marcas
+Orden Ministerial
+Partidas
+Plan General de Contabilidad
+Poder Judicial
+Ministerio del Aire
+Revista de Aeronáutica y Astronáutica 
+Ley de Auditoría de Cuentas
+Ley de Expropiación Forzosa
+Registro Mercantil
+Reglamento de Planeamiento
+Servicio de Compensación y Liquidación de Valores
+Sociedad Comanditaria
+Sociedad Anónima Europea
+Sociedad de Responsabilidad Limitada
+Ley de Aguas
+Ley de Contratos de las Administraciones Públicas
+Ley del Catastro Inmobiliario
+Ley de Contratos del Sector Público
+Ley General de derechos de las personas con discapacidad y de su inclusión social
+Ley Reguladora de las Haciendas Locales
+Ley del Impuesto sobre Sociedades
+Ley de Puertos del Estado y de la Marina Mercante
+Ley del Suelo
+Ley de Sociedades Anónimas
+Vidal Mayor
+ANDALUCÍA
+ARAGÓN
+ASTURIAS
+BALEARES
+CANARIAS
+CANTABRIA
+CASTILLA Y LEÓN
+CASTILLA LA MANCHA
+CATALUÑA
+COMUNIDAD VALENCIANA
+EXTREMADURA
+GALICIA
+LA RIOJA
+MADRID
+MURCIA
+NAVARRA
+PAÍS VASCO
+CEUTA
+MELILLA
