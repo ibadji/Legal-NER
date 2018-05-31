@@ -7,7 +7,7 @@ package Evaluation;
  */
 
 /**
- *
+ * ...
  * @author n
  */
 public class Assess {
