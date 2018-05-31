@@ -30,9 +30,9 @@ public class main {
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException, InterruptedException, Exception 
     {
         //text to be annotated
-        String text = "resources/inputText/test-english.txt";
+        String text = "resources/inputText/test.txt";
         String sentence = read.readFile(text);
-        String Language = ENGLISH;
+        String Language = SPANISH;
              
             OpenNLP open = new OpenNLP();
             open. runIt(Language,"",sentence);

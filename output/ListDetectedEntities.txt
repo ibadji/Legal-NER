@@ -1,9 +1,14 @@
-[[CoreNLP,  Law_Reference
-, [CoreNLP,  Law_Reference
+, [CoreNLP,  ORG
+, [IxaPipe, MISC
+, [CoreNLP,  Location_Spain
 , [IxaPipe, ORG
 , [GateNLP, Person
-, [CoreNLP,  Governemental_Institution
+, [IxaPipe, LOC
+[[CoreNLP,  ORG
+, [GateNLP, Organization
+, [OpenNLP,  organization
+, [CoreNLP,  OTROS
+, [CoreNLP,  PERS
+, [CoreNLP,  Law_Reference
 , [OpenNLP,  Law_Reference
-, [CoreNLP,  TITLE
-, [CoreNLP,  PERSON
-, [IxaPipe, PER
+, [CoreNLP,  Abreviation

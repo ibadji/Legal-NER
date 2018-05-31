@@ -1,14 +1,60 @@
-Article   :  [4..5) organization
-European Parliament   :  [103..105) organization
-The Council   :  [226..228) organization
-European Union   :  [230..232) organization
-European Parliament   :  [103..105) Law_Reference
-European Union   :  [230..232) Law_Reference
-The Council   :  [226..228) Law_Reference
-European Parliament   :  [103..105) Law_Reference
-European Union   :  [230..232) Law_Reference
-The Council   :  [226..228) Law_Reference
-European Parliament   :  [103..105) Law_Reference
-European Union   :  [230..232) Law_Reference
-The Council   :  [226..228) Law_Reference
-TFEU   :  [6..7) Law_Reference
+Sevilla   :  [379..380) location
+Junta de Andalucía   :  [60..63) organization
+LCAPA   :  [243..244) organization
+LPAC   :  [259..260) organization
+Sala de lo Contencioso-Administrativo del Tribunal Supremo   :  [336..343) organization
+Tribunal Constitucional   :  [370..372) organization
+OTROSÍ   :  [388..389) organization
+LPAC   :  [400..401) organization
+LPAC   :  [451..452) organization
+II   :  [561..562) organization
+LPAC   :  [609..610) organization
+Junta de Andalucía   :  [646..649) organization
+artículo 24.2   :  [351..353) Law_Reference
+artículo 117   :  [396..398) Law_Reference
+artículo 117.2   :  [447..449) Law_Reference
+artículo 47.1   :  [555..557) Law_Reference
+artículo 117   :  [605..607) Law_Reference
+artículo 43.l   :  [182..184) Law_Reference
+artículo 43.l   :  [219..221) Law_Reference
+artículo 43.l   :  [271..273) Law_Reference
+artículo 43.l   :  [295..297) Law_Reference
+artículos 112.1, 121 y 122   :  [7..13) Law_Reference
+artículos 112.1, 121 y 122   :  [251..257) Law_Reference
+CE-001604-2015   :  [148..149) Law_Reference
+Ley 39/2015  :  [15..17) Law_Reference
+Ley 2/2011  :  [187..189) Law_Reference
+rec. 5244/2011   :  [344..346) Law_Reference
+recurso,   :  [461..463) Law_Reference
+LPAC   :  [20..21) Law_Reference
+LPAC   :  [259..260) Law_Reference
+LPAC  :  [400..401) Law_Reference
+LPAC   :  [451..452) Law_Reference
+LPAC  :  [609..610) Law_Reference
+Sevilla  :  [379..380) Law_Reference
+Sevilla  :  [379..380) Law_Reference
+Tribunal   :  [341..342) Law_Reference
+Tribunal   :  [370..371) Law_Reference
+infracción   :  [177..178) Law_Reference
+infracción   :  [291..292) Law_Reference
+Ley   :  [15..16) Law_Reference
+Ley   :  [187..188) Law_Reference
+prueba   :  [315..316) Law_Reference
+carga de la prueba   :  [312..316) Law_Reference
+caso   :  [566..567) Law_Reference
+Sentencia   :  [327..328) Law_Reference
+Junta de Andalucía  :  [60..63) Law_Reference
+Junta de Andalucía  :  [646..649) Law_Reference
+Ley   :  [15..16) Law_Reference
+Ley   :  [187..188) Law_Reference
+Tribunal Constitucional   :  [370..372) Law_Reference
+Sentencia   :  [327..328) Law_Reference
+Resolución   :  [30..31) Law_Reference
+Resolución   :  [284..285) Law_Reference
+Resolución   :  [412..413) Law_Reference
+Resolución  :  [572..573) Law_Reference
+Resolución  :  [616..617) Law_Reference
+Tribunal Supremo   :  [341..343) Law_Reference
+Tribunal Constitucional   :  [370..372) Law_Reference
+Tribunal Constitucional   :  [370..372) Law_Reference
+Tribunal Supremo   :  [341..343) Law_Reference

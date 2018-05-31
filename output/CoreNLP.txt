@@ -1,7 +1,52 @@
-Council of the European Union : Governemental_Institution
-European Parliament : Governemental_Institution
-Article 9384 : Law_Reference
-TFEU : Abreviation
-Article 263 : Law_Reference
-her : PERSON
-Secretary General : TITLE
+Socio AGRECOLÓGICA DOÑANA : ORG
+artículo 117.2 : Law_Reference
+Ley : Law_Reference
+Sentencia : Law_Reference
+Andalucía : Location_Spain
+Ley : OTROS
+AGROECOLÓGICA DOÑANA SL : ORG
+Justicia : ORG
+Pesquera : OTROS
+Certificado : ORG
+Sevilla : Location_Spain
+II : OTROS
+Desarrollo Rural : OTROS
+Factura : ORG
+Sala : OTROS
+Conformidad : OTROS
+caso : Detection_words
+artículos 112.1 121 y 122 : Law_Reference
+Julio : PERS
+Agroalimentaria : ORG
+LCAPA : ORG
+se : Abreviation
+CERTIFICACIÓN CAAE SL : ORG
+CE-001604-2015 : Law_Reference
+Calidad : OTROS
+rec. : Law_Reference
+Resolución : OTROS
+Directora : ORG
+artículo 24.2 : Law_Reference
+Resolución Directora : ORG
+Agricultura : OTROS
+SAT : ORG
+Constitución : OTROS
+Agricultura Pesca : OTROS
+Derecho : OTROS
+BERRYNEST H-0023 : ORG
+LPAC : Abreviation
+artículo 43 : Law_Reference
+Tribunal Supremo : Governemental_Institution
+Junta de Andalucía : Governemental_Institution
+Tribunal Constitucional : Governemental_Institution
+LA : Abreviation
+artículo 47.1 : Law_Reference
+Resumen : OTROS
+Industrias : OTROS
+Consejería : ORG
+Cadena Agroalimentaria : OTROS
+ii : ORG
+Fundamentos : OTROS
+Resolución : Law_Reference
+Hechos : OTROS
+artículo 117 : Law_Reference
