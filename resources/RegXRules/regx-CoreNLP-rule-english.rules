@@ -1,13 +1,15 @@
-Article [0-9]{0,4}	Law_Reference
-[No][0-9]{4}/[0-9]{0,4}/EC	Law_Reference
-[0-9]{4}/[0-9]{0,4}/EC	Law_Reference
-(EC) [No][0-9]{4}/[0-9]{0,4}	Law_Reference
-(EC) [0-9]{4}/[0-9]{0,4}	Law_Reference
-[a-zA-Z] [0-9]{4}/[0-9]{0,4}	Law_Reference
-OJ [a-zA-Z] [0-9]{0,4}	Law_Reference
-OJ [0-9]{4} [a-zA-Z] [0-9]{0,4}	Law_Reference
-[0-9]{4}/[a-zA-Z] [0-9]{0,4}/[0-9]{0,4}	Law_Reference
-[a-zA-Z]:[0-9]{4}:[0-9]{0,4}:[0-9]{0,4}	Law_Reference
-EU:[a-zA-Z]:[0-9]{4}:[0-9]{0,4}	Law_Reference
-[a-zA-Z]-[0-9]{0,4}/[0-9]{0,4}	Law_Reference
-[a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}	Law_Reference
+[0-9]{5,7}[a-zA-Z]	Treatie
+[0-9]{5,7}[a-zA-Z]/[a-zA-Z]{0,3}	Treatie
+[0-9]{5,7}[a-zA-Z][0-9]{3,7}	Treatie
+[0-9]{5,7}[a-zA-Z][0-9]{3,7}([0-9]{3,7})	Agreement
+[No][0-9]{4}/[0-9]{0,4}/EC	RegDirDec
+[0-9]{4}/[0-9]{0,4}/EC	RegDirDec
+(EC) [No][0-9]{4}/[0-9]{0,4}	RegDirDec
+(EC) [0-9]{4}/[0-9]{0,4}	RegDirDec
+EU:[a-zA-Z]:[0-9]{4}:[0-9]{0,4}	Judgment
+[a-zA-Z]-[0-9]{0,4}/[0-9]{0,4}	CaseLaw
+[a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}	CaseLaw
+OJ [a-zA-Z] [0-9]{0,4}	OfficialJ
+OJ [0-9]{4} [a-zA-Z] [0-9]{0,4}	OfficialJ
+[0-9]{4}/[a-zA-Z] [0-9]{0,4}/[0-9]{0,4}	OfficialJ
+[a-zA-Z]:[0-9]{4}:[0-9]{0,4}:[0-9]{0,4}	OfficialJ

@@ -56,8 +56,10 @@ public class OpenNLP {
         entities= namedEntityRecognition( tokens, writer);   
         
         Map<String, Pattern[]> regexMap = new HashMap<>();
-        regexMap.put("Law_Reference", readFileRegx("resources/RegXRules/regx-OpenNLP-"+Type+"-"+language+".txt"));
-
+        regexMap.put("Legal_reference", readFileRegx("resources/RegXRules/regx-OpenNLP-"+Type+"-"+language+".txt"));
+        //Pattern[] pattern = {Pattern.compile("artículo\\s[0-9]{0,5}.[a-zA-Z]{1}")};
+        //regexMap.put("Articulo",pattern);
+        
         RegexNameFinder finder = new RegexNameFinder(regexMap);
         Span[] result = finder.find(tokens);
 

@@ -1,5 +1,50 @@
-European : NATIONALITY
-Article 9384 : Law_Reference
-Article 263 : Law_Reference
-her : PERSON
-Secretary General : TITLE
+Socio AGRECOLÓGICA DOÑANA : ORG
+Pesca : OTROS
+Justicia : ORG
+Pesquera : OTROS
+Certificado : ORG
+artículo 117.2 : Articulo
+II : OTROS
+Desarrollo Rural : OTROS
+rec. : Recurso
+Factura : ORG
+Sala : OTROS
+LPAC : ORG
+Conformidad : OTROS
+Andalucía : OTROS
+Tribunal Constitucional : ORG
+Julio : PERS
+Agroalimentaria : ORG
+LCAPA : ORG
+CE-001604-2015 : Constitution
+Calidad : OTROS
+Directora : ORG
+Resolución Directora : ORG
+Resolución : ORG
+Agricultura : OTROS
+Ley 39/2015 : LeyOrganica
+SAT : ORG
+AGROECOLÓGICA DOÑANA : ORG
+artículos 112.1 : Articulo
+Constitución : OTROS
+Ley 2/2011 : LeyOrganica
+artículo 43 : Articulo
+artículo 47.1 : Articulo
+Tribunal Supremo : ORG
+Derecho : OTROS
+Sentencia : ORG
+BERRYNEST H-0023 : ORG
+artículo 117 : Articulo
+SL : ORG
+Sevilla : LUG
+Ley : ORG
+Resumen : OTROS
+CAAE : ORG
+Industrias : OTROS
+Consejería : ORG
+artículo 24.2 : Articulo
+Cadena Agroalimentaria : OTROS
+Junta : ORG
+ii : ORG
+Fundamentos : OTROS
+Hechos : OTROS

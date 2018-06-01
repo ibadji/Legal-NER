@@ -1,9 +1,6 @@
-[[CoreNLP,  Law_Reference
-, [OpenNLP,  organization
-, [GateNLP, Organization
-, [CoreNLP,  Law_Reference
-, [IxaPipe, ORG
-, [GateNLP, Person
-, [CoreNLP,  TITLE
-, [CoreNLP,  PERSON
-, [IxaPipe, PER
+Articulo
+Organization
+Legal_reference
+Recurso
+Person
+Location

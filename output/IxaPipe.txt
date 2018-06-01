@@ -1,8 +1,72 @@
-EUR	ORG	
-European Parliament	ORG	
-Ms Myl	PER	
-Troszczynski	PER	
-EUR	ORG	
-EUR	ORG	
-Ms Troszczynksi	PER	
-European Union	ORG	
+112.1	MISC	
+121	MISC	
+122	MISC	
+Ley 39/2015	MISC	
+LPAC	ORG	
+RECURSO DE ALZADA	MISC	
+Resolución de la Directora General de Industrias	MISC	
+Cadena Agroalimentaria	MISC	
+27 de diciembre de 2017	MISC	
+Consejería de Agricultura , Pesca y Desarrollo Rural	ORG	
+Junta de Andalucía	ORG	
+Hechos	MISC	
+Fundamentos de Derecho	MISC	
+Factura del Socio AGRECOLÓGICA DOÑANA	LOC	
+15-3	MISC	
+30/09/2015	MISC	
+Julio-Septiembre 2015	MISC	
+SAT BERRYNEST H-0023	MISC	
+Resumen de recepción de mercancía	MISC	
+AGROECOLÓGICA DOÑANA	ORG	
+SL	ORG	
+Certificado de Conformidad	MISC	
+CE-001604-2015	MISC	
+SERVICIO DE CERTIFICACIÓN	MISC	
+CAAE	ORG	
+SL	ORG	
+43.l	MISC	
+Ley 2/2011	MISC	
+25 de marzo	MISC	
+Calidad Agroalimentaria y Pesquera de Andalucía	ORG	
+LCAPA	ORG	
+43.l	MISC	
+43.l	MISC	
+LCAPA	ORG	
+112.1	MISC	
+121	MISC	
+122	MISC	
+LPAC	ORG	
+43.l	MISC	
+LCAPA	ORG	
+Resolución	MISC	
+43.l	MISC	
+Sentencia de 14 de noviembre de 2014 de la Sala de lo Contencioso-Administrativo del Tribunal Supremo	MISC	
+5244/2011	MISC	
+24.2	MISC	
+Constitución	MISC	
+Tribunal Constitucional	ORG	
+Justicia	ORG	
+Sevilla	LOC	
+12 de febrero de 2018	MISC	
+117	MISC	
+LPAC	ORG	
+SUSPENSIÓN DE LA EJECUCIÓN de la Resolución Directora General de Industrias	MISC	
+Cadena Agroalimentaria	MISC	
+Consejería de Agricultura	ORG	
+Pesca y Desarrollo Rural	ORG	
+27 de diciembre de 2017	MISC	
+MOTIVOS	ORG	
+117.2	MISC	
+LPAC	ORG	
+47.1	MISC	
+Ley	MISC	
+Resolución	MISC	
+27 de diciembre de 2017	MISC	
+Directora General de Industrias y Cadena Agroalimentaria de SOLICITA	ORG	
+117	MISC	
+LPAC	ORG	
+Resolución	MISC	
+27 de diciembre de 2017	MISC	
+Directora General de Industrias	ORG	
+Cadena Agroalimentaria de la Consejería de Agricultura , Pesca y Desarrollo Rural	ORG	
+Junta de Andalucía	ORG	

@@ -60,7 +60,7 @@ public class CoreNLP {
         props.put("regexner.mapping", rulesFile);
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
         //regxPrint(text, ".", pipeline);
-        regxPrint(text, ",", pipeline);
+        regxPrint(text, "", pipeline);
         
         // add elements to al, including duplicates
         HashSet<String> hs = new HashSet<String>();

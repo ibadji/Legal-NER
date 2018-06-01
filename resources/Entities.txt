@@ -1,42 +1,41 @@
-1-Law_Reference:
-	TRADO
-	LEY
-	SENTENCIA
-	ARTICULO
-	DIRECTIVA
-	RECURSO
-	REGLAMENTO
-	DECRETO
-	ORDEN
-	Law(Directiva....)
-	Boletins
-	Law nicknames
-	Act Against Judgment
-	Dictamen
-	Regulations
-	Official Journal
-	Judgment
-	Case law
+Spanish
+	1- Service 1: 
+		Sentencia
+		Articulo
+		Constitution
+		LeyOrganica
+		Directiva
+		Recurso
+		Reglamento
+		Decreto
+		Orden
+		Dictamen
+		Apelacion
+		
+	2- Service 2:
+		Nicknames
+	
+	3- Service 3:
+		Abreviation (ABREVIATION, INSITUTION_ABR)
+		Governemental_Institution (Gov_instit_regi, Ministeries, LAW_Entities)
+		Location_Spain (Geographical Divisions, Regions, Cities)
+		Detection_words
 
-2-Abreviation:
-	ABREVIATION
-	INSITUTION_ABR
+English:	
+	1- Service 1:
+		Treatie
+		Agreement
+		RegDirDec
+		Judgment
+		CaseLaw
+		OfficialJ
 
-3-Governemental_Institution:
-	Gov_instit_regi
-	Ministeries
-	LAW_Entities
+	2- Service 2:
+		Governemental_Institution
+		Abreviation
+		Language
 
-4-Location_Spain:
-	Geographical Divisions
-	Regions
-	Cities
-
-5-Detection_words
-
-6-EU_LANGUAGE
-
-7-Others:
+Others:
 	PERS
 	person
 	ORG
@@ -49,3 +48,5 @@
 	other
 	OTH
 	OTROS
+	NATIONALITY
+	TITLE

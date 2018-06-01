@@ -44,7 +44,7 @@ public class Combine {
 
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException 
     {
-            filter("resources/inputText/test-english.txt");
+            filter("resources/inputText/test.txt");
     }
     /*
         Give priorities from 1 to 3, 1 being the highest 
@@ -57,19 +57,53 @@ public class Combine {
         
     public static void init()
     {
-        grades.put("OpenNLP", 0);
-        grades.put("CoreNLP", 0);
-        grades.put("IxaPipe", 0);
-        grades.put("Gate", 0);
+        grades.put("OpenNLP", 1);
+        grades.put("CoreNLP", 2);
+        grades.put("IxaPipe", 3);
+        grades.put("GateNLP", 4);
+        
+        // SPANISH
+        //Service 1	
+        priority.put("Articulo",1);
+        priority.put("Sentencia",1);
+        priority.put("Constitution",1);
+        priority.put("LeyOrganica",1);
+        priority.put("Directiva",1);
+        priority.put("Recurso",1);
+        priority.put("Reglamento",1);
+        priority.put("Decreto",1);
+        priority.put("Orden",1);
+        priority.put("Dictamen",1);
+        priority.put("Apelacion",1);
+        priority.put("Legal_reference",1);
 
- 
-        priority.put("Law_Reference",1);
+        
+
+        //Service 2
+        priority.put("Nicknames",1);
+
+        //Service 3
         priority.put("Abreviation",1);
         priority.put("Governemental_Institution",1);
         priority.put("Location_Spain",1);
-        priority.put("Language",1);
         priority.put("Detection_words",1);
 
+
+        //ENGLISH
+        //Servie 1
+        priority.put("Treatie",1);
+        priority.put("Agreement",1);
+        priority.put("RegDirDec",1);
+        priority.put("Judgment",1);
+        priority.put("CaseLaw",1);
+        priority.put("OfficialJ",1);
+        
+        //Service 2
+        priority.put("Abreviation",1);
+        priority.put("Governemental_Institution",1);
+        priority.put("Language",1);
+
+        // General present with all services
         priority.put("PER",3);   
         priority.put("PERS",3);          
         priority.put("PERSON",3);
@@ -95,19 +129,56 @@ public class Combine {
         priority.put("NATIONALITY",4);
 
         
-        color.put("Law_Reference","#00FF00");
-        color.put("Abreviation","#0000FF");
-        color.put("Governemental_Institution","#FF0000");
-        color.put("Location_Spain","#01FFFE");
-        color.put("Language","#FFA6FE");
-        color.put("Detection_words","#FFDB66");
+
+        // SPANISH
+        //Service 1	
+        color.put("Articulo","#00FF00");
+        color.put("Sentencia","#0000FF");
+        color.put("Constitution","#FF0000");
+        color.put("LeyOrganica","#01FFFE");
+        color.put("Directiva","#FFA6FE");
+        color.put("Recurso","#FFDB66");
+        color.put("Reglamento","#9E008E");
+        color.put("Decreto","#FF74A3");
+        color.put("Orden","#01D0FF");
+        color.put("Dictamen","#E56FFE");
+        color.put("Apelacion","#E56FFE");     
+        color.put("Legal_reference","#E56FFE");       
+
+
+        //Service 2
+        color.put("Nicknames","#00FF00");
+
+        //Service 3
+        color.put("Abreviation","#00FF00");
+        color.put("Governemental_Institution","#0000FF");
+        color.put("Location_Spain","#FF0000");
+        color.put("Detection_words","#01FFFE");
         
+
+
+        //ENGLISH
+        //Servie 1
+        color.put("Treatie","#00FF00");
+        color.put("Agreement","#0000FF");
+        color.put("RegDirDec","#FF0000");
+        color.put("Judgment","#01FFFE");
+        color.put("CaseLaw","#FFA6FE");
+        color.put("OfficialJ","#FFDB66");
+
+        
+        //Service 2
+        color.put("Abreviation","#00FF00");
+        color.put("Governemental_Institution","#0000FF");
+        color.put("Language","#FF0000");
+
+        
+        //General Present with all services 
         color.put("PER","#BDC6FF");
         color.put("PERS","#BDC6FF");
         color.put("PERSON","#BDC6FF");
         color.put("Person","#BDC6FF");
         color.put("person","#BDC6FF");
-
 
         color.put("ORG","#BDD393");
         color.put("organization","#BDD393");
@@ -116,15 +187,15 @@ public class Combine {
         color.put("LUG","#9E008E");
         color.put("location","#9E008E");
         color.put("Location","#9E008E");
-
         color.put("LOC","#9E008E");
+        
         color.put("TITLE","#FF74A3");
-        color.put("misc","#01D0FF");
-        color.put("MISC","#01D0FF");
-        color.put("other","#E56FFE");
-        color.put("OTH","#E56FFE");
-        color.put("OTROS","#E56FFE"); 
-        color.put("NATIONALITY","#E56FFE");
+        color.put("misc","#FF74A3");
+        color.put("MISC","#FF74A3");
+        color.put("other","#FF74A3");
+        color.put("OTH","#FF74A3");
+        color.put("OTROS","#FF74A3"); 
+        color.put("NATIONALITY","#FF74A3");
                 
     }
     public static void filter(String text) throws IOException
@@ -141,7 +212,7 @@ public class Combine {
         SimilarityFilter();
 
         //filter based on similarity given in initialization step
-        Set set = outputList.entrySet();
+        Set set = todelete.entrySet();
         Iterator iterator = set.iterator();
         while(iterator.hasNext()) {
          Map.Entry mentry = (Map.Entry)iterator.next();
@@ -179,12 +250,12 @@ public class Combine {
                 List<String> p1 = outputList.get(array[i]);
                 List<String> p2 = outputList.get(array[j]);
                 //found a similar dup
-                if(array[i].contains(array[j]) && priority.get(p1.get(1).toString().trim()) < priority.get(p2.get(1).toString().trim()))
-                {  
-                    todelete.put(array[j], p2);                     
-                }
-                
-                else if(sim.calculate(array[i], array[j])> 0.95 && sim.calculate(array[i], array[j])<= 1.0)
+//                if(array[i].contains(array[j]) && priority.get(p1.get(1).toString().trim()) < priority.get(p2.get(1).toString().trim()))
+//                {  
+//                    todelete.put(array[j], p2);                     
+//                }
+//                
+               if(sim.calculate(array[i], array[j])> 0.95 && sim.calculate(array[i], array[j])<= 1.0)
                 {
                     //System.out.println(array[i]+"  "+ array[j] +"  "+sim.calculate(array[i], array[j]));    
                     //check for priorities 
@@ -200,19 +271,16 @@ public class Combine {
                     }
                     //same priority see depending on length
                     else if(priority.get(p1.get(1).toString().trim()) == priority.get(p2.get(1).toString().trim()))
-                    {
-                        if(array[i].length() < array[j].length())
-                        {
-                            todelete.put(array[i], p1); 
-                        }
-                        else if(array[i].length() > array[j].length())
-                        {
-                            todelete.put(array[j], p2);  
-                        }
-                        else if (array[i].length() == array[j].length())
-                        {
-                            //base on grade need to be changed                          
-                        }
+                    {                    
+                            //base on grade need to be changed    
+                            if(grades.get(p1.get(0).toString()) < grades.get(p2.get(0).toString()))
+                            {
+                                todelete.put(array[j], p2);
+                            }
+                            else if(grades.get(p1.get(0).toString()) > grades.get(p2.get(0).toString()))
+                            {
+                                todelete.put(array[i], p1);
+                            }
                     }
                 }
             }
@@ -236,18 +304,32 @@ public class Combine {
             }
 
             //Map of the Entities detected
-            PrintWriter writer = new PrintWriter("output/ListDetectedEntities.txt", "UTF-8");
-            Collection<List<String>> values = outputList.values();
-            String[] s = values.toString().split("]");
-            Set<String> sett = new HashSet<String>();
-            for(int i = 0; i < s.length; i++){
-              sett.add(s[i]);
-            }
+            PrintWriter writer = new PrintWriter("output/ListDetectedEntities.txt", "UTF-8");        
+                Set<String> sett = new HashSet<String>();
+                Set set1 = outputList.entrySet();
+                Iterator iterator1 = set1.iterator();
+                while(iterator1.hasNext()) {
+                 Map.Entry mentry = (Map.Entry)iterator1.next();    
+                 String key = mentry.getKey().toString();
+                 ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
+                 String value = valueK.get(1).trim();
+                 if(value.equals("PERS") || value.equals("PERSON") || value.equals("Person") || value.equals("person") || value.equals("PER"))
+                    sett.add("Person");
+                 else if(value.equals("ORG") || value.equals("organization") || value.equals("Organization"))
+                    sett.add("Organization");
+                 else if(value.equals("LUG") || value.equals("location") || value.equals("Location") || value.equals("LOC"))
+                    sett.add("Location");
+                 else if(value.equals("TITLE") || value.equals("misc") || value.equals("MISC") || value.equals("other") || value.equals("OTH") || value.equals("OTROS") || value.equals("NATIONALITY"))
+                 {}//sett.add("other");
+                 else 
+                     sett.add(value);
+              }
+        
             Iterator it = sett.iterator();
             while(it.hasNext()) {
               writer.println(it.next());
             }
-            writer.close();
+             writer.close();
             
             
             JFrame frame = new JFrame("Text");
@@ -270,6 +352,12 @@ public class Combine {
             frame1.setLocationRelativeTo(null);
             frame1.setVisible(true);
        
+            Iterator it1 = sett.iterator();
+            while(it1.hasNext()) {
+                String s = it1.next().toString();
+                t1.color(Color.decode(color.get(s)), s);
+            }
+            
         //compare the entities and color them
         PrintWriter writer2 = new PrintWriter("output/TextEntitiesDetected.txt", "UTF-8");
         Set set = outputList.entrySet();
@@ -279,13 +367,13 @@ public class Combine {
          String key = mentry.getKey().toString();
          ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
          String value = valueK.get(1);
-         t.color(Color.decode(color.get(value.trim())), key.trim());
-         t1.color(Color.decode(color.get(value.trim())), value.trim());
-         Link link = new Link();
-         writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLink(mentry.getKey().toString()));       
+         if(! (value.equals("TITLE") || value.equals("misc") || value.equals("MISC") || value.equals("other") || value.equals("OTH") || value.equals("OTROS") || value.equals("NATIONALITY")))
+            t.color(Color.decode(color.get(value.trim())), key.trim());
+         //Link link = new Link();
+         //writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLink(mentry.getKey().toString()));       
       }
         writer2.close();
-        
+              
     }
     
     public static void grading(HashMap CoreNLP, HashMap OpenNLP, HashMap IxaPipe,HashMap unrated)

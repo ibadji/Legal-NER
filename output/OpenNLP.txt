@@ -1,4 +1,28 @@
-Article   :  [4..5) organization
-European Parliament   :  [103..105) organization
-The Council   :  [226..228) organization
-European Union   :  [230..232) organization
+Sevilla   :  [379..380) location
+Junta de Andalucía   :  [60..63) organization
+LCAPA   :  [243..244) organization
+LPAC   :  [259..260) organization
+Sala de lo Contencioso-Administrativo del Tribunal Supremo   :  [336..343) organization
+Tribunal Constitucional   :  [370..372) organization
+OTROSÍ   :  [388..389) organization
+LPAC   :  [400..401) organization
+LPAC   :  [451..452) organization
+II   :  [561..562) organization
+LPAC   :  [609..610) organization
+Junta de Andalucía   :  [646..649) organization
+artículo 24.2   :  [351..353) Legal_reference
+artículo 117   :  [396..398) Legal_reference
+artículo 117.2   :  [447..449) Legal_reference
+artículo 47.1   :  [555..557) Legal_reference
+artículo 117   :  [605..607) Legal_reference
+artículo 43.l   :  [182..184) Legal_reference
+artículo 43.l   :  [219..221) Legal_reference
+artículo 43.l   :  [271..273) Legal_reference
+artículo 43.l   :  [295..297) Legal_reference
+artículos 112.1, 121 y 122   :  [7..13) Legal_reference
+artículos 112.1, 121 y 122   :  [251..257) Legal_reference
+CE-001604-2015   :  [148..149) Legal_reference
+Ley 39/2015  :  [15..17) Legal_reference
+Ley 2/2011  :  [187..189) Legal_reference
+rec. 5244/2011   :  [344..346) Legal_reference
+recurso,   :  [461..463) Legal_reference

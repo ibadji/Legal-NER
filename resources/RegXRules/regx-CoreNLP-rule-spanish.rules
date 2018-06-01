@@ -1,28 +1,28 @@
-(TUE|trado) /[0-9]{4}	Law_Reference	
-(STEDH|STJUE|RUAM,|RUAM) de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}	Law_Reference	
-(STS|STC|Tribunal) [0-9]{1,5}/[0-9]{4} de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)	Law_Reference	
-(art|artículo|artículos|ART) [0-9]{0,5}.[0-9]{0,5} [0-9]{0,5} y [0-9]{0,5}	Law_Reference		
-(art|artículo|artículos|ART) [0-9]{0,5}.[0-9]{0,5}	Law_Reference	
-(art|artículo|artículos|ART) [0-9]{0,5}.[a-zA-Z]{0,2}	Law_Reference
-(art|artículo|ART) [0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5}	Law_Reference	
-(art|artículo|ART) [0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5} y [0-9]{0,5}.[0-9]{0,5}	Law_Reference
-(art|artículo|ART) [0-9]{0,5} (CE|LRJSP)	Law_Reference	
-(art|artículo|ART) [0-9]{0,5},[0-9]{0,5} y [0-9]{0,5}	Law_Reference	
-CE\w[0-9]{4}	Law_Reference	ORG	
-CE-[0-9]{1,7}-[0-9]{1,5}	Law_Reference	ORG	
-(LRJSP|RDL) [0-9]{1,5}/[0-9]{4}	Law_Reference	ORG
-Ley [0-9]{1,5}/[0-9]{1,5}	Law_Reference	ORG
-(Dir|Directiva|dir) [0-9]{1,5}.[0-9]{1,5}	Law_Reference	
-(Rec|rec|Recurso) [0-9]{0,5}.[0-9]{0,5}	Law_Reference	
-(R|Reglamento)(UE) nº [0-9]{1,5}/[0-9]{4}	Law_Reference	
-(R|Reglamento)(UE) [0-9]{1,5}/[0-9]{4}	Law_Reference	
-(Dec|Decreto|dec) no [0-9]{4}/[0-9]{1,5}/UE	Law_Reference	
-(Dec|Decreto|dec) [0-9]{4}/[0-9]{1,5}/UE	Law_Reference	
-(O.|O|Orden) PRA/[0-9]{1,5}/[0-9]{4}	Law_Reference	
-(Dict|Dictamen) CES	Law_Reference	
-sentencia [0-9]{1,5}/[0-9]{1,5}	Law_Reference	
-sentencia de [0-9]{1,5}/[0-9]{1,5}	Law_Reference	
-sentencia de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}	Law_Reference
-sentencia de (\w+) [0-9]{1,5}/[0-9]{1,5}	Law_Reference	
-sentencia nº [0-9]{1,5}/[0-9]{1,5}	Law_Reference	
-(Apelación|ordinario) [0-9]{1,5}/[0-9]{4}	Law_Reference
+(STEDH|STJUE|RUAM,|RUAM) de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}	Sentencia	
+(STS|STC|Tribunal) [0-9]{1,5}/[0-9]{4} de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)	Sentencia	
+(art|artículo|artículos|ART) [0-9]{0,5}.[0-9]{0,5} [0-9]{0,5} y [0-9]{0,5}	Articulo		
+(art|artículo|artículos|ART) [0-9]{0,5}.[0-9]{0,5}	Articulo	
+(art|artículo|artículos|ART) [0-9]{0,5}.[a-zA-Z]{1,2}	Articulo
+(art|artículo|ART) [0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5}	Articulo	
+(art|artículo|ART) [0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5} y [0-9]{0,5}.[0-9]{0,5}	Articulo
+(art|artículo|ART) [0-9]{0,5} (CE|LRJSP)	Articulo	
+(art|artículo|ART) [0-9]{0,5},[0-9]{0,5} y [0-9]{0,5}	Articulo	
+CE\w[0-9]{4}	Constitution	ORG	
+CE-[0-9]{1,7}-[0-9]{1,5}	Constitution	ORG	
+(LRJSP|RDL) [0-9]{1,5}/[0-9]{4}	LeyOrganica	ORG
+Ley [0-9]{1,5}/[0-9]{1,5}	LeyOrganica	ORG
+(Dir|Directiva|dir) [0-9]{1,5}.[0-9]{1,5}	Directiva	
+(Rec|rec|Recurso) [0-9]{0,5}.[0-9]{0,5}	Recurso	
+(R|Reglamento)(UE) nº [0-9]{1,5}/[0-9]{4}	Reglamento	
+(R|Reglamento)(UE) [0-9]{1,5}/[0-9]{4}	Reglamento	
+(Dec|Decreto|dec) no [0-9]{4}/[0-9]{1,5}/UE	Decreto	
+(Dec|Decreto|dec) [0-9]{4}/[0-9]{1,5}/UE	Decreto	
+(O.|O|Orden) PRA/[0-9]{1,5}/[0-9]{4}	Orden	
+(Dict|Dictamen) CES	Dictamen	
+sentencia [0-9]{1,5}/[0-9]{1,5}	Sentencia	
+sentencia de [0-9]{1,5}/[0-9]{1,5}	Sentencia	
+sentencia de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}	Sentencia
+sentencia de (\w+) [0-9]{1,5}/[0-9]{1,5}	Sentencia	
+sentencia nº [0-9]{1,5}/[0-9]{1,5}	Sentencia	
+(Apelación|ordinario) [0-9]{1,5}/[0-9]{4}	Apelacion
+artículos 112.1\, 121 y 122	Articulo

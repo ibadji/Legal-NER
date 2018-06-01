@@ -32,18 +32,11 @@ public class main {
         //text to be annotated
         String text = "resources/inputText/test.txt";
         String sentence = read.readFile(text);
-<<<<<<< HEAD
-        String Language = ENGLISH;
+        String Language = SPANISH;
         String Type = "rule";// can be rule, nickname or other for spanish or rule and other for english
         
         OpenNLP open = new OpenNLP();
         open. runIt(Language,"",sentence,Type);
-=======
-        String Language = SPANISH;
-             
-            OpenNLP open = new OpenNLP();
-            open. runIt(Language,"",sentence);
->>>>>>> 7def674a22df3f2cb1bda8709793b2cd189e8d34
 
         CoreNLP core = new CoreNLP();
         core.regX(sentence,Language,Type);
@@ -59,8 +52,8 @@ public class main {
             gate.init(sentence);
         }
   
-        //Combine combine = new Combine();
-        //combine.filter(text);
+        Combine combine = new Combine();
+        combine.filter(text);
             
        //Assess Outputs
     }

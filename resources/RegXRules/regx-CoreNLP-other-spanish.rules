@@ -382,42 +382,42 @@ sig.	Abreviation	ORG
 tít.	Abreviation	ORG
 V.	Abreviation	ORG
 vol.	Abreviation	ORG
-recurso de casación	Law_Reference
-recurso extraordinario por infracción procesal	Law_Reference
-recurso en interés de ley	Law_Reference
-recurso de apelación	Law_Reference
-Concursal	Law_Reference
-recurso de suplicación	Law_Reference
-recurso de casación para unificación de doctrina	Law_Reference
-appeal for protection of fundamental rights	Law_Reference
-Custom against legislation	Law_Reference
-recurso en interés de la ley	Law_Reference
-Boletín Oficial de la Junta de Andalucía	Law_Reference
-Boletín Oficial de Aragón	Law_Reference
-Boletín Oficial del Principado de Asturias	Law_Reference
-Butlletí Oficial de la Comunitat Autònoma de les Illes Balears	Law_Reference
-Boletín Oficial de Canarias	Law_Reference
-Boletín Oficial de Cantabria	Law_Reference
-Boletín Oficial de Castilla y León	Law_Reference
-Diario Oficial de Castilla-La Mancha	Law_Reference
-Diari Oficial de la Generalitat de Catalunya	Law_Reference
-Diari Oficial de la Comunitat Valenciana	Law_Reference
-Diario Oficial de la Junta de Extremadura	Law_Reference
-Diario Oficial de Galicia	Law_Reference
-Boletín Oficial de La Rioja	Law_Reference
-Boletín Oficial de la Comunidad de Madrid	Law_Reference
-Boletín Oficial de la Región de Murcia	Law_Reference
-Boletín Oficial de Navarra	Law_Reference
-Boletín Oficial del País Vasco	Law_Reference
-Boletín Oficial de la Ciudad de Ceuta	Law_Reference
-Boletín Oficial de la Ciudad Autónoma de Melilla	Law_Reference
-Boletín de las Comunidades Europeas	Law_Reference
-Boletín de Información del Ministerio de Justicia	Law_Reference
-Boletín de Jurisprudencia Constitucional	Law_Reference
-Boletín O?cial de las Cortes Generales	Law_Reference
-Boletín O?cial del Estado	Law_Reference
-Boletin Oficial de la Provincia	Law_Reference
-Boletín O?cial del Registro Mercantil	Law_Reference
+recurso de casación	Legal_Reference
+recurso extraordinario por infracción procesal	Legal_Reference
+recurso en interés de ley	Legal_Reference
+recurso de apelación	Legal_Reference
+Concursal	Legal_Reference
+recurso de suplicación	Legal_Reference
+recurso de casación para unificación de doctrina	Legal_Reference
+appeal for protection of fundamental rights	Legal_Reference
+Custom against legislation	Legal_Reference
+recurso en interés de la ley	Legal_Reference
+Boletín Oficial de la Junta de Andalucía	Legal_Reference
+Boletín Oficial de Aragón	Legal_Reference
+Boletín Oficial del Principado de Asturias	Legal_Reference
+Butlletí Oficial de la Comunitat Autònoma de les Illes Balears	Legal_Reference
+Boletín Oficial de Canarias	Legal_Reference
+Boletín Oficial de Cantabria	Legal_Reference
+Boletín Oficial de Castilla y León	Legal_Reference
+Diario Oficial de Castilla-La Mancha	Legal_Reference
+Diari Oficial de la Generalitat de Catalunya	Legal_Reference
+Diari Oficial de la Comunitat Valenciana	Legal_Reference
+Diario Oficial de la Junta de Extremadura	Legal_Reference
+Diario Oficial de Galicia	Legal_Reference
+Boletín Oficial de La Rioja	Legal_Reference
+Boletín Oficial de la Comunidad de Madrid	Legal_Reference
+Boletín Oficial de la Región de Murcia	Legal_Reference
+Boletín Oficial de Navarra	Legal_Reference
+Boletín Oficial del País Vasco	Legal_Reference
+Boletín Oficial de la Ciudad de Ceuta	Legal_Reference
+Boletín Oficial de la Ciudad Autónoma de Melilla	Legal_Reference
+Boletín de las Comunidades Europeas	Legal_Reference
+Boletín de Información del Ministerio de Justicia	Legal_Reference
+Boletín de Jurisprudencia Constitucional	Legal_Reference
+Boletín O?cial de las Cortes Generales	Legal_Reference
+Boletín O?cial del Estado	Legal_Reference
+Boletin Oficial de la Provincia	Legal_Reference
+Boletín O?cial del Registro Mercantil	Legal_Reference
 municipios 	Location_Spain
 partidos judiciales	Location_Spain
 provincias 	Location_Spain
@@ -458,43 +458,42 @@ Parlamento Vasco	Governemental_Institution
 Gobierno Vasco	Governemental_Institution
 Gobierno de la Ciudad Autónoma de Ceuta	Governemental_Institution
 Gobierno de la Ciudad Autónoma de Melilla	Governemental_Institution
-Ley Orgánica	Law_Reference	ORG
-Ley 	Law_Reference	ORG
-Circulares	Law_Reference	ORG
-Consejo de Estado	Law_Reference	ORG
-Defensor del Pueblo	Law_Reference	ORG
-Decreto-ley	Law_Reference	ORG
-Decreto legislativo	Law_Reference	ORG
-Ley de Bases	Law_Reference	ORG
-Reglamento	Law_Reference	ORG
-Decreto	Law_Reference	ORG
-Orden	Law_Reference	ORG
-Instrucción	Law_Reference	ORG
-Boletín Oficial del Estado	Law_Reference	ORG
-Proyecto de Ley	Law_Reference	ORG
-Proposición de Ley	Law_Reference	ORG
-Consejo de Ministros	Law_Reference	ORG
-Real Decreto	Law_Reference	ORG
-Código Civil	Law_Reference	ORG
-Código Penal	Law_Reference	ORG
-Código Penal Militar	Law_Reference	ORG
-Directiva	Law_Reference	ORG
-Real Decreto Legislativo	Law_Reference	ORG
-Orden Social	Law_Reference	ORG
-Orden Ministerial	Law_Reference	ORG
-Real Decreto-Ley	Law_Reference	ORG
-Registro Mercantil	Law_Reference	ORG
-Real Orden	Law_Reference	ORG
-Real Decreto	Law_Reference	ORG
-Reglamento	Law_Reference	ORG
-Sentencia	Law_Reference	ORG
-Tratado	Law_Reference	ORG
-Resolución	Law_Reference	ORG
-Directiva	Law_Reference	ORG
-Decisión	Law_Reference	ORG
-Recomendación	Law_Reference	ORG
-Dictamen	Law_Reference	ORG
-Auto	Law_Reference	ORG
+Ley Orgánica	Legal_Reference	ORG
+Circulares	Legal_Reference	ORG
+Consejo de Estado	Legal_Reference	ORG
+Defensor del Pueblo	Legal_Reference	ORG
+Decreto-ley	Legal_Reference	ORG
+Decreto legislativo	Legal_Reference	ORG
+Ley de Bases	Legal_Reference	ORG
+Reglamento	Legal_Reference	ORG
+Decreto	Legal_Reference	ORG
+Orden	Legal_Reference	ORG
+Instrucción	Legal_Reference	ORG
+Boletín Oficial del Estado	Legal_Reference	ORG
+Proyecto de Ley	Legal_Reference	ORG
+Proposición de Ley	Legal_Reference	ORG
+Consejo de Ministros	Legal_Reference	ORG
+Real Decreto	Legal_Reference	ORG
+Código Civil	Legal_Reference	ORG
+Código Penal	Legal_Reference	ORG
+Código Penal Militar	Legal_Reference	ORG
+Directiva	Legal_Reference	ORG
+Real Decreto Legislativo	Legal_Reference	ORG
+Orden Social	Legal_Reference	ORG
+Orden Ministerial	Legal_Reference	ORG
+Real Decreto-Ley	Legal_Reference	ORG
+Registro Mercantil	Legal_Reference	ORG
+Real Orden	Legal_Reference	ORG
+Real Decreto	Legal_Reference	ORG
+Reglamento	Legal_Reference	ORG
+Sentencia	Legal_Reference	ORG
+Tratado	Legal_Reference	ORG
+Resolución	Legal_Reference	ORG
+Directiva	Legal_Reference	ORG
+Decisión	Legal_Reference	ORG
+Recomendación	Legal_Reference	ORG
+Dictamen	Legal_Reference	ORG
+Auto	Legal_Reference	ORG
 Tribunal Supremo 	Governemental_Institution	ORG
 Tribunal Constitucional	Governemental_Institution	ORG
 Audiencia Nacional	Governemental_Institution	ORG
@@ -562,61 +561,61 @@ Navarra	Location_Spain	OTROS
 País Vasco	Location_Spain	OTROS
 Ceuta	Location_Spain	OTROS
 Melilla	Location_Spain	OTROS
-Asamblea de la ONU	Law_Reference
-Anuario de Historia del Derecho Español	Law_Reference
-Acuerdo de la Junta Electoral Central	Law_Reference
-Audiencia Provincial	Law_Reference
-Comunidades Europeas	Law_Reference
-Jurisprudencia Constitucional	Law_Reference
-Codex Canonum Ecclesiarum Orientalum	Law_Reference
-Constitución Española	Law_Reference
-Carta Europea de Autonomía Local	Law_Reference
-Catechismus Ecclesiae Catholicae	Law_Reference
-Comunidad Europea del Carbón y del Acero	Law_Reference
-Convenio de Roma	Law_Reference
-Comunidad Económica Europea	Law_Reference
-Comunidad Europea de la Energía Atómica	Law_Reference
-Consejo General del Poder Judicial	Law_Reference
-Codex Iuris Canonici	Law_Reference
-Convención Marco	Law_Reference
-Convenio de Roma	Law_Reference
-Convención de Viena	Law_Reference
-Dignitas Connubii	Law_Reference
-Dirección General de los Registros y del Notariado	Law_Reference
-Dignitatis Humanae	Law_Reference
-Diario O?cial de las Comunidades Europeas	Law_Reference
-Diario O?cial de la Unión Europea	Law_Reference
-Diario de Sesiones del Senado	Law_Reference
-Declaración Universal de Derechos Humanos	Law_Reference
-Fundamento Jurídico	Law_Reference
-Ley de Régimen Jurídico del Sector Público	Law_Reference
-Ley de Seguridad Aérea	Law_Reference
-Oficina Española de Patentes y Marcas	Law_Reference
-Orden Ministerial	Law_Reference
-Partidas	Law_Reference
-Plan General de Contabilidad	Law_Reference
-Poder Judicial	Law_Reference
-Revista de Aeronáutica y Astronáutica	Law_Reference
-Ministerio del Aire	Law_Reference
-Ley de Auditoría de Cuentas	Law_Reference
-Ley de Expropiación Forzosa	Law_Reference
-Registro Mercantil	Law_Reference
-Reglamento de Planeamiento	Law_Reference
-Servicio de Compensación y Liquidación de Valores	Law_Reference
-Sociedad Comanditaria	Law_Reference
-Sociedad Anónima Europea	Law_Reference
-Sociedad de Responsabilidad Limitada	Law_Reference
-Ley de Aguas	Law_Reference
-Ley de Contratos de las Administraciones Públicas	Law_Reference
-Ley del Catastro Inmobiliario	Law_Reference
-Ley de Contratos del Sector Público	Law_Reference
-Ley General de derechos de las personas con discapacidad y de su inclusión social	Law_Reference
-Ley Reguladora de las Haciendas Locales	Law_Reference
-Ley del Impuesto sobre Sociedades	Law_Reference
-Ley de Puertos del Estado y de la Marina Mercante	Law_Reference
-Ley del Suelo	Law_Reference
-Ley de Sociedades Anónimas	Law_Reference
-Vidal Mayor	Law_Reference
+Asamblea de la ONU	Legal_Reference
+Anuario de Historia del Derecho Español	Legal_Reference
+Acuerdo de la Junta Electoral Central	Legal_Reference
+Audiencia Provincial	Legal_Reference
+Comunidades Europeas	Legal_Reference
+Jurisprudencia Constitucional	Legal_Reference
+Codex Canonum Ecclesiarum Orientalum	Legal_Reference
+Constitución Española	Legal_Reference
+Carta Europea de Autonomía Local	Legal_Reference
+Catechismus Ecclesiae Catholicae	Legal_Reference
+Comunidad Europea del Carbón y del Acero	Legal_Reference
+Convenio de Roma	Legal_Reference
+Comunidad Económica Europea	Legal_Reference
+Comunidad Europea de la Energía Atómica	Legal_Reference
+Consejo General del Poder Judicial	Legal_Reference
+Codex Iuris Canonici	Legal_Reference
+Convención Marco	Legal_Reference
+Convenio de Roma	Legal_Reference
+Convención de Viena	Legal_Reference
+Dignitas Connubii	Legal_Reference
+Dirección General de los Registros y del Notariado	Legal_Reference
+Dignitatis Humanae	Legal_Reference
+Diario O?cial de las Comunidades Europeas	Legal_Reference
+Diario O?cial de la Unión Europea	Legal_Reference
+Diario de Sesiones del Senado	Legal_Reference
+Declaración Universal de Derechos Humanos	Legal_Reference
+Fundamento Jurídico	Legal_Reference
+Ley de Régimen Jurídico del Sector Público	Legal_Reference
+Ley de Seguridad Aérea	Legal_Reference
+Oficina Española de Patentes y Marcas	Legal_Reference
+Orden Ministerial	Legal_Reference
+Partidas	Legal_Reference
+Plan General de Contabilidad	Legal_Reference
+Poder Judicial	Legal_Reference
+Revista de Aeronáutica y Astronáutica	Legal_Reference
+Ministerio del Aire	Legal_Reference
+Ley de Auditoría de Cuentas	Legal_Reference
+Ley de Expropiación Forzosa	Legal_Reference
+Registro Mercantil	Legal_Reference
+Reglamento de Planeamiento	Legal_Reference
+Servicio de Compensación y Liquidación de Valores	Legal_Reference
+Sociedad Comanditaria	Legal_Reference
+Sociedad Anónima Europea	Legal_Reference
+Sociedad de Responsabilidad Limitada	Legal_Reference
+Ley de Aguas	Legal_Reference
+Ley de Contratos de las Administraciones Públicas	Legal_Reference
+Ley del Catastro Inmobiliario	Legal_Reference
+Ley de Contratos del Sector Público	Legal_Reference
+Ley General de derechos de las personas con discapacidad y de su inclusión social	Legal_Reference
+Ley Reguladora de las Haciendas Locales	Legal_Reference
+Ley del Impuesto sobre Sociedades	Legal_Reference
+Ley de Puertos del Estado y de la Marina Mercante	Legal_Reference
+Ley del Suelo	Legal_Reference
+Ley de Sociedades Anónimas	Legal_Reference
+Vidal Mayor	Legal_Reference
 Asuntos Exteriores y Cooperación	Governemental_Institution
 Justícia	Governemental_Institution
 Defensa	Governemental_Institution
@@ -670,7 +669,7 @@ Mandato	Detection_words	ORG
 Afidávit	Detection_words	ORG
 Multa	Detection_words	ORG
 Ley	Detection_words	ORG
-Law_Reference	Detection_words	ORG
+Legal_Reference	Detection_words	ORG
 Juramento	Detection_words	ORG
 Investigar	Detection_words	ORG
 Acusar	Detection_words	ORG
