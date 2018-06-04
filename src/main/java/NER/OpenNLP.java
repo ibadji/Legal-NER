@@ -56,10 +56,14 @@ public class OpenNLP {
         entities= namedEntityRecognition( tokens, writer);   
         
         Map<String, Pattern[]> regexMap = new HashMap<>();
-        regexMap.put("Legal_reference", readFileRegx("resources/RegXRules/regx-OpenNLP-"+Type+"-"+language+".txt"));
-        //Pattern[] pattern = {Pattern.compile("artículo\\s[0-9]{0,5}.[a-zA-Z]{1}")};
-        //regexMap.put("Articulo",pattern);
-        
+        //regexMap.put("Legal_reference", readFileRegx("resources/RegXRules/regx-OpenNLP-"+Type+"-"+language+".txt"));
+        //spanish patterns
+        if (Type == "rule" && language == "spanish"){
+            SpanishRule(regexMap);
+        }
+        else if (Type == "rule" && language == "english"){
+            EnglishRule(regexMap);
+        } 
         RegexNameFinder finder = new RegexNameFinder(regexMap);
         Span[] result = finder.find(tokens);
 
@@ -80,7 +84,98 @@ public class OpenNLP {
             writer.close();     
     
     }
-    
+        public static void EnglishRule(Map<String, Pattern[]> regexMap)
+    {
+        Pattern[] treatie = {
+            Pattern.compile("[0-9]{5,7}[a-zA-Z]"),
+            Pattern.compile("[0-9]{5,7}[a-zA-Z]/[a-zA-Z]{0,3}"),
+            Pattern.compile("[0-9]{5,7}[a-zA-Z][0-9]{3,7}")
+        };
+        Pattern[] Agreement = {Pattern.compile("[0-9]{5,7}[a-zA-Z][0-9]{3,7}([0-9]{3,7})")};
+        Pattern[] Judgment = {Pattern.compile("EU:[a-zA-Z]:[0-9]{4}:[0-9]{0,4}")};        
+        Pattern[] RegDirDec = {
+            Pattern.compile("[No][0-9]{4}/[0-9]{0,4}/EC"),
+            Pattern.compile("[0-9]{4}/[0-9]{0,4}/EC"),   
+            Pattern.compile("(EC) [No][0-9]{4}/[0-9]{0,4}"),
+            Pattern.compile("(EC) [0-9]{4}/[0-9]{0,4}") , 
+        };
+        Pattern[] CaseLaw = {
+            Pattern.compile("[a-zA-Z]-[0-9]{0,4}/[0-9]{0,4}"),
+            Pattern.compile("[a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}")
+        };
+        Pattern[] OfficialJ = {
+            Pattern.compile("OJ [a-zA-Z] [0-9]{0,4}"),
+            Pattern.compile("OJ [0-9]{4} [a-zA-Z] [0-9]{0,4}"),
+            Pattern.compile("[0-9]{4}/[a-zA-Z] [0-9]{0,4}/[0-9]{0,4}"),
+            Pattern.compile("[a-zA-Z]:[0-9]{4}:[0-9]{0,4}:[0-9]{0,4}"),
+
+        };
+        
+        regexMap.put("Treatie",treatie);
+        regexMap.put("Agreement",Agreement);
+        regexMap.put("Judgment",Judgment);
+        regexMap.put("RegDirDec",RegDirDec);
+        regexMap.put("CaseLaw",CaseLaw);
+        regexMap.put("OfficialJ",OfficialJ);
+
+    }
+    public static void SpanishRule(Map<String, Pattern[]> regexMap)
+    {
+        Pattern[] articulo = {
+            Pattern.compile("artículo\\s[0-9]{0,5}.[a-zA-Z]{1}"),
+            Pattern.compile("artículo\\s[0-9]{0,5}.[0-9]{0,5}"),
+            Pattern.compile("artículos\\s[0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5}[0-9]{0,5},\\s[0-9]{0,5}\\s[a-zA-Z]\\s[0-9]{0,5}"),
+            Pattern.compile("(art.|artículo|artículos|ART.) [0-9]{0,5} (CE|LRJSP)"),       
+        };
+        Pattern[] Constitution = {
+            Pattern.compile("CE\\w[0-9]{4}"),
+            Pattern.compile("CE-[0-9]{1,7}-[0-9]{1,5}")
+        };     
+        Pattern[] LeyOrganica = {
+            Pattern.compile("Ley [0-9]{1,5}/[0-9]{1,5}"),
+            Pattern.compile("(LRJSP|RDL) [0-9]{1,5}/[0-9]{4}")
+        };
+        Pattern[] directiva = {Pattern.compile("(Dir.|Directiva|dir.) [0-9]{1,5}.[0-9]{1,5}")};
+        Pattern[] recurso = {Pattern.compile("(Rec|rec.|Recurso) [0-9]{0,5}.[0-9]{0,5}")};
+        Pattern[] reglamento = {
+            Pattern.compile("(R|Reglamento)(UE) nº [0-9]{1,5}/[0-9]{4}"),
+            Pattern.compile("(R|Reglamento)(UE) [0-9]{1,5}/[0-9]{4}")      
+        };
+        Pattern[] decreto = {
+            Pattern.compile("(Dec|Decreto|dec) no [0-9]{4}/[0-9]{1,5}/UE"),
+            Pattern.compile("(Dec|Decreto|dec) [0-9]{4}/[0-9]{1,5}/UE")
+        };
+        Pattern[] sentencia = {
+            Pattern.compile("(STEDH|STJUE|RUAM,|RUAM) de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}"),
+            Pattern.compile("(STS|STC|Tribunal) [0-9]{1,5}/[0-9]{4} de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)"),
+            Pattern.compile("sentencia [0-9]{1,5}/[0-9]{1,5}"),
+            Pattern.compile("sentencia de [0-9]{1,5}/[0-9]{1,5}"),
+            Pattern.compile("sentencia de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}"),
+            Pattern.compile("sentencia de (\\w+) [0-9]{1,5}/[0-9]{1,5}"),
+            Pattern.compile("sentencia nº [0-9]{1,5}/[0-9]{1,5}") 
+        };
+        Pattern[] orden = {
+            Pattern.compile("(O.|O|Orden) PRA/[0-9]{1,5}/[0-9]{4}")
+        };
+       Pattern[] dictamen = {
+            Pattern.compile("(Dict|Dictamen) CES")
+        };
+       Pattern[] ordinario = {
+            Pattern.compile("(Apelación|ordinario) [0-9]{1,5}/[0-9]{4}")
+        };   
+       
+        regexMap.put("Articulo",articulo);
+        regexMap.put("Constitution",Constitution);
+        regexMap.put("LeyOrganica",LeyOrganica);
+        regexMap.put("Directiva",directiva);
+        regexMap.put("Recurso",recurso);
+        regexMap.put("Reglamento",reglamento);
+        regexMap.put("Decreto",decreto);
+        regexMap.put("Sentencia",sentencia);
+        regexMap.put("Orden",orden);
+        regexMap.put("Dictamen",dictamen);
+        regexMap.put("Apelacion",ordinario);
+    }
     public static String[] tokenize(String Sentence) throws IOException{
    
         InputStream modelIn = null;

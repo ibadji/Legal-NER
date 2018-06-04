@@ -53,7 +53,7 @@ public class main {
         }
   
         Combine combine = new Combine();
-        combine.filter(text);
+        combine.filter(text,Type);
             
        //Assess Outputs
     }

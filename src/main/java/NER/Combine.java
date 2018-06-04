@@ -41,10 +41,11 @@ public class Combine {
 
     private static Map<String, List<String>> outputList = new  ConcurrentHashMap<String, List<String>>();
     private static Map<String, List<String>> todelete = new  ConcurrentHashMap<String, List<String>>();
+    private static Link link = new Link();
 
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException 
     {
-            filter("resources/inputText/test.txt");
+            filter("resources/inputText/test.txt","rule");
     }
     /*
         Give priorities from 1 to 3, 1 being the highest 
@@ -55,10 +56,19 @@ public class Combine {
     tags the one with highest priority wins. If same priority and same tag the longest one is taken.
         */
         
-    public static void init()
+    public static void init(String Type)
     {
-        grades.put("OpenNLP", 1);
-        grades.put("CoreNLP", 2);
+        if(Type == "rule")
+        {
+            grades.put("OpenNLP", 1);
+            grades.put("CoreNLP", 2);
+        }
+        else if(Type == "nickname" || Type == "other")
+        {
+            grades.put("OpenNLP", 2);
+            grades.put("CoreNLP", 1);
+        }
+
         grades.put("IxaPipe", 3);
         grades.put("GateNLP", 4);
         
@@ -198,10 +208,10 @@ public class Combine {
         color.put("NATIONALITY","#FF74A3");
                 
     }
-    public static void filter(String text) throws IOException
+    public static void filter(String text, String Type) throws IOException
     {
         //initialize the priority maps
-        init();
+        init(Type);
         //put the input into a map keeping trackof the source software
         transform("IxaPipe");         
         transform("CoreNLP");
@@ -259,7 +269,7 @@ public class Combine {
                 {
                     //System.out.println(array[i]+"  "+ array[j] +"  "+sim.calculate(array[i], array[j]));    
                     //check for priorities 
-                    
+                    System.out.println(array[i]+" "+p1.get(1)+"//"+ array[j]+"  "+priority.get(p2.get(1).toString().trim()));
                     
                     if(priority.get(p1.get(1).toString().trim()) < priority.get(p2.get(1).toString().trim()))
                     {
@@ -369,13 +379,12 @@ public class Combine {
          String value = valueK.get(1);
          if(! (value.equals("TITLE") || value.equals("misc") || value.equals("MISC") || value.equals("other") || value.equals("OTH") || value.equals("OTROS") || value.equals("NATIONALITY")))
             t.color(Color.decode(color.get(value.trim())), key.trim());
-         //Link link = new Link();
          //writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLink(mentry.getKey().toString()));       
       }
         writer2.close();
               
     }
-    
+
     public static void grading(HashMap CoreNLP, HashMap OpenNLP, HashMap IxaPipe,HashMap unrated)
     {
         Integer total = outputList.size();

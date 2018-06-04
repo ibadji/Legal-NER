@@ -16,8 +16,13 @@ import org.jsoup.Jsoup;
  */
 public class Link {
     public static final String GOOGLE_SEARCH_URL = "https://www.google.com/search";
-	public static String findLink(String searchTerm) throws IOException {
-		int num = 1;
+    public static void main(String[] args) throws IOException
+    {
+    
+        System.out.print(findLink("ley economia","rule"));
+    }
+	public static String findLink(String searchTerm, String Type) throws IOException {
+		int num = 20;
 		
 		String searchURL = GOOGLE_SEARCH_URL + "?q="+searchTerm+"&num="+num;
 		//without proper User-Agent, we will get 403 error
@@ -34,9 +39,29 @@ public class Link {
 			String linkHref = result.attr("href");
 			String linkText = result.text();
 			//System.out.println("Text::" + linkText + ", URL::" + linkHref.substring(6, linkHref.indexOf("&")));
-                        finalResult = linkHref.substring(6, linkHref.indexOf("&"));
+                        String s = linkHref.substring(6, linkHref.indexOf("&"));
+                        if(Type == "rule")
+                        {
+                            if(s.startsWith("=https://www.boe.es/"))
+                            {
+                                s= s.replace("=", "");
+                                s= s.replace("%3F","?");
+                                s= s.replace("%3D", "=");
+                                finalResult = s;
+                                break;
+                            }
+                        }
+                        //check here if its boe else just take the first link
 
 		}
             return finalResult;
 	}
+        
+        public static void linking(String Type, String word, String entity)
+        {
+           // on rule only with links (boe only)
+           // on nicknames relate to excel files if not found go to google
+           // others link to google and excel on people...
+
+        }
 }

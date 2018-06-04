@@ -1,6 +1,7 @@
 Articulo
 Organization
-Legal_reference
 Recurso
 Person
+LeyOrganica
+Constitution
 Location
