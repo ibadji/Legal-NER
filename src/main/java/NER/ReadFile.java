@@ -51,7 +51,6 @@ public class ReadFile {
            
             buffer.append(Line +"\n");
         }
-
         br.close();
         
         //System.out.println(buffer.toString());

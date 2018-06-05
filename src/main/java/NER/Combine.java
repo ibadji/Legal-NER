@@ -85,6 +85,7 @@ public class Combine {
         priority.put("Orden",1);
         priority.put("Dictamen",1);
         priority.put("Apelacion",1);
+        
         priority.put("Legal_reference",1);
 
         
@@ -114,29 +115,10 @@ public class Combine {
         priority.put("Language",1);
 
         // General present with all services
-        priority.put("PER",3);   
-        priority.put("PERS",3);          
-        priority.put("PERSON",3);
-        priority.put("person",3);
         priority.put("Person",3);
-
-        priority.put("ORG",3);
-        priority.put("organization",3);
         priority.put("Organization",3);
-
-        priority.put("LUG",3);
-        priority.put("location",3);
         priority.put("Location",3);
-
-        priority.put("LOC",3); 
-        priority.put("TITLE",3);       
-
-        priority.put("misc",4);
-        priority.put("MISC",4);
-        priority.put("other",4);
-        priority.put("OTH",4);
-        priority.put("OTROS",4);
-        priority.put("NATIONALITY",4);
+        priority.put("Other",4);     
 
         
 
@@ -184,29 +166,10 @@ public class Combine {
 
         
         //General Present with all services 
-        color.put("PER","#BDC6FF");
-        color.put("PERS","#BDC6FF");
-        color.put("PERSON","#BDC6FF");
         color.put("Person","#BDC6FF");
-        color.put("person","#BDC6FF");
-
-        color.put("ORG","#BDD393");
-        color.put("organization","#BDD393");
         color.put("Organization","#BDD393");
-
-        color.put("LUG","#9E008E");
-        color.put("location","#9E008E");
         color.put("Location","#9E008E");
-        color.put("LOC","#9E008E");
-        
-        color.put("TITLE","#FF74A3");
-        color.put("misc","#FF74A3");
-        color.put("MISC","#FF74A3");
-        color.put("other","#FF74A3");
-        color.put("OTH","#FF74A3");
-        color.put("OTROS","#FF74A3"); 
-        color.put("NATIONALITY","#FF74A3");
-                
+        color.put("Other","#FF74A3");              
     }
     public static void filter(String text, String Type) throws IOException
     {
@@ -217,21 +180,19 @@ public class Combine {
         transform("CoreNLP");
         transform("OpenNLP");
         transform("GateNLP");
-
-        
+       
         SimilarityFilter();
 
         //filter based on similarity given in initialization step
-        Set set = todelete.entrySet();
+        Set set = outputList.entrySet();
         Iterator iterator = set.iterator();
         while(iterator.hasNext()) {
          Map.Entry mentry = (Map.Entry)iterator.next();
          System.out.print("key: "+ mentry.getKey() + "      Value: "+ mentry.getValue());
          System.out.println();
       } 
-
         //show in text
-        showInText(outputList, text);    
+        showInText(outputList, text, Type);    
     }
     
     public static void SimilarityFilter()
@@ -306,7 +267,7 @@ public class Combine {
         formatter.parse(str, pos);
         return str.length() == pos.getIndex();
     }
-    public static void showInText(Map<String, List<String>> outputList, String text) throws FileNotFoundException, UnsupportedEncodingException, IOException
+    public static void showInText(Map<String, List<String>> outputList, String text, String Type) throws FileNotFoundException, UnsupportedEncodingException, IOException
     {
             try {
                 UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
@@ -323,15 +284,6 @@ public class Combine {
                  String key = mentry.getKey().toString();
                  ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
                  String value = valueK.get(1).trim();
-                 if(value.equals("PERS") || value.equals("PERSON") || value.equals("Person") || value.equals("person") || value.equals("PER"))
-                    sett.add("Person");
-                 else if(value.equals("ORG") || value.equals("organization") || value.equals("Organization"))
-                    sett.add("Organization");
-                 else if(value.equals("LUG") || value.equals("location") || value.equals("Location") || value.equals("LOC"))
-                    sett.add("Location");
-                 else if(value.equals("TITLE") || value.equals("misc") || value.equals("MISC") || value.equals("other") || value.equals("OTH") || value.equals("OTROS") || value.equals("NATIONALITY"))
-                 {}//sett.add("other");
-                 else 
                      sett.add(value);
               }
         
@@ -377,9 +329,9 @@ public class Combine {
          String key = mentry.getKey().toString();
          ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
          String value = valueK.get(1);
-         if(! (value.equals("TITLE") || value.equals("misc") || value.equals("MISC") || value.equals("other") || value.equals("OTH") || value.equals("OTROS") || value.equals("NATIONALITY")))
+         if(! value.equals("Other"))
             t.color(Color.decode(color.get(value.trim())), key.trim());
-         //writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLink(mentry.getKey().toString()));       
+         writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(mentry.getKey().toString(),Type,value.trim()));       
       }
         writer2.close();
               
@@ -399,39 +351,48 @@ public class Combine {
         String Line;
         while ((Line = br.readLine()) != null) {
             List<String> values = new ArrayList<String>();
+            String[] result = {};
+            
             if(output=="CoreNLP")
             {
-                String[] result = Line.split(":");
+                result = Line.split(":");
                 values.add("CoreNLP");
-                values.add(result[1]);
-                outputList.put(result[0], values);
+                transform_help(values, result[1].trim(), result[1]);
             }
             else if(output=="OpenNLP"){
-                String[] result = Line.split(":");
+                result = Line.split(":");
                 values.add("OpenNLP");
-                values.add(result[1].split("\\)")[1]);
-                outputList.put(result[0], values);
+                transform_help(values, result[1].split("\\)")[1].trim(), result[1].split("\\)")[1].trim());
+
             }
             else if(output=="IxaPipe"){
-                String[] result = Line.split("\t");
+                result = Line.split("\t");
                 values.add("IxaPipe");
-                values.add(result[1]);     
-                outputList.put(result[0], values);
+                transform_help(values, result[1].trim(), result[1]);     
             }
             else if(output=="GateNLP"){
-                String[] result = Line.split(":");
+                result = Line.split(":");
                 values.add("GateNLP");
-                values.add(result[1]);     
-                outputList.put(result[0], values);
+                transform_help(values, result[1].trim(), result[1]);    
             }
+            outputList.put(result[0], values);
         }
-        
-//        Set set = outputList.entrySet();
-//        Iterator iterator = set.iterator();
-//        while(iterator.hasNext()) {
-//         Map.Entry mentry = (Map.Entry)iterator.next();
-//         System.out.print("key: "+ mentry.getKey() + "      Value: "+ mentry.getValue());
-//         System.out.println();
-//      }
+    }
+    public static void transform_help(List<String> values, String result, String forElse)
+    {
+         if(result.equals("PERS") || result.equals("PERSON") || result.equals("Person") || result.equals("person") || result.equals("PER"))
+            values.add("Person");
+         else if(result.equals("ORG") || result.equals("organization") || result.equals("Organization"))
+            values.add("Organization");
+         else if(result.equals("LUG") || result.equals("location") || result.equals("Location") || result.equals("LOC"))
+            values.add("Location");
+         else if(result.equals("TITLE") || result.equals("misc") || result.equals("MISC") || result.equals("other") || result.equals("OTH") || result.equals("OTROS") || result.equals("NATIONALITY"))
+         {
+             values.add("Other");
+         }
+        else
+         {
+            values.add(forElse);
+         }
     }
 }
