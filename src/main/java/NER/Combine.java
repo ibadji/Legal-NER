@@ -17,7 +17,6 @@ import java.io.UnsupportedEncodingException;
 import java.text.NumberFormat;
 import java.text.ParsePosition;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -47,15 +46,7 @@ public class Combine {
     {
             filter("resources/inputText/test.txt","rule");
     }
-    /*
-        Give priorities from 1 to 3, 1 being the highest 
-        1: regex
-        2: Organization, Person, Location
-        3:misc or other
-    find similarities within the results, the unique ones are added directly the similar ones are checked in their 
-    tags the one with highest priority wins. If same priority and same tag the longest one is taken.
-        */
-        
+       
     public static void init(String Type)
     {
         if(Type == "rule")
@@ -180,6 +171,7 @@ public class Combine {
         transform("CoreNLP");
         transform("OpenNLP");
         transform("GateNLP");
+        transform("Nickname");
        
         SimilarityFilter();
 
@@ -373,6 +365,11 @@ public class Combine {
             else if(output=="GateNLP"){
                 result = Line.split(":");
                 values.add("GateNLP");
+                transform_help(values, result[1].trim(), result[1]);    
+            }
+            else if(output=="Nickname"){
+                result = Line.split(":");
+                values.add("Nickname");
                 transform_help(values, result[1].trim(), result[1]);    
             }
             outputList.put(result[0], values);

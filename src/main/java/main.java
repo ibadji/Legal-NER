@@ -3,6 +3,7 @@ import NER.IxaPipe;
 import NER.CoreNLP;
 import NER.Combine;
 import NER.GateNER;
+import NER.Nicknames;
 import NER.OpenNLP;
 import NER.ReadFile;
 import edu.stanford.nlp.ling.tokensregex.parser.ParseException;
@@ -35,6 +36,11 @@ public class main {
         String Language = SPANISH;
         String Type = "rule";// can be rule, nickname or other for spanish or rule and other for english
         
+        if(Type == "nickname")
+        {
+            Nicknames nickname = new Nicknames();
+            nickname.run();
+        }
         OpenNLP open = new OpenNLP();
         open. runIt(Language,"",sentence,Type);
 
