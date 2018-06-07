@@ -13,6 +13,7 @@ public class Nicknames {
     //this class using similarity runs against the generated excel file from sparql queries 
     public static void run()
     {
-        //txt need to be (name: entity)
+        //txt output need to be (word in text: matched word : entity)
+        //lower case, remove accents, trim, similarity (nicknames with excel) code for typos similarity ? 
     }
 }

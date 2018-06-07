@@ -323,6 +323,7 @@ public class Combine {
          String value = valueK.get(1);
          if(! value.equals("Other"))
             t.color(Color.decode(color.get(value.trim())), key.trim());
+         //if nickname give the matched text not the direct key 
          writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(mentry.getKey().toString(),Type,value.trim()));       
       }
         writer2.close();
