@@ -39,7 +39,7 @@ public class main {
         if(Type == "nickname")
         {
             Nicknames nickname = new Nicknames();
-            nickname.run();
+            nickname.run(sentence);
         }
         OpenNLP open = new OpenNLP();
         open. runIt(Language,"",sentence,Type);
