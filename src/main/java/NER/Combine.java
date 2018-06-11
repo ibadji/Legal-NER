@@ -44,7 +44,7 @@ public class Combine {
 
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException 
     {
-            filter("resources/inputText/test.txt","rule");
+            filter("resources/inputText/tweets.txt","nickname");
     }
        
     public static void init(String Type)
@@ -173,7 +173,7 @@ public class Combine {
         transform("GateNLP");
         transform("Nickname");
        
-        SimilarityFilter();
+        //SimilarityFilter();
 
         //filter based on similarity given in initialization step
         Set set = outputList.entrySet();
@@ -184,7 +184,7 @@ public class Combine {
          System.out.println();
       } 
         //show in text
-        showInText(outputList, text, Type);    
+        //showInText(outputList, text, Type);    
     }
     
     public static void SimilarityFilter()
@@ -351,29 +351,36 @@ public class Combine {
                 result = Line.split(":");
                 values.add("CoreNLP");
                 transform_help(values, result[1].trim(), result[1]);
+                outputList.put(result[0], values);
             }
             else if(output=="OpenNLP"){
                 result = Line.split(":");
                 values.add("OpenNLP");
                 transform_help(values, result[1].split("\\)")[1].trim(), result[1].split("\\)")[1].trim());
+                outputList.put(result[0], values);
 
             }
             else if(output=="IxaPipe"){
                 result = Line.split("\t");
                 values.add("IxaPipe");
-                transform_help(values, result[1].trim(), result[1]);     
+                transform_help(values, result[1].trim(), result[1]); 
+                outputList.put(result[0], values);
             }
             else if(output=="GateNLP"){
                 result = Line.split(":");
                 values.add("GateNLP");
-                transform_help(values, result[1].trim(), result[1]);    
+                transform_help(values, result[1].trim(), result[1]);
+                outputList.put(result[0], values);
             }
             else if(output=="Nickname"){
-                result = Line.split(":");
-                values.add("Nickname");
-                transform_help(values, result[1].trim(), result[1]);    
+                result = Line.split("\t");
+                if(result.length >= 4)
+                {
+                    values.add(result[2]);
+                    values.add("Nicknames");
+                    outputList.put(result[3], values); 
+                }                
             }
-            outputList.put(result[0], values);
         }
     }
     public static void transform_help(List<String> values, String result, String forElse)

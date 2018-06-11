@@ -1,18 +1,50 @@
-0.80762684	Tweet9	ley mordaza	 ley mordaza	, la ley	
-0.5778689	Tweet3	ley mordaza	 sacaria la ley mordaza	
-0.08965195	Tweet11	ley mordaza	@favterrassa ley de	
-0.033619482	Tweet7	ley mordaza	 de la ley	
-0.033619482	Tweet10	ley mordaza	plata de ley- los	
-0.033619482	Tweet13	ley mordaza	 ley dice	
-0.03169675	Tweet12	ley mordaza	 ley la	-ley-la	
-0.028016234	Tweet4	ley mordaza	 la ley	
-0.028016234	Tweet5	ley mordaza	 ley en la	
-0.028016234	Tweet6	ley mordaza	' , " ley de vida"	
-0.028016234	Tweet8	ley mordaza	 ante la ley	
-0.028016234	Tweet14	ley mordaza	 ley, es	
-0.028016234	Tweet17	ley mordaza	 nueva ley de	
-0.028016234	Tweet19	ley mordaza	 ley de	
-0.022412987	Tweet2	ley mordaza	 sobre la ley	
-0.022412987	Tweet15	ley mordaza	 ley de la	
-0.022412987	Tweet18	ley mordaza	 ley que	
-0.019611364	Tweet16	ley mordaza	>la ley 3	
+Socio AGRECOLÓGICA DOÑANA : ORG
+Pesca : OTROS
+Justicia : ORG
+Pesquera : OTROS
+Certificado : ORG
+artículo 117.2 : Articulo
+II : OTROS
+Desarrollo Rural : OTROS
+rec. : Recurso
+Factura : ORG
+Sala : OTROS
+LPAC : ORG
+Conformidad : OTROS
+Andalucía : OTROS
+Tribunal Constitucional : ORG
+Julio : PERS
+Agroalimentaria : ORG
+LCAPA : ORG
+CE-001604-2015 : Constitution
+Calidad : OTROS
+Directora : ORG
+Resolución Directora : ORG
+Resolución : ORG
+Agricultura : OTROS
+Ley 39/2015 : LeyOrganica
+SAT : ORG
+AGROECOLÓGICA DOÑANA : ORG
+artículos 112.1 : Articulo
+Constitución : OTROS
+Ley 2/2011 : LeyOrganica
+artículo 43 : Articulo
+artículo 47.1 : Articulo
+Tribunal Supremo : ORG
+Derecho : OTROS
+Sentencia : ORG
+BERRYNEST H-0023 : ORG
+artículo 117 : Articulo
+SL : ORG
+Sevilla : LUG
+Ley : ORG
+Resumen : OTROS
+CAAE : ORG
+Industrias : OTROS
+Consejería : ORG
+artículo 24.2 : Articulo
+Cadena Agroalimentaria : OTROS
+Junta : ORG
+ii : ORG
+Fundamentos : OTROS
+Hechos : OTROS
