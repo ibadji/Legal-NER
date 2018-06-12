@@ -31,6 +31,7 @@ public class main {
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException, InterruptedException, Exception 
     {
         //text to be annotated
+        //make it go trough many documents
         String text = "resources/inputText/test.txt";
         String sentence = read.readFile(text);
         String Language = SPANISH;

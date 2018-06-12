@@ -45,7 +45,8 @@ public class Nicknames {
     private IndexWriterConfig config;
     private String[] list={};
     private static String[] length;
-    
+    private static PrintWriter writer ;
+
         public static void main(String[] args) throws IOException, InvalidTokenOffsetsException {
         String Text = read.readFile("resources/inputText/tweets.txt");
         run(Text);
@@ -58,9 +59,15 @@ public class Nicknames {
         m.init();
         m.writerEntries(Text);
         //need to check trough the whole excel file
-        String term = "ley mordaza";
-        length = term.split(" ");
-        m.findSilimar(term);
+        String[] runthrough = read.readFile("resources/RegXRules/nicknames.txt").split("\n");
+        writer = new PrintWriter("output/Nickname.txt", "UTF-8");
+        for(String line:runthrough)
+        {
+            String term = line.trim();
+            length = term.split(" ");
+            m.findSilimar(term);
+        }
+        writer.close();
     }
     public void init() throws IOException{
         analyzer = new StandardAnalyzer();
@@ -120,7 +127,6 @@ public class Nicknames {
         Highlighter highlighter = new Highlighter(formatter, scorer);
         Fragmenter fragmenter = new SimpleSpanFragmenter(scorer, 10);
         highlighter.setTextFragmenter(fragmenter);
-        PrintWriter writer = new PrintWriter("output/Nickname.txt", "UTF-8");
 
         //Iterate over found results
         for ( ScoreDoc scoreDoc : topDocs.scoreDocs )
@@ -154,6 +160,5 @@ public class Nicknames {
             }
         }
          reader.close(); 
-         writer.close();
     }	
 }

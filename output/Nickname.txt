@@ -1,2 +1,703 @@
-0.80762684	Tweet9	ley mordaza	 ley mordaza	, la ley	
-0.5778689	Tweet3	ley mordaza	 sacaria la ley mordaza	
+0.5323423	Tweet313	ley general de educacion de 1970	@obagoacg absolutamente de	 ley	 cancer de	, educacion	
+0.82087	Tweet11	ley de evaluacion de impacto ambiental	 ley de accesibilidad?...	
+0.7700639	Tweet164	ley de evaluacion de impacto ambiental	@s_parias ley sanitaria de abril de 2012!!	
+0.61565244	Tweet143	ley de evaluacion de impacto ambiental	@partidopacma cambio de latoda ley electoral.	
+0.5923652	Tweet108	ley de evaluacion de impacto ambiental	proyecto de ley de electricidad de mineria bitcoin: vale la	
+0.5923652	Tweet109	ley de evaluacion de impacto ambiental	 ley de sanidad de	@revillamiguela @subversivos_ derogacion de	
+0.5183196	Tweet326	ley de evaluacion de impacto ambiental	 ley de proteccion de	 con lo de	
+0.5133759	Tweet36	ley de evaluacion de impacto ambiental	implicaciones de la nueva ley para el mercado de la	
+0.5133759	Tweet225	ley de evaluacion de impacto ambiental	nuevo en el foro:  d. las normas de la era de la ley  http	
+0.5133759	Tweet275	ley de evaluacion de impacto ambiental	@carrero pero una ley de orden superior como la de la ue...	
+0.51304376	Tweet255	ley de evaluacion de impacto ambiental	@soytuazote todo debe ocurrir dentro de la ley.	
+0.51304376	Tweet262	ley de evaluacion de impacto ambiental	@aperalesf no. a la que hagan 4 segun la ley de @emilcar	
+0.51304376	Tweet309	ley de evaluacion de impacto ambiental	antes de la ley	 ley mordaza	, presuncion de	 de la ley	
+0.5064672	Tweet308	ley de evaluacion de impacto ambiental	antes ley	 ley mordaza	 de abogado de	 ley sinde y ley	
+1.0634955	Tweet90	ley de reforma politica	 reforma de la ley	 depender de	/politica	
+0.5212538	Tweet150	ley de reforma politica	 luego reforma de la ley	
+0.5212538	Tweet154	ley de reforma politica	 de cardenas, la ley	, la reforma	
+1.1079175	Tweet36	ley del mercado de valores	implicaciones de la nueva ley para el mercado de	
+0.7725472	Tweet290	ley antiterrorista espanola	 ley espanola	
+0.6693624	Tweet311	ley de promocion de autonomia personal y atencion a las personas dependientes	 la ley de causa y	 de las bases de la	@helenacasares y esto quien lo dice	 y el	 personal en las mas	, lejos de	
+0.6392154	Tweet102	ley de promocion de autonomia personal y atencion a las personas dependientes	 de la ley de dependencia? y era	 las personas	 de nuestro	 sanitario y	, y estaba	
+1.609864	Tweet115	ley del suelo	y la ley del suelo. y la ley	
+1.1944348	Tweet279	ley del suelo	 modifica la ley del suelo	
+0.7861373	Tweet170	ley 38/1999, de 5 de noviembre, de ordenacion de la edificacion	de la	 anteproyecto de ley de	 ambito de la ordenacion	 la	/la	-ley	-la	-la-ordenacion	
+0.5633519	Tweet278	ley organica 5/1985, de 19 de junio, del regimen electoral general	) de la ley organica 4/2015, de	es tan facil como aprobar una ley organica por via de urgencia con un	 (regimen	
+0.57145274	Tweet184	ley 46/1977, de 15 de octubre, de amnistia	 ley	 futuro de los 46 millones de	
+0.5508589	Tweet232	ley 46/1977, de 15 de octubre, de amnistia	menuda verguenza de pais. antes el @ppopular y	 ley	 sentenciado a 15 anos de	
+0.7888788	Tweet32	ley de presupuesto	 ley, la	 presupuesto	 cia de eco	
+0.51557755	Tweet11	ley 35/2010	 ley de accesibilidad?...	
+0.59282106	Tweet64	ley de reforma agraria	 sobre la ley agraria	 ciudad de	
+0.91518384	Tweet319	ley 7/2002	 7 de	 que una ley	
+0.72262394	Tweet286	ley 7/2002	 por ley	 horas, 7, 6 o	
+0.82087	Tweet11	ley de economia sostenible	 ley de accesibilidad?...	
+0.7700639	Tweet164	ley de economia sostenible	@s_parias ley sanitaria de abril de 2012!!	
+0.61565244	Tweet143	ley de economia sostenible	@partidopacma cambio de latoda ley electoral.	
+0.5923652	Tweet108	ley de economia sostenible	proyecto de ley de electricidad de	
+0.5923652	Tweet109	ley de economia sostenible	 ley de sanidad de	 de	
+0.5183196	Tweet326	ley de economia sostenible	 ley de proteccion de	 con lo de	
+0.5133759	Tweet36	ley de economia sostenible	implicaciones de la nueva ley	 mercado de	
+0.5133759	Tweet225	ley de economia sostenible	 normas de la era de la ley  http	
+0.5133759	Tweet275	ley de economia sostenible	@carrero pero una ley de	 de la ue...	
+0.51304376	Tweet255	ley de economia sostenible	 dentro de la ley.	
+0.51304376	Tweet262	ley de economia sostenible	 la ley de @emilcar	
+0.51304376	Tweet309	ley de economia sostenible	antes de la ley	 ley mordaza	, presuncion de	
+0.5064672	Tweet308	ley de economia sostenible	antes ley	 ley mordaza	 de abogado de	
+0.8234278	Tweet37	ley de sucesion en la jefatura del estado	 la ley son un arma en	 de estado	 el estado de derecho y en	 golpe de estado	
+0.7195047	Tweet288	ley de sucesion en la jefatura del estado	 del estado	, la ley de	 libertad de	
+0.66809106	Tweet298	ley de sucesion en la jefatura del estado	 la ley los	 en que	 golpe de estado. pero eso de	 hacen de	 la	
+0.5968064	Tweet156	ley de sucesion en la jefatura del estado	-del-estado	 cesado por ley	 del estado tras el cambio de	-cesado-ley	
+0.547251	Tweet73	ley de sucesion en la jefatura del estado	 la abogacia del estado	 ley ante	, aunque la haya	
+0.51143557	Tweet173	ley de sucesion en la jefatura del estado	 en la estiba a la ley del contrato de	-en-la	-ley-del	la dgt	 la	
+1.6666694	Tweet308	ley de defensa de consumidores y usuarios	 ley sinde y	antes ley sinde y ley mordaza: defensa	 de abogado de	
+0.59240377	Tweet40	ley de regimen juridico de las administraciones publicas y del procedimiento administrativo comun	les propongo un ejercicio de divertimento juridico. aqui tienen las enmiendas de la ley mordaza, para buscar la mas ingeniosa y	
+0.91134405	Tweet156	ley de organizacion y funcionamiento de la administracion general del estado	-general-del-estado	julian sanchez melgar es cesado por ley	 fiscal general del estado tras el cambio de	-cesado-ley	
+0.6460981	Tweet288	ley de organizacion y funcionamiento de la administracion general del estado	 del estado	, la ley de	 libertad de expresion y	 cumplirla y a	
+0.53518367	Tweet205	ley de organizacion y funcionamiento de la administracion general del estado	 marco de la lops y la ley general de	 y	 no estamos de	
+0.5178276	Tweet37	ley de organizacion y funcionamiento de la administracion general del estado	 la ley son	 de estado	 el estado de derecho y en	 golpe de estado ? hay muchas posibilidades de	
+0.50892186	Tweet209	ley de organizacion y funcionamiento de la administracion general del estado	 de la ley y	@luisevivanco todas las instituciones municipales dan pena, por lo general	 y, cuando	
+0.6299739	Tweet112	ley organica de proteccion de datos de caracter personal	 ley de proteccion de datos	-proteccion-datos-pymes	
+0.5409764	Tweet326	ley organica de proteccion de datos de caracter personal	 ley de proteccion de datos	un mensaje a las empresas que inundan mi correo con lo de	
+0.5294218	Tweet201	ley organica de proteccion de datos de caracter personal	estan prepardas las pymes para la ley de proteccion datos	-la-ley-de-proteccion-datos	
+0.6384433	Tweet31	ley antitabaco  de 2011	video | aumenta el numero de	 ignoran la ley antitabaco	
+0.5479952	Tweet75	ley antitabaco  de 2011	 diciembre de 2011... la ley de la	 ministerio de	
+0.5903262	Tweet278	ley organica del estado de 1967	) de la ley organica 4/2015, de	 ley organica por via de	
+0.5412313	Tweet156	ley organica del estado de 1967	-del-estado	 cesado por ley	 del estado tras el cambio de	-cesado-ley	
+0.7334869	Tweet41	ley hipotecaria espanola	 ley hipotecaria que	
+0.50582594	Tweet241	ley 19/2017 del referendum de autodeterminacion de cataluna	 proceso de	 cataluna al margen de la ley y del deseo de mas de la mitad de	
+0.74883676	Tweet31	ley antitabaco de espana de 2006	video | aumenta el numero de fumadores	 ignoran la ley antitabaco	
+0.51557755	Tweet11	ley concursal	 ley de accesibilidad?...	
+0.84017766	Tweet196	ley constitutiva de las cortes	plata de ley- las	 corrida de las	/5/31/las	
+0.8276191	Tweet87	ley constitutiva de las cortes	las #prostitutas de amsterdam	 una ley "que las pone	
+0.8276191	Tweet100	ley constitutiva de las cortes	las prostitutas de amsterdam	 ley "que las pone	
+0.79328316	Tweet225	ley constitutiva de las cortes	:  d. las normas de la era de la ley  http	
+0.7552806	Tweet240	ley constitutiva de las cortes	 fraude de ley	 tiempos de populistas"las	, las mociones de	
+0.75244975	Tweet81	ley constitutiva de las cortes	 las consecuencias de esta ley. las	 de empresa?	
+0.7358672	Tweet256	ley constitutiva de las cortes	ley de secretos empresariales, contra	 a las	
+0.7326726	Tweet326	ley constitutiva de las cortes	 ley de proteccion de	un mensaje a las	 con lo de	
+0.69824207	Tweet305	ley constitutiva de las cortes	plata de ley- las	 para la de	 de resina	/28/las	
+0.6777905	Tweet44	ley constitutiva de las cortes	 las limitaciones de	 libertad de expresion de	 las	
+0.654577	Tweet34	ley constitutiva de las cortes	plata de ley- las	 festejo de	/6/5/las	-festejo-de	
+0.654577	Tweet101	ley constitutiva de las cortes	plata de ley- las	 para la de	/las	-la-de	
+0.654577	Tweet158	ley constitutiva de las cortes	plata de ley- las	 corrida de	/6/1/las	-corrida-de	
+0.654577	Tweet181	ley constitutiva de las cortes	 mitad de	... las empresas de	 forma de bajar las	
+0.654577	Tweet267	ley constitutiva de las cortes	plata de ley- las	 de san	/29/las	-de-san	
+0.654577	Tweet268	ley constitutiva de las cortes	plata de ley- las	 de san	/29/las	-de-san	
+0.65042084	Tweet201	ley constitutiva de las cortes	-la-ley-de	 prepardas las	 para la ley de	/las	
+0.6438838	Tweet20	ley constitutiva de las cortes	como afecta a la inversion la ley de	, todas las	
+0.6438838	Tweet138	ley constitutiva de las cortes	@abalosmeco @psoe es un abuso de ley y	 caro en las	
+0.6438838	Tweet315	ley constitutiva de las cortes	las injurias leves quedaron	 juicio de	 que la ley mordaza.	
+0.6391565	Tweet15	ley constitutiva de las cortes	 ley de la	 de las	, lamentamos las	 nota de	 a las	
+0.6270415	Tweet313	ley constitutiva de las cortes	 de	 las	 ley electoral. las	 cancer de	
+0.6214057	Tweet35	ley constitutiva de las cortes	 las manos	!lavate las manos, que las	 manchadas de	 una ley del	
+0.61835194	Tweet266	ley constitutiva de las cortes	 de la ley de	-de-la-ley	 para las	.x/plan-de	
+0.5949624	Tweet257	ley constitutiva de las cortes	 las calles por ley de	 a uber, de que	
+0.5949624	Tweet316	ley constitutiva de las cortes	 de la ley	 si las	 constitutivas de	
+0.5911565	Tweet59	ley constitutiva de las cortes	curiosidad de las enmiendas a la ley	 vigor las	
+0.5670026	Tweet42	ley constitutiva de las cortes	 ley de proteccion de datos de	 para las	 @masmovil tfno de	
+0.5609359	Tweet12	ley constitutiva de las cortes	 asociacion de	 ley la privacidad de las	-asociacion-de	
+0.5519004	Tweet3	ley constitutiva de las cortes	 la hucha de las	 ley	
+0.5519004	Tweet227	ley constitutiva de las cortes	 es ley de vida.	es que to es quejarse.a las otras	
+0.5519004	Tweet289	ley constitutiva de las cortes	@gabrielrufian se pone las	 virtud de la ley	
+0.5519004	Tweet323	ley constitutiva de las cortes	@aloguerr creo que las fake	 ley	 de por	
+0.54655105	Tweet19	ley constitutiva de las cortes	 de las	 cambio de la ley de	 de datos	
+0.5422324	Tweet311	ley constitutiva de las cortes	 la ley de	 de las bases de la	 en las mas	, lejos de	
+0.52333754	Tweet102	ley constitutiva de las cortes	 de la ley de	 las	 de nuestro	
+0.52333754	Tweet147	ley constitutiva de las cortes	 ley que	 a pesar de que	 las victimas de abusos	 millones de	
+0.5191814	Tweet113	ley constitutiva de las cortes	 tuit de hoy	, quiten las	. ley mordaza, ley sanitaria de	
+1.2655268	Tweet267	ley 22/1988	 ley- las	 para la 22	
+1.2655268	Tweet268	ley 22/1988	 ley- las	 para la 22	
+0.65728235	Tweet308	ley de defensa de la republica	antes ley	 ley mordaza: defensa	 de abogado de	 ley sinde y	
+0.94291335	Tweet313	ley de educacion de andalucia	 de	 ley	 cancer de	, educacion	
+0.8232008	Tweet243	ley de educacion de andalucia	#por13razonesmocion corrupcion -sanidad -educacion	 ley	
+0.82087	Tweet11	ley de evaluacion de impacto ambiental	 ley de accesibilidad?...	
+0.7700639	Tweet164	ley de evaluacion de impacto ambiental	@s_parias ley sanitaria de abril de 2012!!	
+0.61565244	Tweet143	ley de evaluacion de impacto ambiental	@partidopacma cambio de latoda ley electoral.	
+0.5923652	Tweet108	ley de evaluacion de impacto ambiental	proyecto de ley de electricidad de mineria bitcoin: vale la	
+0.5923652	Tweet109	ley de evaluacion de impacto ambiental	 ley de sanidad de	@revillamiguela @subversivos_ derogacion de	
+0.5183196	Tweet326	ley de evaluacion de impacto ambiental	 ley de proteccion de	 con lo de	
+0.5133759	Tweet36	ley de evaluacion de impacto ambiental	implicaciones de la nueva ley para el mercado de la	
+0.5133759	Tweet225	ley de evaluacion de impacto ambiental	nuevo en el foro:  d. las normas de la era de la ley  http	
+0.5133759	Tweet275	ley de evaluacion de impacto ambiental	@carrero pero una ley de orden superior como la de la ue...	
+0.51304376	Tweet255	ley de evaluacion de impacto ambiental	@soytuazote todo debe ocurrir dentro de la ley.	
+0.51304376	Tweet262	ley de evaluacion de impacto ambiental	@aperalesf no. a la que hagan 4 segun la ley de @emilcar	
+0.51304376	Tweet309	ley de evaluacion de impacto ambiental	antes de la ley	 ley mordaza	, presuncion de	 de la ley	
+0.5064672	Tweet308	ley de evaluacion de impacto ambiental	antes ley	 ley mordaza	 de abogado de	 ley sinde y ley	
+0.5309121	Tweet296	ley de integracion de los inmigrantes	@elisabeni y esos que dices que salvan inmigrantes	 ley? salvar	
+1.1125795	Tweet72	ley de lenguas de aragon	opinamos de la ley de aragon	 deciamos de	 parecidas de	
+0.9006858	Tweet45	ley de lenguas de aragon	/2ltv64o es de ley la	 #aragon x	 plan de	
+0.89416456	Tweet71	ley de lenguas de aragon	la ley madrilena	 frenada. la de aragon ha	-ley	
+0.5400102	Tweet115	ley de medidas sobre urbanismo y suelo de castilla y leon	y la ley del suelo. y la ley de becas.  https://twitter.com/ierrejon/status/1002987662884655105	
+1.3037153	Tweet212	ley de memoria historica de espana	@plumademaat dote de dinero la ley de memoria historica y	
+1.106375	Tweet63	ley de memoria historica de espana	video | ley mordaza, renovacion de rtve, memoria historica	
+0.53142613	Tweet279	ley de ordenacion del territorio de la comunidad de castilla y leon	la comunidad de madrid modifica la ley del suelo para facilitar la obtencion de licencias de primera ocupacion en los	
+0.89196324	Tweet212	ley de organizacion y atribuciones de los tribunales	@plumademaat dote de dinero la ley de memoria historica y ponga los	 hacer eso y mas...	
+0.77498895	Tweet13	ley de organizacion y atribuciones de los tribunales	@rogertorrent solidarizarse con los	 y no con los q	 ley dice	 tipo de	
+0.74327624	Tweet221	ley de organizacion y atribuciones de los tribunales	 ser los de	en verano, los unicos olores	 por ley	 brisa marina y	 de estas	 fragancias. y	
+0.70083725	Tweet228	ley de organizacion y atribuciones de los tribunales	 los pobres; los ricos y los	 marques de	 de rosalia	 y su	 ley solo	 quieren, y	
+0.6884277	Tweet229	ley de organizacion y atribuciones de los tribunales	 collar y el	 y	 ley electoral y que los	 vivan de	, no de	
+0.67637146	Tweet264	ley de organizacion y atribuciones de los tribunales	; los ricos y los	: "la  ley	 existe para los	 quieren, y lo	 de sade	...y fue	
+0.6475974	Tweet77	ley de organizacion y atribuciones de los tribunales	@almudenanegro la ley de hanlon es muy aplicable a los que votan al pp y a cs	
+0.6475974	Tweet162	ley de organizacion y atribuciones de los tribunales	 los tiempos de la ley seca	-y-beber	
+0.64580995	Tweet200	ley de organizacion y atribuciones de los tribunales	 ley. y	@ondacero_es y el	 y puesto en manos de	 poder los	 todos los	 y enca	
+0.6371166	Tweet141	ley de organizacion y atribuciones de los tribunales	 y	 y	 de cambiar la ley	 listillo de aznar	 a todos los	
+0.6371166	Tweet288	ley de organizacion y atribuciones de los tribunales	 a todos los	 libertad de expresion y	, la ley de	 cumplirla y a	
+0.6353226	Tweet192	ley de organizacion y atribuciones de los tribunales	la ley solo existe para los pobres; los ricos y los	 quieren, y lo	 de sade	
+0.6309258	Tweet51	ley de organizacion y atribuciones de los tribunales	 de los	una nueva ley preve	 de #garantia de la	  y crea	 consejo de control de la	
+0.6134964	Tweet302	ley de organizacion y atribuciones de los tribunales	los de izquierda de la ciudad de lepe son tan retrasados	 ley de	 5 meses y	
+0.6065344	Tweet5	ley de organizacion y atribuciones de los tribunales	 @jerolba @jlantunez aqui los teoricos	 ley en la	 y tienes	 una de	 y las	
+0.58966833	Tweet241	ley de organizacion y atribuciones de los tribunales	 margen de la ley y	 los	 proceso de	 de mas de la mitad de los	
+0.57024664	Tweet8	ley de organizacion y atribuciones de los tribunales	 ante la ley y	 libertad de	, los derechos	 imperio de la	
+0.57024664	Tweet91	ley de organizacion y atribuciones de los tribunales	@savechildren video | @savechildren y	 falta de una ley que	 a los	 centro de	
+0.53966445	Tweet55	ley de organizacion y atribuciones de los tribunales	mecenazgo cultural:cambiamos el chip? (ley	 tenemos los	 de	 cultural y su	
+0.53966445	Tweet85	ley de organizacion y atribuciones de los tribunales	... y cuando se los	 problemas. ley de murphy b	
+0.53966445	Tweet182	ley de organizacion y atribuciones de los tribunales	 provocador y un	 de cuando	 los	 saltarse la ley	
+0.53966445	Tweet214	ley de organizacion y atribuciones de los tribunales	@dlacalle en baleares ya los hemos sufrido hasta	 y en la	 reforme la ley	 de estos	
+0.5166593	Tweet219	ley de organizacion y atribuciones de los tribunales	 que los	.  si los	 el. y por	 que la ley	.  de verd	
+0.5166593	Tweet253	ley de organizacion y atribuciones de los tribunales	 todos los	 de	 os los	 la ley electoral. y	
+0.50673676	Tweet295	ley de organizacion y atribuciones de los tribunales	: la ley de	para los que me acusan de ser	 blasfemo y	 video de mi	 bbc de	 ley que he	
+1.0583677	Tweet289	ley de participacion ciudadana	 virtud de la ley	 ciudadana	
+0.9272361	Tweet278	ley de participacion ciudadana	) de la ley	 ley	 via de	/2015, de	
+0.9006858	Tweet288	ley de participacion ciudadana	 libertad de	, la ley de	 ciudadana esta	
+0.6365903	Tweet261	ley de principios del movimiento nacional	la ley de proteccion	/nacional/la-ley-de	 de	-de	
+0.59771204	Tweet120	ley de principios del movimiento nacional	 nueva ley de	 nacional no se	
+0.59282106	Tweet64	ley de reforma agraria de 1932	 sobre la ley agraria	 ciudad de	
+0.82087	Tweet11	ley de responsabilidades politicas	 ley de accesibilidad?...	
+0.7700639	Tweet164	ley de responsabilidades politicas	@s_parias ley sanitaria de abril de 2012!!	
+0.61565244	Tweet143	ley de responsabilidades politicas	@partidopacma cambio de latoda ley electoral.	
+0.5923652	Tweet108	ley de responsabilidades politicas	proyecto de ley de electricidad de	
+0.5923652	Tweet109	ley de responsabilidades politicas	 ley de sanidad de	 de	
+0.5183196	Tweet326	ley de responsabilidades politicas	 ley de proteccion de	 con lo de	
+0.5133759	Tweet36	ley de responsabilidades politicas	implicaciones de la nueva ley	 mercado de	
+0.5133759	Tweet225	ley de responsabilidades politicas	 normas de la era de la ley  http	
+0.5133759	Tweet275	ley de responsabilidades politicas	@carrero pero una ley de	 de la ue...	
+0.51304376	Tweet255	ley de responsabilidades politicas	 dentro de la ley.	
+0.51304376	Tweet262	ley de responsabilidades politicas	 la ley de @emilcar	
+0.51304376	Tweet309	ley de responsabilidades politicas	antes de la ley	 ley mordaza	, presuncion de	
+0.5064672	Tweet308	ley de responsabilidades politicas	antes ley	 ley mordaza	 de abogado de	
+1.3964922	Tweet6	ley de santa maria de nieva	 maria de hace	' , " ley de vida"	 delante a maria	 de paris	
+1.380538	Tweet62	ley de simbolos de navarra	 de simbolos religiosos	 ley jurar	
+0.6354035	Tweet170	ley de transitoriedad juridica y fundacional de la republica	de la	 anteproyecto de ley de	 ambito de la	 y	 la seguridad juridica	 y	/la	
+0.55570674	Tweet209	ley de transitoriedad juridica y fundacional de la republica	 de la ley y	 juridica y, cuando	
+0.64906865	Tweet155	ley de uso y ensenanza del valenciano	el gobierno aprueba el proyecto de ley de	 al uso ilicito de	
+0.64906865	Tweet155	ley de uso y promocion del asturiano	el gobierno aprueba el proyecto de ley de	 al uso ilicito de	
+0.9006858	Tweet67	ley de veguerias de cataluna	el plan para cataluna ha de	 cumplimiento de la ley. nada	
+0.7502515	Tweet241	ley de veguerias de cataluna	 proceso de	 cataluna al margen de la ley y	 de mas de	
+0.70557845	Tweet253	ley de veguerias de cataluna	 de cataluna	 la ley	
+0.52247167	Tweet261	ley del referendum nacional	la ley de proteccion	/nacional/la-ley-de	
+0.51496893	Tweet120	ley del referendum nacional	 nueva ley de	 nacional no se	
+0.51496893	Tweet318	ley del referendum nacional	 nacional	 (ley 100	
+1.0406394	Tweet115	ley del suelo de la region de murcia	y la ley del suelo. y la ley de becas.  https://twitter.com/ierrejon/status/1002987662884655105	
+0.8025281	Tweet279	ley del suelo de la region de murcia	la comunidad de madrid modifica la ley del suelo	 facilitar la obtencion de	 de	
+0.81994444	Tweet115	ley del tercer canal de television	y la ley del suelo. y la ley de becas.  https://twitter.com	
+0.80618006	Tweet56	ley del tercer canal de television	ley de transparencia: el gobierno del	 patrimonio de	-del-pp	
+0.6937363	Tweet173	ley del tercer canal de television	 ley del contrato de	-ley-del-contrato-de-transporte.html	
+0.6863111	Tweet83	ley del tercer canal de television	el ultimo proyecto de ley del gabinete	: proyecto de ley de	
+0.6600076	Tweet279	ley del tercer canal de television	la comunidad de	 modifica la ley del suelo	 obtencion de	 de	
+0.6468844	Tweet266	ley del tercer canal de television	 de la ley de contratos del	-de-la-ley	.x/plan-de-empleo-de	
+0.6084293	Tweet52	ley del tercer canal de television	>proyecto de ley de	 de ayer lunes 04 de	 del reglamento del	
+0.59369004	Tweet25	ley del tercer canal de television	  de la ley de	 salarial y ley de	 del	 de trato	
+0.59369004	Tweet88	ley del tercer canal de television	-ley-del-deporte/	, ley	 de pseudo	 musculos de	 de perfiles de	
+0.5908573	Tweet15	ley del tercer canal de television	 ley de la	 nota de	 ofertas de libros, de	, del libro y de las	
+0.5908573	Tweet300	ley del tercer canal de television	 no de ley	 sesion de la	 de #igualdad del	, prohibicion de	 del	
+0.5886548	Tweet7	ley del tercer canal de television	ciudadanos ha recurrido la tramitacion de la ley del 1-o	
+0.5886548	Tweet13	ley del tercer canal de television	 ley dice mucho del tipo de	
+0.5886548	Tweet273	ley del tercer canal de television	 una ley del	la agrupacion de ferrocarriles historicos espanoles	
+0.5886548	Tweet289	ley del tercer canal de television	 virtud de la ley	 permiso del	
+0.5886548	Tweet293	ley del tercer canal de television	jornada sobre contratos menores en la ley de contratos del	
+0.5717704	Tweet19	ley del tercer canal de television	 a raiz del cambio de la ley de	 de las	 de datos	
+0.5717704	Tweet53	ley del tercer canal de television	 #reunion del	 de ayer 04 de mayo se	 la #ley de	 #historico de	
+0.55810636	Tweet50	ley del tercer canal de television	 de ley	 de	 celebracion del	 dictamen del	 de	
+0.55000633	Tweet70	ley del tercer canal de television	? (ley	 cambio de	 mejora de la	 del	 mundo de la	
+0.52807355	Tweet156	ley del tercer canal de television	 cesado por ley	 del	 cambio de	-cesado-ley	-del-estado	
+0.52419007	Tweet21	ley del tercer canal de television	asi desafiaba #michaeljackson la ley de	 de la	 del cuerpo	
+0.52419007	Tweet91	ley del tercer canal de television	 falta de una ley que	 menores del	 centro de	
+0.52419007	Tweet119	ley del tercer canal de television	asi desafiaba #michaeljackson la ley de	 de la	 del cuerpo	
+0.52419007	Tweet135	ley del tercer canal de television	asi desafiaba #michaeljackson la ley de	 de la	 del cuerpo	
+0.52419007	Tweet149	ley del tercer canal de television	 consenso de gobierno de	 a manos del	 puta ley	
+0.52419007	Tweet187	ley del tercer canal de television	asi desafiaba #michaeljackson la ley de	 de la	 del cuerpo	
+0.52419007	Tweet230	ley del tercer canal de television	asi desafiaba #michaeljackson la ley de	 de la	 del cuerpo	
+0.52419007	Tweet231	ley del tercer canal de television	asi desafiaba #michaeljackson la ley de	 de la	 del cuerpo	
+0.52419007	Tweet288	ley del tercer canal de television	 del estado	 libertad de	, la ley de	
+0.5124653	Tweet71	ley del tercer canal de television	la ley madrilena que	 frenada. la de	-ley-mordaza-del	
+0.5105378	Tweet125	ley del tercer canal de television	es el momento de pelear por una ley	 barrera del 3	 del sistema	
+0.5105378	Tweet270	ley del tercer canal de television	 encima de la ley? pacma	 momento del	-del	
+0.51557755	Tweet11	ley moyano	 ley de accesibilidad?...	
+0.51557755	Tweet11	ley omnibus	 ley de accesibilidad?...	
+1.2774307	Tweet278	ley organica	 ley organica por	
+1.2774307	Tweet299	ley organica	 ley	 organica, por	
+0.55017126	Tweet241	ley organica de armonizacion del proceso autonomico	 proceso de	 margen de la ley y del deseo de mas de la mitad de	
+0.5271741	Tweet278	ley organica de armonizacion del proceso autonomico	) de la ley organica 4/2015, de	 ley organica por via de	
+0.9445394	Tweet278	ley organica de estabilidad presupuestaria y sostenibilidad financiera	) de la ley organica 4/2015, de	 ley organica por via de	
+0.59415686	Tweet299	ley organica de estabilidad presupuestaria y sostenibilidad financiera	@agarzon @adelgado @acruiz la ley mordaza es organica, por	 otra ley organica	
+0.5032743	Tweet112	ley organica de proteccion de datos de caracter personal de espana	 ley de proteccion de datos	-proteccion-datos-pymes	
+1.538423	Tweet278	ley organica de proteccion de la seguridad ciudadana (2015)	) de la ley organica 4/2015, de seguridad ciudadana	 ley organica por via de	
+0.61748683	Tweet289	ley organica de proteccion de la seguridad ciudadana (2015)	@gabrielrufian se pone las denuncias en virtud de la ley seguridad ciudadana, con el	
+0.5203421	Tweet288	ley organica de proteccion de la seguridad ciudadana (2015)	, la ley de seguridad ciudadana esta	 libertad de	
+0.71494305	Tweet278	ley organica de transferencias complementarias a canarias	) de la ley organica 4/2015, de	 ley organica por via de	
+0.5236002	Tweet53	ley organica de transferencias complementarias a canarias	 de ayer 04 de mayo se	 la #ley de	 #historico de #canarias via	
+1.3219398	Tweet278	ley organica de universidades	) de la ley	 ley organica por via de	
+0.83155835	Tweet299	ley organica de universidades	 ley	 organica, por	 otra ley organica	
+0.51557755	Tweet11	ley paccionada navarra	 ley de accesibilidad?...	
+1.1412547	Tweet25	ley para la igualdad efectiva de mujeres y hombres	  de la ley de igualdad salarial y ley de igualdad de trato	 hombres y mujeres en el	
+0.68020654	Tweet39	ley penal en blanco	 ley penal	 estar en	
+0.622007	Tweet308	ley penal en blanco	antes ley	 ley mordaza	 penal	 ley sinde y	
+0.51833916	Tweet309	ley penal en blanco	 la ley	 ley mordaza	 penal	 la ley	
+1.2032597	Tweet189	ley reguladora de la subcontratacion en el sector de la construccion	la ley fintech y como evitar ciberataques en el sector financiero mexicano. #fintech http://ow.ly/cazv30kgjvn	
+1.0962949	Tweet266	ley reguladora de la subcontratacion en el sector de la construccion	 de la ley de	-de-la-ley-de	-inscribete-en-la	 sector publico	 el empleo	.x/plan-de-empleo-de	/plan-de-empleo-de	
+0.8494124	Tweet293	ley reguladora de la subcontratacion en el sector de la construccion	jornada sobre contratos menores en la ley de contratos del sector publico #laadministracionaldia  http://laadministracionaldia.inap.es	
+0.7078436	Tweet17	ley reguladora de la subcontratacion en el sector de la construccion	hoy participamos en la jornada sobre nueva ley de contratos del sector publico organizada por @feacem clm	
+0.60515976	Tweet273	ley reguladora de la subcontratacion en el sector de la construccion	la agrupacion de ferrocarriles historicos espanoles pide una ley del sector  http://www.elcomercio.es/gijon	
+0.50496197	Tweet36	ley reguladora del derecho a la vivienda en andalucia	implicaciones de la nueva ley para el mercado de la vivienda con @jordipani #foroleyhipotecaria	
+0.8928709	Tweet294	ley sobre estadounidenses con discapacidades de 1990	video @liarlapardo | @mrios, sobre la libertad de	 retrocedido con la 'ley	
+0.6129922	Tweet26	ley sobre estadounidenses con discapacidades de 1990	 aprobar una ley sobre	 de carbono	 con	 acuerdos de	
+0.54516935	Tweet48	ley sobre estadounidenses con discapacidades de 1990	eeuu, gobernador de misuri firma un proyecto de ley sobre el canamo	
+1.0925467	Tweet170	ley urbanistica valenciana	 ley de	 urbanistica	-ley	
+1.0656353	Tweet101	leyenda de la fundacion de madrid	 para la de	-la-de	plata de ley- las	 madrid	-madrid-30392	
+1.0656353	Tweet123	leyenda de la fundacion de madrid	plata de	 para la tercera de	 en madrid	-para-la-tercera-de	
+1.0656353	Tweet158	leyenda de la fundacion de madrid	plata de	 para la corrida de	 madrid  http	-para-la-corrida-de	
+1.0656353	Tweet267	leyenda de la fundacion de madrid	plata de	 para la 22 de san	 en madrid	-para-la-22-de-san	
+1.0656353	Tweet268	leyenda de la fundacion de madrid	plata de	 para la 22 de san	 en madrid	-para-la-22-de-san	
+0.98384595	Tweet279	leyenda de la fundacion de madrid	la comunidad de madrid modifica la ley	 facilitar la obtencion de	
+0.91627115	Tweet162	leyenda de la fundacion de madrid	 tiempos de la	/la	-madrid/29413	
+0.7858189	Tweet91	leyenda de la fundacion de madrid	 denuncian la falta de	 centro de madrid para	 la	
+0.6600777	Tweet34	leyenda de la fundacion de madrid	plata de ley- las	 festejo de	 madrid  http	-festejo-de	-madrid	
+0.6600777	Tweet234	leyenda de la fundacion de madrid	plata de ley- los hombres de	 madrid	-hombres-de-plata	-en-madrid	
+0.7862996	Tweet56	leyenda del lago de sanabria	ley de transparencia	 gobierno del	 patrimonio de	-del-pp	
+0.7413304	Tweet115	leyenda del lago de sanabria	y la ley del suelo. y la ley de becas.  https	
+0.6552497	Tweet173	leyenda del lago de sanabria	 ley del contrato de	-ley-del-contrato-de-transporte.html	
+0.6315416	Tweet83	leyenda del lago de sanabria	el ultimo proyecto de ley del	: proyecto de ley de	
+0.6315416	Tweet279	leyenda del lago de sanabria	la comunidad de	 del suelo	 obtencion de	 de	
+0.6214927	Tweet266	leyenda del lago de sanabria	 de la ley de contratos del	.x/plan-de-empleo-de	
+0.6049472	Tweet52	leyenda del lago de sanabria	 de ayer lunes 04 de	>proyecto de ley de	 del	
+0.58074045	Tweet15	leyenda del lago de sanabria	 nota de	 ofertas de libros, de	 ley de la	, del libro y	
+0.58074045	Tweet300	leyenda del lago de sanabria	 sesion de la	 de #igualdad del	, prohibicion de	 del	
+0.5559978	Tweet7	leyenda del lago de sanabria	 de la ley del 1-o	
+0.5559978	Tweet13	leyenda del lago de sanabria	 mucho del tipo de	
+0.5559978	Tweet273	leyenda del lago de sanabria	la agrupacion de ferrocarriles historicos	 una ley del	
+0.5559978	Tweet289	leyenda del lago de sanabria	 virtud de	 permiso del	
+0.5559978	Tweet293	leyenda del lago de sanabria	 ley de contratos del	
+0.5493271	Tweet19	leyenda del lago de sanabria	 de las	 a raiz del cambio de la ley de	 de datos	
+0.5493271	Tweet25	leyenda del lago de sanabria	 del	  de la ley de	 salarial y ley de	 de trato	
+0.5493271	Tweet53	leyenda del lago de sanabria	 #reunion del	 de ayer 04 de mayo se	 de	 #historico de	
+0.5493271	Tweet88	leyenda del lago de sanabria	 de pseudo	 musculos de	 de perfiles de	-ley-del-deporte/	
+0.5460658	Tweet50	leyenda del lago de sanabria	 de ley	 de	 celebracion del	 dictamen del	 de	
+0.52628464	Tweet70	leyenda del lago de sanabria	 cambio de	 mejora de la	 del	 mundo de la	
+0.8262879	Tweet290	leyenda negra de la inquisicion espanola	 pp de la gurtel.	 saltaron la ley espanola que es la	 en la	
+1.0354483	Tweet279	leyendas del atletico de madrid	 comunidad de madrid	 del suelo	 obtencion de	 de	
+0.847572	Tweet91	leyendas del atletico de madrid	 falta de	 menores del	 centro de madrid para	
+0.5913364	Tweet34	leyendas del atletico de madrid	plata de	 festejo de	 madrid  http	-festejo-de	-madrid	
+0.5913364	Tweet101	leyendas del atletico de madrid	plata de	 para la de	 madrid	-la-de	-madrid-30392	
+0.5913364	Tweet123	leyendas del atletico de madrid	plata de	 tercera de	 en madrid	-tercera-de	-madrid	
+0.5913364	Tweet158	leyendas del atletico de madrid	plata de	 corrida de	 madrid  http	-corrida-de	-madrid-30332	
+0.5913364	Tweet234	leyendas del atletico de madrid	plata de	 hombres de	 madrid	-hombres-de-plata	-en-madrid	
+0.5913364	Tweet267	leyendas del atletico de madrid	plata de	 de san	 en madrid	-de-san	-madrid	
+0.5913364	Tweet268	leyendas del atletico de madrid	plata de	 de san	 en madrid	-de-san	-madrid	
+0.8335242	Tweet90	referendum sobre la ley para la reforma politica	. @psoe @ppopular para cuando una reforma de la ley electoral que	/politica	
+0.6858061	Tweet203	referendum sobre la ley para la reforma politica	le derogacion de la #leymordaza no esta sobre la	 ley	 politica para sacar	
+0.52278805	Tweet278	ley organica de calidad de la educacion	) de la ley organica 4/2015, de	 ley organica por via de	
+1.1314962	Tweet133	ley de grandes ciudades	la nueva ley de vivienda de	 a los grandes	
+0.94291335	Tweet22	ley de grandes ciudades	 campana de proteccion de	 grandes	 esta ley	
+1.0819458	Tweet90	ley de la reforma politica	 reforma de la ley	 depender de	/politica	
+0.6079712	Tweet154	ley de la reforma politica	 de cardenas, la ley	, la reforma	y esperemos la	
+0.59664345	Tweet150	ley de la reforma politica	 luego reforma de la ley	 atienen a la	
+0.5085966	Tweet8	ley de la reforma politica	 ante la ley y	 imperio de la	 @disidentia la	 politica	 amenaza la	
+0.5066427	Tweet152	ley de la reforma politica	 abiertas y la reforma de la ley	 sistema. la	
+0.5066427	Tweet188	ley de la reforma politica	 preocupe la ley	 la mocion... de	. la	 reforma y	
+0.6299739	Tweet112	ley organica de proteccion de datos de caracter personal	 ley de proteccion de datos	-proteccion-datos-pymes	
+0.5409764	Tweet326	ley organica de proteccion de datos de caracter personal	 ley de proteccion de datos	un mensaje a las empresas que inundan mi correo con lo de	
+0.5294218	Tweet201	ley organica de proteccion de datos de caracter personal	estan prepardas las pymes para la ley de proteccion datos	-la-ley-de-proteccion-datos	
+1.0156779	Tweet102	ley de dependencia	 de la ley de	 de nuestro	
+1.1892875	Tweet170	ley de ordenacion de la edificacion	de la	 anteproyecto de ley de	 ambito de la ordenacion	 la	
+1.2665952	Tweet23	violencia contra la mujer	 contra la	violencia machista o una	
+1.1043237	Tweet199	ley de amnistia en espana de 1977	 porqueria de ley	 tenemos en espana!!!	 gobierna en	
+0.8111169	Tweet184	ley de amnistia en espana de 1977	 millones de espanoles en espana	 tuvieron en	 ley	 futuro de	
+0.59169877	Tweet200	ley de amnistia en espana de 1977	 en manos de	@ondacero_es y el 155 ...porque sino, espana sera	 ley. y	
+0.5588049	Tweet294	ley de amnistia en espana de 1977	video @liarlapardo | @mrios, sobre la libertad de	: "espana	 la 'ley	
+0.528397	Tweet223	ley de amnistia en espana de 1977	 enemigos de espana	 gobierno de espana	 cambiar de	 ley	
+0.5709107	Tweet154	reforma laboral en espana en 2010	, la reforma laboral	
+0.59282106	Tweet64	ley de reforma agraria  de 1932	 sobre la ley agraria	 ciudad de	
+1.5644572	Tweet170	ley de ordenacion urbanistica de andalucia	 anteproyecto de ley de	de la	 ambito de la ordenacion	 urbanistica	
+1.4219666	Tweet308	ley sinde	 ley sinde y	antes ley	
+1.3406429	Tweet307	ley sinde	autor ley sinde	
+1.184972	Tweet309	ley sinde	 la ley sinde y la	
+0.82486624	Tweet44	ley sinde	 la ley sinde, manda huevos.	
+0.82087	Tweet11	ley de navegacion aerea	 ley de accesibilidad?...	
+0.7700639	Tweet164	ley de navegacion aerea	@s_parias ley sanitaria de abril de 2012!!	
+0.61565244	Tweet143	ley de navegacion aerea	@partidopacma cambio de latoda ley electoral.	
+0.5923652	Tweet108	ley de navegacion aerea	proyecto de ley de electricidad de	
+0.5923652	Tweet109	ley de navegacion aerea	 ley de sanidad de	 de	
+0.5183196	Tweet326	ley de navegacion aerea	 ley de proteccion de	 con lo de	
+0.5133759	Tweet36	ley de navegacion aerea	implicaciones de la nueva ley	 mercado de	
+0.5133759	Tweet225	ley de navegacion aerea	 normas de la era de la ley  http	
+0.5133759	Tweet275	ley de navegacion aerea	@carrero pero una ley de	 de la ue...	
+0.51304376	Tweet255	ley de navegacion aerea	 dentro de la ley.	
+0.51304376	Tweet262	ley de navegacion aerea	 la ley de @emilcar	
+0.51304376	Tweet309	ley de navegacion aerea	antes de la ley	 ley mordaza	, presuncion de	
+0.5064672	Tweet308	ley de navegacion aerea	antes ley	 ley mordaza	 de abogado de	
+1.3113958	Tweet156	administracion general del estado	-del-estado	 fiscal general del estado tras el	
+1.1588209	Tweet31	ley antitabaco	 ignoran la ley antitabaco	
+0.57429624	Tweet299	ley organica de derechos y deberes de los miembros de las fuerzas armadas	@agarzon @adelgado @acruiz la ley mordaza es organica, por afectar a derechos fundamentales. l.o. 4/2015	 otra ley organica	
+0.52312547	Tweet8	ley organica de derechos y deberes de los miembros de las fuerzas armadas	, los derechos	 ante la ley y	 libertad de	 imperio de la	
+1.5450944	Tweet41	ley hipotecaria	 ley hipotecaria que	
+0.7670113	Tweet109	ley general de sanidad	 ley de sanidad de	 de	
+0.5528687	Tweet3	ley general de sanidad	 la hucha de	 ley	 sanidad al	
+0.51280385	Tweet156	ley general de sanidad	 cesado por ley	 fiscal general	 cambio de	-cesado-ley	
+0.9387588	Tweet150	constitucion de 1978	 constitucion	 de la ley	
+0.81958425	Tweet298	constitucion de 1978	 golpe de	. pero eso de	 hacen de	
+0.803396	Tweet90	constitucion de 1978	 reforma de la	 depender de	 #constitucion	
+0.64271677	Tweet176	constitucion de 1978	 aprobado antes de	 constitucion lo protege de	
+0.62583923	Tweet190	constitucion de 1978	 constitucion	. hablando de las	
+0.9006858	Tweet67	ley de consultas de cataluna	el plan para cataluna ha de	 cumplimiento de la ley. nada	
+0.7502515	Tweet241	ley de consultas de cataluna	 proceso de	 cataluna al margen de la ley y	 de mas de	
+0.70557845	Tweet253	ley de consultas de cataluna	 de cataluna	 la ley	
+0.6337816	Tweet290	ley de nacionalidad espanola para los sefardies	 ley espanola	 que los del pp de la gurtel.	
+0.81994444	Tweet115	ley del referendum de autodeterminacion	y la ley del suelo. y la ley de becas.  https	
+0.80618006	Tweet56	ley del referendum de autodeterminacion	ley de transparencia	 gobierno del	 patrimonio de	-del-pp	
+0.6937363	Tweet173	ley del referendum de autodeterminacion	 ley del contrato de	-ley-del-contrato-de-transporte.html	
+0.6863111	Tweet83	ley del referendum de autodeterminacion	el ultimo proyecto de ley del	: proyecto de ley de	
+0.6600076	Tweet279	ley del referendum de autodeterminacion	 comunidad de	 modifica la ley del suelo	 obtencion de	 de	
+0.6468844	Tweet266	ley del referendum de autodeterminacion	 de la ley de contratos del	-de-la-ley	.x/plan-de	
+0.6084293	Tweet52	ley del referendum de autodeterminacion	>proyecto de ley de	 de ayer lunes 04 de	 del	
+0.59369004	Tweet25	ley del referendum de autodeterminacion	  de la ley de	 salarial y ley de	 del	 de trato	
+0.59369004	Tweet88	ley del referendum de autodeterminacion	-ley-del-deporte/	, ley	 de pseudo	 musculos de	 de	
+0.5908573	Tweet15	ley del referendum de autodeterminacion	 ley de la	 nota de	 ofertas de libros, de	, del libro y	
+0.5908573	Tweet300	ley del referendum de autodeterminacion	 no de ley	 sesion de la	 de #igualdad del	, prohibicion de	
+0.5886548	Tweet7	ley del referendum de autodeterminacion	 de la ley del 1-o	
+0.5886548	Tweet13	ley del referendum de autodeterminacion	 ley dice mucho del tipo de	
+0.5886548	Tweet273	ley del referendum de autodeterminacion	 una ley del	la agrupacion de ferrocarriles historicos	
+0.5886548	Tweet289	ley del referendum de autodeterminacion	 virtud de la ley	 permiso del	
+0.5886548	Tweet293	ley del referendum de autodeterminacion	 ley de contratos del	
+0.5717704	Tweet19	ley del referendum de autodeterminacion	 a raiz del cambio de la ley de	 de las	 de datos	
+0.5717704	Tweet53	ley del referendum de autodeterminacion	 #reunion del	 de ayer 04 de mayo se	 la #ley de	
+0.55810636	Tweet50	ley del referendum de autodeterminacion	 de ley	 de	 celebracion del	 dictamen del	 de	
+0.55000633	Tweet70	ley del referendum de autodeterminacion	? (ley	 cambio de	 mejora de la	 del	 mundo de la	
+0.52807355	Tweet156	ley del referendum de autodeterminacion	 cesado por ley	 del	 cambio de	-cesado-ley	-del-estado	
+0.52419007	Tweet21	ley del referendum de autodeterminacion	 la ley de	 de la	 del cuerpo	
+0.52419007	Tweet91	ley del referendum de autodeterminacion	 falta de una ley que	 menores del	 centro de	
+0.52419007	Tweet119	ley del referendum de autodeterminacion	 la ley de	 de la	 del cuerpo	
+0.52419007	Tweet135	ley del referendum de autodeterminacion	 la ley de	 de la	 del cuerpo	
+0.52419007	Tweet149	ley del referendum de autodeterminacion	 consenso de gobierno de	 a manos del	 puta ley	
+0.52419007	Tweet187	ley del referendum de autodeterminacion	 la ley de	 de la	 del cuerpo	
+0.52419007	Tweet230	ley del referendum de autodeterminacion	 la ley de	 de la	 del cuerpo	
+0.52419007	Tweet231	ley del referendum de autodeterminacion	 la ley de	 de la	 del cuerpo	
+0.52419007	Tweet288	ley del referendum de autodeterminacion	 del estado	 libertad de	, la ley de	
+0.5124653	Tweet71	ley del referendum de autodeterminacion	la ley madrilena	 frenada. la de	-ley-mordaza-del	
+0.5105378	Tweet125	ley del referendum de autodeterminacion	es el momento de	 una ley	 barrera del 3	 del sistema	
+0.5105378	Tweet270	ley del referendum de autodeterminacion	 encima de la ley? pacma	 momento del	-del	
+0.74883676	Tweet31	ley antitabaco de espana	 numero de	 ignoran la ley antitabaco	
+0.84017766	Tweet196	ley constitutiva de las cortes espanolas	plata de ley- las	 corrida de las	/5/31/las	-corrida-de	
+0.8276191	Tweet87	ley constitutiva de las cortes espanolas	las #prostitutas de amsterdam protestan	 una ley "que las pone	
+0.8276191	Tweet100	ley constitutiva de las cortes espanolas	las prostitutas de amsterdam protestan	 ley "que las pone	
+0.79328316	Tweet225	ley constitutiva de las cortes espanolas	nuevo en el foro:  d. las normas de la era de la ley  http	
+0.7552806	Tweet240	ley constitutiva de las cortes espanolas	 fraude de ley	 tiempos de populistas"las	, las mociones de	. las	
+0.75244975	Tweet81	ley constitutiva de las cortes espanolas	 las consecuencias de esta ley. las	 de empresa?	
+0.7358672	Tweet256	ley constitutiva de las cortes espanolas	ley de secretos empresariales, contra que protege a las	
+0.7326726	Tweet326	ley constitutiva de las cortes espanolas	 ley de proteccion de	un mensaje a las empresas que	 con lo de	
+0.69824207	Tweet305	ley constitutiva de las cortes espanolas	plata de ley- las	 para la de	 de resina	/28/las	-para-la-de	
+0.6777905	Tweet44	ley constitutiva de las cortes espanolas	 las limitaciones de	 libertad de expresion de	 las casaciones de	
+0.654577	Tweet34	ley constitutiva de las cortes espanolas	plata de ley- las cuadrillas	 festejo de	/6/5/las	-festejo-de	
+0.654577	Tweet101	ley constitutiva de las cortes espanolas	plata de ley- las cuadrillas para la de	/las	-la-de	
+0.654577	Tweet158	ley constitutiva de las cortes espanolas	plata de ley- las cuadrillas	 corrida de	/6/1/las	-corrida-de	
+0.654577	Tweet181	ley constitutiva de las cortes espanolas	 mitad de	... las empresas de	 forma de bajar las	 ley	
+0.654577	Tweet267	ley constitutiva de las cortes espanolas	plata de ley- las cuadrillas	 de san	/29/las	-de-san	
+0.654577	Tweet268	ley constitutiva de las cortes espanolas	plata de ley- las cuadrillas	 de san	/29/las	-de-san	
+0.65042084	Tweet201	ley constitutiva de las cortes espanolas	-la-ley-de	estan prepardas las	 para la ley de	/las	
+0.6438838	Tweet20	ley constitutiva de las cortes espanolas	como afecta a la inversion la ley de #cambioclimatico	, todas las	
+0.6438838	Tweet138	ley constitutiva de las cortes espanolas	@abalosmeco @psoe es un abuso de ley y esperamos	 caro en las	
+0.6438838	Tweet315	ley constitutiva de las cortes espanolas	las injurias leves quedaron despenalizadas	 juicio de	 que la ley mordaza.	
+0.6391565	Tweet15	ley constitutiva de las cortes espanolas	 ley de la	 de las	, lamentamos las	 nota de	 a las ofertas de	
+0.6270415	Tweet313	ley constitutiva de las cortes espanolas	 de	 las	 ley electoral. las	 cancer de	
+0.6214057	Tweet35	ley constitutiva de las cortes espanolas	 las manos	!lavate las manos, que las	 manchadas de	 una ley del	 para que las	
+0.61835194	Tweet266	ley constitutiva de las cortes espanolas	 de la ley de	-de-la-ley	 para las	.x/plan-de-empleo-de	
+0.5949624	Tweet257	ley constitutiva de las cortes espanolas	taxistas en mexico se toman las calles por ley de	 a uber, de que	
+0.5949624	Tweet316	ley constitutiva de las cortes espanolas	 de la ley	 si las	 constitutivas de	
+0.5911565	Tweet59	ley constitutiva de las cortes espanolas	curiosidad de las enmiendas a la ley mordaza	 vigor las	
+0.5670026	Tweet42	ley constitutiva de las cortes espanolas	 ley de proteccion de datos de	 para las	 @masmovil tfno de	 entrega de	
+0.5609359	Tweet12	ley constitutiva de las cortes espanolas	 asociacion de	 ley la privacidad de las	-asociacion-de	-ley-la	
+0.5519004	Tweet3	ley constitutiva de las cortes espanolas	 la hucha de las	 ley	
+0.5519004	Tweet227	ley constitutiva de las cortes espanolas	 es ley de vida.	es que to es quejarse.a las otras tambien le	
+0.5519004	Tweet289	ley constitutiva de las cortes espanolas	@gabrielrufian se pone las denuncias en virtud de la ley	
+0.5519004	Tweet323	ley constitutiva de las cortes espanolas	@aloguerr creo que las fake news son	 ley	 de por	
+0.54655105	Tweet19	ley constitutiva de las cortes espanolas	 de las	 cambio de la ley de	 de datos	
+0.5422324	Tweet311	ley constitutiva de las cortes espanolas	 la ley de	 de las bases de la	 en las mas	, lejos de	
+0.52333754	Tweet102	ley constitutiva de las cortes espanolas	 de la ley de	 las	 de nuestro	
+0.52333754	Tweet147	ley constitutiva de las cortes espanolas	 ley que	 a pesar de que	 las victimas de abusos	 millones de	
+0.5191814	Tweet113	ley constitutiva de las cortes espanolas	 tuit de hoy	, quiten las	. ley mordaza, ley sanitaria de	
+0.80226827	Tweet301	ley de costas	 propuesta de	 de	 costas	
+1.8352698	Tweet212	ley de la memoria historica	 de dinero la ley de memoria historica y	
+1.2169877	Tweet63	ley de la memoria historica	video | ley mordaza	 de rtve, memoria historica	
+0.9821675	Tweet170	ley de transitoriedad juridica	 anteproyecto de ley de	de la	 seguridad juridica	
+0.8613446	Tweet71	ley de transitoriedad juridica	la ley	 frenada. la de	-juridica-la-ley	
+0.8486748	Tweet209	ley de transitoriedad juridica	 de la ley y	 juridica	
+0.5344838	Tweet274	ley de transitoriedad juridica	 ley es	 juridica que	
+0.9006858	Tweet67	ley de organizacion de veguerias de cataluna	el plan para cataluna ha de ser regresar al	 cumplimiento de la ley. nada	
+0.7502515	Tweet241	ley de organizacion de veguerias de cataluna	 proceso de	 cataluna al margen de la ley y	 de mas de la mitad de	
+0.70557845	Tweet253	ley de organizacion de veguerias de cataluna	 de cataluna	 la ley	
+0.71613204	Tweet317	ley de instruccion publica	antes de la ley	 el juez de instruccion	
+0.5642196	Tweet204	ley de instruccion publica	 de	 prueba de que	 primado la ley de	
+0.58612293	Tweet278	ley organica espanola	 ley organica por	) de la ley	
+0.58612293	Tweet299	ley organica espanola	 ley	 organica, por	 otra ley	
+1.2261227	Tweet305	ley de partido	-partido-de	plata de ley- las	
+0.706435	Tweet223	ley de partido	 partido	 gobierno de	 cambiar de	
+0.5344838	Tweet73	ley de partido	 ley ante	 su partido	
+0.5344838	Tweet207	ley de partido	 partido que	 la ley	
+1.1987176	Tweet151	ley mordaza	 la ley mordaza ya.	
+1.1987176	Tweet250	ley mordaza	 la ley mordaza	
+0.9888915	Tweet283	ley mordaza	 de la ley mordaza	
+0.95875204	Tweet277	ley mordaza	una ley mordaza sin	
+0.88415575	Tweet308	ley mordaza	 ley mordaza	antes ley	
+0.83359003	Tweet9	ley mordaza	 la ley mordaza	 ley donde	
+0.83359003	Tweet79	ley mordaza	 a derogar la ley mordaza?	 ley	
+0.83359003	Tweet307	ley mordaza	 ley mordaza	autor ley	
+0.799145	Tweet86	ley mordaza	ley mordaza: "que	
+0.799145	Tweet217	ley mordaza	 ley mordaza...	
+0.799145	Tweet269	ley mordaza	 ley mordaza	
+0.73679644	Tweet309	ley mordaza	 ley mordaza	 la ley	
+0.6992519	Tweet57	ley mordaza	 ley mordaza	
+0.6992519	Tweet243	ley mordaza	 ley mordaza	
+0.6992519	Tweet282	ley mordaza	, derogar la ley mordaza y	
+0.6992519	Tweet315	ley mordaza	 que la ley mordaza.	
+0.5993588	Tweet3	ley mordaza	 ley mordaza, ni	
+0.5993588	Tweet58	ley mordaza	 a la ley mordaza, aqui	
+0.5993588	Tweet61	ley mordaza	 ley mordaza, no hay	
+0.5993588	Tweet63	ley mordaza	video | ley mordaza	
+0.5993588	Tweet154	ley mordaza	 cardenas, la ley mordaza	
+0.5993588	Tweet175	ley mordaza	 la ley mordaza sigue	
+0.5993588	Tweet291	ley mordaza	 ley mordaza  http	
+0.5993588	Tweet294	ley mordaza	 la 'ley mordaza' casi	
+0.5993588	Tweet316	ley mordaza	 de la ley mordaza	
+0.5993588	Tweet317	ley mordaza	 la ley mordaza, era	
+0.5993588	Tweet323	ley mordaza	 ley mordaza	
+0.52099377	Tweet71	ley mordaza	la ley	-ley	
+0.52099377	Tweet113	ley mordaza	. ley mordaza, ley	
+0.52099377	Tweet299	ley mordaza	 ley mordaza es	
+0.76171875	Tweet200	keep calm and speak catalan	. catalan	
+0.73126686	Tweet52	ley de modificacion de fueros de navarra	>proyecto de ley de	 de ayer lunes 04 de	>modificacion	 de artesania de	
+1.1412547	Tweet25	ley para la igualdad efectiva de hombres y mujeres	  de la ley de igualdad salarial y ley de igualdad de trato	 hombres y mujeres en el	
+0.66788256	Tweet39	norma penal en blanco	 ley penal	 estar en	
+0.82087	Tweet11	ley de estadounidenses minusvalidos de 1990	 ley de accesibilidad?...	
+0.7700639	Tweet164	ley de estadounidenses minusvalidos de 1990	@s_parias ley sanitaria de abril de 2012!!	
+0.61565244	Tweet143	ley de estadounidenses minusvalidos de 1990	@partidopacma cambio de latoda ley electoral.	
+0.5923652	Tweet108	ley de estadounidenses minusvalidos de 1990	proyecto de ley de electricidad de mineria bitcoin: vale la	
+0.5923652	Tweet109	ley de estadounidenses minusvalidos de 1990	 ley de sanidad de	@revillamiguela @subversivos_ derogacion de	
+0.5183196	Tweet326	ley de estadounidenses minusvalidos de 1990	 ley de proteccion de	 con lo de	
+0.5133759	Tweet36	ley de estadounidenses minusvalidos de 1990	implicaciones de la nueva ley para el mercado de la	
+0.5133759	Tweet225	ley de estadounidenses minusvalidos de 1990	nuevo en el foro:  d. las normas de la era de la ley  http	
+0.5133759	Tweet275	ley de estadounidenses minusvalidos de 1990	@carrero pero una ley de orden superior como la de la ue...	
+0.51304376	Tweet255	ley de estadounidenses minusvalidos de 1990	@soytuazote todo debe ocurrir dentro de la ley.	
+0.51304376	Tweet262	ley de estadounidenses minusvalidos de 1990	@aperalesf no. a la que hagan 4 segun la ley de @emilcar	
+0.51304376	Tweet309	ley de estadounidenses minusvalidos de 1990	antes de la ley	 ley mordaza	, presuncion de	 de la ley	
+0.5064672	Tweet308	ley de estadounidenses minusvalidos de 1990	antes ley	 ley mordaza	 de abogado de	 ley sinde y ley	
+0.5395697	Tweet112	reglamento de desarrollo de la ley organica de proteccion de datos	 con la nueva ley de proteccion de datos	-proteccion-datos-pymes	
+0.71494305	Tweet278	ley organica de educacion	) de la ley	 ley organica por via de	
+0.5099547	Tweet313	ley organica de educacion	 de	 ley	 cancer de	, educacion	
+1.1157053	Tweet90	ley para la reforma politica	 reforma de la ley	 para cuando	/politica	
+0.66730636	Tweet320	ley para la reforma politica	 claves para que la nueva ley	 encerrona' para	/politica	
+0.5613228	Tweet152	ley para la reforma politica	 abiertas y la reforma de la ley	 sistema. la	 pais,para	
+0.5560886	Tweet321	ley para la reforma politica	 claves para que la nueva ley	 encerrona' para	/politica	
+0.51639384	Tweet203	ley para la reforma politica	 derogacion de la	 sobre la	 ley	 politica para sacar	
+0.93648577	Tweet112	ley organica de proteccion de datos	 ley de proteccion de datos	-proteccion-datos-pymes	
+0.80418694	Tweet326	ley organica de proteccion de datos	 ley de proteccion de datos	 con lo de	
+0.7870105	Tweet201	ley organica de proteccion de datos	 para la ley de proteccion datos	-la-ley-de-proteccion-datos	
+0.6936391	Tweet42	ley organica de proteccion de datos	 ley de proteccion de datos de	 @masmovil tfno de	 entrega de mis datos	
+0.6799672	Tweet244	ley organica de proteccion de datos	 nueva ley de proteccion de datos. hoy	
+0.6799672	Tweet284	ley organica de proteccion de datos	 nueva ley de proteccion de datos. manana	
+0.580978	Tweet80	ley organica de proteccion de datos	 ley de proteccion de datos	algunos sites de	-sites-de-ee	
+0.573245	Tweet28	ley organica de proteccion de datos	 ley ley	 de proteccion de datos no puede	
+0.56663936	Tweet22	ley organica de proteccion de datos	@aepd_es esta campana de proteccion de datos	 esta ley	
+0.5634405	Tweet278	ley organica de proteccion de datos	) de la ley organica 4/2015, de	 ley organica por via de	
+0.72254914	Tweet52	servicio de ayuda a domicilio	 de ayer lunes 04 de	>proyecto de ley de	 servicio	
+0.8697898	Tweet23	ley integral contra la violencia de genero	violencia machista o una nueva ley contra la	 retos de	 de igualdad	
+0.70864964	Tweet243	ley integral contra la violencia de genero	 ley	 -violencia genero	
+0.570852	Tweet136	ley integral contra la violencia de genero	- nueva ley de violencia de genero	 de	 ley	
+0.5935367	Tweet278	ley organica del regimen electoral general	 ley organica por	 (regimen	) de la ley organica 4	
+0.82087	Tweet11	ley de amnistia de 1977	 ley de accesibilidad?...	
+0.7700639	Tweet164	ley de amnistia de 1977	@s_parias ley sanitaria de abril de 2012!!	
+0.61565244	Tweet143	ley de amnistia de 1977	@partidopacma cambio de latoda ley electoral.	
+0.5923652	Tweet108	ley de amnistia de 1977	proyecto de ley de electricidad de mineria	
+0.5923652	Tweet109	ley de amnistia de 1977	 ley de sanidad de	 de	
+0.5183196	Tweet326	ley de amnistia de 1977	 ley de proteccion de	 con lo de	
+0.5133759	Tweet36	ley de amnistia de 1977	implicaciones de la nueva ley para el mercado de	
+0.5133759	Tweet225	ley de amnistia de 1977	 normas de la era de la ley  http	
+0.5133759	Tweet275	ley de amnistia de 1977	@carrero pero una ley de orden superior	 de la ue...	
+0.51304376	Tweet255	ley de amnistia de 1977	@soytuazote todo debe ocurrir dentro de la ley.	
+0.51304376	Tweet262	ley de amnistia de 1977	@aperalesf no. a la que hagan 4 segun la ley de @emilcar	
+0.51304376	Tweet309	ley de amnistia de 1977	antes de la ley	 ley mordaza	, presuncion de	 de	
+0.5064672	Tweet308	ley de amnistia de 1977	antes ley	 ley mordaza	 de abogado de	 ley sinde y	
+1.4219666	Tweet308	ley sinde-wert	 ley sinde y	antes ley	
+1.3406429	Tweet307	ley sinde-wert	autor ley sinde	
+1.184972	Tweet309	ley sinde-wert	 la ley sinde y la	
+0.82486624	Tweet44	ley sinde-wert	 la ley sinde, manda huevos.	
+0.9190932	Tweet41	ley sobre navegacion aerea	en pleno debate! foro sobre	 ley	
+0.8042065	Tweet48	ley sobre navegacion aerea	 ley sobre	
+0.8042065	Tweet195	ley sobre navegacion aerea	 parece, sobre	 ley	
+0.7936527	Tweet236	ley sobre navegacion aerea	 sobre ilegal y sobre	 ley esta	
+0.6893199	Tweet76	ley sobre navegacion aerea	 y sobre	 ley	
+0.6893199	Tweet81	ley sobre navegacion aerea	 reflexionen sobre	 esta ley	
+0.6893199	Tweet210	ley sobre navegacion aerea	la fede-aepe alerta sobre una	 ley de	
+0.6893199	Tweet226	ley sobre navegacion aerea	 sobre aplicacion ley 13	
+0.6893199	Tweet244	ley sobre navegacion aerea	 sobre la nueva ley	
+0.6893199	Tweet284	ley sobre navegacion aerea	 sobre la nueva ley	
+0.6893199	Tweet293	ley sobre navegacion aerea	jornada sobre contratos	 ley de	
+0.6893199	Tweet294	ley sobre navegacion aerea	, sobre la	 la 'ley	
+0.6893199	Tweet317	ley sobre navegacion aerea	antes de la ley mordaza, era	 sobre	
+0.59315187	Tweet204	ley sobre navegacion aerea	 primado la ley	 sobre la ley general	
+0.57443327	Tweet14	ley sobre navegacion aerea	 ley, es	% sobre el	
+0.57443327	Tweet17	ley sobre navegacion aerea	 jornada sobre nueva ley de	
+0.57443327	Tweet64	ley sobre navegacion aerea	 sobre la ley	
+0.57443327	Tweet85	ley sobre navegacion aerea	 colega sobre	 problemas. ley	
+0.57443327	Tweet203	ley sobre navegacion aerea	 sobre la	 ley	
+0.57443327	Tweet274	ley sobre navegacion aerea	si cospedal informa sobre que	 ley es	
+0.57443327	Tweet312	ley sobre navegacion aerea	 sobre #gml y	 ley 13/2015	
+0.58612293	Tweet278	ley organica 9/2011	 ley organica por	) de la ley	
+0.58612293	Tweet299	ley organica 9/2011	 ley	 organica, por	 otra ley	
+0.82122064	Tweet241	ley del referendum de autodeterminacion de cataluna	 proceso de	 cataluna al margen de la ley y del deseo de mas de la mitad de	
+0.61039364	Tweet67	ley del referendum de autodeterminacion de cataluna	el plan para cataluna ha de ser regresar al	 cumplimiento de la ley. nada	
+0.82087	Tweet11	ley de cortes	 ley de accesibilidad?...	
+0.7700639	Tweet164	ley de cortes	 ley sanitaria de abril de 2012!!	
+0.61565244	Tweet143	ley de cortes	 de latoda ley electoral.	
+0.5923652	Tweet108	ley de cortes	proyecto de ley de	 de	
+0.5923652	Tweet109	ley de cortes	 ley de sanidad de	 de	
+0.5183196	Tweet326	ley de cortes	 ley de proteccion de	 con lo de	
+0.5133759	Tweet36	ley de cortes	 de la nueva ley	 mercado de	
+0.5133759	Tweet225	ley de cortes	 normas de la era de la ley  http	
+0.5133759	Tweet275	ley de cortes	 ley de	 de la ue...	
+0.51304376	Tweet255	ley de cortes	 dentro de la ley.	
+0.51304376	Tweet262	ley de cortes	 la ley de @emilcar	
+0.51304376	Tweet309	ley de cortes	antes de la ley	 ley mordaza	
+0.5064672	Tweet308	ley de cortes	antes ley	 ley mordaza	 de abogado	
+0.6025352	Tweet7	ley de partidos politicos	 de la ley	 politicos	
+0.5906928	Tweet127	ley de mejora de la calidad educativa	nueva ley educativa a la vista? <emoji: worried face>	
+0.51557755	Tweet11	ley paccionada	 ley de accesibilidad?...	
+1.0665534	Tweet210	reglamento lopd	 reglamento de la	
+0.6221561	Tweet52	reglamento lopd	 reglamento del	
+0.51557755	Tweet11	ley 14/1970	 ley de accesibilidad?...	
+1.1043237	Tweet199	ley de amnistia de 1977 en espana	 porqueria de ley	 tenemos en espana!!!	 gobierna en	
+0.8111169	Tweet184	ley de amnistia de 1977 en espana	 millones de espanoles en espana	 tuvieron en	 ley	 futuro de	
+0.59169877	Tweet200	ley de amnistia de 1977 en espana	 en manos de	@ondacero_es y el 155 ...porque sino, espana sera	 ley. y	
+0.5588049	Tweet294	ley de amnistia de 1977 en espana	video @liarlapardo | @mrios, sobre la libertad de	: "espana	 la 'ley	
+0.528397	Tweet223	ley de amnistia de 1977 en espana	 enemigos de espana	 gobierno de espana	 cambiar de	 ley	
+0.51557755	Tweet11	ley wert	 ley de accesibilidad?...	
+0.9190932	Tweet41	ley 48/1960 sobre navegacion aerea	en pleno debate! foro sobre la nueva ley	
+0.8042065	Tweet48	ley 48/1960 sobre navegacion aerea	 ley sobre	
+0.8042065	Tweet195	ley 48/1960 sobre navegacion aerea	 parece, sobre	 ley	
+0.7936527	Tweet236	ley 48/1960 sobre navegacion aerea	 sobre ilegal y sobre	 ley esta	
+0.6893199	Tweet76	ley 48/1960 sobre navegacion aerea	@psoe @partidopacma @barquerosb y sobre	 ley	
+0.6893199	Tweet81	ley 48/1960 sobre navegacion aerea	 reflexionen sobre	 esta ley	
+0.6893199	Tweet210	ley 48/1960 sobre navegacion aerea	la fede-aepe alerta sobre una cascada	 ley de	
+0.6893199	Tweet226	ley 48/1960 sobre navegacion aerea	 sobre aplicacion ley 13	
+0.6893199	Tweet244	ley 48/1960 sobre navegacion aerea	 sobre la nueva ley	
+0.6893199	Tweet284	ley 48/1960 sobre navegacion aerea	 sobre la nueva ley	
+0.6893199	Tweet293	ley 48/1960 sobre navegacion aerea	jornada sobre contratos menores en la ley de	
+0.6893199	Tweet294	ley 48/1960 sobre navegacion aerea	video @liarlapardo | @mrios, sobre la	 la 'ley	
+0.6893199	Tweet317	ley 48/1960 sobre navegacion aerea	antes de la ley mordaza, era el juez de	 sobre	
+0.59315187	Tweet204	ley 48/1960 sobre navegacion aerea	 primado la ley	 sobre la ley general	
+0.57443327	Tweet14	ley 48/1960 sobre navegacion aerea	 ley, es	% sobre el	
+0.57443327	Tweet17	ley 48/1960 sobre navegacion aerea	hoy participamos en la jornada sobre nueva ley de	
+0.57443327	Tweet64	ley 48/1960 sobre navegacion aerea	 sobre la ley	
+0.57443327	Tweet85	ley 48/1960 sobre navegacion aerea	 colega sobre	 problemas. ley	
+0.57443327	Tweet203	ley 48/1960 sobre navegacion aerea	 sobre la	 ley	
+0.57443327	Tweet274	ley 48/1960 sobre navegacion aerea	si cospedal informa sobre que va	 ley es	
+0.57443327	Tweet312	ley 48/1960 sobre navegacion aerea	 sobre #gml y	 ley 13/2015	
+0.84017766	Tweet196	ley de creacion de las cortes espanolas	plata de ley- las	 corrida de las	/5/31/las	-corrida-de-las	
+0.8276191	Tweet87	ley de creacion de las cortes espanolas	las #prostitutas de amsterdam protestan contra una ley "que las pone	
+0.8276191	Tweet100	ley de creacion de las cortes espanolas	las prostitutas de amsterdam protestan contra una ley "que las pone	
+0.79328316	Tweet225	ley de creacion de las cortes espanolas	nuevo en el foro:  d. las normas de la era de la ley  http://dlvr.it/qvcmmp	
+0.7552806	Tweet240	ley de creacion de las cortes espanolas	 fraude de ley	 tiempos de populistas"las	, las mociones de	. las	
+0.75244975	Tweet81	ley de creacion de las cortes espanolas	 las consecuencias de esta ley. las	 de empresa?	
+0.7358672	Tweet256	ley de creacion de las cortes espanolas	ley de secretos empresariales, contra que protege a las empresas	
+0.7326726	Tweet326	ley de creacion de las cortes espanolas	 ley de proteccion de	un mensaje a las empresas que inundan	 con lo de	
+0.69824207	Tweet305	ley de creacion de las cortes espanolas	plata de ley- las	 para la de	 de resina	/28/las	-para-la-de-partido-de	
+0.6777905	Tweet44	ley de creacion de las cortes espanolas	 las limitaciones de	 libertad de expresion de	 las casaciones de la ley	
+0.654577	Tweet34	ley de creacion de las cortes espanolas	plata de ley- las cuadrillas para el festejo de	/6/5/las	-festejo-de	
+0.654577	Tweet101	ley de creacion de las cortes espanolas	plata de ley- las cuadrillas para la de miura en	/las	-la-de	
+0.654577	Tweet158	ley de creacion de las cortes espanolas	plata de ley- las cuadrillas para la corrida de	/6/1/las	-corrida-de	
+0.654577	Tweet181	ley de creacion de las cortes espanolas	 mitad de	... las empresas de	 forma de bajar las	 ley	
+0.654577	Tweet267	ley de creacion de las cortes espanolas	plata de ley- las cuadrillas para la 22 de san	/29/las	-de-san	
+0.654577	Tweet268	ley de creacion de las cortes espanolas	plata de ley- las cuadrillas para la 22 de san	/29/las	-de-san	
+0.65042084	Tweet201	ley de creacion de las cortes espanolas	-la-ley-de	estan prepardas las pymes para la ley de	/las	
+0.6438838	Tweet20	ley de creacion de las cortes espanolas	como afecta a la inversion la ley de #cambioclimatico? hoy, todas las	
+0.6438838	Tweet138	ley de creacion de las cortes espanolas	@abalosmeco @psoe es un abuso de ley y esperamos que lo	 caro en las	
+0.6438838	Tweet315	ley de creacion de las cortes espanolas	las injurias leves quedaron despenalizadas, antes	 juicio de	 que la ley mordaza.	
+0.6391565	Tweet15	ley de creacion de las cortes espanolas	 ley de la	 de las	, lamentamos las	 nota de	 a las ofertas de libros, de	
+0.6270415	Tweet313	ley de creacion de las cortes espanolas	@obagoacg absolutamente de	 las	 ley electoral. las	 cancer de	
+0.6214057	Tweet35	ley de creacion de las cortes espanolas	lavate las manos	!lavate las manos, que las	 manchadas de	 una ley del	 para que las	
+0.61835194	Tweet266	ley de creacion de las cortes espanolas	 de la ley de	-de-la-ley	 para las	.x/plan-de-empleo-de	/plan-de	
+0.5949624	Tweet257	ley de creacion de las cortes espanolas	taxistas en mexico se toman las calles por ley de movilidad	 a uber, de que	
+0.5949624	Tweet316	ley de creacion de las cortes espanolas	la policia solo puede abrir expediente de la ley	 si las	 constitutivas de	
+0.5911565	Tweet59	ley de creacion de las cortes espanolas	curiosidad de las enmiendas a la ley mordaza. ciudadanos	 vigor las	
+0.5670026	Tweet42	ley de creacion de las cortes espanolas	 ley de proteccion de datos de	 para las	 @masmovil tfno de	 entrega de	
+0.5609359	Tweet12	ley de creacion de las cortes espanolas	 asociacion de	 ley la privacidad de las	-asociacion-de	-ley-la-privacidad-de	
+0.5519004	Tweet3	ley de creacion de las cortes espanolas	 @lordfarnesi un ficus no se fundiria la hucha de las	 ley	
+0.5519004	Tweet227	ley de creacion de las cortes espanolas	 es ley de vida.	es que to es quejarse.a las otras tambien le preguntaran	
+0.5519004	Tweet289	ley de creacion de las cortes espanolas	@gabrielrufian se pone las denuncias en virtud de la ley seguridad	
+0.5519004	Tweet323	ley de creacion de las cortes espanolas	@aloguerr creo que las fake news son tan	 ley	 de por	
+0.54655105	Tweet19	ley de creacion de las cortes espanolas	 de las	 cambio de la ley de	 de datos	
+0.5422324	Tweet311	ley de creacion de las cortes espanolas	 la ley de	 de las bases de la	 en las mas	, lejos de	
+0.52333754	Tweet102	ley de creacion de las cortes espanolas	 de la ley de	 las	 de nuestro	
+0.52333754	Tweet147	ley de creacion de las cortes espanolas	 ley que	 a pesar de que	 las victimas de abusos	 millones de	
+0.5191814	Tweet113	ley de creacion de las cortes espanolas	 tuit de hoy	, quiten las	. ley mordaza, ley sanitaria de	
+0.5015727	Tweet278	ley organica de partidos politicos	) de la ley organica 4	 ley organica por via de	
+1.014184	Tweet211	lopsc-2015	 2015  http	
+0.8605637	Tweet226	lopsc-2015	/2015	
+0.7171364	Tweet4	lopsc-2015	-12-2015	
+0.7171364	Tweet233	lopsc-2015	/2015  https	
+0.7171364	Tweet278	lopsc-2015	/2015, de	
+0.7171364	Tweet299	lopsc-2015	/2015	
+0.7171364	Tweet312	lopsc-2015	 ley 13/2015	
+0.57370913	Tweet2	lopsc-2015	 13/2015 y	
+0.5408069	Tweet70	ley organica para la mejora de la calidad en la ensenanza	 para una mejora de la	 mundo de la	mecenazgo cultural: cambiamos el chip? (ley	 cambio de	 cultural en empieza en el	
+0.82087	Tweet11	ley paccionada de 1841	 ley de accesibilidad?...	
+0.7700639	Tweet164	ley paccionada de 1841	@s_parias ley sanitaria de abril de 2012!!	
+0.61565244	Tweet143	ley paccionada de 1841	@partidopacma cambio de latoda ley electoral.	
+0.5923652	Tweet108	ley paccionada de 1841	proyecto de ley de electricidad de	
+0.5923652	Tweet109	ley paccionada de 1841	 ley de sanidad de	 de	
+0.5183196	Tweet326	ley paccionada de 1841	 ley de proteccion de	 con lo de	
+0.5133759	Tweet36	ley paccionada de 1841	implicaciones de la nueva ley	 mercado de	
+0.5133759	Tweet225	ley paccionada de 1841	 normas de la era de la ley  http	
+0.5133759	Tweet275	ley paccionada de 1841	@carrero pero una ley de	 de la ue...	
+0.51304376	Tweet255	ley paccionada de 1841	 dentro de la ley.	
+0.51304376	Tweet262	ley paccionada de 1841	 la ley de @emilcar	
+0.51304376	Tweet309	ley paccionada de 1841	antes de la ley	 ley mordaza	, presuncion de	
+0.5064672	Tweet308	ley paccionada de 1841	antes ley	 ley mordaza	 de abogado de	
+0.5323423	Tweet313	ley general de educacion	 de	 ley	 cancer de	, educacion	
+1.2521927	Tweet143	ley electoral	 latoda ley electoral.	
+1.0434939	Tweet178	ley electoral	 ley electoral.	
+0.8677692	Tweet79	ley electoral	 ley electoral	
+0.8347951	Tweet134	ley electoral	 a la ley electoral :)	
+0.8347951	Tweet185	ley electoral	 de ley electoral	
+0.8347951	Tweet202	ley electoral	 ley electoral ya	
+0.7304457	Tweet195	ley electoral	 ley electoral la	
+0.7304457	Tweet199	ley electoral	 porqueria de ley electoral	
+0.7304457	Tweet304	ley electoral	 ley electoral : una	
+0.62609637	Tweet76	ley electoral	 ley electoral. que el	
+0.62609637	Tweet84	ley electoral	 ley electoral y	
+0.62609637	Tweet131	ley electoral	 otra ley electoral	
+0.62609637	Tweet150	ley electoral	 de la ley electoral	
+0.62609637	Tweet168	ley electoral	 una ley electoral	
+0.52174693	Tweet90	ley electoral	 ley electoral que	
+0.52174693	Tweet118	ley electoral	 ley electoral tb.	
+0.52174693	Tweet122	ley electoral	. no solo la ley electoral	
+0.52174693	Tweet126	ley electoral	 ley electoral	
+0.52174693	Tweet141	ley electoral	 cambiar la ley electoral	
+0.52174693	Tweet142	ley electoral	 en la ley electoral	
+0.52174693	Tweet148	ley electoral	, la ley electoral	
+0.52174693	Tweet159	ley electoral	 ley electoral, el	
+0.52174693	Tweet172	ley electoral	 actual ley electoral, en	
+0.52174693	Tweet184	ley electoral	 ley electoral para	
+0.52174693	Tweet188	ley electoral	 preocupe la ley electoral	
+0.52174693	Tweet207	ley electoral	 la ley electoral en	
+0.52174693	Tweet208	ley electoral	, ley electoral. ha	
+0.52174693	Tweet214	ley electoral	 reforme la ley electoral	
+0.52174693	Tweet229	ley electoral	 ley electoral y que	
+0.52174693	Tweet258	ley electoral	 cambiar ley electoral.	
+0.52174693	Tweet313	ley electoral	 ley electoral. las	
+1.4219666	Tweet308	ley wert-sinde	 ley sinde y	antes ley	
+1.3406429	Tweet307	ley wert-sinde	autor ley sinde	
+1.184972	Tweet309	ley wert-sinde	 la ley sinde y la	
+0.82486624	Tweet44	ley wert-sinde	 la ley sinde, manda huevos.	
+1.4219666	Tweet308	ley biden-sinde	 ley sinde y	antes ley	
+1.3406429	Tweet307	ley biden-sinde	autor ley sinde	
+1.184972	Tweet309	ley biden-sinde	 la ley sinde y la	
+0.82486624	Tweet44	ley biden-sinde	 la ley sinde, manda huevos.	

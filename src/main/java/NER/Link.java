@@ -9,6 +9,8 @@ import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -34,8 +36,8 @@ public class Link {
         		
 		String searchURL = GOOGLE_SEARCH_URL + "?q="+searchTerm+"&num="+num;
 
-		org.jsoup.nodes.Document doc = Jsoup.connect(searchURL).userAgent("Mozilla/5.0").get();
-		org.jsoup.select.Elements results = doc.select("h3.r > a");
+		Document doc = Jsoup.connect(searchURL).userAgent("Mozilla/5.0").get();
+		Elements results = doc.select("h3.r > a");
                 String finalResult = "";
                 for (org.jsoup.nodes.Element result : results) {
                     String linkHref = result.attr("href");
@@ -81,7 +83,7 @@ public class Link {
                 
                 if(Type == "rule")
                 {
-                    if(Entity != "Person" || Entity != "Organization" || Entity != "Other")
+                    if(Entity != "Person" || Entity != "Organization" || Entity != "Other" || Entity != "Location")
                     {
                         
                         finalResult = FindLinkBOE(searchTerm, num);
