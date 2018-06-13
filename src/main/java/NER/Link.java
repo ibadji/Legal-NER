@@ -27,7 +27,7 @@ public class Link {
     public static void main(String[] args) throws IOException
     {
     
-       System.out.print(findLinkCases("ley mordaza","nickname","nickname"));
+       //System.out.print(findLinkCases("ley mordaza","nickname","nickname"));
       //foundExcelNICk("ley sinde");
         
     }
@@ -100,7 +100,7 @@ public class Link {
                     //nothing found
                     if(nickname.contentEquals("no match"))
                     {
-                        System.out.println("no match found");
+                       // System.out.println("no match found");
                         finalResult = FindLinkBOE(searchTerm,num);
                     }               
                     //match found
@@ -136,7 +136,7 @@ public class Link {
             XSSFWorkbook wbTemplate = new XSSFWorkbook(fis);
             XSSFSheet sheet1 = wbTemplate.getSheetAt(0);
 
-            for(int RowIdx=1; RowIdx < 96; RowIdx++) 
+            for(int RowIdx=1; RowIdx < 97; RowIdx++) 
             {
                 XSSFRow col1 = sheet1.getRow(RowIdx);
                 String data1= col1.getCell(1).toString();
@@ -156,8 +156,8 @@ public class Link {
                if((term.trim().contentEquals(data1.toString()))||(term.trim().contentEquals(data5.toString()))||(term.trim().contentEquals(data6.toString()))||(term.trim().contentEquals(data7.toString()))||(term.trim().contentEquals(data8.toString()))||(term.trim().contentEquals(data9.toString())))
                {
                     result = data1;
-                    //System.out.print(result);
-                    //return result;
+                    System.out.print(result);
+                    return result;
                     
                }
         }

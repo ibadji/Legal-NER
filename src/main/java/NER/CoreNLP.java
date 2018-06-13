@@ -40,8 +40,8 @@ public class CoreNLP {
     private static ReadFile read = new ReadFile();
 
     public static void main(String[] args) throws FileNotFoundException, IOException, ParseException, TokenSequenceParseException, ClassNotFoundException {
-        String sentence = read.readFile("resources/inputText/test.txt");
-        regX(sentence,"spanish","rule");
+        String sentence = read.readFile("resources/inputText/tweets.txt");
+        regX(sentence,"spanish","nickname");
         
         //XMLinline tagginwith no regx
         //doTagging(getModel("resources/spanish.ancora.distsim.s512.crf.ser.gz"), "resources/test.txt");
@@ -70,8 +70,9 @@ public class CoreNLP {
         PrintWriter writer = new PrintWriter("output/CoreNLP.txt", "UTF-8");
         for (String object: al) {
             //System.out.println(object);
+            //String[] obj = object.split(":");
+            //writer.println(obj[0]+"\t:::\t"+obj[1]);
             writer.println(object);
-
         }
         writer.close();
     }

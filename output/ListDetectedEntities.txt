@@ -1,5 +1,6 @@
 Articulo
 Organization
+Nicknames
 Recurso
 Person
 LeyOrganica

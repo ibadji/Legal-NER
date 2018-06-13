@@ -60,7 +60,7 @@ public class Nicknames {
         m.writerEntries(Text);
         //need to check trough the whole excel file
         String[] runthrough = read.readFile("resources/RegXRules/nicknames.txt").split("\n");
-        writer = new PrintWriter("output/Nickname.txt", "UTF-8");
+        writer = new PrintWriter("output/Nicknames.txt", "UTF-8");
         for(String line:runthrough)
         {
             String term = line.trim();
@@ -136,11 +136,11 @@ public class Nicknames {
             String Content = doc.get("content");
             
             //Printing - to which document result belongs
-            if(scoreDoc.score > 0.5 )
+            if(scoreDoc.score >= 0.78 )
             {
-                writer.print(scoreDoc.score +"\t");
-                writer.print( title+"\t");
-                writer.print(searchForSimilar+"\t");
+                writer.print(scoreDoc.score +":::");
+                writer.print( title+":::");
+                writer.print(searchForSimilar+":::");
                 //System.out.print("content: "+ Content);
 
                 //Create token stream
@@ -154,7 +154,7 @@ public class Nicknames {
                     String s = frag.toString();
                     s =  s.replaceAll("<B>", "");  
                     s =  s.replaceAll("</B>", ""); 
-                    writer.print(s +"\t");
+                    writer.print(s);
                 }
                 writer.print("\n");
             }

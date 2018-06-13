@@ -44,12 +44,12 @@ public class Combine {
 
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException 
     {
-            filter("resources/inputText/test.txt","rule");
+            filter("resources/inputText/tweets.txt","nickname");
     }
        
     public static void init(String Type)
     {
-        if(Type == "rule")
+        if(Type == "rule"||Type == "other")
         {
             grades.put("OpenNLP", 1);
             grades.put("CoreNLP", 2);
@@ -57,7 +57,8 @@ public class Combine {
         else if(Type == "nickname" || Type == "other")
         {
             grades.put("OpenNLP", 2);
-            grades.put("CoreNLP", 1);
+            grades.put("CoreNLP", 3);
+            grades.put("SoftNick", 1);
         }
 
         grades.put("IxaPipe", 3);
@@ -80,7 +81,6 @@ public class Combine {
         priority.put("Legal_reference",1);
 
         
-
         //Service 2
         priority.put("Nicknames",1);
 
@@ -171,9 +171,9 @@ public class Combine {
         transform("CoreNLP", Type);
         transform("OpenNLP", Type);
         transform("GateNLP", Type);
-        transform("Nickname", Type);
+        transform("Nicknames", Type);
        
-        //SimilarityFilter();
+        SimilarityFilter();
 
         //filter based on similarity given in initialization step
         Set set = outputList.entrySet();
@@ -235,7 +235,7 @@ public class Combine {
                     //same priority see depending on length
                     else if(priority.get(p1.get(1).toString().trim()) == priority.get(p2.get(1).toString().trim()))
                     {                    
-                            //base on grade need to be changed    
+                            //base on grade need to be changed  
                             if(grades.get(p1.get(0).toString()) < grades.get(p2.get(0).toString()))
                             {
                                 todelete.put(array[j], p2);
@@ -267,64 +267,63 @@ public class Combine {
             }
 
             //Map of the Entities detected
-//            PrintWriter writer = new PrintWriter("output/ListDetectedEntities.txt", "UTF-8");        
-//                Set<String> sett = new HashSet<String>();
-//                Set set1 = outputList.entrySet();
-//                Iterator iterator1 = set1.iterator();
-//                while(iterator1.hasNext()) {
-//                 Map.Entry mentry = (Map.Entry)iterator1.next();    
-//                 String key = mentry.getKey().toString();
-//                 ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
-//                 String value = valueK.get(1).trim();
-//                     sett.add(value);
-//              }
-//        
-//            Iterator it = sett.iterator();
-//            while(it.hasNext()) {
-//              writer.println(it.next());
-//            }
-//             writer.close();
+            PrintWriter writer = new PrintWriter("output/ListDetectedEntities.txt", "UTF-8");        
+                Set<String> sett = new HashSet<String>();
+                Set set1 = outputList.entrySet();
+                Iterator iterator1 = set1.iterator();
+                while(iterator1.hasNext()) {
+                 Map.Entry mentry = (Map.Entry)iterator1.next();    
+                 String key = mentry.getKey().toString();
+                 ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
+                 String value = valueK.get(1).trim();
+                     sett.add(value);
+              }
+        
+            Iterator it = sett.iterator();
+            while(it.hasNext()) {
+              writer.println(it.next());
+            }
+             writer.close();
             
-//            
-//            JFrame frame = new JFrame("Text");
-//            frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//            frame.setLayout(new BorderLayout());
-//            Display t = new Display(text);
-//
-//            frame.add(t);
-//            frame.pack();
-//            frame.setLocationRelativeTo(null);
-//            frame.setVisible(true);
-//            
-//            JFrame frame1 = new JFrame("Entities and Software");
-//            frame1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//            frame1.setLayout(new BorderLayout());
-//            Display t1 = new Display("output/ListDetectedEntities.txt");
-//
-//            frame1.add(t1);
-//            frame1.pack();
-//            frame1.setLocationRelativeTo(null);
-//            frame1.setVisible(true);
-       //Create the key for the text
-//            Iterator it1 = sett.iterator();
-//            while(it1.hasNext()) {
-//                String s = it1.next().toString();
-//                t1.color(Color.decode(color.get(s)), s);
-//            }
+            
+            JFrame frame = new JFrame("Text");
+            frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            frame.setLayout(new BorderLayout());
+            Display t = new Display(text);
+
+            frame.add(t);
+            frame.pack();
+            frame.setLocationRelativeTo(null);
+            frame.setVisible(true);
+            
+            JFrame frame1 = new JFrame("Entities and Software");
+            frame1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            frame1.setLayout(new BorderLayout());
+            Display t1 = new Display("output/ListDetectedEntities.txt");
+
+            frame1.add(t1);
+            frame1.pack();
+            frame1.setLocationRelativeTo(null);
+            frame1.setVisible(true);
+            // Create the key for the text
+            Iterator it1 = sett.iterator();
+            while(it1.hasNext()) {
+                String s = it1.next().toString();
+                t1.color(Color.decode(color.get(s)), s);
+            }
             
         //Highlight the entities found
         PrintWriter writer2 = new PrintWriter("output/TextEntitiesDetected.txt", "UTF-8");
-//        Set set = outputList.entrySet();
-//        Iterator iterator = set.iterator();
-//        while(iterator.hasNext()) {
-//         Map.Entry mentry = (Map.Entry)iterator.next();    
-//         String key = mentry.getKey().toString();
-//         ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
-//         String value = valueK.get(1);
-//         if(! value.equals("Other"))
-//            t.color(Color.decode(color.get(value.trim())), key.trim());
-//         //if nickname give the matched text not the direct key 
-//      }
+        Set set = outputList.entrySet();
+        Iterator iterator = set.iterator();
+        while(iterator.hasNext()) {
+         Map.Entry mentry = (Map.Entry)iterator.next();    
+         String key = mentry.getKey().toString();
+         ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
+         String value = valueK.get(1);
+         //if(! (value.equals("Other")||value.equals("Person")||value.equals("Organization")|| value.equals("Location")))
+            t.color(Color.decode(color.get(value.trim())), key.trim());
+      }
         //find the links
         Set set2 = outputList.entrySet();
         Iterator iterator2 = set2.iterator();
@@ -333,9 +332,11 @@ public class Combine {
          String key = mentry.getKey().toString();
          ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
          String value = valueK.get(1);
-         if(! value.equals("Other"))
-         writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(mentry.getKey().toString(),Type,value.trim()));       
-      }
+         if(value.equals("Nicknames"))
+            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(valueK.get(2),Type,value));       
+         else if(! value.equals("Other"))
+            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(mentry.getKey().toString(),Type,value.trim()));       
+        }
         writer2.close();
               
     }
@@ -358,7 +359,7 @@ public class Combine {
             
             if(output=="CoreNLP")
             {
-                result = Line.split(":");
+                result = Line.split(" : ");
                 values.add("CoreNLP");
                 transform_help(values, result[1].trim(), result[1]);
                 outputList.put(result[0], values);
@@ -382,12 +383,13 @@ public class Combine {
                 transform_help(values, result[1].trim(), result[1]);
                 outputList.put(result[0], values);
             }
-            else if(Type == "nickname" & output=="Nickname"){
-                result = Line.split("\t");
+            else if(Type == "nickname" & output=="Nicknames"){
+                result = Line.split(":::");
                 if(result.length >= 4)
                 {
-                    values.add(result[2]);
+                    values.add("SoftNick");
                     values.add("Nicknames");
+                    values.add(result[2]);
                     outputList.put(result[3], values); 
                 }                
             }
