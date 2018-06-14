@@ -1,9 +1,9 @@
-0.79863226:::Tweet11:::ley general de educacion de 1970::: ley de accesibilidad?...
-0.79863226:::Tweet11:::ley de evaluacion de impacto ambiental::: ley de accesibilidad?...
 1.013541:::Tweet90:::ley de reforma politica::: reforma de la ley depender de/politica
+0.4632739:::Tweet56:::ley de reforma politica:::ley de transparencia
 0.90331745:::Tweet36:::ley del mercado de valores:::implicaciones de la nueva ley para el mercado de
+0.6500456:::Tweet56:::ley del suelo:::ley de
 0.80854017:::Tweet4:::ley 46/1977, de 15 de octubre, de amnistia::: de cv-v4050-15-16 la ley
-0.79863226:::Tweet11:::ley de economia sostenible::: ley de accesibilidad?...
+0.3719384:::Tweet56:::ley de economia sostenible:::ley de transparencia: el
 0.82333606:::Tweet37:::ley de sucesion en la jefatura del estado::: la ley son un arma en de estado el estado de derecho y en golpe de estado
 0.80172974:::Tweet37:::ley de organizacion y funcionamiento de la administracion general del estado::: la ley son de estado el estado de derecho y en golpe de estado ? hay muchas posibilidades de
 1.0997914:::Tweet42:::ley organica de proteccion de datos de caracter personal:::que bien funciona la nueva ley de proteccion de datos de @masmovil tfno de entrega de mis datos
@@ -13,23 +13,15 @@
 1.2571555:::Tweet41:::ley hipotecaria espanola::: ley hipotecaria que
 0.97024816:::Tweet3:::ley general de sanidad espanola::: la hucha de ley sanidad al
 0.81137335:::Tweet90:::constitucion espanola de 1978::: reforma de la depender de #constitucion
-0.79963243:::Tweet87:::ley constitutiva de las cortes:::las #prostitutas de amsterdam una ley "que las pone
-0.79963243:::Tweet100:::ley constitutiva de las cortes:::las prostitutas de amsterdam ley "que las pone
-0.79863226:::Tweet11:::ley de educacion de andalucia::: ley de accesibilidad?...
-0.79863226:::Tweet11:::ley de evaluacion de impacto ambiental::: ley de accesibilidad?...
 0.9093838:::Tweet72:::ley de lenguas de aragon:::opinamos de la ley de aragon deciamos de parecidas de
 0.9053817:::Tweet63:::ley de memoria historica de espana:::video | ley mordaza, renovacion de rtve, memoria historica
-0.78266895:::Tweet13:::ley de organizacion y atribuciones de los tribunales:::@rogertorrent solidarizarse con los y no con los q ley dice tipo de
-0.79863226:::Tweet11:::ley de participacion ciudadana::: ley de accesibilidad?...
-0.79863226:::Tweet11:::ley de responsabilidades politicas::: ley de accesibilidad?...
 1.1444757:::Tweet6:::ley de santa maria de nieva::: maria de hace' , " ley de vida" delante a maria de paris
 1.1319561:::Tweet62:::ley de simbolos de navarra::: de simbolos religiosos ley jurar
 0.8271765:::Tweet67:::ley de veguerias de cataluna:::el plan para cataluna ha de cumplimiento de la ley. nada
+0.25753826:::Tweet86:::ley moyano:::ley mordaza: "que
+0.6438457:::Tweet101:::ley organica:::ley mirdaza
 0.81902903:::Tweet23:::ley organica de medidas de proteccion integral contra la violencia de genero:::violencia machista o una nueva ley contra la brecha salarial: los retos de carmen calvo desde un ministerio de igualdad
-0.7971341:::Tweet53:::ley organica de transferencias complementarias a canarias::: de ayer 04 de mayo se la #ley de #historico de #canarias via
-0.79863226:::Tweet11:::ley organica de universidades::: ley de accesibilidad?...
 1.2443734:::Tweet25:::ley para la igualdad efectiva de mujeres y hombres:::  de la ley de igualdad salarial y ley de igualdad de trato hombres y mujeres en el
-0.7989996:::Tweet91:::leyenda de la fundacion de madrid::: denuncian la falta de centro de madrid para la
 0.8369622:::Tweet91:::leyendas del atletico de madrid::: falta de menores del centro de madrid para
 0.813116:::Tweet90:::referendum sobre la ley para la reforma politica:::. @psoe @ppopular para cuando una reforma de la ley electoral que/politica
 0.9062223:::Tweet51:::ley organica de calidad de la educacion::: de #garantia de la #calidad de los consejo de control de la ley preve
@@ -39,13 +31,11 @@
 0.9222373:::Tweet80:::ley organica de proteccion de datos de caracter personal::: ley de proteccion de datosalgunos sites de ee.uu. prohibiran el acceso-sites-de-ee
 0.9102297:::Tweet28:::ley organica de proteccion de datos de caracter personal::: ley ley de proteccion de datos no puede
 0.8980476:::Tweet22:::ley organica de proteccion de datos de caracter personal:::@aepd_es esta campana de proteccion de datos no es mas que otra estafa esta ley
-0.79863226:::Tweet11:::ley de dependencia::: ley de accesibilidad?...
+0.3719384:::Tweet56:::ley de dependencia:::ley de transparencia
 1.1015704:::Tweet23:::violencia contra la mujer::: contra laviolencia machista o una
 1.0014206:::Tweet79:::legislacion electoral espanola::: electoral
-0.79863226:::Tweet11:::ley de ordenacion urbanistica de andalucia::: ley de accesibilidad?...
-0.7857222:::Tweet44:::ley sinde::: la ley sinde, manda huevos.
-0.79863226:::Tweet11:::ley de navegacion aerea::: ley de accesibilidad?...
-0.79602295:::Tweet73:::administracion general del estado::: abogacia del estado
+0.22665799:::Tweet32:::presupuesto publico::: presupuesto
+0.3719384:::Tweet56:::ley de navegacion aerea:::ley de transparencia: el
 0.9428666:::Tweet31:::ley antitabaco::: ignoran la ley antitabaco
 0.8121337:::Tweet73:::ley organica del estado::: abogacia del estado ley ante
 1.2571555:::Tweet41:::ley hipotecaria::: ley hipotecaria que
@@ -53,37 +43,32 @@
 0.81137335:::Tweet90:::constitucion de 1978::: reforma de la depender de #constitucion
 0.8271765:::Tweet67:::ley de consultas de cataluna:::el plan para cataluna ha de cumplimiento de la ley. nada
 1.0093681:::Tweet10:::ley de nacionalidad espanola para los sefardies:::plata de ley- los hombres de plata para/los-hombres-de-plata-para-la
-0.79963243:::Tweet87:::ley constitutiva de las cortes espanolas:::las #prostitutas de amsterdam protestan una ley "que las pone
-0.79963243:::Tweet100:::ley constitutiva de las cortes espanolas:::las prostitutas de amsterdam protestan ley "que las pone
-0.79863226:::Tweet11:::ley de costas::: ley de accesibilidad?...
+0.3719384:::Tweet56:::ley de costas:::ley de transparencia
 1.0546643:::Tweet63:::ley de la memoria historica:::video | ley mordaza de rtve, memoria historica
 0.82181305:::Tweet71:::ley de transitoriedad juridica:::la ley frenada. la de-juridica-la-ley
 0.8271765:::Tweet67:::ley de organizacion de veguerias de cataluna:::el plan para cataluna ha de ser regresar al cumplimiento de la ley. nada
 0.8222222:::Tweet9:::ley mordaza::: la ley mordaza ley donde
 0.8222222:::Tweet79:::ley mordaza::: a derogar la ley mordaza? ley
-0.78732806:::Tweet86:::ley mordaza:::ley mordaza: "que
+0.68891203:::Tweet57:::ley mordaza::: ley mordaza
+0.59049606:::Tweet3:::ley mordaza::: ley mordaza, ni
+0.105302274:::Tweet101:::ley mordaza:::ley mirdaza
 1.2443734:::Tweet25:::ley para la igualdad efectiva de hombres y mujeres:::  de la ley de igualdad salarial y ley de igualdad de trato hombres y mujeres en el
-0.79863226:::Tweet11:::ley de estadounidenses minusvalidos de 1990::: ley de accesibilidad?...
-0.79863226:::Tweet11:::ley organica de educacion::: ley de accesibilidad?...
 1.072424:::Tweet90:::ley para la reforma politica::: reforma de la ley para cuando/politica
 1.0997914:::Tweet42:::ley organica de proteccion de datos::: ley de proteccion de datos de @masmovil tfno de entrega de mis datos
 0.9222373:::Tweet80:::ley organica de proteccion de datos::: ley de proteccion de datosalgunos sites de-sites-de-ee
 0.9102297:::Tweet28:::ley organica de proteccion de datos::: ley ley de proteccion de datos no puede
 0.8980476:::Tweet22:::ley organica de proteccion de datos:::@aepd_es esta campana de proteccion de datos esta ley
 1.1605633:::Tweet23:::ley integral contra la violencia de genero:::violencia machista o una nueva ley contra la retos de de igualdad
-0.79863226:::Tweet11:::ley de amnistia de 1977::: ley de accesibilidad?...
-0.7857222:::Tweet44:::ley sinde-wert::: la ley sinde, manda huevos.
 0.82384217:::Tweet41:::ley sobre navegacion aerea:::en pleno debate! foro sobre ley
-0.7857222:::Tweet75:::ley organica 9/2011::: 2011... la ley de la
-0.79863226:::Tweet11:::ley de cortes::: ley de accesibilidad?...
+0.34681356:::Tweet90:::constitucion del 78::: #constitucion
+0.3719384:::Tweet56:::ley de cortes:::ley de transparencia
+0.5383408:::Tweet52:::reglamento lopd::: reglamento del
 1.060576:::Tweet79:::ley electoral espanola::: ley electoral a derogar la ley mordaza?
 0.82384217:::Tweet41:::ley 48/1960 sobre navegacion aerea:::en pleno debate! foro sobre la nueva ley
-0.79963243:::Tweet87:::ley de creacion de las cortes espanolas:::las #prostitutas de amsterdam protestan contra una ley "que las pone
-0.79963243:::Tweet100:::ley de creacion de las cortes espanolas:::las prostitutas de amsterdam protestan contra una ley "que las pone
-0.79863226:::Tweet11:::ley paccionada de 1841::: ley de accesibilidad?...
-0.79863226:::Tweet11:::ley general de educacion::: ley de accesibilidad?...
+0.76905835:::Tweet90:::constitucion espanola::: #constitucion
 1.060576:::Tweet79:::ley electoral::: ley electoral
-0.7857222:::Tweet44:::ley wert-sinde::: la ley sinde, manda huevos.
+0.7755048:::Tweet76:::ley electoral::: ley electoral. que el
+0.7755048:::Tweet84:::ley electoral::: ley electoral y
+0.646254:::Tweet90:::ley electoral::: ley electoral que
 0.81137335:::Tweet90:::constitucion espanola de 1981::: reforma de la depender de #constitucion
-0.7857222:::Tweet44:::ley biden-sinde::: la ley sinde, manda huevos.
 2.5873284:::Tweet11:::ley de accesibilidad::: ley de accesibilidad?...

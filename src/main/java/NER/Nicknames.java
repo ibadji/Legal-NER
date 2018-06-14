@@ -154,7 +154,7 @@ public class Nicknames {
             String Content = doc.get("content");
             
             //Printing - to which document result belongs
-            if(scoreDoc.score >= 0.78)
+            if(scoreDoc.score >= 0.80)
             {
                 writer.print(scoreDoc.score +":::");
                 writer.print( title+":::");
@@ -178,16 +178,26 @@ public class Nicknames {
             else if (scoreDoc.score < 0.78 & scoreDoc.score > 0.1)
             {
                 //make it go trough second similarity and check again then print in text
+                
                 CalculateSimilarity sim = new CalculateSimilarity();
                 TokenStream stream = TokenSources.getAnyTokenStream(reader, scoreDoc.doc, "content", analyzer);
-               TextFragment[] frags = highlighter.getBestTextFragments(stream, Content, true, length.length);
+                TextFragment[] frags = highlighter.getBestTextFragments(stream, Content, true, length.length);
                 for (TextFragment frag : frags)
                 {               
                     String s = frag.toString();
                     s =  s.replaceAll("<B>", "");  
                     s =  s.replaceAll("</B>", ""); 
-                    System.out.println(sim.calculate(searchForSimilar,s)+"      "+searchForSimilar+"       "+s);
+                    if(sim.calculate(searchForSimilar,s)>=0.80)
+                    {
+                        writer.print(scoreDoc.score +":::");
+                        writer.print( title+":::");
+                        writer.print(searchForSimilar+":::");
+                        writer.print(s);
+                        writer.print("\n");                       
+                    }
+                    //System.out.println(sim.calculate(searchForSimilar,s)+"      "+searchForSimilar+"       "+s);
                 }
+                
                
             }
         }
