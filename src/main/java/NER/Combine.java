@@ -212,17 +212,12 @@ public class Combine {
             {
                 List<String> p1 = outputList.get(array[i]);
                 List<String> p2 = outputList.get(array[j]);
-                //found a similar dup
-//                if(array[i].contains(array[j]) && priority.get(p1.get(1).toString().trim()) < priority.get(p2.get(1).toString().trim()))
-//                {  
-//                    todelete.put(array[j], p2);                     
-//                }
-//                
+                //found a similar dup               
                if(sim.calculate(array[i], array[j])> 0.95 && sim.calculate(array[i], array[j])<= 1.0)
                 {
                     //System.out.println(array[i]+"  "+ array[j] +"  "+sim.calculate(array[i], array[j]));    
                     //check for priorities 
-                    System.out.println(array[i]+" "+p1.get(1)+"//"+ array[j]+"  "+priority.get(p2.get(1).toString().trim()));
+                    //System.out.println(array[i]+" "+p1.get(1)+"//"+ array[j]+"  "+priority.get(p2.get(1).toString().trim()));
                     
                     if(priority.get(p1.get(1).toString().trim()) < priority.get(p2.get(1).toString().trim()))
                     {
@@ -333,9 +328,9 @@ public class Combine {
          ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
          String value = valueK.get(1);
          if(value.equals("Nicknames"))
-            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(valueK.get(2),Type,value));       
-         else if(! value.equals("Other"))
-            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(mentry.getKey().toString(),Type,value.trim()));       
+            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(valueK.get(2),"nickname","nickname"));       
+         else //if(! value.equals("Other"))
+            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(mentry.getKey().toString(),"other",value.trim()));       
         }
         writer2.close();
               

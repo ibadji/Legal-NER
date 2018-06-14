@@ -27,7 +27,7 @@ public class Link {
     public static void main(String[] args) throws IOException
     {
     
-       //System.out.print(findLinkCases("ley mordaza","nickname","nickname"));
+       System.out.print(findLinkCases("ley constitutiva de las cortes","nickname","nickname"));
       //foundExcelNICk("ley sinde");
         
     }
@@ -54,7 +54,7 @@ public class Link {
     public static String FindLinkBOE(String searchTerm, int num) throws IOException
     {
         		
-		String searchURL = GOOGLE_SEARCH_URL + "?q="+searchTerm+"&num="+num;
+		String searchURL = GOOGLE_SEARCH_URL + "?q="+searchTerm+" boe"+"&num="+num;
 
 		org.jsoup.nodes.Document doc = Jsoup.connect(searchURL).userAgent("Mozilla/5.0").get();
 		org.jsoup.select.Elements results = doc.select("h3.r > a");
@@ -106,7 +106,7 @@ public class Link {
                     //match found
                     else
                     {
-                        System.out.println("Main name:\t"+ nickname);
+                        //System.out.println("Main name:\t"+ nickname);
                         finalResult = FindLinkBOE(nickname,num);
                     }
                         
@@ -123,7 +123,7 @@ public class Link {
                         finalResult = FindLinkGeneral(searchTerm, num);
                     }
                 }     
-            //System.out.print(finalResult);
+            System.out.println(searchTerm+"     "+finalResult);
             return finalResult;
 	}
         
@@ -156,7 +156,7 @@ public class Link {
                if((term.trim().contentEquals(data1.toString()))||(term.trim().contentEquals(data5.toString()))||(term.trim().contentEquals(data6.toString()))||(term.trim().contentEquals(data7.toString()))||(term.trim().contentEquals(data8.toString()))||(term.trim().contentEquals(data9.toString())))
                {
                     result = data1;
-                    System.out.print(result);
+                    //System.out.print(result);
                     return result;
                     
                }
