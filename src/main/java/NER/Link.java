@@ -12,15 +12,9 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
  *
- * @author n
+ * @author ines badji
  */
 public class Link {
     public static final String GOOGLE_SEARCH_URL = "https://www.google.com/search";
@@ -63,15 +57,15 @@ public class Link {
                     String linkHref = result.attr("href");
                     String linkText = result.text();
                     //System.out.println("Text::" + linkText + ", URL::" + linkHref.substring(6, linkHref.indexOf("&")));
-                    String s = linkHref.substring(6, linkHref.indexOf("&"));
+                    String linkFound = linkHref.substring(6, linkHref.indexOf("&"));
                     //System.out.println(s);
                     //take first link
-                   if(s.startsWith("=https://www.boe") || s.startsWith("=https://boe") || s.contains("boe"))
+                   if(linkFound.startsWith("=https://www.boe") || linkFound.startsWith("=https://boe") || linkFound.contains("boe"))
                     {
-                            s= s.replace("=", "");
-                            s= s.replace("%3F","?");
-                            s= s.replace("%3D", "=");
-                            finalResult = s;
+                            linkFound = linkFound.replace("=", "");
+                            linkFound = linkFound.replace("%3F","?");
+                            linkFound = linkFound.replace("%3D", "=");
+                            finalResult = linkFound;
                             break;
                     }    
                 }

@@ -1,50 +1,115 @@
-Socio AGRECOLÓGICA DOÑANA : ORG
-Pesca : OTROS
-Justicia : ORG
-Pesquera : OTROS
-Certificado : ORG
-artículo 117.2 : Articulo
-II : OTROS
-Desarrollo Rural : OTROS
-rec. : Recurso
-Factura : ORG
-Sala : OTROS
-LPAC : ORG
-Conformidad : OTROS
-Andalucía : OTROS
-Tribunal Constitucional : ORG
-Julio : PERS
-Agroalimentaria : ORG
-LCAPA : ORG
-CE-001604-2015 : Constitution
-Calidad : OTROS
-Directora : ORG
-Resolución Directora : ORG
-Resolución : ORG
-Agricultura : OTROS
-Ley 39/2015 : LeyOrganica
-SAT : ORG
-AGROECOLÓGICA DOÑANA : ORG
-artículos 112.1 : Articulo
-Constitución : OTROS
-Ley 2/2011 : LeyOrganica
-artículo 43 : Articulo
-artículo 47.1 : Articulo
-Tribunal Supremo : ORG
-Derecho : OTROS
-Sentencia : ORG
-BERRYNEST H-0023 : ORG
-artículo 117 : Articulo
-SL : ORG
-Sevilla : LUG
+Sector Público : ORG
+María : PERS
+Manuel Vilas : PERS
+Colau : PERS
+he : PERSON
+Ley Sinde : ORG
+Innovación : OTROS
+María Sharapova : PERS
+Internautas : OTROS
+Hombres : ORG
+Artesanía : OTROS
+Salvo : OTROS
+Patrimonio Cultural<Emoji: White medium small square>Modificación : OTROS
+Ley Electoral : ORG
+Mancha : OTROS
+Castilla : OTROS
+Estado : OTROS
+Antitabaco : PERS
+Ámsterdam : OTROS
+Canarias : OTROS
+Feria : ORG
+DGT : ORG
+Contratos : OTROS
+Nicolo Maquiavelo : PERS
+Ley Ordesa : OTROS
+Igualdad : OTROS
+Control : OTROS
+Sala III : ORG
+Colegio : ORG
+Reglamento : OTROS
+Corrección Política : ORG
+Ley Mordaza : ORG
+Cifuentes : PERS
+Hanlon : PERS
+Secretos Empresariales : OTROS
+Mariano Rajoy : PERS
+Smooth Criminal : ORG
+Transparencia : OTROS
+EEUU : LUG
+Marco : OTROS
+Senado : ORG
+BOE : ORG
+GS : ORG
+Estarás : PERS
+ministros - Público http://www.publico.es/politica/gobierno-del-pp-publicar-patrimonio-ministros.html … : ORG
+Igualdad Salarial : OTROS
+Mujeres : ORG
+Acuerdos : ORG
+Consejo Consultivo : ORG
 Ley : ORG
-Resumen : OTROS
-CAAE : ORG
-Industrias : OTROS
-Consejería : ORG
-artículo 24.2 : Articulo
-Cadena Agroalimentaria : OTROS
-Junta : ORG
-ii : ORG
-Fundamentos : OTROS
-Hechos : OTROS
+facebook : ORG
+#ley : ORG
+Europa : LUG
+Trato : OTROS
+Nueva Ley : LUG
+Damocles : PERS
+Sanidad : ORG
+París : LUG
+Presidente : PERS
+Eurípides : LUG
+Beneficencia : OTROS
+Never forget : ORG
+Nueva Ley Hipotecaria : ORG
+Ciencia : OTROS
+Logopedas : LUG
+Asociación : ORG
+Ley : OTROS
+Garbi : PERS
+DOCM <Emoji: Negative squared cross mark><Emoji: Negative squared cross mark><Emoji: Red exclamation mark symbol><Emoji: Red exclamation mark symbol>la Ley 3/2018 : ORG
+@FEACEM CLM<Emoji: Octagonal sign> @cafornal @gobjccm : ORG
+PP : ORG
+Madrid : LUG
+whistleblowers : ORG
+Libro : OTROS
+Luis Ibáñez Salas : PERS
+Ley Cero : ORG
+golpe : ORG
+Facebook : ORG
+#reunion : ORG
+José Escolar : PERS
+Patrimonio : OTROS
+Pedro Sánchez : PERS
+Servicio : OTROS
+Día : ORG
+Gobernador : ORG
+Cataluña : LUG
+Moore : OTROS
+Murphy : PERS
+LGTBI : ORG
+Ley Mordaza : LUG
+Proyecto : ORG
+Protección : OTROS
+Rajoy : PERS
+Ley Mordaza : OTROS
+Abogacía : ORG
+Garbiñe : PERS
+CV : ORG
+PACMA : ORG
+Pode : PERS
+Misuri : PERS
+Carmen Calvo : OTROS
+@masmovil Tfno : ORG
+Carmen Calvo : PERS
+RTVE : ORG
+Ejecutivo : ORG
+PEDRO : PERS
+TC : ORG
+Congreso : ORG
+Taxi<Emoji: White medium small square>34ª Feria : ORG
+Ley Aillagon : PERS
+Consejo : ORG
+Aragón : OTROS
+@jdarknet Cierto : ORG
+Ministerio : ORG
+Gobierno : ORG

@@ -1,10 +1,5 @@
 package NER;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.Properties;
@@ -12,8 +7,6 @@ import com.google.common.io.Files;
 import eus.ixa.ixa.pipe.nerc.train.Flags;
 import eus.ixa.ixa.pipe.pos.Annotate;
 import eus.ixa.ixa.pipe.pos.CLI;
-
-
 import ixa.kaflib.Entity;
 import ixa.kaflib.KAFDocument;
 import java.io.ByteArrayInputStream;
@@ -23,7 +16,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 /**
  *
- * @author pcalleja
+ * @author ines badji
  */
 public class IxaPipe {
     String PosModel;
@@ -149,14 +142,11 @@ public class IxaPipe {
         } catch (IOException e) {
             
         }
-        
-        ////////
-        
+                
         
         dictag = new File("resources/tag").getAbsolutePath();
 
         
-
          this.annotateNEProperties = new Properties();
         annotateNEProperties.setProperty("model", NERModel);
         annotateNEProperties.setProperty("language", language);

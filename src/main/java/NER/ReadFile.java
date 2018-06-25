@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author n
+ * @ines badji
  */
 public class ReadFile {
     public static String readFile(String pathname) throws IOException {
@@ -41,7 +41,6 @@ public class ReadFile {
         BufferedReader br = null;
         File fr = new File(FilePath);
 
-  
         br =   new BufferedReader(new InputStreamReader(new FileInputStream(fr)));
 
         String Line;
@@ -53,10 +52,7 @@ public class ReadFile {
         }
         br.close();
         
-        //System.out.println(buffer.toString());
-        
+        //System.out.println(buffer.toString());    
         return buffer.toString();
-
-
     }
 }

@@ -1,12 +1,5 @@
 package NER;
 
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -26,7 +19,7 @@ import opennlp.tools.tokenize.TokenizerModel;
 import opennlp.tools.util.Span;
 /**
  *
- * @author pcalleja
+ * @author ines badji
  */
 public class OpenNLP {
     
@@ -44,15 +37,15 @@ public class OpenNLP {
         TokenizerModel="resources/Libraries and Properties/OpenNLP/en-token.bin";
         String [] tokens= tokenize(sentences);
         PrintWriter writer = new PrintWriter("output/OpenNLP.txt", "UTF-8");
-        String l = "";
-        if (language.equals("english")) l="en";
-        else if (language.equals("spanish")) l="es";
+        String Language = "";
+        if (language.equals("english")) Language ="en";
+        else if (language.equals("spanish")) Language ="es";
         
-        NEModel="resources/Libraries and Properties/OpenNLP/"+l+"-ner-location.bin";
+        NEModel="resources/Libraries and Properties/OpenNLP/"+Language+"-ner-location.bin";
         Span [] entities= namedEntityRecognition( tokens, writer);
-        NEModel="resources/Libraries and Properties/OpenNLP/"+l+"-ner-person.bin";
+        NEModel="resources/Libraries and Properties/OpenNLP/"+Language+"-ner-person.bin";
         entities= namedEntityRecognition( tokens, writer);
-        NEModel="resources/Libraries and Properties/OpenNLP/"+l+"-ner-organization.bin";
+        NEModel="resources/Libraries and Properties/OpenNLP/"+Language+"-ner-organization.bin";
         entities= namedEntityRecognition( tokens, writer);   
         
         Map<String, Pattern[]> regexMap = new HashMap<>();

@@ -1,9 +1,5 @@
-Articulo
 Organization
 Nicknames
-Recurso
 Person
-LeyOrganica
 Other
-Constitution
 Location

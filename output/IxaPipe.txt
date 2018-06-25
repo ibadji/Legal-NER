@@ -1,72 +1,206 @@
-112.1	MISC	
-121	MISC	
-122	MISC	
-Ley 39/2015	MISC	
-LPAC	ORG	
-RECURSO DE ALZADA	MISC	
-Resolución de la Directora General de Industrias	MISC	
-Cadena Agroalimentaria	MISC	
-27 de diciembre de 2017	MISC	
-Consejería de Agricultura , Pesca y Desarrollo Rural	ORG	
-Junta de Andalucía	ORG	
-Hechos	MISC	
-Fundamentos de Derecho	MISC	
-Factura del Socio AGRECOLÓGICA DOÑANA	LOC	
-15-3	MISC	
-30/09/2015	MISC	
-Julio-Septiembre 2015	MISC	
-SAT BERRYNEST H-0023	MISC	
-Resumen de recepción de mercancía	MISC	
-AGROECOLÓGICA DOÑANA	ORG	
-SL	ORG	
-Certificado de Conformidad	MISC	
-CE-001604-2015	MISC	
-SERVICIO DE CERTIFICACIÓN	MISC	
-CAAE	ORG	
-SL	ORG	
-43.l	MISC	
-Ley 2/2011	MISC	
-25 de marzo	MISC	
-Calidad Agroalimentaria y Pesquera de Andalucía	ORG	
-LCAPA	ORG	
-43.l	MISC	
-43.l	MISC	
-LCAPA	ORG	
-112.1	MISC	
-121	MISC	
-122	MISC	
-LPAC	ORG	
-43.l	MISC	
-LCAPA	ORG	
-Resolución	MISC	
-43.l	MISC	
-Sentencia de 14 de noviembre de 2014 de la Sala de lo Contencioso-Administrativo del Tribunal Supremo	MISC	
-5244/2011	MISC	
-24.2	MISC	
-Constitución	MISC	
-Tribunal Constitucional	ORG	
-Justicia	ORG	
-Sevilla	LOC	
-12 de febrero de 2018	MISC	
-117	MISC	
-LPAC	ORG	
-SUSPENSIÓN DE LA EJECUCIÓN de la Resolución Directora General de Industrias	MISC	
-Cadena Agroalimentaria	MISC	
-Consejería de Agricultura	ORG	
-Pesca y Desarrollo Rural	ORG	
-27 de diciembre de 2017	MISC	
-MOTIVOS	ORG	
-117.2	MISC	
-LPAC	ORG	
-47.1	MISC	
+Jornada	MISC	
+Ley 13/2015	MISC	
+@GeomaticaUPV#Ley132015	MISC	
+pic.twitter.com/GCY19KNnzN	MISC	
+Ley Mordaza	MISC	
+Sanidad	MISC	
+DGT	ORG	
+CV	ORG	
+María Sharapova	PER	
+París	LOC	
+Garbi	PER	
+María de hace	PER	
+1-O	ORG	
+TC	ORG	
+http://bit.ly/2JtAYbtMicolumnaen@DisidentiaLaCorrecciónPolíticaesunadoctrinafanáticaqueamenazalalibertad,lasociedadabierta,lalibertaddeexpresión,losderechosindividuales,laigualdadantelaleyyelimperiodelarazónhttps://disidentia.c@MarcMiSanNeverforget,laLeyDondefueelgermenquehizoposiblelaLeyMordazaPLATADELEY-LoshombresdeplataparalaBeneficenciahttp://www.cultoro.es/actualidad/2018/6/6/los-hombres-de-plata-para-la-beneficencia-30463.html	MISC	
+@UNPBE pic.twitter.com/Ltj3Gy735y Ley de accesibilidad	MISC	
+Asociación de Internautas	ORG	
+Gobierno	ORG	
+12001796	MISC	
+102.html	MISC	
+canyas/status/1004253994561269760	MISC	
+Día del Libro	MISC	
+Feria del Libro	MISC	
 Ley	MISC	
-Resolución	MISC	
-27 de diciembre de 2017	MISC	
-Directora General de Industrias y Cadena Agroalimentaria de SOLICITA	ORG	
-117	MISC	
-LPAC	ORG	
-Resolución	MISC	
-27 de diciembre de 2017	MISC	
-Directora General de Industrias	ORG	
-Cadena Agroalimentaria de la Consejería de Agricultura , Pesca y Desarrollo Rural	ORG	
-Junta de Andalucía	ORG	
+10 %	MISC	
+Ley de la lectura	MISC	
+5 Hoy	MISC	
+DOCM	ORG	
+Red	MISC	
+Red	MISC	
+Ley 3/2018 de Protección y Apoyo Garantizado	MISC	
+Castilla La Mancha	LOC	
+Emoji	LOC	
+2018/06/06/pdf/2018	MISC	
+6728.pdf	MISC	
+Jornada	MISC	
+Nueva Ley de Contratos del Sector Público	MISC	
+@FEACEM CLM	MISC	
+Emoji : Octagonal sign >	MISC	
+Emoji	PER	
+Octagonal sign	MISC	
+1	MISC	
+Smooth Criminal	MISC	
+Emoji : Down	MISC	
+http://dozz.es/luii57	MISC	
+Carmen Calvo	PER	
+Ministerio de Igualdad	ORG	
+2e699a9f	MISC	
+Emoji : Face screaming in fear	MISC	
+Moore	PER	
+http://dozz.es/p2reh6	MISC	
+Carmen Calvo	PER	
+Gobierno	ORG	
+Ley de Igualdad Salarial	MISC	
+Ley	MISC	
+Igualdad de Trato entre Hombres y Mujeres	ORG	
+Laboral http://bit.ly/2LncsGc	MISC	
+< Emoji : Flag of United Kingdom	MISC	
+< Emoji : Flag of Spain	MISC	
+Acuerdos de París	MISC	
+@SimonManleyFCO #UkSpain2030 #WorldEnviromentDay2018	MISC	
+PACMA	ORG	
+Ley Cero	MISC	
+Pode @Twitter	MISC	
+@OlayoAlmudena1	MISC	
+@5palabras5	MISC	
+Mecenazgo Cultural	ORG	
+Ley Aillagon	MISC	
+@xcervantes1	MISC	
+Barcelona	LOC	
+//culturanpositivo.wordpress.com/2018/05/31/mecenazgo-cultural-cambiamos-el-chip-ley-aillagon /	MISC	
+Rivera	PER	
+Belin	PER	
+GS	ORG	
+VÍDEO	MISC	
+Antitabaco	MISC	
+http://atres.red/2ovbg1	MISC	
+Rivera/status/1003981738320769024	MISC	
+PLATA DE LEY	MISC	
+José Escolar	PER	
+martes	MISC	
+Madrid	LOC	
+http://www.cultoro.es/actualidad/2018/6/5/las-cuadrillas-para-el-festejo-de-jose-escolar-este-martes-en-madrid-30436.html ... @UNPBE pic.twitter.com/itF2t86kBV LÁVATE LAS MANOS	MISC	
+PEDRO	MISC	
+A	MISC	
+//www.facebook.com/LCEGATUS/posts/402704983576800 ... Implicaciones de la nueva Ley	MISC	
+pic.twitter.com/4tfH5kzHEk	MISC	
+Ley Mordaza	MISC	
+1	MISC	
+PP	ORG	
+Presidente	PER	
+Ley Mordaza	MISC	
+1	MISC	
+Nueva Ley Hipotecaria	MISC	
+http://finanzas.com#ForoLeyHipotecariapic.twitter.com/CeZoFhE32Z	MISC	
+_	MISC	
+@masmovil Tfno de SPAM	MISC	
+876 096 121	MISC	
+Emoji : Unamused face	MISC	
+Que @EstadoCharnego	MISC	
+Sala III	MISC	
+Ley Sinde	MISC	
+RTVE	ORG	
+TV3	LOC	
+La ley no	MISC	
+Nicolo Maquiavelo	PER	
+EEUU	LOC	
+Gobernador de Misuri	PER	
+@joantapia00	MISC	
+25 %	MISC	
+Colegio de Logopedas	ORG	
+Ejecutivo	ORG	
+Consejo Consultivo	ORG	
+Colegio de Logopedas.	ORG	
+Ley	MISC	
+Consejo de Control de la #CadenaAlimentaria	ORG	
+Lunes 04 de Mayo	MISC	
+White	PER	
+Emoji : White medium small square	MISC	
+Proyecto de Ley de Patrimonio Cultural	MISC	
+Emoji : White medium small square	MISC	
+Modificación del Reglamento del Servicio del Taxi	MISC	
+Emoji : White medium small square	MISC	
+34ª Feria de Artesanía de Canarias https : //twitter.com/PresiCan/status/1003656448600141824	MISC	
+04 de Mayo	MISC	
+Patrimonio	ORG	
+Mecenazgo Cultural	ORG	
+Ley Aillagon	MISC	
+Ley Mordaza	MISC	
+Ley Mordaza	MISC	
+1	MISC	
+Ley Mordaza	MISC	
+Ley Mordaza	MISC	
+1	MISC	
+Congreso	ORG	
+Ley Mordaza	MISC	
+Senado	ORG	
+VÍDEO | Ley mordaza	MISC	
+RTVE	ORG	
+Pedro Sánchez	PER	
+http://atres.red/igmut3	MISC	
+Mariano Rajoy	PER	
+Emoji : Large red circle	MISC	
+//twitter.com/MediterraneoDGT/status/1003603871749505024 ... El plan para Cataluña	MISC	
+//twitter.com/mananascuatro/status/1003602901959311360	MISC	
+Manuel Vilas	PER	
+Ley Ordesa	MISC	
+José Luis Ibáñez Salas	PER	
+Mecenazgo Cultural	ORG	
+Ley Aillagon	MISC	
+@josepmassot@xcervantes1	MISC	
+Aragón	ORG	
+BOE	MISC	
+TC	ORG	
+Aragón	LOC	
+Cifuentes	PER	
+Colau	PER	
+//twitter.com/bufetalmeida/status/864025269065187328 ... Sr.	MISC	
+Abogacía del Estado	ORG	
+TC	ORG	
+diciembre de 2011	MISC	
+Ley de la Ciencia	MISC	
+Ministerio de Ciencia e Innovación	ORG	
+Ley de Hanlon	MISC	
+PP	ORG	
+Cs < Emoji	ORG	
+Grinning face	MISC	
+Emoji : Grinning face	MISC	
+Mecenazgo Cultural	ORG	
+Ley Aillagon	MISC	
+//culturanpositivo.wordpress.com/2018/05/31/mecenazgo-cultural-cambiamos-el-chip-ley-aillagon /	MISC	
+@carlessala1	MISC	
+Iglesias	PER	
+Van	MISC	
+LEY MORDAZA	MISC	
+EE.UU.	ORG	
+Europa	LOC	
+//es.gizmodo.com/algunos-sites-de-ee-uu-prohibiran-el-acceso-desde-euro-1826166395 ... Dejamos	MISC	
+Damocles	MISC	
+Rajoy	PER	
+Proyecto de Ley de Secretos Empresariales	MISC	
+1	MISC	
+3	MISC	
+Ley de Murphy	MISC	
+Ley mordaza	MISC	
+http://ver.20m.es/i31vb1|Por@Nepomukiepic.twitter.com/EHbkZ5slA1 Las #prostitutas de Ámsterdam	MISC	
+http://ver.20m.es/aptan2 Regulación	MISC	
+Ley Electoral	MISC	
+TW	ORG	
+CC	ORG	
+LGTBI	ORG	
+Madrid	LOC	
+http://atres.red/kwml11	MISC	
+@cmsg67	MISC	
+TC	ORG	
+= 21	MISC	
+TC	ORG	
+Sr.	PER	
+= 21	MISC	
+Facebook	MISC	
+1.520	MISC	
+Europa	LOC	
+1565573	MISC	
+Eurípides	ORG	
+Ámsterdam	LOC	
+http://ver.20m.es/aptan1	MISC	

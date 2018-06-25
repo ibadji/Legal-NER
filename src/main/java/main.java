@@ -12,15 +12,9 @@ import java.io.IOException;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
  *
- * @author n
+ * @ines badji
  */
 public class main {
     private static String ENGLISH = "english";  
@@ -31,11 +25,10 @@ public class main {
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException, InterruptedException, Exception 
     {
         //text to be annotated
-        //make it go trough many documents
-        String text = "resources/inputText/test.txt";
+        String text = "resources/inputText/tweets.txt";
         String sentence = read.readFile(text);
         String Language = SPANISH;
-        String Type = "rule";// can be rule, nickname or other for spanish or rule and other for english
+        String Type = "nickname";// can be rule, nickname or other for spanish or rule and other for english
         
         if(Type == "nickname")
         {

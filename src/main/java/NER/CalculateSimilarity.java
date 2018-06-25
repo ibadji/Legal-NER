@@ -14,7 +14,5 @@ public class CalculateSimilarity {
         JaroWinkler jw = new JaroWinkler();
         return jw.similarity(x, y);
     }
-    
-    
-    
+       
 }

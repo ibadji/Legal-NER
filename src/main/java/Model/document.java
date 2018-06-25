@@ -7,8 +7,9 @@ package Model;
 
 /**
  *
- * @author n
+ * @ines badji
  */
 public class document {
+    //loead all needed texts
     
 }

@@ -6,17 +6,11 @@
 package NER;
 import gate.Gate;
 import gate.Document;
-import gate.util.GateException;
 import gate.Factory;
-import gate.creole.SerialAnalyserController;
-
-import java.util.Iterator;
-import java.io.File;
-import java.util.Properties;
 
 /**
  *
- * @author n
+ * @ines badji
  */
 
 import gate.*;
@@ -49,10 +43,6 @@ public class GateNER {
         controller.setCorpus(corpus); 
         controller.execute();
         PrintWriter writer = new PrintWriter("output/GateNLP.txt", "UTF-8");   
-//        document.getAnnotations().get(new HashSet<>(Arrays.asList("Person", "Organization", "Location")))
-//            .forEach(a -> System.err.format("%s - \"%s\" [%d to %d]\n", 
-//                    a.getType(), Utils.stringFor(document, a),
-//                    a.getStartNode().getOffset(), a.getEndNode().getOffset()));
         document.getAnnotations().get(new HashSet<>(Arrays.asList("Person", "Organization", "Location")))
             .forEach(a -> 
                 writer.println(Utils.stringFor(document, a)+":"+ a.getType())        

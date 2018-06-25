@@ -30,7 +30,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 /**
  *
- * @author n
+ * @author ines badji
  */
 public class Combine {
     private static HashMap<String, Integer> grades = new  HashMap<String, Integer>();   
@@ -260,55 +260,64 @@ public class Combine {
                 UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
             } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException ex) {
             }
-
-            //Map of the Entities detected
+         
+           highlightDetectedEntitiesMap(); 
+           highlightDetectedEntities(text);
+           findLink();
+              
+    }
+    
+    public static void highlightDetectedEntitiesMap() throws FileNotFoundException, UnsupportedEncodingException
+    {
+        //Map of the Entities detected
             PrintWriter writer = new PrintWriter("output/ListDetectedEntities.txt", "UTF-8");        
-                Set<String> sett = new HashSet<String>();
-                Set set1 = outputList.entrySet();
-                Iterator iterator1 = set1.iterator();
-                while(iterator1.hasNext()) {
+            Set<String> set = new HashSet<String>();
+            Set set1 = outputList.entrySet();
+            Iterator iterator1 = set1.iterator();
+            //find entities detexted in outputList and put them in hashSet
+            while(iterator1.hasNext()) 
+            {
                  Map.Entry mentry = (Map.Entry)iterator1.next();    
                  String key = mentry.getKey().toString();
                  ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
                  String value = valueK.get(1).trim();
-                     sett.add(value);
-              }
-        
-            Iterator it = sett.iterator();
+                 set.add(value);
+            }
+            
+            Iterator it = set.iterator();
             while(it.hasNext()) {
               writer.println(it.next());
             }
              writer.close();
-            
-            
-            JFrame frame = new JFrame("Text");
+             
+            // Create the key for the text
+            JFrame frame = new JFrame("Entities and Software");
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             frame.setLayout(new BorderLayout());
-            Display t = new Display(text);
+            Display display = new Display("output/ListDetectedEntities.txt");
 
-            frame.add(t);
+            frame.add(display);
             frame.pack();
             frame.setLocationRelativeTo(null);
             frame.setVisible(true);
-            
-            JFrame frame1 = new JFrame("Entities and Software");
-            frame1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-            frame1.setLayout(new BorderLayout());
-            Display t1 = new Display("output/ListDetectedEntities.txt");
-
-            frame1.add(t1);
-            frame1.pack();
-            frame1.setLocationRelativeTo(null);
-            frame1.setVisible(true);
-            // Create the key for the text
-            Iterator it1 = sett.iterator();
-            while(it1.hasNext()) {
-                String s = it1.next().toString();
-                t1.color(Color.decode(color.get(s)), s);
+            Iterator iterator = set.iterator();
+            while(iterator.hasNext()) {
+                String s = iterator.next().toString();
+                display.color(Color.decode(color.get(s)), s);
             }
-            
+    }
+    public static void highlightDetectedEntities(String text)
+    {
+        JFrame frame = new JFrame("Text");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setLayout(new BorderLayout());
+        Display t = new Display(text);
+
+        frame.add(t);
+        frame.pack();
+        frame.setLocationRelativeTo(null);
+        frame.setVisible(true);
         //Highlight the entities found
-        PrintWriter writer2 = new PrintWriter("output/TextEntitiesDetected.txt", "UTF-8");
         Set set = outputList.entrySet();
         Iterator iterator = set.iterator();
         while(iterator.hasNext()) {
@@ -319,7 +328,11 @@ public class Combine {
          //if(! (value.equals("Other")||value.equals("Person")||value.equals("Organization")|| value.equals("Location")))
             t.color(Color.decode(color.get(value.trim())), key.trim());
       }
-        //find the links
+    }
+    public static void findLink() throws FileNotFoundException, UnsupportedEncodingException, IOException
+    {
+         //find the links
+        PrintWriter writer2 = new PrintWriter("output/TextEntitiesDetected.txt", "UTF-8");
         Set set2 = outputList.entrySet();
         Iterator iterator2 = set2.iterator();
         while(iterator2.hasNext()) {
@@ -328,14 +341,13 @@ public class Combine {
          ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
          String value = valueK.get(1);
          if(value.equals("Nicknames"))
-            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(valueK.get(2),"nickname","nickname"));       
+            writer2.println( mentry.getKey() + "      "+ mentry.getValue());//+"         "+ link.findLinkCases(valueK.get(2),"nickname","nickname"));       
          else //if(! value.equals("Other"))
-            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(mentry.getKey().toString(),"other",value.trim()));       
+            writer2.println( mentry.getKey() + "      "+ mentry.getValue());//+"         "+ link.findLinkCases(mentry.getKey().toString(),"other",value.trim()));       
         }
         writer2.close();
-              
     }
-
+    
     public static void grading(HashMap CoreNLP, HashMap OpenNLP, HashMap IxaPipe,HashMap unrated)
     {
         Integer total = outputList.size();

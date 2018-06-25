@@ -1,15 +1,19 @@
 package Evaluation;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+import NER.ReadFile;
+import java.io.IOException;
+
 
 /**
  * ...
- * @author n
+ * @author ines badji
  */
 public class Assess {
-    
+        private static ReadFile read = new ReadFile();
+
+    public static void main(String[] args) throws IOException 
+    {
+        String sentence = read.readFile("resources/inputText/tweets.txt");
+
+    }
 }

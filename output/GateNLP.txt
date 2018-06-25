@@ -1,7 +1,25 @@
-Parliament:Organization
-European Parliament:Organization
-Ms Myl:Person
-Parliament:Organization
-Ms Troszczynksi:Person
-Parliament:Organization
-Council of the European Union:Organization
+del Socio AGRECOLÓGICA:Person
+La:Location
+La:Location
+Julio-Septiembre:Person
+del:Person
+Ley:Location
+del:Person
+del:Person
+Sala:Person
+del Tribunal Supremo:Person
+Sevilla:Location
+con:Person
+LA:Location
+General de Industrias:Person
+del:Person
+del:Person
+del:Person
+Ley:Location
+General de Industrias:Person
+con:Person
+General de Industrias:Person
+Ley:Location
+General de Industrias:Person
+Vulneración del:Person
+La:Location

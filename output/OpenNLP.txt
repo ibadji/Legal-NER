@@ -1,27 +1,66 @@
-Sevilla   :  [379..380) location
-Junta de Andalucía   :  [60..63) organization
-LCAPA   :  [243..244) organization
-LPAC   :  [259..260) organization
-Sala de lo Contencioso-Administrativo del Tribunal Supremo   :  [336..343) organization
-Tribunal Constitucional   :  [370..372) organization
-OTROSÍ   :  [388..389) organization
-LPAC   :  [400..401) organization
-LPAC   :  [451..452) organization
-II   :  [561..562) organization
-LPAC   :  [609..610) organization
-Junta de Andalucía   :  [646..649) organization
-artículo 43.l   :  [182..184) Articulo
-artículo 43.l   :  [219..221) Articulo
-artículo 43.l   :  [271..273) Articulo
-artículo 43.l   :  [295..297) Articulo
-artículo 24.2   :  [351..353) Articulo
-artículo 117   :  [396..398) Articulo
-artículo 117.2   :  [447..449) Articulo
-artículo 47.1   :  [555..557) Articulo
-artículo 117   :  [605..607) Articulo
-artículos 112.1, 121 y 122   :  [7..13) Articulo
-artículos 112.1, 121 y 122   :  [251..257) Articulo
-rec. 5244/2011   :  [344..346) Recurso
-Ley 39/2015  :  [15..17) LeyOrganica
-Ley 2/2011  :  [187..189) LeyOrganica
-CE-001604-2015   :  [148..149) Constitution
+Madrid   :  [1127..1128) location
+Aquí   :  [1252..1253) location
+Aquí   :  [1329..1330) location
+Nueva Ley   :  [1358..1360) location
+Canarias   :  [1767..1768) location
+calle   :  [1956..1957) location
+Nueva   :  [2390..2391) location
+Madrid   :  [2875..2876) location
+María Sharapova   :  [148..150) person
+Memo> Hoy   :  [478..480) person
+Hoy   :  [601..602) person
+Carmen Calvo   :  [706..708) person
+Carmen Calvo   :  [752..754) person
+Que   :  [1072..1073) person
+@oscarzx6r Las   :  [1198..1200) person
+Aquí   :  [1252..1253) person
+Nicolo Maquiavelo   :  [1552..1554) person
+Mecenazgo Cultural   :  [1825..1827) person
+Pedro Sánchez   :  [2068..2070) person
+Mariano Rajoy_ Sobre   :  [2080..2083) person
+Manuel Vilas   :  [2254..2256) person
+Luis Ibáñez Salas   :  [2264..2267) person
+MinisteriodeCienciaYa# MinisteriodeCiencia   :  [2438..2440) person
+Rajoy   :  [2619..2620) person
+María   :  [148..149) organization
+TC   :  [192..193) organization
+Gobierno   :  [287..288) organization
+Gracias   :  [367..368) organization
+DOCM   :  [423..424) organization
+Que   :  [585..586) organization
+Gobierno   :  [758..759) organization
+GS   :  [969..970) organization
+VÍDEO   :  [983..984) organization
+Por   :  [1019..1020) organization
+Que   :  [1072..1073) organization
+PP   :  [1288..1289) organization
+Foro   :  [1355..1356) organization
+Sala III   :  [1447..1449) organization
+RTVE   :  [1512..1513) organization
+Colegio de Logopedas   :  [1641..1644) organization
+Ejecutivo   :  [1651..1652) organization
+Consejo Consultivo   :  [1657..1659) organization
+Consejo de Control   :  [1691..1694) organization
+Gobierno del PP   :  [1871..1874) organization
+Quien   :  [1910..1911) organization
+Da   :  [1962..1963) organization
+pic.twitter.com/QMrh4Dc7Fx   :  [1967..1968) organization
+Solo   :  [1992..1993) organization
+Congreso   :  [2008..2009) organization
+Senado   :  [2022..2023) organization
+VÍDEO   :  [2051..2052) organization
+RTVE   :  [2058..2059) organization
+Nada   :  [2186..2187) organization
+TC   :  [2333..2334) organization
+Estado   :  [2369..2370) organization
+TC   :  [2377..2378) organization
+Ministerio de Ciencia   :  [2429..2432) organization
+Que   :  [2452..2453) organization
+PP   :  [2477..2478) organization
+Damocles   :  [2598..2599) organization
+Cambio   :  [2641..2642) organization
+Hartos   :  [2755..2756) organization
+SI   :  [2804..2805) organization
+VÍDEO   :  [2849..2850) organization
+TC   :  [2936..2937) organization
+TC   :  [2999..3000) organization
