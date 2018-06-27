@@ -5,17 +5,15 @@
  */
 package NER;
 
-import org.apache.lucene.store.RAMDirectory;
+import com.wantedtech.common.xpresso.x;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.Reader;
 import java.io.StringReader;
-import java.text.Normalizer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
@@ -27,7 +25,6 @@ import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
-import static org.apache.lucene.search.SortedNumericSelector.Type.MAX;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.search.highlight.Formatter;
 import org.apache.lucene.search.highlight.Fragmenter;
@@ -38,7 +35,6 @@ import org.apache.lucene.search.highlight.SimpleHTMLFormatter;
 import org.apache.lucene.search.highlight.SimpleSpanFragmenter;
 import org.apache.lucene.search.highlight.TextFragment;
 import org.apache.lucene.search.highlight.TokenSources;
-import org.apache.lucene.search.similarities.Similarity;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 
@@ -95,6 +91,11 @@ public class Nicknames {
         writer.close();
     }
 
+        public void findSilimar(String searchForSimilar) throws IOException, InvalidTokenOffsetsException, ParseException 
+    {
+        FindApache(searchForSimilar);
+        FindXpresso(searchForSimilar,list);
+    }
 
     public void writerEntries(String Text) throws IOException
     {
@@ -128,19 +129,38 @@ public class Nicknames {
         doc.add(new TextField("title", title, Field.Store.YES));  
         doc.add(new TextField("content", content, Field.Store.YES));
         return doc;
+    }	
+    
+    public void FindXpresso(String searchForSimilar,String[] list)
+    {
+        for (String line:list)
+        {
+                        String s = line;
+            String lookeup= searchForSimilar;
+            int position = x.String(s).search(lookeup);
+            if (position > -1 && position+lookeup.length()< line.length())
+            {
+                CalculateSimilarity sim = new CalculateSimilarity();
+                String found = s.substring(position, position+lookeup.length());
+                if(sim.calculate(searchForSimilar,found)>=0.90)
+                    //x.print("1:::"+searchForSimilar+":::"+found);
+                    writer.println("1:::Tweetx:::"+searchForSimilar+":::"+found);
+            }
+                
+        } 
+    
     }
-
-    public void findSilimar(String searchForSimilar) throws IOException, InvalidTokenOffsetsException, ParseException 
+    public void FindApache(String searchForSimilar) throws IOException, InvalidTokenOffsetsException
     {
         IndexReader reader = DirectoryReader.open(indexDir);
         IndexSearcher indexSearcher = new IndexSearcher(reader);
-    
+
         MoreLikeThis mlt = new MoreLikeThis(reader);
         mlt.setMinTermFreq(0);
         mlt.setMinDocFreq(0);
         mlt.setFieldNames(new String[]{"title", "content"});
         mlt.setAnalyzer(analyzer);
-
+        
         Reader sReader = new StringReader(searchForSimilar);
         
         Query query = mlt.like("content", sReader);
@@ -151,7 +171,7 @@ public class Nicknames {
         scorer.setExpandMultiTermQuery(true);
         
         Highlighter highlighter = new Highlighter(formatter, scorer);
-        Fragmenter fragmenter = new SimpleSpanFragmenter(scorer, searchForSimilar.length());
+        Fragmenter fragmenter = new SimpleSpanFragmenter(scorer, 10);
         highlighter.setTextFragmenter(fragmenter);
 
         //Iterate over found results
@@ -162,25 +182,24 @@ public class Nicknames {
             String Content = doc.get("content");
             
             //Printing - to which document result belongs
-            if(scoreDoc.score >= 0.80)
+            if(scoreDoc.score >= 0.8)
             {
                 writer.print(scoreDoc.score +":::");
                 writer.print( title+":::");
                 writer.print(searchForSimilar+":::");
                 //System.out.print("content: "+ Content);
 
-                //Create token stream
                 TokenStream stream = TokenSources.getAnyTokenStream(reader, scoreDoc.doc, "content", analyzer);
-                //Get highlighted text fragments
-                //String frags = highlighter.getBestFragment(stream, Content);
-               TextFragment[] frags = highlighter.getBestTextFragments(stream, Content, true, searchForSimilar.length());
+                TextFragment[] frags = highlighter.getBestTextFragments(stream, Content, true, 10);
                 for (TextFragment frag : frags)
-                {               
+                {         
+                   // System.out.print(frag);
                     String highlithed = frag.toString();
                     highlithed =  highlithed.replaceAll("<B>", "");  
                     highlithed =  highlithed.replaceAll("</B>", ""); 
                     writer.print(highlithed);
                 }
+                System.out.println();
                 writer.print("\n");
             }
             else if (scoreDoc.score < 0.80 & scoreDoc.score > 0.1)
@@ -195,7 +214,7 @@ public class Nicknames {
                     String highlithed = frag.toString();
                     highlithed =  highlithed.replaceAll("<B>", "");  
                     highlithed =  highlithed.replaceAll("</B>", ""); 
-                    if(sim.calculate(searchForSimilar,highlithed)>=0.70)
+                    if(sim.calculate(searchForSimilar,highlithed)>=0.75)
                     {
                         writer.print(scoreDoc.score +":::");
                         writer.print( title+":::");
@@ -208,5 +227,6 @@ public class Nicknames {
             }
         }
          reader.close(); 
-    }	
+    
+    }
 }

@@ -105,6 +105,16 @@
             <version>5.3.0</version>
         </dependency>
         <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-analyzers</artifactId>
+            <version>3.6.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-spellchecker</artifactId>
+            <version>3.6.1</version>
+        </dependency>
+        <dependency>
             <groupId>com.github.javaparser</groupId>
             <artifactId>javaparser-core</artifactId>
             <version>3.6.9</version>
@@ -115,10 +125,10 @@
             <version>3.6.9</version>
         </dependency>
         <dependency>
-            <groupId>org.apache.lucene</groupId>
-            <artifactId>lucene-spellchecker</artifactId>
-            <version>3.6.2</version>
-        </dependency>
+            <groupId>com.cebglobal</groupId>
+            <artifactId>xpresso</artifactId>
+            <version>0.9.0</version>
+         </dependency>
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
