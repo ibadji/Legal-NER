@@ -61,7 +61,7 @@ public class WikiScrapper {
                     continue;
                 }
 
-                String html = getHtmlContent(law.wiki);
+                String html = LynxUtils.getHtmlContent(law.wiki);
 
                 Document doc = Jsoup.parse(html);
                 
@@ -139,26 +139,5 @@ public class WikiScrapper {
         return lista;
     }
 
-    public static String getHtmlContent(String url) {
-        String html = "";
-
-        try {
-            HttpClient client = new DefaultHttpClient();
-            HttpGet request = new HttpGet(url);
-            HttpResponse response = client.execute(request);
-
-            InputStream in = response.getEntity().getContent();
-            BufferedReader reader = new BufferedReader(new InputStreamReader(in));
-            StringBuilder str = new StringBuilder();
-            String line = null;
-            while ((line = reader.readLine()) != null) {
-                str.append(line);
-            }
-            in.close();
-            html = str.toString();
-        } catch (Exception e) {
-
-        }
-        return html;
-    }
+    
 }
