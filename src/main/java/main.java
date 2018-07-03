@@ -13,7 +13,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- *
+ * Entry point to run the software.
  * @ines badji
  */
 public class main {
@@ -22,6 +22,9 @@ public class main {
     private static Lock lock = new ReentrantLock(true);
     private static ReadFile read = new ReadFile();
 
+    /**
+     * Modify at will the Language, the text (input file) and the type (ES: "rule", "nickname", "other", EN: "rule", "other")
+     */
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException, InterruptedException, Exception 
     {
         //text to be annotated
@@ -30,13 +33,13 @@ public class main {
         String Language = SPANISH;
         String Type = "nickname";// can be rule, nickname or other for spanish or rule and other for english
         
-        if(Type == "nickname")
+        if(Type.equals("nickname"))
         {
             Nicknames nickname = new Nicknames();
             nickname.run(sentence);
         }
         OpenNLP open = new OpenNLP();
-        open. runIt(Language,"",sentence,Type);
+        open.runIt(Language,"",sentence,Type);
 
         CoreNLP core = new CoreNLP();
         core.regX(sentence,Language,Type);
@@ -46,7 +49,7 @@ public class main {
         exec.initProperties(Language);        
         exec.findEntities(sentence);
            
-        if (Language == "english")
+        if (Language.equals("english"))
         {
             GateNER gate = new GateNER();
             gate.init(sentence);

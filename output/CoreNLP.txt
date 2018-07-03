@@ -1,115 +1,306 @@
+Serna : ORG
+RGPD : ORG
+Seguridad Ciudadana : ORG
 Sector Público : ORG
-María : PERS
 Manuel Vilas : PERS
 Colau : PERS
-he : PERSON
 Ley Sinde : ORG
 Innovación : OTROS
 María Sharapova : PERS
-Internautas : OTROS
-Hombres : ORG
-Artesanía : OTROS
+Absolutamente : ORG
 Salvo : OTROS
+<Emoji : ORG
 Patrimonio Cultural<Emoji: White medium small square>Modificación : OTROS
 Ley Electoral : ORG
+Dependencia : OTROS
 Mancha : OTROS
-Castilla : OTROS
-Estado : OTROS
+@gomareski Ley : ORG
 Antitabaco : PERS
-Ámsterdam : OTROS
 Canarias : OTROS
-Feria : ORG
+Violencia : OTROS
 DGT : ORG
 Contratos : OTROS
 Nicolo Maquiavelo : PERS
 Ley Ordesa : OTROS
+tuit : ORG
+Cambio : OTROS
 Igualdad : OTROS
 Control : OTROS
-Sala III : ORG
+Vivienda : ORG
+Comisión : ORG
+Comunidad : ORG
+Ley Orgánica 4/2015 : ORG
+@RevillaMiguelA @subversivos_ Derogación : ORG
 Colegio : ORG
-Reglamento : OTROS
-Corrección Política : ORG
+@plumademaat Dote : ORG
+Camila : PERS
+Miss : ORG
 Ley Mordaza : ORG
-Cifuentes : PERS
-Hanlon : PERS
-Secretos Empresariales : OTROS
+Sánchez : PERS
+Carreteras : OTROS
+@InLibertatem Sánchez : PERS
+Torra : PERS
+España : ORG
+BBC : ORG
+Función Pública : ORG
 Mariano Rajoy : PERS
 Smooth Criminal : ORG
 Transparencia : OTROS
+Tribunal Supremo : ORG
+Miura : PERS
 EEUU : LUG
-Marco : OTROS
-Senado : ORG
-BOE : ORG
+Colombia : ORG
+Arturo : PERS
+Anteproyecto : ORG
 GS : ORG
 Estarás : PERS
-ministros - Público http://www.publico.es/politica/gobierno-del-pp-publicar-patrimonio-ministros.html … : ORG
-Igualdad Salarial : OTROS
+Aplicación Ley 13/2015 Aspectos Técnicos : ORG
 Mujeres : ORG
-Acuerdos : ORG
+Esque : PERS
+CGPJ : ORG
+Uribe : PERS
 Consejo Consultivo : ORG
-Ley : ORG
+https://goo.gl/Gm31rK  via @elespanolcom : ORG
 facebook : ORG
+Baldoví : PERS
+Postobón : PERS
+Joey Gärtner : PERS
+FSE : ORG
 #ley : ORG
-Europa : LUG
 Trato : OTROS
-Nueva Ley : LUG
-Damocles : PERS
-Sanidad : ORG
+Murcia : LUG
 París : LUG
-Presidente : PERS
-Eurípides : LUG
-Beneficencia : OTROS
+Joy Gartner : PERS
+Galicia : OTROS
+Bartosz Makowicz : PERS
 Never forget : ORG
-Nueva Ley Hipotecaria : ORG
 Ciencia : OTROS
 Logopedas : LUG
 Asociación : ORG
 Ley : OTROS
-Garbi : PERS
-DOCM <Emoji: Negative squared cross mark><Emoji: Negative squared cross mark><Emoji: Red exclamation mark symbol><Emoji: Red exclamation mark symbol>la Ley 3/2018 : ORG
+Medidas Administrativas : OTROS
 @FEACEM CLM<Emoji: Octagonal sign> @cafornal @gobjccm : ORG
-PP : ORG
-Madrid : LUG
+Louisiana : LUG
+Corrupción -sanidad -educacion -pensiones +desigualdad ley : ORG
+Protestona : ORG
 whistleblowers : ORG
-Libro : OTROS
 Luis Ibáñez Salas : PERS
-Ley Cero : ORG
-golpe : ORG
+Murphy : OTROS
+Circo Gottani : ORG
+Ley Mordaza : PERS
 Facebook : ORG
-#reunion : ORG
 José Escolar : PERS
 Patrimonio : OTROS
-Pedro Sánchez : PERS
-Servicio : OTROS
+Partido : ORG
 Día : ORG
-Gobernador : ORG
+San Isidro : OTROS
 Cataluña : LUG
-Moore : OTROS
-Murphy : PERS
-LGTBI : ORG
+@InforCreex http://www.creex.es/3.X/plan-de-empleo-de-extremadura/plan-de-empleo-de-extremadura-2018/4441-inscribete-en-la-jornada-oportunidades-de-la-ley-de-contratos-del-sector-publico-para-las-empresas-y-el-empleo-2?utm_source=dlvr.it&utm_medium=facebook … : ORG
+Seguridad Ciudadana : OTROS
+FASCISMO : ORG
+Leyes Eternas : ORG
 Ley Mordaza : LUG
-Proyecto : ORG
+Derogación Ley Mordaza : OTROS
+Pablo Iglesias : PERS
+Estado : ORG
+Sade : OTROS
+Ley Fintech : ORG
+Asturias : LUG
+Cospedal : PERS
+@PSOE Quitad : ORG
+Michael Jackson : PERS
 Protección : OTROS
 Rajoy : PERS
 Ley Mordaza : OTROS
 Abogacía : ORG
-Garbiñe : PERS
+Constitución : ORG
+WhatsApp : ORG
 CV : ORG
-PACMA : ORG
-Pode : PERS
+Aznar : PERS
 Misuri : PERS
+Sade : PERS
 Carmen Calvo : OTROS
 @masmovil Tfno : ORG
-Carmen Calvo : PERS
+PNV : ORG
+Ciudad : LUG
+New Jersey : PERS
+Rolling : ORG
+Dangón : PERS
+Valencia : LUG
 RTVE : ORG
-Ejecutivo : ORG
+Marques : PERS
+expensas : OTROS
+Seca : OTROS
 PEDRO : PERS
 TC : ORG
 Congreso : ORG
-Taxi<Emoji: White medium small square>34ª Feria : ORG
-Ley Aillagon : PERS
-Consejo : ORG
+ANC : ORG
+Caracol : ORG
+Era : OTROS
+ley mordaza : Nicknames
 Aragón : OTROS
-@jdarknet Cierto : ORG
+pp/ psoe/ : ORG
+Memoria Histórica : OTROS
+Juridicos : PERS
 Ministerio : ORG
+Género : OTROS
+Procesa : OTROS
+Hemeroteca 2 : ORG
+Carreteras http://dlvr.it/QVfWf8  : OTROS
+María : PERS
+Rivera : PERS
+he : PERSON
+Ley Orgánica : ORG
+Internautas : OTROS
+Hombres : ORG
+Artesanía : OTROS
+ETA : ORG
+Oportunidades : LUG
+Corona : ORG
+Uber : PERS
+Vasco : ORG
+Presupuestos : OTROS
+Castilla : OTROS
+Sector Público : OTROS
+Estado : OTROS
+Ámsterdam : OTROS
+Luis Montes : PERS
+Baleares : LUG
+Sofía : PERS
+Estados Unidos : LUG
+Emoji : PERS
+Feria : ORG
+FEDE-Aepe : ORG
+Google : ORG
+Hernando : PERS
+Protección Datos : OTROS
+@Apapell Espero : ORG
+@PDeCATPonts @compromis @ehbildu - Jajajaja : ORG
+Capitán América : ORG
+Sala III : ORG
+Ley Seca : ORG
+Reglamento : OTROS
+Poder Judicial : ORG
+Ley Sinde : PERS
+Corrección Política : ORG
+III : OTROS
+IV : ORG
+Samper : PERS
+Hemeroteca 7 : ORG
+Rusia : ORG
+Cifuentes : PERS
+Hanlon : PERS
+Secretos Empresariales : OTROS
+Pacma : PERS
+Gaviria : PERS
+Ohm : OTROS
+Comercio : ORG
+Salario : ORG
+Evaristo : PERS
+POPULISTAS : ORG
+Gravedad : OTROS
+Fede-Aepe : ORG
+Marco : OTROS
+Vds : ORG
+Minería : OTROS
+Senado : ORG
+BOE : ORG
+rtve : ORG
+Frente Nacional : ORG
+Electoral : ORG
+Pedro : PERS
+ministros - Público http://www.publico.es/politica/gobierno-del-pp-publicar-patrimonio-ministros.html … : ORG
+Ley Sinde : OTROS
+Igualdad Salarial : OTROS
+España : LUG
+Acuerdos : ORG
+Espectáculos : OTROS
+Ley : ORG
+Pastrana : PERS
+Missota : PERS
+Europa : LUG
+Nueva Ley : LUG
+Damocles : PERS
+CE : ORG
+República Federal- Nueva Ley : ORG
+Sanidad : ORG
+Presidente : PERS
+Eurípides : LUG
+Beneficencia : OTROS
+Nueva Ley Hipotecaria : ORG
+TVE : ORG
+Catalunya : LUG
+Rosalía Iglesias : PERS
+Win Sports : ORG
+Julián Sánchez Melgar : PERS
+Garbi : PERS
+Diosa : PERS
+DOCM <Emoji: Negative squared cross mark><Emoji: Negative squared cross mark><Emoji: Red exclamation mark symbol><Emoji: Red exclamation mark symbol>la Ley 3/2018 : ORG
+Comisión Europea : ORG
+Mariano : PERS
+sol- Fin Art.155- Negociaciones : ORG
+PP : ORG
+sol -i+d : ORG
+Madrid : LUG
+Poder : ORG
+Señor : OTROS
+@J_Warclimb @Fidel_Enrich Estás : ORG
+Uds : ORG
+Práctico GML : ORG
+Libro : OTROS
+Ley Cero : ORG
+golpe : ORG
+Europa : ORG
+PSOE : ORG
+Holocausto : OTROS
+Reforma : ORG
+Representación Gráfica Alternativa : ORG
+Gurtel : ORG
+David Bittan : PERS
+CCAA : ORG
+#reunion : ORG
+Pedro Sánchez : PERS
+Servicio : OTROS
+México : LUG
+Gobernador : ORG
+Cara : ORG
+Agrupación : ORG
+Moore : OTROS
+Murphy : PERS
+Rosalia : PERS
+LGTBI : ORG
+Salud Pública : OTROS
+Resina : OTROS
+VTC : ORG
+Salve : ORG
+Hola Marvin : PERS
+Lorca : PERS
+@pp : ORG
+Proyecto : ORG
+LOPS : ORG
+Garbiñe : PERS
+Godwin : OTROS
+Madrid : OTROS
+PACMA : ORG
+Pode : PERS
+Sui : LUG
+UE : ORG
+País Vasco : LUG
+Carmen Calvo : PERS
+Smiling face : ORG
+PNVdependencia : ORG
+RCN : ORG
+Ejecutivo : ORG
+Suelo : OTROS
+em @rtve : ORG
+gvSIG Desktop : ORG
+Taxi<Emoji: White medium small square>34ª Feria : ORG
+Ferrocarriles Históricos : ORG
+Directiva : ORG
+Ley Aillagon : PERS
+Becas : OTROS
+Consejo : ORG
+Maluma : LUG
+@jdarknet Cierto : ORG
+Derigación : OTROS
 Gobierno : ORG

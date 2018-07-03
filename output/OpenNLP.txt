@@ -1,66 +1,219 @@
-Madrid   :  [1127..1128) location
-Aquí   :  [1252..1253) location
-Aquí   :  [1329..1330) location
-Nueva Ley   :  [1358..1360) location
-Canarias   :  [1767..1768) location
-calle   :  [1956..1957) location
-Nueva   :  [2390..2391) location
-Madrid   :  [2875..2876) location
-María Sharapova   :  [148..150) person
-Memo> Hoy   :  [478..480) person
-Hoy   :  [601..602) person
-Carmen Calvo   :  [706..708) person
-Carmen Calvo   :  [752..754) person
-Que   :  [1072..1073) person
-@oscarzx6r Las   :  [1198..1200) person
-Aquí   :  [1252..1253) person
-Nicolo Maquiavelo   :  [1552..1554) person
-Mecenazgo Cultural   :  [1825..1827) person
-Pedro Sánchez   :  [2068..2070) person
-Mariano Rajoy_ Sobre   :  [2080..2083) person
-Manuel Vilas   :  [2254..2256) person
-Luis Ibáñez Salas   :  [2264..2267) person
-MinisteriodeCienciaYa# MinisteriodeCiencia   :  [2438..2440) person
-Rajoy   :  [2619..2620) person
-María   :  [148..149) organization
-TC   :  [192..193) organization
-Gobierno   :  [287..288) organization
-Gracias   :  [367..368) organization
-DOCM   :  [423..424) organization
-Que   :  [585..586) organization
-Gobierno   :  [758..759) organization
-GS   :  [969..970) organization
-VÍDEO   :  [983..984) organization
-Por   :  [1019..1020) organization
-Que   :  [1072..1073) organization
-PP   :  [1288..1289) organization
-Foro   :  [1355..1356) organization
-Sala III   :  [1447..1449) organization
-RTVE   :  [1512..1513) organization
-Colegio de Logopedas   :  [1641..1644) organization
-Ejecutivo   :  [1651..1652) organization
-Consejo Consultivo   :  [1657..1659) organization
-Consejo de Control   :  [1691..1694) organization
-Gobierno del PP   :  [1871..1874) organization
-Quien   :  [1910..1911) organization
-Da   :  [1962..1963) organization
-pic.twitter.com/QMrh4Dc7Fx   :  [1967..1968) organization
-Solo   :  [1992..1993) organization
-Congreso   :  [2008..2009) organization
-Senado   :  [2022..2023) organization
-VÍDEO   :  [2051..2052) organization
-RTVE   :  [2058..2059) organization
-Nada   :  [2186..2187) organization
-TC   :  [2333..2334) organization
-Estado   :  [2369..2370) organization
-TC   :  [2377..2378) organization
-Ministerio de Ciencia   :  [2429..2432) organization
-Que   :  [2452..2453) organization
-PP   :  [2477..2478) organization
-Damocles   :  [2598..2599) organization
-Cambio   :  [2641..2642) organization
-Hartos   :  [2755..2756) organization
-SI   :  [2804..2805) organization
-VÍDEO   :  [2849..2850) organization
-TC   :  [2936..2937) organization
-TC   :  [2999..3000) organization
+Madrid   :  [1126..1127) location
+Aquí   :  [1251..1252) location
+Aquí   :  [1328..1329) location
+Nueva Ley   :  [1357..1359) location
+Canarias   :  [1766..1767) location
+calle   :  [1955..1956) location
+Nueva   :  [2389..2390) location
+Madrid   :  [2874..2875) location
+Madrid   :  [3092..3093) location
+2012   :  [3456..3457) location
+Madrid   :  [3809..3810) location
+Espero   :  [4198..4199) location
+Madrid   :  [4891..4892) location
+Después de   :  [5089..5091) location
+Asturias   :  [5377..5378) location
+Murcia   :  [5635..5636) location
+Ley   :  [5920..5921) location
+EEUU   :  [6068..6069) location
+Madrid   :  [7273..7274) location
+San Isidro   :  [8268..8270) location
+Madrid   :  [8272..8273) location
+San Isidro   :  [8288..8290) location
+Madrid   :  [8292..8293) location
+Valencia   :  [9642..9643) location
+María Sharapova   :  [147..149) person
+Memo> Hoy   :  [477..479) person
+Hoy   :  [600..601) person
+Carmen Calvo   :  [705..707) person
+Carmen Calvo   :  [751..753) person
+Que   :  [1071..1072) person
+@oscarzx6r Las   :  [1197..1199) person
+Aquí   :  [1251..1252) person
+Nicolo Maquiavelo   :  [1551..1553) person
+Mecenazgo Cultural   :  [1824..1826) person
+Pedro Sánchez   :  [2067..2069) person
+Mariano Rajoy_ Sobre   :  [2079..2082) person
+Manuel Vilas   :  [2253..2255) person
+Luis Ibáñez Salas   :  [2263..2266) person
+MinisteriodeCienciaYa# MinisteriodeCiencia   :  [2437..2439) person
+Rajoy   :  [2618..2619) person
+Y   :  [3129..3130) person
+Luis Montes   :  [3149..3151) person
+Ley Mordaza   :  [3450..3452) person
+Rolling   :  [3618..3619) person
+Hola Marvin   :  [3687..3689) person
+Pedro Sánchez   :  [3938..3940) person
+Pedro Sánchez   :  [3977..3979) person
+Aznar   :  [4353..4354) person
+Aznar   :  [4516..4517) person
+Rajoy   :  [4544..4545) person
+Secretos   :  [4834..4835) person
+SecretosEmpresariales   :  [4836..4837) person
+Julián Sánchez Melgar   :  [4839..4842) person
+Pedro Sánchez   :  [4857..4859) person
+Mientes Hernando   :  [5200..5202) person
+También   :  [5257..5258) person
+No   :  [5420..5421) person
+Sánchez   :  [5618..5619) person
+PSOE. Se   :  [6198..6200) person
+Noticias Pregunta   :  [6325..6327) person
+Ley Electoral   :  [6408..6410) person
+Ha   :  [6411..6412) person
+Joy Gartner   :  [6640..6642) person
+Rajoy   :  [6806..6807) person
+Muyinteresante Así   :  [6890..6892) person
+Michael Jackson   :  [6893..6895) person
+Michael Jackson   :  [6958..6960) person
+D. Las   :  [6972..6974) person
+Mariano   :  [7739..7740) person
+Joey Gärtner   :  [8337..8339) person
+David Bittan   :  [8513..8515) person
+Rajoy   :  [8658..8659) person
+Ni Lorca   :  [8681..8683) person
+Comenzamos Ley Seca   :  [8722..8725) person
+Win Sports   :  [8730..8732) person
+CambioLey Electoral   :  [9410..9412) person
+Autor Ley Sinde   :  [9467..9470) person
+PSOE.Autor Ley Mordaza   :  [9471..9474) person
+Por   :  [9581..9582) person
+Vienes   :  [9621..9622) person
+María   :  [147..148) organization
+TC   :  [191..192) organization
+Gobierno   :  [286..287) organization
+Gracias   :  [366..367) organization
+DOCM   :  [422..423) organization
+Que   :  [584..585) organization
+Gobierno   :  [757..758) organization
+GS   :  [968..969) organization
+VÍDEO   :  [982..983) organization
+Por   :  [1018..1019) organization
+Que   :  [1071..1072) organization
+PP   :  [1287..1288) organization
+Foro   :  [1354..1355) organization
+Sala III   :  [1446..1448) organization
+RTVE   :  [1511..1512) organization
+Colegio de Logopedas   :  [1640..1643) organization
+Ejecutivo   :  [1650..1651) organization
+Consejo Consultivo   :  [1656..1658) organization
+Consejo de Control   :  [1690..1693) organization
+Gobierno del PP   :  [1870..1873) organization
+Quien   :  [1909..1910) organization
+Da   :  [1961..1962) organization
+pic.twitter.com/QMrh4Dc7Fx   :  [1966..1967) organization
+Solo   :  [1991..1992) organization
+Congreso   :  [2007..2008) organization
+Senado   :  [2021..2022) organization
+VÍDEO   :  [2050..2051) organization
+RTVE   :  [2057..2058) organization
+Nada   :  [2185..2186) organization
+TC   :  [2332..2333) organization
+Estado   :  [2368..2369) organization
+TC   :  [2376..2377) organization
+Ministerio de Ciencia   :  [2428..2431) organization
+Que   :  [2451..2452) organization
+PP   :  [2476..2477) organization
+Damocles   :  [2597..2598) organization
+Cambio   :  [2640..2641) organization
+Hartos   :  [2754..2755) organization
+SI   :  [2803..2804) organization
+VÍDEO   :  [2848..2849) organization
+TC   :  [2935..2936) organization
+TC   :  [2998..2999) organization
+Tenía   :  [3230..3231) organization
+CE   :  [3250..3251) organization
+Tribunal Supremo   :  [3286..3288) organization
+No   :  [3289..3290) organization
+Gobierno   :  [3491..3492) organization
+EL ORDEN Y LEY   :  [3577..3581) organization
+Así   :  [3652..3653) organization
+Cualquier   :  [3727..3728) organization
+YA   :  [3870..3871) organization
+Legalidad   :  [3957..3958) organization
+Legalidad   :  [3996..3997) organization
+Legalidad   :  [4027..4028) organization
+Todo   :  [4057..4058) organization
+Esto   :  [4063..4064) organization
+BOE   :  [4156..4157) organization
+PNV   :  [4195..4196) organization
+PP   :  [4385..4386) organization
+Vota   :  [4395..4396) organization
+PP   :  [4514..4515) organization
+Cada   :  [4605..4606) organization
+La   :  [4717..4718) organization
+Gobierno   :  [4811..4812) organization
+Estado   :  [4850..4851) organization
+Gobierno   :  [4855..4856) organization
+PP   :  [4875..4876) organization
+Que   :  [5129..5130) organization
+Mientes Hernando   :  [5200..5202) organization
+No   :  [5289..5290) organization
+También   :  [5294..5295) organization
+DGT   :  [5327..5328) organization
+No   :  [5420..5421) organization
+Decreto   :  [5485..5486) organization
+Por   :  [5496..5497) organization
+Senado   :  [5543..5544) organization
+Gracias   :  [5622..5623) organization
+PSOE   :  [5694..5695) organization
+Rusia   :  [5812..5813) organization
+PNV   :  [6078..6079) organization
+Catalán   :  [6116..6117) organization
+Servicios SOCIALES   :  [6130..6132) organization
+Hay 2   :  [6189..6191) organization
+PNV   :  [6196..6197) organization
+LOPS   :  [6290..6291) organization
+Ha   :  [6411..6412) organization
+No   :  [6424..6425) organization
+ETA   :  [6536..6537) organization
+Gobierno   :  [6714..6715) organization
+Gobierno   :  [6725..6726) organization
+PNV   :  [6814..6815) organization
+Gobierno   :  [6825..6826) organization
+Gobierno   :  [6844..6845) organization
+Y   :  [6882..6883) organization
+PNV   :  [6911..6912) organization
+Gobierno de España   :  [6925..6928) organization
+CGPJ   :  [7213..7214) organization
+Otra   :  [7229..7230) organization
+Otra   :  [7367..7368) organization
+Basta   :  [7452..7453) organization
+Entonces   :  [7533..7534) organization
+RGPD   :  [7605..7606) organization
+Hoy   :  [7621..7622) organization
+ANC   :  [7754..7755) organization
+FASCISMO   :  [7779..7780) organization
+PP   :  [7877..7878) organization
+Y   :  [7902..7903) organization
+Queríais   :  [7907..7908) organization
+Dan   :  [7998..7999) organization
+Otra   :  [8165..8166) organization
+Estados Unidos   :  [8216..8218) organization
+Si   :  [8582..8583) organization
+Quien   :  [8668..8669) organization
+Ni Lorca   :  [8681..8683) organization
+RGPD   :  [8697..8698) organization
+Mañana   :  [8713..8714) organization
+Comenzamos Ley Seca   :  [8722..8725) organization
+RCN   :  [8726..8727) organization
+Luego   :  [8776..8777) organization
+Estado   :  [8848..8849) organization
+Se   :  [8916..8917) organization
+PP   :  [8948..8949) organization
+VÍDEO   :  [8953..8954) organization
+VÍDEO   :  [9026..9027) organization
+Estado   :  [9186..9187) organization
+Se   :  [9232..9233) organization
+Congreso   :  [9243..9244) organization
+Artículo   :  [9245..9246) organization
+Autor Ley Sinde   :  [9467..9470) organization
+Primeras   :  [9555..9556) organization
+GML   :  [9629..9630) organization
+Si   :  [9659..9660) organization
+Las   :  [9673..9674) organization
+La   :  [9734..9735) organization
+Es   :  [9757..9758) organization
+Hemeroteca 2   :  [9895..9897) organization
+Peleemos   :  [9980..9981) organization
+Licencias VTC   :  [9996..9998) organization
+Algunos   :  [10019..10020) organization

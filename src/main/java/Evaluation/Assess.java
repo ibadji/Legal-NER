@@ -5,7 +5,7 @@ import java.io.IOException;
 
 
 /**
- * ...
+ * @deprecated
  * @author ines badji
  */
 public class Assess {
