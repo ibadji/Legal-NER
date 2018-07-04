@@ -87,6 +87,9 @@ public class WikiScrapper {
                 if (conta==1)
                     law.boe = sboe;
                 lista.add(law);
+                //Hey Ines, at this point you have in law.resumen the first <p> element in the wikipedia article, where frequently nicknames appear. 
+                //maybe you want to parse it somehow to get nicknames.
+                
                 System.out.println(law.title + "\t"+ law.wiki+ "\t" + law.boe + "\t" + law.resumen);
 
             }
