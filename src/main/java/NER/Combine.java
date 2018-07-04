@@ -303,7 +303,8 @@ public class Combine {
             Iterator iterator = set.iterator();
             while(iterator.hasNext()) {
                 String s = iterator.next().toString();
-                display.color(Color.decode(color.get(s)), s);
+                if(! (s.equals("Other")||s.equals("Person")||s.equals("Organization")|| s.equals("Location")))
+                    display.color(Color.decode(color.get(s)), s);
             }
     }
     public static void highlightDetectedEntities(String text)
@@ -325,7 +326,7 @@ public class Combine {
          String key = mentry.getKey().toString();
          ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
          String value = valueK.get(1);
-         //if(! (value.equals("Other")||value.equals("Person")||value.equals("Organization")|| value.equals("Location")))
+         if(! (value.equals("Other")||value.equals("Person")||value.equals("Organization")|| value.equals("Location")))
             t.color(Color.decode(color.get(value.trim())), key.trim());
       }
     }
