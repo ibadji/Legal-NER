@@ -29,6 +29,11 @@ English:
 		Judgment
 		CaseLaw
 		OfficialJ
+       		Directive
+        	Article
+        	Regulation
+        	Decision
+        	Law
 
 	2- Service 2:
 		Governemental_Institution

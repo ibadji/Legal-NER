@@ -1,0 +1,30 @@
+( Netherlands   :  [13..15) location
+the Netherlands   :  [438..440) location
+Visa Code   :  [200..202) organization
+Visa   :  [241..242) organization
+Visa   :  [261..262) organization
+Charter   :  [319..320) organization
+State   :  [411..412) organization
+European Parliament   :  [459..461) organization
+Council   :  [464..465) organization
+Visa Code   :  [476..478) organization
+Article 32( 3 )   :   [83..87) Article
+Article 8( 4 )   :   [139..143) Article
+Article 32( 3 )   :   [235..239) Article
+Article 8( 4 )   :   [250..254) Article
+Article 32( 3 )   :   [255..259) Article
+Article 47   :   [315..317) Article
+Article 32( 3   :   [83..86) Article
+Article 8( 4   :   [139..142) Article
+Article 8( 4   :   [192..195) Article
+Article 32( 3   :   [235..238) Article
+Article 8( 4   :   [250..253) Article
+Article 32( 3   :   [255..258) Article
+Article 47   :   [315..317) Article
+Case C-680/17   :   [36..38) CaseLaw
+Case C-694/17   :   [520..522) CaseLaw
+Regulation (EC ) No 810/2009   :   [452..457) Regulation
+OJ 2009   :   [480..482) OfficialJ
+OJ 2009 L 243   :   [480..484) OfficialJ
+2018/C 063/12   :   [40..42) OfficialJ
+2018/C 063/13   :   [524..526) OfficialJ

@@ -27,16 +27,19 @@ public class OpenNLP {
     private static String TokenizerModel;
     private static String NEModel;
     private static ReadFile read = new ReadFile();
+    private static PrintWriter writer;
     
     public static void main (String [] args) throws IOException{       
-        String sentence = read.readFile("resources/inputText/test.txt");
-        runIt("spanish","",sentence,"rule");
+        String sentence = read.readFile("resources\\inputText\\Annotation\\eu\\EU court case\\9.txt");
+        runIt("english","",sentence,"rule");
+
     }
+ 
     public static void runIt(String language, String regXLaw,String sentences,String Type) throws IOException
     {
         TokenizerModel="resources/Libraries and Properties/OpenNLP/en-token.bin";
+        writer = new PrintWriter("output/OpenNLP.txt", "UTF-8");
         String [] tokens= tokenize(sentences);
-        PrintWriter writer = new PrintWriter("output/OpenNLP.txt", "UTF-8");
         String Language = "";
         if (language.equals("english")) Language ="en";
         else if (language.equals("spanish")) Language ="es";
@@ -63,18 +66,20 @@ public class OpenNLP {
             // nameSpans contain all the possible entities detected
             for(Span s: result){
                 for(int index=s.getStart();index<s.getEnd();index++){ // text
-                    if (tokens[index+1].compareTo(",")== 0)
-                        writer.print(tokens[index]);
-                    else
+                   // if (tokens[index+1].compareTo(",")== 0)
+                    {
+                       // writer.print(tokens[index]);
+                    }
+                  //  else
                     {
                         writer.print(tokens[index] +" " );
                     }
                 }
-                writer.print("  :  ");
+                writer.print("  :   ");
                 writer.print(s.toString()); // type
                 writer.println();
             }
-            writer.close();     
+         writer.close();
     
     }
         public static void EnglishRule(Map<String, Pattern[]> regexMap)
@@ -93,23 +98,64 @@ public class OpenNLP {
             Pattern.compile("(EC) [0-9]{4}/[0-9]{0,4}") , 
         };
         Pattern[] CaseLaw = {
-            Pattern.compile("[a-zA-Z]-[0-9]{0,4}/[0-9]{0,4}"),
-            Pattern.compile("[a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}")
+            Pattern.compile("Case [a-zA-Z]-[0-9]{0,4}/[0-9]{0,4}"),
+            Pattern.compile("Case [a-zA-Z]-[0-9]{0,4}/[0-9]{0,4} [a-zA-Z]"),
+            Pattern.compile("Case [a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}"),
+            Pattern.compile("Case [a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}")
+
         };
         Pattern[] OfficialJ = {
             Pattern.compile("OJ [a-zA-Z] [0-9]{0,4}"),
+            Pattern.compile("OJ [0-9]{1,4}"),
             Pattern.compile("OJ [0-9]{4} [a-zA-Z] [0-9]{0,4}"),
             Pattern.compile("[0-9]{4}/[a-zA-Z] [0-9]{0,4}/[0-9]{0,4}"),
             Pattern.compile("[a-zA-Z]:[0-9]{4}:[0-9]{0,4}:[0-9]{0,4}"),
+            Pattern.compile("[a-zA-Z]{1,4} [0-9]{0,4}/[0-9]{0,4} Official Journal"),
+            Pattern.compile("Official Journal of the (.*?) [a-zA-Z]{1,4} [0-9]{1,4}/[0-9]{1,4} "),
+            Pattern.compile("[a-zA-Z] [0-9]{1,4}/[0-9]{1,4} (en|EN) Official Journal"),
 
         };
-        
+        Pattern[] Directive = {
+            Pattern.compile("(Directive|DIRECTIVE) [0-9]{1,4}/[0-9]{1,4}/[a-zA-Z]{1,4}"),
+            Pattern.compile("(Directive|DIRECTIVE) \\((.*?)\\) [0-9]{1,4}/[0-9]{1,4}"),
+            Pattern.compile("[0-9]{1,4}/[0-9]{1,4}/[a-zA-Z]{1,4}")
+
+        };
+        Pattern[] Article = {
+            Pattern.compile("Article [0-9]{0,4}\\((.*?)\\)"),
+            Pattern.compile("Article [0-9]{0,4}"),
+            Pattern.compile("Article [0-9]{0,4}.[0-9]{0,4}.[0-9]{0,4}"),
+            Pattern.compile("Article [a-zA-Z]{0,4}.[0-9]{0,4}"),
+            Pattern.compile("Articles [0-9]{0,4} and [0-9]{0,4}-[0-9]{0,4}"),
+            Pattern.compile("Articles [0-9]{0,4}\\((.*?)\\) and [0-9]{0,4}"),
+            Pattern.compile("Articles [0-9]{0,4}(.*?) and [0-9]{0,4}"),
+        };
+        Pattern[] Regulation = {
+            Pattern.compile("Regulation No [0-9]{0,4}/[0-9]{0,4}"),
+            Pattern.compile("Regulation [0-9]{0,4}/[0-9]{0,4}"),
+            Pattern.compile("Regulation \\((.*?)\\) No [0-9]{0,4}/(\\s?)[0-9]{0,4}"),
+            Pattern.compile("Regulation \\((.*?)\\) No. [0-9]{0,4}/[0-9]{0,4}"),
+            Pattern.compile("Regulation \\((.*?)\\) No. [0-9]{0,4}/[0-9]{0,4} \\((.*?)\\)"),
+
+        };
+        Pattern[] Decision = {
+            Pattern.compile("Decision [a-zA-Z]{0,4}\\((.*?)\\) [0-9]{0,5}"),
+        };
+        Pattern[] Law = {
+            Pattern.compile("Law No [0-9]{0,4}/[0-9]{0,4}"),
+        };
         regexMap.put("Treatie",treatie);
         regexMap.put("Agreement",Agreement);
         regexMap.put("Judgment",Judgment);
         regexMap.put("RegDirDec",RegDirDec);
         regexMap.put("CaseLaw",CaseLaw);
         regexMap.put("OfficialJ",OfficialJ);
+        regexMap.put("Directive",Directive);
+        regexMap.put("Article",Article);
+        regexMap.put("Regulation",Regulation);
+        regexMap.put("Decision",Decision);
+        regexMap.put("Law",Law);
+
 
     }
     public static void SpanishRule(Map<String, Pattern[]> regexMap)

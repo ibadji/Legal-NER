@@ -28,10 +28,10 @@ public class main {
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException, InterruptedException, Exception 
     {
         //text to be annotated
-        String text = "resources/inputText/tweets.txt";
+        String text = "resources\\inputText\\Annotation\\eu\\EU court case\\10.txt";
         String sentence = read.readFile(text);
-        String Language = SPANISH;
-        String Type = "nickname";// can be rule, nickname or other for spanish or rule and other for english
+        String Language = ENGLISH;
+        String Type = "rule";// can be rule, nickname or other for spanish or rule and other for english
         
         if(Type.equals("nickname"))
         {
@@ -56,7 +56,7 @@ public class main {
         }
   
         Combine combine = new Combine();
-        combine.filter(text,Type);
+        combine.filter(Language,text,Type);
             
        //Assess Outputs
     }
