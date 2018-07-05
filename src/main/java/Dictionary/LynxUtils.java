@@ -23,7 +23,7 @@ public class LynxUtils {
             HttpResponse response = client.execute(request);
 
             InputStream in = response.getEntity().getContent();
-            BufferedReader reader = new BufferedReader(new InputStreamReader(in));
+            BufferedReader reader = new BufferedReader(new InputStreamReader(in, "UTF-8"));
             StringBuilder str = new StringBuilder();
             String line = null;
             while ((line = reader.readLine()) != null) {
@@ -32,7 +32,7 @@ public class LynxUtils {
             in.close();
             html = str.toString();
         } catch (Exception e) {
-
+            e.printStackTrace();
         }
         return html;
     }
