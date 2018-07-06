@@ -44,7 +44,7 @@ public class Combine {
 
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException 
     {
-            filter("resources/inputText/tweets.txt","nickname");
+            filter("english", "resources\\inputText\\Annotation\\eu\\Directives\\10.txt","rule");
     }
        
     public static void init(String Type)
@@ -99,6 +99,12 @@ public class Combine {
         priority.put("Judgment",1);
         priority.put("CaseLaw",1);
         priority.put("OfficialJ",1);
+        priority.put("Directive",1);
+        priority.put("Article",1);
+        priority.put("Regulation",1);
+        priority.put("Decision",1);
+        priority.put("Law",1);
+
         
         //Service 2
         priority.put("Abreviation",1);
@@ -148,6 +154,11 @@ public class Combine {
         color.put("Judgment","#01FFFE");
         color.put("CaseLaw","#FFA6FE");
         color.put("OfficialJ","#FFDB66");
+        color.put("Directive","#9E008E");
+        color.put("Article","#FF74A3");
+        color.put("Regulation","#01D0FF");
+        color.put("Decision","#E56FFE");
+        color.put("Law","#BDD393");
 
         
         //Service 2
@@ -162,7 +173,7 @@ public class Combine {
         color.put("Location","#9E008E");
         color.put("Other","#FF74A3");              
     }
-    public static void filter(String text, String Type) throws IOException
+    public static void filter(String language, String text, String Type) throws IOException
     {
         //initialize the priority maps
         init(Type);
@@ -184,7 +195,7 @@ public class Combine {
          System.out.println();
       } 
         //show in text
-        showInText(outputList, text, Type);    
+        showInText(language, outputList, text, Type);    
     }
     
     public static void SimilarityFilter()
@@ -215,32 +226,34 @@ public class Combine {
                 //found a similar dup               
                if(sim.calculate(array[i], array[j])> 0.95 && sim.calculate(array[i], array[j])<= 1.0)
                 {
-                    //System.out.println(array[i]+"  "+ array[j] +"  "+sim.calculate(array[i], array[j]));    
+                    System.out.println(p2.get(1).toString().trim());    
                     //check for priorities 
                     //System.out.println(array[i]+" "+p1.get(1)+"//"+ array[j]+"  "+priority.get(p2.get(1).toString().trim()));
                     
-                    if(priority.get(p1.get(1).toString().trim()) < priority.get(p2.get(1).toString().trim()))
-                    {
-                        todelete.put(array[j], p2);                     
+                        if(priority.get(p1.get(1).toString().trim()) < priority.get(p2.get(1).toString().trim()))
+                        {
+                            todelete.put(array[j], p2);                     
+                        }
+                        else if(priority.get(p1.get(1).toString().trim()) > priority.get(p2.get(1).toString().trim()))
+                        {
+                            todelete.put(array[i], p1);                     
+                        }
+                        //same priority see depending on length
+                        else if(priority.get(p1.get(1).toString().trim()) == priority.get(p2.get(1).toString().trim()))
+                        {                    
+                                //base on grade need to be changed  
+                                if(grades.get(p1.get(0).toString()) < grades.get(p2.get(0).toString()))
+                                {
+                                    todelete.put(array[j], p2);
+                                }
+                                else if(grades.get(p1.get(0).toString()) > grades.get(p2.get(0).toString()))
+                                {
+                                    todelete.put(array[i], p1);
+                                }
+                        }
+
                     }
-                    else if(priority.get(p1.get(1).toString().trim()) > priority.get(p2.get(1).toString().trim()))
-                    {
-                        todelete.put(array[i], p1);                     
-                    }
-                    //same priority see depending on length
-                    else if(priority.get(p1.get(1).toString().trim()) == priority.get(p2.get(1).toString().trim()))
-                    {                    
-                            //base on grade need to be changed  
-                            if(grades.get(p1.get(0).toString()) < grades.get(p2.get(0).toString()))
-                            {
-                                todelete.put(array[j], p2);
-                            }
-                            else if(grades.get(p1.get(0).toString()) > grades.get(p2.get(0).toString()))
-                            {
-                                todelete.put(array[i], p1);
-                            }
-                    }
-                }
+                
             }
          }  
          
@@ -254,7 +267,7 @@ public class Combine {
         formatter.parse(str, pos);
         return str.length() == pos.getIndex();
     }
-    public static void showInText(Map<String, List<String>> outputList, String text, String Type) throws FileNotFoundException, UnsupportedEncodingException, IOException
+    public static void showInText(String language, Map<String, List<String>> outputList, String text, String Type) throws FileNotFoundException, UnsupportedEncodingException, IOException
     {
             try {
                 UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
@@ -263,7 +276,7 @@ public class Combine {
          
            highlightDetectedEntitiesMap(); 
            highlightDetectedEntities(text);
-           findLink();
+           findLink(language);
               
     }
     
@@ -303,7 +316,8 @@ public class Combine {
             Iterator iterator = set.iterator();
             while(iterator.hasNext()) {
                 String s = iterator.next().toString();
-                display.color(Color.decode(color.get(s)), s);
+            if(! (s.equals("Other")||s.equals("Person")||s.equals("Organization")|| s.equals("Location")))
+                    display.color(Color.decode(color.get(s)), s);
             }
     }
     public static void highlightDetectedEntities(String text)
@@ -325,11 +339,11 @@ public class Combine {
          String key = mentry.getKey().toString();
          ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
          String value = valueK.get(1);
-         //if(! (value.equals("Other")||value.equals("Person")||value.equals("Organization")|| value.equals("Location")))
+         if(! (value.equals("Other")||value.equals("Person")||value.equals("Organization")|| value.equals("Location")))
             t.color(Color.decode(color.get(value.trim())), key.trim());
       }
     }
-    public static void findLink() throws FileNotFoundException, UnsupportedEncodingException, IOException
+    public static void findLink(String language) throws FileNotFoundException, UnsupportedEncodingException, IOException
     {
          //find the links
         PrintWriter writer2 = new PrintWriter("output/TextEntitiesDetected.txt", "UTF-8");
@@ -341,9 +355,9 @@ public class Combine {
          ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
          String value = valueK.get(1);
          if(value.equals("Nicknames"))
-            writer2.println( mentry.getKey() + "      "+ mentry.getValue());//+"         "+ link.findLinkCases(valueK.get(2),"nickname","nickname"));       
+            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(language, valueK.get(2),"nickname","nickname"));       
          else //if(! value.equals("Other"))
-            writer2.println( mentry.getKey() + "      "+ mentry.getValue());//+"         "+ link.findLinkCases(mentry.getKey().toString(),"other",value.trim()));       
+            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(language, mentry.getKey().toString(),"other",value.trim()));       
         }
         writer2.close();
     }
@@ -373,8 +387,13 @@ public class Combine {
             }
             else if(output=="OpenNLP"){
                 result = Line.split(":");
+                System.out.print(result[0]);
+                System.out.println(result[1]);
+
                 values.add("OpenNLP");
                 transform_help(values, result[1].split("\\)")[1].trim(), result[1].split("\\)")[1].trim());
+                result[0]=result[0].replace("( ", "(");
+                result[0]=result[0].replace(" )", ")");
                 outputList.put(result[0], values);
 
             }
@@ -410,11 +429,11 @@ public class Combine {
             values.add("Organization");
          else if(result.equals("LUG") || result.equals("location") || result.equals("Location") || result.equals("LOC"))
             values.add("Location");
-         else if(result.equals("TITLE") || result.equals("misc") || result.equals("MISC") || result.equals("other") || result.equals("OTH") || result.equals("OTROS") || result.equals("NATIONALITY"))
+         else if(result.equals("Other") || result.equals("( b") || result.equals("RELIGION")|| result.equals("IDEOLOGY") || result.equals("TITLE") || result.equals("misc") || result.equals("MISC") || result.equals("other") || result.equals("OTH") || result.equals("OTROS") || result.equals("NATIONALITY") || result.equals("CRIMINAL_CHARGE") || result.equals("CAUSE_OF_DEATH"))
          {
              values.add("Other");
          }
-        else
+         else 
          {
             values.add(forElse);
          }

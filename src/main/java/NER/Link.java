@@ -21,7 +21,7 @@ public class Link {
     public static void main(String[] args) throws IOException
     {
     
-       System.out.print(findLinkCases("ley constitutiva de las cortes","nickname","nickname"));
+       System.out.print(findLinkCases("english","Regulation (EC) No 810/2009","rule","Regulation"));
       //foundExcelNICk("ley sinde");
         
     }
@@ -71,10 +71,12 @@ public class Link {
                 }
                 return finalResult;
     }
-	public static String findLinkCases(String searchTerm, String Type, String Entity) throws IOException {
+	public static String findLinkCases(String language, String searchTerm, String Type, String Entity) throws IOException {
 		int num = 20;
                 String finalResult = "";
                 
+            if(language.equals("spanish"))
+            {
                 if(Type == "rule")
                 {
                     if(Entity != "Person" || Entity != "Organization" || Entity != "Other" || Entity != "Location")
@@ -116,7 +118,12 @@ public class Link {
                     {
                         finalResult = FindLinkGeneral(searchTerm, num);
                     }
-                }     
+                }           
+            }
+            else
+            {
+                finalResult = FindLinkGeneral(searchTerm, num);
+            }
             System.out.println(searchTerm+"     "+finalResult);
             return finalResult;
 	}

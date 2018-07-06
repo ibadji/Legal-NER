@@ -1,25 +1,21 @@
-del Socio AGRECOLÓGICA:Person
-La:Location
-La:Location
-Julio-Septiembre:Person
-del:Person
-Ley:Location
-del:Person
-del:Person
-Sala:Person
-del Tribunal Supremo:Person
-Sevilla:Location
-con:Person
-LA:Location
-General de Industrias:Person
-del:Person
-del:Person
-del:Person
-Ley:Location
-General de Industrias:Person
-con:Person
-General de Industrias:Person
-Ley:Location
-General de Industrias:Person
-Vulneración del:Person
-La:Location
+Den Haag:Person
+Utrecht:Location
+van Buitenlandse Zaken:Person
+Visa:Organization
+Visa:Organization
+Visa:Organization
+Visa:Organization
+Visa:Organization
+the Netherlands:Location
+EC:Organization
+European Parliament:Organization
+Visa:Organization
+Cour:Location
+Luxembourg:Location
+Luxembourg:Location
+Cour:Location
+Luxembourg:Location
+Den Haag:Person
+Utrecht:Location
+Netherlands:Location
+van Buitenlandse Zaken:Person
