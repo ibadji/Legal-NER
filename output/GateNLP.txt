@@ -1,21 +1,133 @@
-Den Haag:Person
-Utrecht:Location
-van Buitenlandse Zaken:Person
-Visa:Organization
-Visa:Organization
-Visa:Organization
-Visa:Organization
-Visa:Organization
-the Netherlands:Location
-EC:Organization
+DIRECTIVES:Organization
+EUROPEAN:Organization
+PARLIAMENT:Organization
+EU:Organization
+EUROPEAN UNION:Organization
+European Union:Organization
+European Commission:Organization
+European Economic and Social Committee:Organization
+Europe:Location
+Official Journal:Organization
+European Union:Organization
 European Parliament:Organization
-Visa:Organization
-Cour:Location
-Luxembourg:Location
-Luxembourg:Location
-Cour:Location
-Luxembourg:Location
-Den Haag:Person
-Utrecht:Location
-Netherlands:Location
-van Buitenlandse Zaken:Person
+European Parliament:Organization
+peers:Person
+foster:Person
+United Nations:Organization
+UN:Organization
+UN:Organization
+UN:Organization
+Official Journal:Organization
+European Union:Organization
+Europe:Location
+UN:Organization
+EU:Organization
+EU:Organization
+European Parliament:Organization
+EU:Organization
+European Parliament:Organization
+Government:Organization
+EU:Organization
+Europe:Location
+Riga:Location
+Europe:Location
+EU:Organization
+European Parliament:Organization
+EU:Organization
+European Parliament:Organization
+Official Journal:Organization
+European Union:Organization
+EU:Organization
+European Parliament:Organization
+European Regional Development Fund:Organization
+European Social Fund:Organization
+Cohesion Fund:Organization
+European Agricultural Fund:Organization
+Fisheries Fund:Organization
+European Regional Development Fund:Organization
+European Social Fund:Organization
+Cohesion Fund:Organization
+Fisheries Fund:Organization
+EC:Organization
+EU:Organization
+European Parliament:Organization
+European Social Fund:Organization
+EC:Organization
+EU:Organization
+European Parliament:Organization
+EC:Organization
+EU:Organization
+European Parliament:Organization
+EC:Organization
+EU:Organization
+European Parliament:Organization
+EC:Organization
+European Union:Organization
+Microsoft Office:Organization
+Official Journal:Organization
+European Union:Organization
+EU:Organization
+Europe:Location
+European Union:Organization
+EC:Organization
+UN:Organization
+Official Journal:Organization
+European Union:Organization
+EC:Organization
+European Union:Organization
+EU:Organization
+European Parliament:Organization
+European Parliament:Organization
+Official Journal:Organization
+European Union:Organization
+EU:Organization
+European Parliament:Organization
+EEC:Organization
+EEC:Organization
+EC:Organization
+EC:Organization
+EC:Organization
+EC:Organization
+EC:Organization
+EC:Organization
+EC:Organization
+Maritime:Organization
+EC:Organization
+Maritime:Organization
+OJ:Organization
+EC:Organization
+OJ:Organization
+European Parliament:Organization
+OJ:Organization
+EEC:Organization
+Directives:Organization
+Decision:Organization
+EC:Organization
+EUROPEAN:Organization
+European Parliament:Organization
+PARLIAMENT:Organization
+Committee:Organization
+European Union:Organization
+OJ:Organization
+Official:Organization
+Official Journal:Organization
+Official:Organization
+European Union:Organization
+Official:Organization
+Official:Organization
+OJ:Organization
+European Parliament:Organization
+Official:Organization
+EU:Organization
+European:Organization
+European:Organization
+European Parliament:Organization
+Directives:Organization
+European Union:Organization
+Decision:Organization
+OJ:Organization
+European:Organization
+European:Organization
+OJ:Organization
+OJ:Organization
+Decision:Organization

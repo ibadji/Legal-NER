@@ -30,8 +30,8 @@ public class OpenNLP {
     private static PrintWriter writer;
     
     public static void main (String [] args) throws IOException{       
-        String sentence = read.readFile("resources\\inputText\\Annotation\\eu\\EU court case\\9.txt");
-        runIt("english","",sentence,"rule");
+        String sentence = read.readFile("resources\\inputText\\Annotation\\other\\4.txt");
+        runIt("spanish","",sentence,"rule");
 
     }
  
@@ -66,16 +66,16 @@ public class OpenNLP {
             // nameSpans contain all the possible entities detected
             for(Span s: result){
                 for(int index=s.getStart();index<s.getEnd();index++){ // text
-                   // if (tokens[index+1].compareTo(",")== 0)
-                    {
-                       // writer.print(tokens[index]);
-                    }
-                  //  else
+//                    if (tokens[index+1].compareTo(",")== 0)
+//                    {
+//                        writer.print(tokens[index]);
+//                    }
+//                    else
                     {
                         writer.print(tokens[index] +" " );
                     }
                 }
-                writer.print("  :   ");
+                writer.print("  :  ");
                 writer.print(s.toString()); // type
                 writer.println();
             }
@@ -101,13 +101,15 @@ public class OpenNLP {
             Pattern.compile("Case [a-zA-Z]-[0-9]{0,4}/[0-9]{0,4}"),
             Pattern.compile("Case [a-zA-Z]-[0-9]{0,4}/[0-9]{0,4} [a-zA-Z]"),
             Pattern.compile("Case [a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}"),
-            Pattern.compile("Case [a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}")
+            Pattern.compile("Case [a-zA-Z] [0-9]{0,4}/[0-9]{4}-[0-9]{0,4}"),
+            Pattern.compile("Case No. [a-zA-Z]{0,4}.[0-9]{0,4}"),
 
         };
         Pattern[] OfficialJ = {
             Pattern.compile("OJ [a-zA-Z] [0-9]{0,4}"),
             Pattern.compile("OJ [0-9]{1,4}"),
             Pattern.compile("OJ [0-9]{4} [a-zA-Z] [0-9]{0,4}"),
+            Pattern.compile("OJ [0-9]{4},  [a-zA-Z] [0-9]{0,4}"),
             Pattern.compile("[0-9]{4}/[a-zA-Z] [0-9]{0,4}/[0-9]{0,4}"),
             Pattern.compile("[a-zA-Z]:[0-9]{4}:[0-9]{0,4}:[0-9]{0,4}"),
             Pattern.compile("[a-zA-Z]{1,4} [0-9]{0,4}/[0-9]{0,4} Official Journal"),
@@ -118,32 +120,37 @@ public class OpenNLP {
         Pattern[] Directive = {
             Pattern.compile("(Directive|DIRECTIVE) [0-9]{1,4}/[0-9]{1,4}/[a-zA-Z]{1,4}"),
             Pattern.compile("(Directive|DIRECTIVE) \\((.*?)\\) [0-9]{1,4}/[0-9]{1,4}"),
-            Pattern.compile("[0-9]{1,4}/[0-9]{1,4}/[a-zA-Z]{1,4}")
+            Pattern.compile("(Directive|DIRECTIVE) [0-9]{1,4}/[0-9]{1,4}/[a-zA-Z]{1,4}")
 
         };
         Pattern[] Article = {
-            Pattern.compile("Article [0-9]{0,4}\\((.*?)\\)"),
-            Pattern.compile("Article [0-9]{0,4}"),
+            Pattern.compile("(Articles|Article) [0-9]{0,4}, [0-9]{0,4} (or|and) [0-9]{0,4} "),     
             Pattern.compile("Article [0-9]{0,4}.[0-9]{0,4}.[0-9]{0,4}"),
             Pattern.compile("Article [a-zA-Z]{0,4}.[0-9]{0,4}"),
             Pattern.compile("Articles [0-9]{0,4} and [0-9]{0,4}-[0-9]{0,4}"),
             Pattern.compile("Articles [0-9]{0,4}\\((.*?)\\) and [0-9]{0,4}"),
-            Pattern.compile("Articles [0-9]{0,4}(.*?) and [0-9]{0,4}"),
+            Pattern.compile("(Articles|Article) [0-9]{0,4}(.*?) (and|or) [0-9]{0,4}"),
+            Pattern.compile("Article [0-9]{0,4}\\((.*?)\\) and [0-9]{0,4}\\((.*?)\\)"),
+            Pattern.compile("Article [0-9]{0,4}\\((.*?)\\)"),
+            Pattern.compile("Article [0-9]{0,4}"),
         };
         Pattern[] Regulation = {
-            Pattern.compile("Regulation No [0-9]{0,4}/[0-9]{0,4}"),
-            Pattern.compile("Regulation [0-9]{0,4}/[0-9]{0,4}"),
-            Pattern.compile("Regulation \\((.*?)\\) No [0-9]{0,4}/(\\s?)[0-9]{0,4}"),
-            Pattern.compile("Regulation \\((.*?)\\) No. [0-9]{0,4}/[0-9]{0,4}"),
-            Pattern.compile("Regulation \\((.*?)\\) No. [0-9]{0,4}/[0-9]{0,4} \\((.*?)\\)"),
-
+            Pattern.compile("Regulation \\((.*?)\\) No [0-9]{0,5}/[0-9]{0,5}"),
+            Pattern.compile("Regulation \\((.*?)\\) No [0-9]{0,5}/(\\s?)[0-9]{0,5}"),
+            Pattern.compile("Regulation \\((.*?)\\) No. [0-9]{0,5}/[0-9]{0,5}"),
+            Pattern.compile("Regulation \\((.*?)\\) No. [0-9]{0,5}/[0-9]{0,5} \\((.*?)\\)"),
+                        Pattern.compile("Regulation No [0-9]{0,5}/[0-9]{0,5}"),
+            Pattern.compile("Regulation [0-9]{054}/[0-9]{0,5}"),
         };
         Pattern[] Decision = {
             Pattern.compile("Decision [a-zA-Z]{0,4}\\((.*?)\\) [0-9]{0,5}"),
+            Pattern.compile("Decision [0-9]{1,4}/[0-9]{1,4}/[a-zA-Z]{1,4}")
+
         };
         Pattern[] Law = {
             Pattern.compile("Law No [0-9]{0,4}/[0-9]{0,4}"),
         };
+ 
         regexMap.put("Treatie",treatie);
         regexMap.put("Agreement",Agreement);
         regexMap.put("Judgment",Judgment);
@@ -157,51 +164,79 @@ public class OpenNLP {
         regexMap.put("Law",Law);
 
 
+
     }
     public static void SpanishRule(Map<String, Pattern[]> regexMap)
     {
         Pattern[] articulo = {
-            Pattern.compile("artículo\\s[0-9]{0,5}.[a-zA-Z]{1}"),
-            Pattern.compile("artículo\\s[0-9]{0,5}.[0-9]{0,5}"),
-            Pattern.compile("artículos\\s[0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5}[0-9]{0,5},\\s[0-9]{0,5}\\s[a-zA-Z]\\s[0-9]{0,5}"),
-            Pattern.compile("(art.|artículo|artículos|ART.) [0-9]{0,5} (CE|LRJSP)"),       
+            Pattern.compile("(artículo|art)(.*?)[0-9]{1,5}(.)[0-9]{0,5}"),
+            Pattern.compile("(artículo|art)(.*?) [0-9]{1,5}.[a-zA-Z]{1}"),
+            Pattern.compile("(artículo|art)(.*?) [0-9]{1,5}.[0-9]{1,5}.[a-zA-Z]{1}"),
+            Pattern.compile("(art|artículo|artículos|ART)(.*?) [0-9]{1,5} y [0-9]{1,5}(.)[0-9]{1,5}"),
+            Pattern.compile("(art|artículo|artículos|ART)(.*?) [0-9]{1,5} y [0-9]{1,5}(.)[0-9]{1,5}"),       
+            Pattern.compile("artículos\\s[0-9]{1,5}.[0-9]{1,5}.[0-9]{1,5}[0-9]{1,5},\\s[0-9]{1,5}\\s[a-zA-Z]\\s[0-9]{1,5}"),
+            Pattern.compile("ARTS(.*?) [0-9]{1,5}, [0-9]{1,5} y [0-9]{1,5}"),
+            Pattern.compile("artículos [0-9]{1,5}.[0-9]{1,5}, [0-9]{1,5}.[0-9]{1,5}, [0-9]{1,5}.[0-9]{1,5} y [0-9]{1,5}.[0-9]{1,5}"),
+            Pattern.compile("(arts|ARTS)(.*?) [0-9]{1,5}.[0-9]{1,5}.[0-9]{1,5}. Y [0-9]{1,5}.[0-9]{1,5}"),            
+            Pattern.compile("artículos [0-9]{1,5}.[0-9]{1,5}.[0-9]{0,5}. y [0-9]{1,5}.[0-9]{1,5}.[0-9]{0,5}."),
+            Pattern.compile("artículos [0-9]{1,5}.[0-9]{1,5}.[0-9]{0,5}."),           
+            Pattern.compile("(artículo|art)(.*?)[0-9]{1,5}"),
+            
+
+
         };
+
         Pattern[] Constitution = {
             Pattern.compile("CE\\w[0-9]{4}"),
             Pattern.compile("CE-[0-9]{1,7}-[0-9]{1,5}")
         };     
         Pattern[] LeyOrganica = {
             Pattern.compile("Ley [0-9]{1,5}/[0-9]{1,5}"),
-            Pattern.compile("(LRJSP|RDL) [0-9]{1,5}/[0-9]{4}")
+            Pattern.compile("Ley [0-9]{1,5} [0-9]{1,5}/[0-9]{1,5}"),
+
+            Pattern.compile("(LRJSP|RDL) [0-9]{1,5}/[0-9]{4}"),
+            Pattern.compile("n° [0-9]{1,5}/[0-9]{4}"),
         };
         Pattern[] directiva = {Pattern.compile("(Dir.|Directiva|dir.) [0-9]{1,5}.[0-9]{1,5}")};
-        Pattern[] recurso = {Pattern.compile("(Rec|rec.|Recurso) [0-9]{0,5}.[0-9]{0,5}")};
+        Pattern[] recurso = {
+            Pattern.compile("(recurso|Recurso) (.*?) [0-9]{1,5}.[0-9]{1,5}")
+
+        };
         Pattern[] reglamento = {
-            Pattern.compile("(R|Reglamento)(UE) nº [0-9]{1,5}/[0-9]{4}"),
-            Pattern.compile("(R|Reglamento)(UE) [0-9]{1,5}/[0-9]{4}")      
+            Pattern.compile("(R|Reglamento) \\((.*?)\\) [0-9]{1,5}/[0-9]{4}"),
+            Pattern.compile("(R|Reglamento) \\((.*?)\\) [0-9]{1,5}/[0-9]{4}"),
+            Pattern.compile("Reglamentos \\((.*?)\\) nº [0-9]{1,5}/[0-9]{4} y nº [0-9]{1,5}/[0-9]{4}"),
         };
         Pattern[] decreto = {
             Pattern.compile("(Dec|Decreto|dec) no [0-9]{4}/[0-9]{1,5}/UE"),
-            Pattern.compile("(Dec|Decreto|dec) [0-9]{4}/[0-9]{1,5}/UE")
+            Pattern.compile("(Dec|Decreto|dec) [0-9]{4}/[0-9]{1,5}/UE"),
+            Pattern.compile("(Dec|Decreto|dec|RD) [0-9]{1,5}/[0-9]{1,5}")
+
         };
         Pattern[] sentencia = {
-            Pattern.compile("(STEDH|STJUE|RUAM,|RUAM) de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}"),
-            Pattern.compile("(STS|STC|Tribunal) [0-9]{1,5}/[0-9]{4} de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)"),
-            Pattern.compile("sentencia [0-9]{1,5}/[0-9]{1,5}"),
-            Pattern.compile("sentencia de [0-9]{1,5}/[0-9]{1,5}"),
-            Pattern.compile("sentencia de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}"),
-            Pattern.compile("sentencia de (\\w+) [0-9]{1,5}/[0-9]{1,5}"),
-            Pattern.compile("sentencia nº [0-9]{1,5}/[0-9]{1,5}") 
+            Pattern.compile("(STEDH|STJUE|RUAM,|RUAM) de [0-9]{2}"),
+            Pattern.compile("(STS|STC|Tribunal) [0-9]{1,5}/[0-9]{4} de [0-9]{2}"),
+            Pattern.compile("(sentencia|Sentencias|Sentencia) [0-9]{1,5}/[0-9]{1,5}"),
+            Pattern.compile("(sentencia|Sentencias|Sentencia) de [0-9]{1,5}/[0-9]{1,5}"),
+            Pattern.compile("(sentencia|Sentencias|Sentencia) de [0-9]{2}"),
+            Pattern.compile("(sentencia|Sentencias|Sentencia) de (\\w+) [0-9]{1,5}/[0-9]{1,5}"),
+            Pattern.compile("(sentencia|Sentencias|Sentencia) (.*?) [0-9]{1,5}/[0-9]{1,5}") 
         };
         Pattern[] orden = {
-            Pattern.compile("(O.|O|Orden) PRA/[0-9]{1,5}/[0-9]{4}")
+            Pattern.compile("(O.|O|Orden) PRA/[0-9]{1,5}/[0-9]{4}"),
+             Pattern.compile("(ORDEN|Orden) [0-9]{1,5}/[0-9]{4}"),
+
+            
         };
        Pattern[] dictamen = {
             Pattern.compile("(Dict|Dictamen) CES")
         };
        Pattern[] ordinario = {
-            Pattern.compile("(Apelación|ordinario) [0-9]{1,5}/[0-9]{4}")
-        };   
+            Pattern.compile("(Apelación|ordinario) (.*?) [0-9]{1,5}/[0-9]{0,5}")
+        };
+       Pattern[] Resolution = {
+            Pattern.compile("Resolución (.*?) de [0-9]{1,5} (.*?) [0-9]{0,5}")
+        };
        
         regexMap.put("Articulo",articulo);
         regexMap.put("Constitution",Constitution);
@@ -213,7 +248,9 @@ public class OpenNLP {
         regexMap.put("Sentencia",sentencia);
         regexMap.put("Orden",orden);
         regexMap.put("Dictamen",dictamen);
-        regexMap.put("Apelacion",ordinario);
+        regexMap.put("Ordinario",ordinario);
+        regexMap.put("Resolution",Resolution);
+
     }
     public static String[] tokenize(String Sentence) throws IOException{
    
@@ -266,9 +303,7 @@ public class OpenNLP {
     
         BufferedReader br = null;
         File fr = new File(FilePath);
-        ArrayList<Pattern> patterns = new ArrayList<Pattern>();
-
-  
+        ArrayList<Pattern> patterns = new ArrayList<Pattern>(); 
         br =   new BufferedReader(new InputStreamReader(new FileInputStream(fr), "UTF8"));
 
         String Line;

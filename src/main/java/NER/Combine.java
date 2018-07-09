@@ -44,7 +44,7 @@ public class Combine {
 
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException 
     {
-            filter("english", "resources\\inputText\\Annotation\\eu\\Directives\\10.txt","rule");
+            filter("spanish", "resources\\inputText\\Annotation\\other\\4.txt","rule");
     }
        
     public static void init(String Type)
@@ -77,7 +77,8 @@ public class Combine {
         priority.put("Orden",1);
         priority.put("Dictamen",1);
         priority.put("Apelacion",1);
-        
+        priority.put("Ordinario",1);
+        priority.put("Resolution",1);     
         priority.put("Legal_reference",1);
 
         
@@ -132,7 +133,11 @@ public class Combine {
         color.put("Orden","#01D0FF");
         color.put("Dictamen","#E56FFE");
         color.put("Apelacion","#E56FFE");     
-        color.put("Legal_reference","#E56FFE");       
+        color.put("Legal_reference","#E56FFE");  
+        color.put("Ordinario","#E56FFE");   
+        color.put("Resolution","#E56FFE");     
+
+
 
 
         //Service 2
@@ -181,7 +186,8 @@ public class Combine {
         transform("IxaPipe", Type);         
         transform("CoreNLP", Type);
         transform("OpenNLP", Type);
-        transform("GateNLP", Type);
+        if(language.equals("english"))
+            transform("GateNLP", Type);
         transform("Nicknames", Type);
        
         SimilarityFilter();
@@ -226,7 +232,7 @@ public class Combine {
                 //found a similar dup               
                if(sim.calculate(array[i], array[j])> 0.95 && sim.calculate(array[i], array[j])<= 1.0)
                 {
-                    System.out.println(p2.get(1).toString().trim());    
+                    //System.out.println(p2.get(1).toString().trim());    
                     //check for priorities 
                     //System.out.println(array[i]+" "+p1.get(1)+"//"+ array[j]+"  "+priority.get(p2.get(1).toString().trim()));
                     
@@ -244,10 +250,12 @@ public class Combine {
                                 //base on grade need to be changed  
                                 if(grades.get(p1.get(0).toString()) < grades.get(p2.get(0).toString()))
                                 {
+
                                     todelete.put(array[j], p2);
                                 }
                                 else if(grades.get(p1.get(0).toString()) > grades.get(p2.get(0).toString()))
                                 {
+
                                     todelete.put(array[i], p1);
                                 }
                         }
@@ -276,7 +284,7 @@ public class Combine {
          
            highlightDetectedEntitiesMap(); 
            highlightDetectedEntities(text);
-           findLink(language);
+           findLink(language, Type);
               
     }
     
@@ -343,7 +351,7 @@ public class Combine {
             t.color(Color.decode(color.get(value.trim())), key.trim());
       }
     }
-    public static void findLink(String language) throws FileNotFoundException, UnsupportedEncodingException, IOException
+    public static void findLink(String language, String Type) throws FileNotFoundException, UnsupportedEncodingException, IOException
     {
          //find the links
         PrintWriter writer2 = new PrintWriter("output/TextEntitiesDetected.txt", "UTF-8");
@@ -354,10 +362,19 @@ public class Combine {
          String key = mentry.getKey().toString();
          ArrayList<String> valueK = (ArrayList<String>) mentry.getValue();
          String value = valueK.get(1);
-         if(value.equals("Nicknames"))
-            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(language, valueK.get(2),"nickname","nickname"));       
-         else //if(! value.equals("Other"))
-            writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(language, mentry.getKey().toString(),"other",value.trim()));       
+         if(Type.equals("nickname"))
+         {
+            if(value.equals("Nicknames"))
+               writer2.println( mentry.getKey() + "      "+ mentry.getValue()+"         "+ link.findLinkCases(language, valueK.get(2),"nickname","nickname"));       
+         }
+         else if(Type.equals("rule"))
+         {
+            if(!(value.equals("Other")||value.equals("Person")||value.equals("Organization")||value.equals("Location")))
+               writer2.println( mentry.getKey() + "      "+ mentry.getValue());//+"         "+ link.findLinkCases(language, mentry.getKey().toString(),"other",value.trim()));       
+         }
+         else if(Type.equals("other"))
+             if(!(value.equals("Other")))
+                writer2.println( mentry.getKey() + "      "+ mentry.getValue());//%+"         "+ link.findLinkCases(language, mentry.getKey().toString(),"other",value.trim()));       
         }
         writer2.close();
     }
@@ -386,15 +403,16 @@ public class Combine {
                 outputList.put(result[0], values);
             }
             else if(output=="OpenNLP"){
-                result = Line.split(":");
-                System.out.print(result[0]);
-                System.out.println(result[1]);
+                result = Line.split("  :  \\[");
+                //System.out.print(result[0]+"-------------");
+                //System.out.println(result[1]);
 
                 values.add("OpenNLP");
                 transform_help(values, result[1].split("\\)")[1].trim(), result[1].split("\\)")[1].trim());
                 result[0]=result[0].replace("( ", "(");
                 result[0]=result[0].replace(" )", ")");
-                outputList.put(result[0], values);
+                //if(!(result[0].length() > 150))
+                    outputList.put(result[0], values);
 
             }
             else if(output=="IxaPipe"){
@@ -429,9 +447,9 @@ public class Combine {
             values.add("Organization");
          else if(result.equals("LUG") || result.equals("location") || result.equals("Location") || result.equals("LOC"))
             values.add("Location");
-         else if(result.equals("Other") || result.equals("( b") || result.equals("RELIGION")|| result.equals("IDEOLOGY") || result.equals("TITLE") || result.equals("misc") || result.equals("MISC") || result.equals("other") || result.equals("OTH") || result.equals("OTROS") || result.equals("NATIONALITY") || result.equals("CRIMINAL_CHARGE") || result.equals("CAUSE_OF_DEATH"))
+         else if(result.equals("Other") || result.equals("Legal_Reference") || result.equals("( b") || result.equals("RELIGION")|| result.equals("IDEOLOGY") || result.equals("TITLE") || result.equals("misc") || result.equals("MISC") || result.equals("other") || result.equals("OTH") || result.equals("OTROS") || result.equals("NATIONALITY") || result.equals("CRIMINAL_CHARGE") || result.equals("CAUSE_OF_DEATH"))
          {
-             values.add("Other");
+             values.add("Other"); 
          }
          else 
          {

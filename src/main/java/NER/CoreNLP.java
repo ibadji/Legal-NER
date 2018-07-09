@@ -32,8 +32,8 @@ public class CoreNLP {
     private static ReadFile read = new ReadFile();
 
     public static void main(String[] args) throws FileNotFoundException, IOException, ParseException, TokenSequenceParseException, ClassNotFoundException {
-        String sentence = read.readFile("resources/inputText/tweets.txt");
-        regX(sentence,"spanish","nickname");
+        String sentence = read.readFile("resources\\inputText\\Annotation\\spain-text\\3.txt");
+        regX(sentence,"spanish","other");
         
         //XMLinline tagginwith no regx
         //doTagging(getModel("resources/spanish.ancora.distsim.s512.crf.ser.gz"), "resources/test.txt");

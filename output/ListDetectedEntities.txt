@@ -1,8 +1,11 @@
+Articulo
 Organization
-Article
-CaseLaw
-Regulation
-OfficialJ
+Orden
+Decreto
+Recurso
 Person
-Location
+Reglamento
+LeyOrganica
 Other
+Location
+Resolution

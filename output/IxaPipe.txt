@@ -1,40 +1,116 @@
-Rechtbank Den Haag	ORG	
-Utrecht	ORG	
-Netherlands	LOC	
-Sumanan Vethanayagam	PER	
-Sobitha Sumanan	PER	
-Kamalaranee Vethanayagam	PER	
-Buitenlandse Zaken	PER	
-Dutch Referring	ORG	
-Rechtbank Den Haag	ORG	
-Utrecht Parties	ORG	
-Sumanan Vethanayagam	PER	
-Sobitha Sumanan	PER	
-Kamalaranee Vethanayagam Defendant	PER	
-Buitenlandse Zaken Questions	ORG	
-Visa Code	ORG	
-Visa Code	ORG	
-Visa Code	ORG	
-Visa Code	ORG	
-Article	ORG	
-Visa Code	ORG	
-Member State	ORG	
-Member State	ORG	
-Member States	ORG	
-State	ORG	
-Swiss	MISC	
-Netherlands	LOC	
-EC	ORG	
-European Parliament	ORG	
-Community Code	LOC	
-Visa Code	ORG	
-OJ	ORG	
-Cour	ORG	
-Grand-Duché	MISC	
-Luxembourg	LOC	
-Luxembourg	LOC	
-Pillar Securitisation Sàrl	ORG	
-Hildur Arnadottir	PER	
-French Referring	LOC	
-Grand-Duché	MISC	
-Luxembourg	LOC	
+I. COMUNIDAD DE MADRID C	MISC	
+Otras Disposiciones Consejería de Educación	MISC	
+Juventud y Deporte 42 ORDEN 1663/2017	MISC	
+11 de mayo	MISC	
+Consejería de Educación	ORG	
+Juventud y Deporte	ORG	
+Orden 2484/2016	MISC	
+29 de julio	MISC	
+Fondo Social Europeo	ORG	
+Programa Operativo de Empleo Juvenil	ORG	
+Iniciativa de Empleo Juvenil	ORG	
+YEI	ORG	
+de29dejulio	MISC	
+Fondo Social Europeo	ORG	
+Programa Operativo de Empleo Juvenil	ORG	
+Iniciativa de Empleo Juvenil	ORG	
+YEI	ORG	
+día 10 de agosto de 2016	MISC	
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID	MISC	
+1 de octubre de 2016	MISC	
+Ley 39/2015	MISC	
+1 de octubre	MISC	
+Procedimiento Administrativo Común	ORG	
+Administraciones Públicas	ORG	
+Boletín Oficial del Estado	MISC	
+2 de octubre de 2015	MISC	
+miércoles 2 de noviembre de 2016	MISC	
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID	MISC	
+Acuerdo de 31 de octubre de 2016	MISC	
+Consejo de Gobierno	ORG	
+Administración	ORG	
+Comunidad de Madrid	LOC	
+Deacuerdoconlasatribucionesconferidasporelartículo41.d	MISC	
+delaLey1/1983	MISC	
+de13	MISC	
+6.4	MISC	
+Ley 2/1995	MISC	
+8 de marzo	MISC	
+Subvenciones de la Comunidad de Madrid	ORG	
+Consejería de Educación	ORG	
+Juventud	ORG	
+Deporte	ORG	
+Proyecto de Orden	MISC	
+Envirtuddeloanterior	ORG	
+DISPONGO Artículo Único Modificación	MISC	
+Orden 2484/2016	MISC	
+29 de julio	MISC	
+Fondo Social Europeo	ORG	
+Programa Operativo de Empleo Juvenil	ORG	
+Iniciativa de Empleo Juvenil	ORG	
+YEI	ORG	
+LaOrden2484/2016	MISC	
+de29dejulio	MISC	
+Fondo Social Europeo	ORG	
+Programa Operativo de Empleo Juvenil	ORG	
+Iniciativa de Empleo Juvenil	ORG	
+YEI	ORG	
+2	MISC	
+7	MISC	
+7.2	MISC	
+Consejería de Educación	ORG	
+Juventud	ORG	
+Deporte	ORG	
+Dirección General	PER	
+http://www.madrimasd.org	LOC	
+Madrid Ciencia	LOC	
+Tecnología	LOC	
+Convocatorias	MISC	
+Portal de Administración Electrónica	LOC	
+Comunidad de Madrid	LOC	
+http://www.madrid.org	LOC	
+Consejería de Educación	ORG	
+Juventud	ORG	
+Deporte	ORG	
+Dirección General	PER	
+http://www.madrimasd.org	LOC	
+Madrid Ciencia	LOC	
+Tecnología	LOC	
+Convocatorias	MISC	
+Registro Telemático de la Consejería de Educación	MISC	
+Juventud y Depor VIERNES 2 DE JUNIO DE 2017Pág	MISC	
+284 B.O.C.M. Núm	MISC	
+130	MISC	
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L. : M. 19.462-1983 ISSN 1989-4791 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM	MISC	
+Ley 39/2015	MISC	
+1 de octubre	MISC	
+Procedimiento Administrativo Común	ORG	
+Administraciones Públicas	ORG	
+DNI	MISC	
+Certificados ElectrónicosreconocidosporlaComunidaddeMadridquepodránobtenerseatravésdelamisma	ORG	
+Internet	MISC	
+Lista de confianza	MISC	
+TSL	ORG	
+España	LOC	
+Ministerio de Industria , Energía y Turismo	ORG	
+Administración	ORG	
+Aportación de Documentos	MISC	
+Portal de Administración Electrónica de www.madrid.org	LOC	
+1	MISC	
+8	MISC	
+8.1	MISC	
+Presidente	PER	
+Subdirección General	ORG	
+Dirección General	ORG	
+Secretario	MISC	
+4	MISC	
+9	MISC	
+9.4	MISC	
+LapresenteOrdenentraráenvigoreldíasiguientealdesupublicaciónenelBOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID	MISC	
+Madrid	ORG	
+11 de mayo de 2017	MISC	
+Consejero de Educación	ORG	
+Juventud	ORG	
+Deporte	ORG	
+RAFAEL VAN GRIEKEN SALVADOR	PER	
+03/17.458/17	MISC	

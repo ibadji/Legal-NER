@@ -303,7 +303,6 @@ SAP	Abreviation	ORG
 SCIJ	Abreviation	ORG
 SCLV	Abreviation	ORG
 SCom	Abreviation	ORG
-SE	Abreviation	ORG
 SRL	Abreviation	ORG
 STC	Abreviation	ORG
 STJCE	Abreviation	ORG
@@ -343,45 +342,6 @@ STC	Abreviation	ORG
 STS	Abreviation	ORG
 STEDH	Abreviation	ORG
 STJUE	Abreviation	ORG
-ap.	Abreviation	ORG
-apdo.	Abreviation	ORG
-ap.	Abreviation	ORG
-art.	Abreviation	ORG
-as.	Abreviation	ORG
-c.	Abreviation	ORG
-cfr.	Abreviation	ORG
-cap.	Abreviation	ORG
-coord.	Abreviation	ORG
-desus.	Abreviation	ORG
-Dic.	Abreviation	ORG
-dir.	Abreviation	ORG
-disp.	Abreviation	ORG
-disp.	Abreviation	ORG
-disp. final	Abreviation	ORG
-disp. trans.	Abreviation	ORG
-ed.	Abreviation	ORG
-etc.	Abreviation	ORG
-Exp. Mot.	Abreviation	ORG
-germ.	Abreviation	ORG
-ibid.	Abreviation	ORG
-Instr.	Abreviation	ORG
-mod.	Abreviation	ORG
-n.º	Abreviation	ORG
-núm.	Abreviation	ORG
-pág.	Abreviation	ORG
-párr.	Abreviation	ORG
-p. ej.	Abreviation	ORG
-pon.	Abreviation	ORG
-pr.	Abreviation	ORG
-pról.	Abreviation	ORG
-rec.	Abreviation	ORG
-rgto.	Abreviation	ORG
-s.	Abreviation	ORG
-sec.	Abreviation	ORG
-sig.	Abreviation	ORG
-tít.	Abreviation	ORG
-V.	Abreviation	ORG
-vol.	Abreviation	ORG
 recurso de casación	Legal_Reference
 recurso extraordinario por infracción procesal	Legal_Reference
 recurso en interés de ley	Legal_Reference

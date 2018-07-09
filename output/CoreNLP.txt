@@ -1,14 +1,66 @@
-Minister : TITLE
-French : NATIONALITY
-OJ 2009 L 243 : OfficialJ
-2018/C 063/13 : OfficialJ
-Netherlands : COUNTRY
-European : NATIONALITY
-her : PERSON
-he : PERSON
-his : PERSON
-Swiss : NATIONALITY
-Dutch : NATIONALITY
-Charter : TITLE
-Luxembourg : COUNTRY
-2018/C 063/12 : OfficialJ
+TSL : ORG
+Administración Electrónica : ORG
+LaOrden2484/2016 : ORG
+RAFAEL VAN GRIEKEN : PERS
+MADRID D. L. : PERS
+Industria : OTROS
+artículo 7 : Articulo
+Acuerdo : OTROS
+artículo 6.4 : Articulo
+Boletín Oficial : OTROS
+Administraciones Públicas : ORG
+MADRID C : ORG
+Madrid : LUG
+Procedimiento Administrativo Común : ORG
+Comunidad : OTROS
+Iniciativa : ORG
+Registro Telemático : ORG
+Subdirección : ORG
+MADRID : ORG
+MADRID : OTROS
+Educación : OTROS
+Estado : OTROS
+Documentos : OTROS
+Orden 2484/2016 : ORG
+DNI : ORG
+Convocatorias : ORG
+Único Modificación : ORG
+Comunidad : ORG
+artículo 9 : Articulo
+Internet : ORG
+Turismo : OTROS
+artículo 9.4 : Articulo
+YEI : ORG
+Ley 39/2015 : LeyOrganica
+Orden : ORG
+Administración Electrónica : OTROS
+Proyecto : ORG
+Empleo Juvenil : OTROS
+Juventud : OTROS
+Secretario : PERS
+Madrid : OTROS
+Dirección : ORG
+Tecnología : OTROS
+artículo 8 : Articulo
+Portal : LUG
+Ley 2/1995 : LeyOrganica
+Núm : ORG
+Subvenciones : OTROS
+Programa Operativo : OTROS
+Fondo Social Europeo : ORG
+MADRIDBOCM : PERS
+España : LUG
+Gobierno : OTROS
+Energía : OTROS
+DesdelapublicacióndeOrden2484/2016 : ORG
+MADRID : LUG
+Consejero : OTROS
+Consejería : ORG
+Consejo : ORG
+Administración : ORG
+Otras Disposiciones Consejería : ORG
+Portal : ORG
+Madrid Ciencia : LUG
+Ministerio : ORG
+Depor : ORG
+Presidente : PERS

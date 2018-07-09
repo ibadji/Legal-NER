@@ -103,127 +103,127 @@ OJ	Abreviation
 SEC	Abreviation
 SWD	Abreviation
 TFEU	Abreviation
-Abkhaz	Language
-Adyghe	Language
-Albanian	Language
-Aragonese	Language
-Arbëresh	Language
-Armenian	Language
-Aromanian	Language
-Asturian (Astur-Leonese)	Language
-Austro-Bavarian	Language
-Avar	Language
-Azerbaijani	Language
-Bashkir	Language
-Basque	Language
-Belarusian	Language
-Bosnian	Language
-Breton	Language
-Bulgarian	Language
-Catalan	Language
-Chechen	Language
-Chuvash	Language
-Cimbrian	Language
-Cornish	Language
-Corsican	Language
-Crimean Tatar	Language
-Croatian	Language
-Czech	Language
-Danish	Language
-Dutch	Language
-English	Language
-Erzya	Language
-Estonian	Language
-Extremaduran	Language
-Faroese	Language
-Finnish	Language
-Franco-Provençal (Arpitan)	Language
-French	Language
-Frisian	Language
-Gagauz	Language
-Galician	Language
-Georgian	Language
-German	Language
-Greek	Language
-Hungarian	Language
-Icelandic	Language
-Ingrian	Language
-Ingush	Language
-Irish	Language
-Istriot	Language
-Istro-Romanian	Language
-Italian	Language
-Italiot Greek	Language
-Judaeo-Spanish (Ladino)	Language
-Judeo-Italian	Language
-Kabardian	Language
-Kalmyk	Language
-Karachay-Balkar	Language
-Karelian	Language
-Kashubian	Language
-Kazakh	Language
-Komi	Language
-Latin	Language
-Latvian	Language
-Ligurian	Language
-Lithuanian	Language
-Lombard	Language
-Low German	Language
-Luxembourgish	Language
-Macedonian	Language
-Mainfränkisch	Language
-Maltese	Language
-Manx	Language
-Mari	Language
-Megleno-Romanian	Language
-Mirandese	Language
-Moksha	Language
-Neapolitan	Language
-Nenets	Language
-Norman	Language
-Norwegian	Language
-Occitan	Language
-Ossetian	Language
-Palatinate German	Language
-Picard	Language
-Piedmontese	Language
-Polish	Language
-Portuguese	Language
-Rhaeto-Romance	Language
-Ripuarian (Platt)	Language
-Romani	Language
-Romanian	Language
-Russian	Language
-Sami	Language
-Sardinian	Language
-Scots	Language
-Scottish Gaelic	Language
-Serbian	Language
-Sicilian	Language
-Silesian	Language
-Silesian German	Language
-Slovak	Language
-Slovene	Language
-Sorbian	Language
-Wendish	Language
-Spanish	Language
-Castilian	Language
-Swabian German	Language
-Swedish	Language
-Swiss German	Language
-Tabasaran	Language
-Tat	Language
-Tatar	Language
-Turkish	Language
-Udmurt	Language
-Ukrainian	Language
-Upper Saxon	Language
-Venetian	Language
-Vepsian	Language
-Voro	Language
-Walloon	Language
-Walser German	Language
-Welsh	Language
-Wymysorys	Language
-Yenish	Language
-Yiddish	Language
+Abkhaz	Language	NATIONALITY
+Adyghe	Language	NATIONALITY
+Albanian	Language	NATIONALITY
+Aragonese	Language	NATIONALITY
+Arbëresh	Language	NATIONALITY
+Armenian	Language	NATIONALITY
+Aromanian	Language	NATIONALITY
+Asturian (Astur-Leonese)	Language	NATIONALITY
+Austro-Bavarian	Language	NATIONALITY
+Avar	Language	NATIONALITY
+Azerbaijani	Language	NATIONALITY
+Bashkir	Language	NATIONALITY
+Basque	Language	NATIONALITY
+Belarusian	Language	NATIONALITY
+Bosnian	Language	NATIONALITY
+Breton	Language	NATIONALITY
+Bulgarian	Language	NATIONALITY
+Catalan	Language	NATIONALITY
+Chechen	Language	NATIONALITY
+Chuvash	Language	NATIONALITY
+Cimbrian	Language	NATIONALITY
+Cornish	Language	NATIONALITY
+Corsican	Language	NATIONALITY
+Crimean Tatar	Language	NATIONALITY
+Croatian	Language	NATIONALITY
+Czech	Language	NATIONALITY
+Danish	Language	NATIONALITY
+Dutch	Language	NATIONALITY
+English	Language	NATIONALITY
+Erzya	Language	NATIONALITY
+Estonian	Language	NATIONALITY
+Extremaduran	Language	NATIONALITY
+Faroese	Language	NATIONALITY
+Finnish	Language	NATIONALITY
+Franco-Provençal (Arpitan)	Language	NATIONALITY
+French	Language	NATIONALITY
+Frisian	Language	NATIONALITY
+Gagauz	Language	NATIONALITY
+Galician	Language	NATIONALITY
+Georgian	Language	NATIONALITY
+German	Language	NATIONALITY
+Greek	Language	NATIONALITY
+Hungarian	Language	NATIONALITY
+Icelandic	Language	NATIONALITY
+Ingrian	Language	NATIONALITY
+Ingush	Language	NATIONALITY
+Irish	Language	NATIONALITY
+Istriot	Language	NATIONALITY
+Istro-Romanian	Language	NATIONALITY
+Italian	Language	NATIONALITY
+Italiot Greek	Language	NATIONALITY
+Judaeo-Spanish (Ladino)	Language	NATIONALITY
+Judeo-Italian	Language	NATIONALITY
+Kabardian	Language	NATIONALITY
+Kalmyk	Language	NATIONALITY
+Karachay-Balkar	Language	NATIONALITY
+Karelian	Language	NATIONALITY
+Kashubian	Language	NATIONALITY
+Kazakh	Language	NATIONALITY
+Komi	Language	NATIONALITY
+Latin	Language	NATIONALITY
+Latvian	Language	NATIONALITY
+Ligurian	Language	NATIONALITY
+Lithuanian	Language	NATIONALITY
+Lombard	Language	NATIONALITY
+Low German	Language	NATIONALITY
+Luxembourgish	Language	NATIONALITY
+Macedonian	Language	NATIONALITY
+Mainfränkisch	Language	NATIONALITY
+Maltese	Language	NATIONALITY
+Manx	Language	NATIONALITY
+Mari	Language	NATIONALITY
+Megleno-Romanian	Language	NATIONALITY
+Mirandese	Language	NATIONALITY
+Moksha	Language	NATIONALITY
+Neapolitan	Language	NATIONALITY
+Nenets	Language	NATIONALITY
+Norman	Language	NATIONALITY
+Norwegian	Language	NATIONALITY
+Occitan	Language	NATIONALITY
+Ossetian	Language	NATIONALITY
+Palatinate German	Language	NATIONALITY
+Picard	Language	NATIONALITY
+Piedmontese	Language	NATIONALITY
+Polish	Language	NATIONALITY
+Portuguese	Language	NATIONALITY
+Rhaeto-Romance	Language	NATIONALITY
+Ripuarian (Platt)	Language	NATIONALITY
+Romani	Language	NATIONALITY
+Romanian	Language	NATIONALITY
+Russian	Language	NATIONALITY
+Sami	Language	NATIONALITY
+Sardinian	Language	NATIONALITY
+Scots	Language	NATIONALITY
+Scottish Gaelic	Language	NATIONALITY
+Serbian	Language	NATIONALITY
+Sicilian	Language	NATIONALITY
+Silesian	Language	NATIONALITY
+Silesian German	Language	NATIONALITY
+Slovak	Language	NATIONALITY
+Slovene	Language	NATIONALITY
+Sorbian	Language	NATIONALITY
+Wendish	Language	NATIONALITY
+Spanish	Language	NATIONALITY
+Castilian	Language	NATIONALITY
+Swabian German	Language	NATIONALITY
+Swedish	Language	NATIONALITY
+Swiss German	Language	NATIONALITY
+Tabasaran	Language	NATIONALITY
+Tat	Language	NATIONALITY
+Tatar	Language	NATIONALITY
+Turkish	Language	NATIONALITY
+Udmurt	Language	NATIONALITY
+Ukrainian	Language	NATIONALITY
+Upper Saxon	Language	NATIONALITY
+Venetian	Language	NATIONALITY
+Vepsian	Language	NATIONALITY
+Voro	Language	NATIONALITY
+Walloon	Language	NATIONALITY
+Walser German	Language	NATIONALITY
+Welsh	Language	NATIONALITY
+Wymysorys	Language	NATIONALITY
+Yenish	Language	NATIONALITY
+Yiddish	Language	NATIONALITY
