@@ -7,6 +7,6 @@ In order to run the code:
 * Download the code from Github or Clone the repository on your computer.
 * The main.Java class can be run directly with the present information. The test is run on an EU court case found in resources/input, in English with the Type "rule". Three types exist for Spanish: Nicknames, rule and other. 
 In order to run the individual components such as CoreNLP in the NER folder, the main method needs to be changed similarly to the previous point.
-* The output should resemble the ones seen on Fig.19 and Fig. 20. 
+* The output should resemble the ones seen on Fig.19 and Fig. 20 (can be found in the pdf "TFM-InesBadji"). 
 
 * Note: The Libraries used are heavy it might thus take time to load them as well as to run the code. Up to 4 minutes depending on the text length on a Toshiba Portege Z30 core i7, 8.00GB.
