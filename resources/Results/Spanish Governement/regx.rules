@@ -1,0 +1,976 @@
+(TUE|trado) /[0-9]{4}	TRADO	
+(STEDH|STJUE|RUAM,|RUAM) de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}	LEY	
+(STS|STC|Tribunal) [0-9]{1,5}/[0-9]{4} de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)	SENTENCIA	
+(art|artículo|artículos|ART) [0-9]{0,5}.[0-9]{0,5} [0-9]{0,5} y [0-9]{0,5}	ARTICULO		
+(art|artículo|artículos|ART) [0-9]{0,5}.[0-9]{0,5}	ARTICULO	
+(art|artículo|artículos|ART) [0-9]{0,5}.[a-zA-Z]{0,2}	ARTICULO
+(art|artículo|ART) [0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5}	ARTICULO	
+(art|artículo|ART) [0-9]{0,5}.[0-9]{0,5}.[0-9]{0,5} y [0-9]{0,5}.[0-9]{0,5}	ARTICULO
+(art|artículo|ART) [0-9]{0,5} (CE|LRJSP)	ARTICULO	
+(art|artículo|ART) [0-9]{0,5},[0-9]{0,5} y [0-9]{0,5}	ARTICULO	
+CE\w[0-9]{4}	ARTICULO	ORG	
+CE-[0-9]{1,7}-[0-9]{1,5}	ARTICULO	ORG	
+(LRJSP|RDL) [0-9]{1,5}/[0-9]{4}	LEY	ORG
+Ley [0-9]{1,5}/[0-9]{1,5}	LEY	ORG
+(Dir|Directiva|dir) [0-9]{1,5}.[0-9]{1,5}	DIRECTIVA	
+(Rec|rec|Recurso) [0-9]{0,5}.[0-9]{0,5}	RECURSO	
+(R|Reglamento)(UE) nº [0-9]{1,5}/[0-9]{4}	REGLAMENTO	
+(R|Reglamento)(UE) [0-9]{1,5}/[0-9]{4}	REGLAMENTO	
+(Dec|Decreto|dec) no [0-9]{4}/[0-9]{1,5}/UE	DECRETO	
+(Dec|Decreto|dec) [0-9]{4}/[0-9]{1,5}/UE	DECRETO	
+(O.|O|Orden) PRA/[0-9]{1,5}/[0-9]{4}	ORDEN	
+(Dict|Dictamen) CES	DICTAMEN	
+sentencia [0-9]{1,5}/[0-9]{1,5}	SENTENCIA	
+sentencia de [0-9]{1,5}/[0-9]{1,5}	SENTENCIA	
+sentencia de [0-9]{2} de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre) [0-9]{4}	SENTENCIA
+sentencia de (\w+) [0-9]{1,5}/[0-9]{1,5}	SENTENCIA	
+sentencia nº [0-9]{1,5}/[0-9]{1,5}	SENTENCIA	
+(Apelación|ordinario) [0-9]{1,5}/[0-9]{4}	LEY
+A-RES	ABREVIATION	ORG
+AHDE	ABREVIATION	ORG
+AJEC	ABREVIATION	ORG
+AP	ABREVIATION	ORG
+ATCu	ABREVIATION	ORG
+ATS	ABREVIATION	ORG
+ATSJ	ABREVIATION	ORG
+BCE	ABREVIATION	ORG
+BIMJ	ABREVIATION	ORG
+BJC	ABREVIATION	ORG
+BOCG	ABREVIATION	ORG
+BOE	ABREVIATION	ORG
+BOP	ABREVIATION	ORG
+BORME	ABREVIATION	ORG
+CC	ABREVIATION	ORG
+CCEO	ABREVIATION	ORG
+CCom	ABREVIATION	ORG
+CD	ABREVIATION	ORG
+CE	ABREVIATION	ORG
+CEAL	ABREVIATION	ORG
+CEC	ABREVIATION	ORG
+CECA	ABREVIATION	ORG
+CEDH	ABREVIATION	ORG
+CEE	ABREVIATION	ORG
+CEEA	ABREVIATION	ORG
+CGPJ	ABREVIATION	ORG
+CIC	ABREVIATION	ORG
+CMNUCC	ABREVIATION	ORG
+CNMV	ABREVIATION	ORG
+CP	ABREVIATION	ORG
+CP-1973	ABREVIATION	ORG
+CPM	ABREVIATION	ORG
+CR	ABREVIATION	ORG
+CVDT	ABREVIATION	ORG
+D	ABREVIATION	ORG
+DC	ABREVIATION	ORG
+DGRN	ABREVIATION	ORG
+DH	ABREVIATION	ORG
+DIT	ABREVIATION	ORG
+DOCE	ABREVIATION	ORG
+DOUE	ABREVIATION	ORG
+DSS	ABREVIATION	ORG
+DUDH	ABREVIATION	ORG
+EAA	ABREVIATION	ORG
+EAAR	ABREVIATION	ORG
+EAAS	ABREVIATION	ORG
+EAC	ABREVIATION	ORG
+EACAN	ABREVIATION	ORG
+EACANT	ABREVIATION	ORG
+EACE	ABREVIATION	ORG
+EACLM	ABREVIATION	ORG
+EACM	ABREVIATION	ORG
+EACV	ABREVIATION	ORG
+EACYL	ABREVIATION	ORG
+EAEX	ABREVIATION	ORG
+EAG	ABREVIATION	ORG
+EAIB	ABREVIATION	ORG
+EAME	ABREVIATION	ORG
+EAMU	ABREVIATION	ORG
+EAPV	ABREVIATION	ORG
+EAR	ABREVIATION	ORG
+EBEP	ABREVIATION	ORG
+ET	ABREVIATION	ORG
+FJ	ABREVIATION	ORG
+LA	ABREVIATION	ORG
+LABE	ABREVIATION	ORG
+LAC	ABREVIATION	ORG
+LAECSP	ABREVIATION	ORG
+LAIE	ABREVIATION	ORG
+LAR	ABREVIATION	ORG
+LARH	ABREVIATION	ORG
+LAU	ABREVIATION	ORG
+LCon	ABREVIATION	ORG
+LC	ABREVIATION	ORG
+LCa	ABREVIATION	ORG
+LCA	ABREVIATION	ORG
+LCAFB	ABREVIATION	ORG
+LCAT	ABREVIATION	ORG
+LCCH	ABREVIATION	ORG
+LCCR	ABREVIATION	ORG
+LCCSNS	ABREVIATION	ORG
+LCD	ABREVIATION	ORG
+LCENFFS	ABREVIATION	ORG
+LCGC	ABREVIATION	ORG
+LCOOP	ABREVIATION	ORG
+LCP	ABREVIATION	ORG
+LCPE	ABREVIATION	ORG
+LCS	ABREVIATION	ORG
+LCSP	ABREVIATION	ORG
+LCVFL	ABREVIATION	ORG
+LCZ	ABREVIATION	ORG
+LD	ABREVIATION	ORG
+LDA	ABREVIATION	ORG
+LDC	ABREVIATION	ORG
+LDIC	ABREVIATION	ORG
+LDIEC	ABREVIATION	ORG
+LDPD	ABREVIATION	ORG
+LE	ABREVIATION	ORG
+LEC	ABREVIATION	ORG
+LEC-1881	ABREVIATION	ORG
+LECrim	ABREVIATION	ORG
+LEF	ABREVIATION	ORG
+LEOMF	ABREVIATION	ORG
+LETT	ABREVIATION	ORG
+LF	ABREVIATION	ORG
+LFCE	ABREVIATION	ORG
+LFN	ABREVIATION	ORG
+LG	ABREVIATION	ORG
+LGDCU	ABREVIATION	ORG
+LGP	ABREVIATION	ORG
+LGP-1988	ABREVIATION	ORG
+LGPub	ABREVIATION	ORG
+LGSa	ABREVIATION	ORG
+LGSS	ABREVIATION	ORG
+LGSu	ABREVIATION	ORG
+LGT	ABREVIATION	ORG
+LGT-1963	ABREVIATION	ORG
+LGTEL	ABREVIATION	ORG
+LH	ABREVIATION	ORG
+LHMPSD	ABREVIATION	ORG
+LHN	ABREVIATION	ORG
+LI	ABREVIATION	ORG
+LIIC	ABREVIATION	ORG
+LIS	ABREVIATION	ORG
+LIS-1995	ABREVIATION	ORG
+LISD	ABREVIATION	ORG
+LISMI	ABREVIATION	ORG
+LISOS	ABREVIATION	ORG
+LIT	ABREVIATION	ORG
+LITN	ABREVIATION	ORG
+LITP	ABREVIATION	ORG
+LIVA	ABREVIATION	ORG
+LJCA	ABREVIATION	ORG
+LJCA-1956	ABREVIATION	ORG
+LM	ABREVIATION	ORG
+LMo	ABREVIATION	ORG
+LMAD	ABREVIATION	ORG
+LMI	ABREVIATION	ORG
+LMMGL	ABREVIATION	ORG
+LMRFP	ABREVIATION	ORG
+LMV	ABREVIATION	ORG
+LN	ABREVIATION	ORG
+LNA	ABREVIATION	ORG
+LO	ABREVIATION	ORG
+LOCE	ABREVIATION	ORG
+LOCEs	ABREVIATION	ORG
+LOCJ	ABREVIATION	ORG
+LOCM	ABREVIATION	ORG
+LOCOJM	ABREVIATION	ORG
+LODE	ABREVIATION	ORG
+LODEPE	ABREVIATION	ORG
+LODN	ABREVIATION	ORG
+LODP	ABREVIATION	ORG
+LOE	ABREVIATION	ORG
+LOEd	ABREVIATION	ORG
+LOEX	ABREVIATION	ORG
+LOFAGE	ABREVIATION	ORG
+LOFCA	ABREVIATION	ORG
+LOFCS	ABREVIATION	ORG
+LOGP	ABREVIATION	ORG
+LOI	ABREVIATION	ORG
+LOLR	ABREVIATION	ORG
+LOLS	ABREVIATION	ORG
+LOMCE	ABREVIATION	ORG
+LOPDCP	ABREVIATION	ORG
+LOPJ	ABREVIATION	ORG
+LOPP	ABREVIATION	ORG
+LOPSC	ABREVIATION	ORG
+LORAFNA	ABREVIATION	ORG
+LORCA	ABREVIATION	ORG
+LORDFA	ABREVIATION	ORG
+LOREG	ABREVIATION	ORG
+LORIP	ABREVIATION	ORG
+LORPM	ABREVIATION	ORG
+LOSC	ABREVIATION	ORG
+LOSP	ABREVIATION	ORG
+LOSSEC	ABREVIATION	ORG
+LOSSP	ABREVIATION	ORG
+LOTC	ABREVIATION	ORG
+LOTCU	ABREVIATION	ORG
+LOTJ	ABREVIATION	ORG
+LOTT	ABREVIATION	ORG
+LOU	ABREVIATION	ORG
+LOVG	ABREVIATION	ORG
+LP	ABREVIATION	ORG
+LPA	ABREVIATION	ORG
+LPAC	ABREVIATION	ORG
+LPAP	ABREVIATION	ORG
+LPEMM	ABREVIATION	ORG
+LPH	ABREVIATION	ORG
+LPHE	ABREVIATION	ORG
+LPHN	ABREVIATION	ORG
+LPI	ABREVIATION	ORG
+LPL	ABREVIATION	ORG
+LPM	ABREVIATION	ORG
+LPN	ABREVIATION	ORG
+LPND	ABREVIATION	ORG
+LPRL	ABREVIATION	ORG
+LR	ABREVIATION	ORG
+LrBRL	ABREVIATION	ORG
+LRC	ABREVIATION	ORG
+LRCS	ABREVIATION	ORG
+LRJAE	ABREVIATION	ORG
+LRJPAC	ABREVIATION	ORG
+LRJS	ABREVIATION	ORG
+LRSAL	ABREVIATION	ORG
+LRSC	ABREVIATION	ORG
+LRJSP	ABREVIATION	ORG
+LS	ABREVIATION	ORG
+LSA	ABREVIATION	ORG
+LSC	ABREVIATION	ORG
+LSF	ABREVIATION	ORG
+LSGR	ABREVIATION	ORG
+LSH	ABREVIATION	ORG
+LSL	ABREVIATION	ORG
+LSP	ABREVIATION	ORG
+LSPU	ABREVIATION	ORG
+LSPU-1998	ABREVIATION	ORG
+LSRL	ABREVIATION	ORG
+LSSC	ABREVIATION	ORG
+LSSI	ABREVIATION	ORG
+LSV	ABREVIATION	ORG
+LTH	ABREVIATION	ORG
+LTSV	ABREVIATION	ORG
+LV	ABREVIATION	ORG
+LVP	ABREVIATION	ORG
+LVP-1974	ABREVIATION	ORG
+OEPM	ABREVIATION	ORG
+OICVM	ABREVIATION	ORG
+OM	ABREVIATION	ORG
+P	ABREVIATION	ORG
+PGC	ABREVIATION	ORG
+PIDESC	ABREVIATION	ORG
+PJ	ABREVIATION	ORG
+RA	ABREVIATION	ORG
+RAA	ABREVIATION	ORG
+RAC	ABREVIATION	ORG
+RAEIE	ABREVIATION	ORG
+RAMINP	ABREVIATION	ORG
+RAPA	ABREVIATION	ORG
+RBEL	ABREVIATION	ORG
+RBEL-1955	ABREVIATION	ORG
+RC	ABREVIATION	ORG
+RC-1989	ABREVIATION	ORG
+RCAP	ABREVIATION	ORG
+RCCL	ABREVIATION	ORG
+RCD	ABREVIATION	ORG
+RCDE	ABREVIATION	ORG
+RCGC	ABREVIATION	ORG
+RCPMHA	ABREVIATION	ORG
+RD	ABREVIATION	ORG
+RDCLV	ABREVIATION	ORG
+RDGRN	ABREVIATION	ORG
+RDLeg	ABREVIATION	ORG
+RDLey	ABREVIATION	ORG
+RDL	ABREVIATION	ORG
+RDLRT	ABREVIATION	ORG
+RDPH	ABREVIATION	ORG
+RDSAD	ABREVIATION	ORG
+RDU	ABREVIATION	ORG
+REF	ABREVIATION	ORG
+REFRS	ABREVIATION	ORG
+REPEPOS	ABREVIATION	ORG
+RFE	ABREVIATION	ORG
+RGC	ABREVIATION	ORG
+RGCE	ABREVIATION	ORG
+RGCir	ABREVIATION	ORG
+RGCond	ABREVIATION	ORG
+RGIPPT	ABREVIATION	ORG
+RGR	ABREVIATION	ORG
+RGRM	ABREVIATION	ORG
+RGU	ABREVIATION	ORG
+RGVeh	ABREVIATION	ORG
+RH	ABREVIATION	ORG
+RHL	ABREVIATION	ORG
+RIVA	ABREVIATION	ORG
+RLPD	ABREVIATION	ORG
+RLTAN	ABREVIATION	ORG
+RMo	ABREVIATION	ORG
+RM	ABREVIATION	ORG
+RO	ABREVIATION	ORG
+ROF	ABREVIATION	ORG
+ROFRJCL	ABREVIATION	ORG
+ROTT	ABREVIATION	ORG
+RP	ABREVIATION	ORG
+RPDEL	ABREVIATION	ORG
+RPEA	ABREVIATION	ORG
+RPFP	ABREVIATION	ORG
+RPI	ABREVIATION	ORG
+RPSan	ABREVIATION	ORG
+RPSTr	ABREVIATION	ORG
+RPU	ABREVIATION	ORG
+RRC	ABREVIATION	ORG
+RRM	ABREVIATION	ORG
+RRVA	ABREVIATION	ORG
+RS	ABREVIATION	ORG
+RSAAE	ABREVIATION	ORG
+RSCL	ABREVIATION	ORG
+RSE	ABREVIATION	ORG
+RSP	ABREVIATION	ORG
+SAN	ABREVIATION	ORG
+SAP	ABREVIATION	ORG
+SCIJ	ABREVIATION	ORG
+SCLV	ABREVIATION	ORG
+SCom	ABREVIATION	ORG
+SE	ABREVIATION	ORG
+SRL	ABREVIATION	ORG
+STC	ABREVIATION	ORG
+STJCE	ABREVIATION	ORG
+STJUE	ABREVIATION	ORG
+STS	ABREVIATION	ORG
+TC	ABREVIATION	ORG
+TCECA	ABREVIATION	ORG
+TCEE	ABREVIATION	ORG
+TCEEA, EURATOM	ABREVIATION	ORG
+TCEur	ABREVIATION	ORG
+TEDH	ABREVIATION	ORG
+TFUE	ABREVIATION	ORG
+TJCE	ABREVIATION	ORG
+TJUE	ABREVIATION	ORG
+TL	ABREVIATION	ORG
+TRLA	ABREVIATION	ORG
+TRLCAP	ABREVIATION	ORG
+TRLCI	ABREVIATION	ORG
+TRLCSP	ABREVIATION	ORG
+TRLGDPD	ABREVIATION	ORG
+TRLHL	ABREVIATION	ORG
+TRLIS	ABREVIATION	ORG
+TRLPEMM	ABREVIATION	ORG
+TRLS	ABREVIATION	ORG
+TRLSA	ABREVIATION	ORG
+TRRL	ABREVIATION	ORG
+TS	ABREVIATION	ORG
+TUE	ABREVIATION	ORG
+VM	ABREVIATION	ORG
+RUAM	ABREVIATION	ORG
+Dir	ABREVIATION	ORG
+Dec	ABREVIATION	ORG
+Rec	ABREVIATION	ORG
+Dict	ABREVIATION	ORG
+CES	ABREVIATION	ORG
+STC	ABREVIATION	ORG
+STS	ABREVIATION	ORG
+STEDH	ABREVIATION	ORG
+STJUE	ABREVIATION	ORG
+ap.	ABREVIATION	ORG
+apdo.	ABREVIATION	ORG
+ap.	ABREVIATION	ORG
+art.	ABREVIATION	ORG
+as.	ABREVIATION	ORG
+c.	ABREVIATION	ORG
+cfr.	ABREVIATION	ORG
+cap.	ABREVIATION	ORG
+coord.	ABREVIATION	ORG
+desus.	ABREVIATION	ORG
+Dic.	ABREVIATION	ORG
+dir.	ABREVIATION	ORG
+disp.	ABREVIATION	ORG
+disp.	ABREVIATION	ORG
+disp. final	ABREVIATION	ORG
+disp. trans.	ABREVIATION	ORG
+ed.	ABREVIATION	ORG
+etc.	ABREVIATION	ORG
+Exp. Mot.	ABREVIATION	ORG
+germ.	ABREVIATION	ORG
+ibid.	ABREVIATION	ORG
+Instr.	ABREVIATION	ORG
+mod.	ABREVIATION	ORG
+n.º	ABREVIATION	ORG
+núm.	ABREVIATION	ORG
+pág.	ABREVIATION	ORG
+párr.	ABREVIATION	ORG
+p. ej.	ABREVIATION	ORG
+pon.	ABREVIATION	ORG
+pr.	ABREVIATION	ORG
+pról.	ABREVIATION	ORG
+rec.	ABREVIATION	ORG
+rgto.	ABREVIATION	ORG
+s.	ABREVIATION	ORG
+sec.	ABREVIATION	ORG
+sig.	ABREVIATION	ORG
+tít.	ABREVIATION	ORG
+V.	ABREVIATION	ORG
+vol.	ABREVIATION	ORG
+recurso de casación	Act_AgainstJudgment
+recurso extraordinario por infracción procesal	Act_AgainstJudgment
+recurso en interés de ley	Act_AgainstJudgment
+recurso de apelación	Act_AgainstJudgment
+Concursal	Act_AgainstJudgment
+recurso de suplicación	Act_AgainstJudgment
+recurso de casación para unificación de doctrina	Act_AgainstJudgment
+appeal for protection of fundamental rights	Act_AgainstJudgment
+Custom against legislation	Act_AgainstJudgment
+recurso en interés de la ley	Act_AgainstJudgment
+Boletín Oficial de la Junta de Andalucía	Boletins
+Boletín Oficial de Aragón	Boletins
+Boletín Oficial del Principado de Asturias	Boletins
+Butlletí Oficial de la Comunitat Autònoma de les Illes Balears	Boletins
+Boletín Oficial de Canarias	Boletins
+Boletín Oficial de Cantabria	Boletins
+Boletín Oficial de Castilla y León	Boletins
+Diario Oficial de Castilla-La Mancha	Boletins
+Diari Oficial de la Generalitat de Catalunya	Boletins
+Diari Oficial de la Comunitat Valenciana	Boletins
+Diario Oficial de la Junta de Extremadura	Boletins
+Diario Oficial de Galicia	Boletins
+Boletín Oficial de La Rioja	Boletins
+Boletín Oficial de la Comunidad de Madrid	Boletins
+Boletín Oficial de la Región de Murcia	Boletins
+Boletín Oficial de Navarra	Boletins
+Boletín Oficial del País Vasco	Boletins
+Boletín Oficial de la Ciudad de Ceuta	Boletins
+Boletín Oficial de la Ciudad Autónoma de Melilla	Boletins
+Boletín de las Comunidades Europeas	Boletins
+Boletín de Información del Ministerio de Justicia	Boletins
+Boletín de Jurisprudencia Constitucional	Boletins
+Boletín O?cial de las Cortes Generales	Boletins
+Boletín O?cial del Estado	Boletins
+Boletin Oficial de la Provincia	Boletins
+Boletín O?cial del Registro Mercantil	Boletins
+municipios 	Geographical_divisions
+partidos judiciales	Geographical_divisions
+provincias 	Geographical_divisions
+Comunidades Autónomas 	Geographical_divisions
+Parlamento de Andalucía	Gov_instit_regi
+Junta de Andalucía	Gov_instit_regi
+Cortes de Aragón	Gov_instit_regi
+Diputación General de Aragón	Gov_instit_regi
+Junta General del Principado de Asturias	Gov_instit_regi
+Gobierno del Principado de Asturias	Gov_instit_regi
+Parlament de les Illes Balears	Gov_instit_regi
+Govern de les Illes Balears	Gov_instit_regi
+Parlamento de Canarias	Gov_instit_regi
+Gobierno de Canarias	Gov_instit_regi
+Parlamento de Cantabria	Gov_instit_regi
+Gobierno de Cantabria	Gov_instit_regi
+Cortes de Castilla y León	Gov_instit_regi
+Junta de Castilla y León	Gov_instit_regi
+Cortes de Castilla-La Mancha	Gov_instit_regi
+Gobierno de Castilla-La Mancha	Gov_instit_regi
+Parlament de Catalunya	Gov_instit_regi
+Generalitat de Catalunya	Gov_instit_regi
+Corts Valencianes	Gov_instit_regi
+Generalitat Valenciana	Gov_instit_regi
+Asamblea de Extremadura	Gov_instit_regi
+Gobierno de Extremadura	Gov_instit_regi
+Parlamento de Galicia	Gov_instit_regi
+Xunta de Galicia	Gov_instit_regi
+Parlamento de la Rioja	Gov_instit_regi
+Gobierno de La Rioja	Gov_instit_regi
+Asamblea de la Comunidad de Madrid	Gov_instit_regi
+Gobierno de la Comunidad de Madrid	Gov_instit_regi
+Asamblea Regional de Murcia	Gov_instit_regi
+Consejo de Gobierno de Murcia	Gov_instit_regi
+Parlamento de Navarra	Gov_instit_regi
+Diputación Foral de Navarra	Gov_instit_regi
+Parlamento Vasco	Gov_instit_regi
+Gobierno Vasco	Gov_instit_regi
+Gobierno de la Ciudad Autónoma de Ceuta	Gov_instit_regi
+Gobierno de la Ciudad Autónoma de Melilla	Gov_instit_regi
+Ley Orgánica	LAW	ORG
+Ley 	LAW	ORG
+Circulares	LAW	ORG
+Consejo de Estado	LAW	ORG
+Defensor del Pueblo	LAW	ORG
+Tribunal Constitucional	LAW	ORG
+Decreto-ley	LAW	ORG
+Decreto legislativo	LAW	ORG
+Ley de Bases	LAW	ORG
+Reglamento	LAW	ORG
+Decreto	LAW	ORG
+Orden	LAW	ORG
+Instrucción	LAW	ORG
+Boletín Oficial del Estado	LAW	ORG
+Proyecto de Ley	LAW	ORG
+Proposición de Ley	LAW	ORG
+Consejo de Ministros	LAW	ORG
+Real Decreto	LAW	ORG
+Código Civil	LAW	ORG
+Código Penal	LAW	ORG
+Código Penal Militar	LAW	ORG
+Directiva	LAW	ORG
+Real Decreto Legislativo	LAW	ORG
+Orden Social	LAW	ORG
+Orden Ministerial	LAW	ORG
+Real Decreto-Ley	LAW	ORG
+Registro Mercantil	LAW	ORG
+Real Orden	LAW	ORG
+Real Decreto	LAW	ORG
+Reglamento	LAW	ORG
+Sentencia	LAW	ORG
+Tratado	LAW	ORG
+Resolución	LAW	ORG
+Directiva	LAW	ORG
+Decisión	LAW	ORG
+Recomendación	LAW	ORG
+Dictamen	LAW	ORG
+Auto	LAW	ORG
+Tribunal Supremo 	LAW_Entities	ORG
+Audiencia Nacional	LAW_Entities	ORG
+Juzgados de Paz 	LAW_Entities	ORG
+Cortes Generales	LAW_Entities	ORG
+Audiencia Provincial 	LAW_Entities	ORG
+Congreso de los Diputados	LAW_Entities	ORG
+senado	LAW_Entities	ORG
+Tribunal Superior de Justicia	LAW_Entities	ORG
+Juzgados de Primera Instancia e Instrucción 	LAW_Entities	ORG
+Juzgados de lo Penal	LAW_Entities	ORG
+Juzgados de lo Contencioso-administrativo	LAW_Entities	ORG
+Juzgados de lo Social	LAW_Entities	ORG
+Juzgados Centrales de Instrucción	LAW_Entities	ORG
+Juzgados de Menores 	LAW_Entities	ORG
+Juzgado Central de lo Penal	LAW_Entities	ORG
+Juzgados de Vigilancia penitenciaria 	LAW_Entities	ORG
+Juzgados Centrales de lo Contencioso-administrativo	LAW_Entities	ORG
+Juzgado de Violencia sobre la Mujer 	LAW_Entities	ORG
+Sala Quinta	LAW_Entities	ORG
+Cortes Generales	LAW_Entities	ORG
+Congreso de los Diputados	LAW_Entities	ORG
+Mesa	LAW_Entities	ORG
+Junta de Portavoces	LAW_Entities	ORG
+cuestión de confianza	LAW_Entities	ORG
+ministros sin cartera	LAW_Entities	ORG
+Secretarios de Estado	LAW_Entities	ORG
+Consejo General del Poder Judicial	LAW_Entities	ORG
+Juzgados togados militares	LAW_Entities	ORG
+Tribunal militar territorial	LAW_Entities	ORG
+Estatuto de Autonomía	LAW_Entities	ORG
+Tribunal Constitucional	LAW_Entities	ORG
+Audiencia Nacional	LAW_Entities	ORG
+Audiencia Provincial	LAW_Entities	ORG
+Corte Internacional de Justicia	LAW_Entities	ORG
+Tribunal Constitucional	LAW_Entities	ORG
+Tribunal de Justicia de las Comunidades Europeas	LAW_Entities	ORG
+Tribunal Supremo	LAW_Entities	ORG
+Tribunal Europeo de Derechos Humanos	LAW_Entities	ORG
+Tribunal de Justicia de las Comunidades Europeas	LAW_Entities	ORG
+Tribunal de Justicia de la Unión Europea	LAW_Entities	ORG
+Congreso de los Diputados	LAW_Entities	ORG
+Tribunal de Cuentas	LAW_Entities	ORG
+Comisión Nacional	LAW_Entities	ORG
+Tribunal Superior de Justicia	LAW_Entities	ORG
+Ministerio de Justicia	LAW_Entities	ORG
+Cortes Generales	LAW_Entities	ORG
+Comité Económico y Social Europeo	LAW_Entities	ORG
+Andalucía	Regions	OTROS
+Aragón	Regions	OTROS
+Asturias	Regions	OTROS
+Baleares	Regions	OTROS
+Canarias	Regions	OTROS
+Cantabria	Regions	OTROS
+Castilla Y León	Regions	OTROS
+Castilla La Mancha	Regions	OTROS
+Cataluña	Regions	OTROS
+Comunidad Valenciana	Regions	OTROS
+Extremadura	Regions	OTROS
+Galicia	Regions	OTROS
+La Rioja	Regions	OTROS
+Madrid	Regions	OTROS
+Murcia	Regions	OTROS
+Navarra	Regions	OTROS
+País Vasco	Regions	OTROS
+Ceuta	Regions	OTROS
+Melilla	Regions	OTROS
+Asamblea de la ONU	LAW
+Anuario de Historia del Derecho Español	LAW
+Acuerdo de la Junta Electoral Central	LAW
+Audiencia Provincial	LAW
+Comunidades Europeas	LAW
+Jurisprudencia Constitucional	LAW
+Codex Canonum Ecclesiarum Orientalum	LAW
+Constitución Española	LAW
+Carta Europea de Autonomía Local	LAW
+Catechismus Ecclesiae Catholicae	LAW
+Comunidad Europea del Carbón y del Acero	LAW
+Convenio de Roma	LAW
+Comunidad Económica Europea	LAW
+Comunidad Europea de la Energía Atómica	LAW
+Consejo General del Poder Judicial	LAW
+Codex Iuris Canonici	LAW
+Convención Marco	LAW
+Convenio de Roma	LAW
+Convención de Viena	LAW
+Dignitas Connubii	LAW
+Dirección General de los Registros y del Notariado	LAW
+Dignitatis Humanae	LAW
+Diario O?cial de las Comunidades Europeas	LAW
+Diario O?cial de la Unión Europea	LAW
+Diario de Sesiones del Senado	LAW
+Declaración Universal de Derechos Humanos	LAW
+Fundamento Jurídico	LAW
+Ley de Régimen Jurídico del Sector Público	LAW
+Ley de Seguridad Aérea	LAW
+Oficina Española de Patentes y Marcas	LAW
+Orden Ministerial	LAW
+Partidas	LAW
+Plan General de Contabilidad	LAW
+Poder Judicial	LAW
+Revista de Aeronáutica y Astronáutica	LAW
+Ministerio del Aire	LAW
+Ley de Auditoría de Cuentas	LAW
+Ley de Expropiación Forzosa	LAW
+Registro Mercantil	LAW
+Reglamento de Planeamiento	LAW
+Servicio de Compensación y Liquidación de Valores	LAW
+Sociedad Comanditaria	LAW
+Sociedad Anónima Europea	LAW
+Sociedad de Responsabilidad Limitada	LAW
+Ley de Aguas	LAW
+Ley de Contratos de las Administraciones Públicas	LAW
+Ley del Catastro Inmobiliario	LAW
+Ley de Contratos del Sector Público	LAW
+Ley General de derechos de las personas con discapacidad y de su inclusión social	LAW
+Ley Reguladora de las Haciendas Locales	LAW
+Ley del Impuesto sobre Sociedades	LAW
+Ley de Puertos del Estado y de la Marina Mercante	LAW
+Ley del Suelo	LAW
+Ley de Sociedades Anónimas	LAW
+Vidal Mayor	LAW
+Asuntos Exteriores y Cooperación	Ministeries
+Justícia	Ministeries
+Defensa	Ministeries
+Hacienda	Ministeries
+Interior	Ministeries
+Fomento	Ministeries
+Educación, Cultura y Deportes	Ministeries
+Empleo	Ministeries
+Industria, Energía y Turismo	Ministeries
+Agricultura, Alimentación y Medio Ambiente	Ministeries
+Economy and Competitivity	Ministeries
+Sanidad, Servicios Sociales e Igualdad	Ministeries
+Asuntos Exteriores y Cooperación	Ministeries
+Justícia	Ministeries
+Defensa	Ministeries
+Hacienda	Ministeries
+Interior	Ministeries
+Fomento	Ministeries
+Educación, Cultura y Deportes	Ministeries
+Empleo	Ministeries
+Industria, Energía y Turismo	Ministeries
+Agricultura, Alimentación y Medio Ambiente	Ministeries
+Economy and Competitivity	Ministeries
+Sanidad, Servicios Sociales e Igualdad	Ministeries
+Demandante	Detection_words
+Acusado	Detection_words	ORG
+Acusada	Detection_words	ORG
+Abogada	Detection_words	ORG
+Abogado	Detection_words	ORG
+Juez	Detection_words	ORG
+Policía	Detection_words	ORG
+Jurado	Detection_words	ORG
+juzgado	Detection_words	ORG
+Tribunal	Detection_words	ORG
+Palacio de justicia	Detection_words	ORG
+Delito	Detection_words	ORG
+Sala de justicia	Detection_words	ORG
+Crimen	Detection_words	ORG
+Infracción	Detection_words	ORG
+Detener	Detection_words	ORG
+Derecho	Detection_words	ORG
+Arrestar	Detection_words	ORG
+detención	Detection_words	ORG
+Arresto	Detection_words	ORG
+arrest 	Detection_words	ORG
+detention	Detection_words	ORG
+Juicio	Detection_words	ORG
+Pedimento	Detection_words	ORG
+mandato judicial	Detection_words	ORG
+Mandato	Detection_words	ORG
+Afidávit	Detection_words	ORG
+Multa	Detection_words	ORG
+Ley	Detection_words	ORG
+LAW	Detection_words	ORG
+Juramento	Detection_words	ORG
+Investigar	Detection_words	ORG
+Acusar	Detection_words	ORG
+Apelar	Detection_words	ORG
+Absolver	Detection_words	ORG
+Alegar	Detection_words	ORG
+Fianza	Detection_words	ORG
+Prueba	Detection_words	ORG
+Admisible	Detection_words	ORG
+Carga de la prueba	Detection_words	ORG
+proceso judicial	Detection_words	ORG
+pleito	Detection_words	ORG
+acción judicial	Detection_words	ORG
+caso	Detection_words	ORG
+Causa	Detection_words	ORG
+Delictivo	Detection_words	ORG
+Daños y perjuicios	Detection_words	ORG
+Revelar	Detection_words	ORG
+Sobreseer	Detection_words	ORG
+Entrar en vigor	Detection_words	ORG
+Testigo	Detection_words	ORG
+Tribunales	Detection_words	ORG
+Hecho	Detection_words	ORG
+expediente	Detection_words	ORG
+Archivo	Detection_words	ORG
+sentencia	Detection_words	ORG
+decisión	Detection_words	ORG
+fallo	Detection_words	ORG
+Determinación	Detection_words	ORG
+Aconsejar	Detection_words	ORG
+Almería	CITIES	LUG
+Almería	CITIES	LUG
+Cádiz	CITIES	LUG
+Algeciras	CITIES	LUG
+Arcos de la Frontera	CITIES	LUG
+Cádiz	CITIES	LUG
+Chiclana de la Frontera	CITIES	LUG
+El Puerto de Santa María	CITIES	LUG
+Jerez de la Frontera	CITIES	LUG
+La Línea	CITIES	LUG
+Puerto Real	CITIES	LUG
+San Fernando	CITIES	LUG
+Sanlúcar de Barrameda	CITIES	LUG
+Córdoba	CITIES	LUG
+Bujalance	CITIES	LUG
+Cabra	CITIES	LUG
+Córdoba	CITIES	LUG
+Lucena	CITIES	LUG
+Montilla	CITIES	LUG
+Peñarroya-Pueblonuevo	CITIES	LUG
+Priego de Córdoba	CITIES	LUG
+Puente-Genil	CITIES	LUG
+Granada	CITIES	LUG
+Andújar	CITIES	LUG
+Baza	CITIES	LUG
+Granada	CITIES	LUG
+Guadix	CITIES	LUG
+Motril	CITIES	LUG
+Huelva	CITIES	LUG
+Huelva	CITIES	LUG
+Jaén	CITIES	LUG
+Jaén	CITIES	LUG
+Linares	CITIES	LUG
+Martos	CITIES	LUG
+Úbeda	CITIES	LUG
+Málaga	CITIES	LUG
+Antequera	CITIES	LUG
+Coín	CITIES	LUG
+Málaga	CITIES	LUG
+Melilla	CITIES	LUG
+Ronda	CITIES	LUG
+Sevilla	CITIES	LUG
+Alcalá de Guadaira	CITIES	LUG
+Carmona	CITIES	LUG
+Dos Hermanas	CITIES	LUG
+Ecija	CITIES	LUG
+Lebrija	CITIES	LUG
+Lora del Río	CITIES	LUG
+Marchena	CITIES	LUG
+Morón de la Frontera	CITIES	LUG
+Osuna	CITIES	LUG
+Sevilla	CITIES	LUG
+Utrera	CITIES	LUG
+Aragon	CITIES	LUG
+Huesca	CITIES	LUG
+Huesca	CITIES	LUG
+Jaca	CITIES	LUG
+Teruel	CITIES	LUG
+Teruel	CITIES	LUG
+Zaragoza	CITIES	LUG
+Zaragoza	CITIES	LUG
+Asturias	CITIES	LUG
+Avilés	CITIES	LUG
+Cabañaquinta	CITIES	LUG
+Cangas de Narcea	CITIES	LUG
+Covadonga	CITIES	LUG
+Gijón	CITIES	LUG
+Luarca	CITIES	LUG
+Mieres	CITIES	LUG
+Oviedo	CITIES	LUG
+Pola de Siero	CITIES	LUG
+San Martín del Rey Aurelio	CITIES	LUG
+Tineo	CITIES	LUG
+Villaviciosa	CITIES	LUG
+Balearic Islands	CITIES	LUG
+Palma	CITIES	LUG
+Maó	CITIES	LUG
+Basque Country	CITIES	LUG
+Álava	CITIES	LUG
+Vitoria-Gasteiz	CITIES	LUG
+Guipúzcoa	CITIES	LUG
+Donostia–San Sebastián	CITIES	LUG
+Eibar	CITIES	LUG
+Irun	CITIES	LUG
+Vizcaya	CITIES	LUG
+Barakaldo	CITIES	LUG
+Bilbao	CITIES	LUG
+Getxo	CITIES	LUG
+Guernica	CITIES	LUG
+Portugalete	CITIES	LUG
+Santurtzi	CITIES	LUG
+Sestao	CITIES	LUG
+Canary Islands	CITIES	LUG
+Las Palmas	CITIES	LUG
+Arucas	CITIES	LUG
+Las Palmas	CITIES	LUG
+Telde	CITIES	LUG
+Santa Cruz de Tenerife	CITIES	LUG
+La Orotava	CITIES	LUG
+Santa Cruz de Tenerife	CITIES	LUG
+Cantabria	CITIES	LUG
+Santander	CITIES	LUG
+Torrelavega	CITIES	LUG
+Castile–La Mancha	CITIES	LUG
+Albacete	CITIES	LUG
+Albacete	CITIES	LUG
+Hellín	CITIES	LUG
+Villarrobledo	CITIES	LUG
+Ciudad Real	CITIES	LUG
+Alcázar de San Juan	CITIES	LUG
+Almadén	CITIES	LUG
+Ciudad Real	CITIES	LUG
+Puertollano	CITIES	LUG
+Tomelloso	CITIES	LUG
+Valdepeñas	CITIES	LUG
+Cuenca	CITIES	LUG
+Cuenca	CITIES	LUG
+Guadalajara	CITIES	LUG
+Guadalajara	CITIES	LUG
+Toledo	CITIES	LUG
+Talavera de la Reina	CITIES	LUG
+Toledo	CITIES	LUG
+Castile–León	CITIES	LUG
+Ávila	CITIES	LUG
+Ávila	CITIES	LUG
+Burgos	CITIES	LUG
+Burgos	CITIES	LUG
+Miranda de Ebro	CITIES	LUG
+León	CITIES	LUG
+Astorga	CITIES	LUG
+León	CITIES	LUG
+Ponferrada	CITIES	LUG
+Palencia	CITIES	LUG
+Palencia	CITIES	LUG
+Salamanca	CITIES	LUG
+Ciudad Rodrigo	CITIES	LUG
+Salamanca	CITIES	LUG
+Segovia	CITIES	LUG
+San Ildefonso	CITIES	LUG
+Segovia	CITIES	LUG
+Soria	CITIES	LUG
+Soria	CITIES	LUG
+Valladolid	CITIES	LUG
+Simancas	CITIES	LUG
+Valladolid	CITIES	LUG
+Zamora	CITIES	LUG
+Toro	CITIES	LUG
+Zamora	CITIES	LUG
+Catalonia	CITIES	LUG
+Barcelona	CITIES	LUG
+Badalona	CITIES	LUG
+Barcelona	CITIES	LUG
+Cornellà	CITIES	LUG
+Granollers	CITIES	LUG
+L’Hospitalet de Llobregat	CITIES	LUG
+Manresa	CITIES	LUG
+Mataró	CITIES	LUG
+Reus	CITIES	LUG
+Sabadell	CITIES	LUG
+Santa Coloma de Gramenet	CITIES	LUG
+Terrassa	CITIES	LUG
+Vic	CITIES	LUG
+Vilanova i la Geltrú	CITIES	LUG
+Girona	CITIES	LUG
+Girona	CITIES	LUG
+Llívia	CITIES	LUG
+Lleida	CITIES	LUG
+Lleida	CITIES	LUG
+Tarragona	CITIES	LUG
+Tarragona	CITIES	LUG
+Tortosa	CITIES	LUG
+Ceuta	CITIES	LUG
+Extremadura	CITIES	LUG
+Badajoz	CITIES	LUG
+Almendralejo	CITIES	LUG
+Badajoz	CITIES	LUG
+Don Benito	CITIES	LUG
+Mérida	CITIES	LUG
+Villanueva de la Serena	CITIES	LUG
+Cáceres	CITIES	LUG
+Alcántara	CITIES	LUG
+Cáceres	CITIES	LUG
+Guadalupe	CITIES	LUG
+Plasencia	CITIES	LUG
+Trujillo	CITIES	LUG
+Galicia	CITIES	LUG
+A Coruña	CITIES	LUG
+A Coruña	CITIES	LUG
+Carballo	CITIES	LUG
+Ferrol	CITIES	LUG
+Ortigueira	CITIES	LUG
+Ribeira	CITIES	LUG
+Santiago de Compostela	CITIES	LUG
+Lugo	CITIES	LUG
+Lugo	CITIES	LUG
+Mondoñedo	CITIES	LUG
+Monforte de Lemos	CITIES	LUG
+Vilalba	CITIES	LUG
+Ourense	CITIES	LUG
+Ourense	CITIES	LUG
+Vigo	CITIES	LUG
+Vilagarcía de Arousa	CITIES	LUG
+Pontevedra	CITIES	LUG
+Pontevedra	CITIES	LUG
+Madrid	CITIES	LUG
+Alcalá de Henares	CITIES	LUG
+Aranjuez	CITIES	LUG
+El Escorial	CITIES	LUG
+Getafe	CITIES	LUG
+Madrid	CITIES	LUG
+Melilla	CITIES	LUG
+Murcia	CITIES	LUG
+Caravaca	CITIES	LUG
+Cartagena	CITIES	LUG
+Cieza	CITIES	LUG
+Jumilla	CITIES	LUG
+Lorca	CITIES	LUG
+Murcia	CITIES	LUG
+Yecla	CITIES	LUG
+Navarra	CITIES	LUG
+Funes	CITIES	LUG
+Pamplona	CITIES	LUG
+Roncesvalles	CITIES	LUG
+La Rioja	CITIES	LUG
+Calahorra	CITIES	LUG
+Logroño	CITIES	LUG
+Valencia	CITIES	LUG
+Alicante	CITIES	LUG
+Alcoy	CITIES	LUG
+Alicante	CITIES	LUG
+Elche	CITIES	LUG
+Elda	CITIES	LUG
+Orihuela	CITIES	LUG
+Villena	CITIES	LUG
+Castellón	CITIES	LUG
+Castellón de la Plana	CITIES	LUG
+Villarreal	CITIES	LUG
+Valencia	CITIES	LUG
+Alzira	CITIES	LUG
+Gandía	CITIES	LUG
+Requena	CITIES	LUG
+Sagunto	CITIES	LUG
+Sueca	CITIES	LUG
+Torrent	CITIES	LUG
+Valencia	CITIES	LUG

@@ -1,0 +1,31 @@
+Priority 1:
+TRADO
+LEY
+SENTENCIA
+ARTICULO
+DIRECTIVA
+RECURSO
+REGLAMENTO
+DECRETO
+ORDEN
+DICTAMEN
+ABREVIATION
+Act_AgainstJudgment
+Boletins
+Gov_instit_regi
+Geographical_divisions
+LAW
+LAW_Entities
+Regions
+Ministeries
+Detection_words
+CITIES
+
+Priority 2:
+PERS
+ORG
+LUG
+
+Priority 3:
+MISC	
+OTROS

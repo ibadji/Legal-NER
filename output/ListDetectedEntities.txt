@@ -1,11 +1,5 @@
-Articulo
 Organization
-Orden
-Decreto
-Recurso
+Nicknames
 Person
-Reglamento
-LeyOrganica
 Other
 Location
-Resolution

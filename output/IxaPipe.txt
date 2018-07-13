@@ -1,116 +1,744 @@
-I. COMUNIDAD DE MADRID C	MISC	
-Otras Disposiciones Consejería de Educación	MISC	
-Juventud y Deporte 42 ORDEN 1663/2017	MISC	
-11 de mayo	MISC	
-Consejería de Educación	ORG	
-Juventud y Deporte	ORG	
-Orden 2484/2016	MISC	
-29 de julio	MISC	
-Fondo Social Europeo	ORG	
-Programa Operativo de Empleo Juvenil	ORG	
-Iniciativa de Empleo Juvenil	ORG	
-YEI	ORG	
-de29dejulio	MISC	
-Fondo Social Europeo	ORG	
-Programa Operativo de Empleo Juvenil	ORG	
-Iniciativa de Empleo Juvenil	ORG	
-YEI	ORG	
-día 10 de agosto de 2016	MISC	
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID	MISC	
-1 de octubre de 2016	MISC	
-Ley 39/2015	MISC	
-1 de octubre	MISC	
-Procedimiento Administrativo Común	ORG	
-Administraciones Públicas	ORG	
-Boletín Oficial del Estado	MISC	
-2 de octubre de 2015	MISC	
-miércoles 2 de noviembre de 2016	MISC	
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID	MISC	
-Acuerdo de 31 de octubre de 2016	MISC	
-Consejo de Gobierno	ORG	
-Administración	ORG	
-Comunidad de Madrid	LOC	
-Deacuerdoconlasatribucionesconferidasporelartículo41.d	MISC	
-delaLey1/1983	MISC	
-de13	MISC	
-6.4	MISC	
-Ley 2/1995	MISC	
-8 de marzo	MISC	
-Subvenciones de la Comunidad de Madrid	ORG	
-Consejería de Educación	ORG	
-Juventud	ORG	
-Deporte	ORG	
-Proyecto de Orden	MISC	
-Envirtuddeloanterior	ORG	
-DISPONGO Artículo Único Modificación	MISC	
-Orden 2484/2016	MISC	
-29 de julio	MISC	
-Fondo Social Europeo	ORG	
-Programa Operativo de Empleo Juvenil	ORG	
-Iniciativa de Empleo Juvenil	ORG	
-YEI	ORG	
-LaOrden2484/2016	MISC	
-de29dejulio	MISC	
-Fondo Social Europeo	ORG	
-Programa Operativo de Empleo Juvenil	ORG	
-Iniciativa de Empleo Juvenil	ORG	
-YEI	ORG	
-2	MISC	
-7	MISC	
-7.2	MISC	
-Consejería de Educación	ORG	
-Juventud	ORG	
-Deporte	ORG	
-Dirección General	PER	
-http://www.madrimasd.org	LOC	
-Madrid Ciencia	LOC	
-Tecnología	LOC	
-Convocatorias	MISC	
-Portal de Administración Electrónica	LOC	
-Comunidad de Madrid	LOC	
-http://www.madrid.org	LOC	
-Consejería de Educación	ORG	
-Juventud	ORG	
-Deporte	ORG	
-Dirección General	PER	
-http://www.madrimasd.org	LOC	
-Madrid Ciencia	LOC	
-Tecnología	LOC	
-Convocatorias	MISC	
-Registro Telemático de la Consejería de Educación	MISC	
-Juventud y Depor VIERNES 2 DE JUNIO DE 2017Pág	MISC	
-284 B.O.C.M. Núm	MISC	
-130	MISC	
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L. : M. 19.462-1983 ISSN 1989-4791 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM	MISC	
-Ley 39/2015	MISC	
-1 de octubre	MISC	
-Procedimiento Administrativo Común	ORG	
-Administraciones Públicas	ORG	
-DNI	MISC	
-Certificados ElectrónicosreconocidosporlaComunidaddeMadridquepodránobtenerseatravésdelamisma	ORG	
-Internet	MISC	
-Lista de confianza	MISC	
-TSL	ORG	
-España	LOC	
-Ministerio de Industria , Energía y Turismo	ORG	
-Administración	ORG	
-Aportación de Documentos	MISC	
-Portal de Administración Electrónica de www.madrid.org	LOC	
+Todav	ORG	
+Jornada	MISC	
+Ley 13/2015	MISC	
+@GeomaticaUPV#Ley132015	MISC	
+7Jun18M	MISC	
+Ley Mordaza	MISC	
+Sanidad	ORG	
+DGT	ORG	
+CV	ORG	
+Garbi	PER	
+Mar	ORG	
+Sharapova	PER	
+Par	ORG	
+Garbi	PER	
+Mar	LOC	
+1-O	ORG	
+TC	ORG	
+http://bit.ly/2JtAYbt	MISC	
+La Correcci	LOC	
+Pol	MISC	
+Ley Donde	MISC	
+Ley Mordaza PLATA DE LEY	MISC	
+Beneficencia http://www.cultoro.es/actualidad/2018/6/6/los-hombres-de-plata-para-la-beneficencia-30463.html??@UNPBEpic.twitter.com/Ltj3Gy735y Ley de accesibilidad	MISC	
+Asociaci	ORG	
+Internautas	ORG	
+Gobierno	ORG	
+12001796	MISC	
+102.html	MISC	
+canyas/status/1004253994561269760	MISC	
+D	MISC	
+Libro	MISC	
+Feria del Libro	MISC	
+Ley	MISC	
+10 %	MISC	
+Ley de la lectura	MISC	
+5 Hoy	MISC	
+DOCM	ORG	
+Red	MISC	
+Red	MISC	
+Ley 3/2018 de Protecci ? n y Apoyo Garantizado	MISC	
+Castilla La Mancha	LOC	
+Emoji	LOC	
+2018/06/06/pdf/2018	MISC	
+6728.pdf	MISC	
+Jornada	MISC	
+Nueva Ley de Contratos del Sector P	MISC	
+@FEACEM CLM	MISC	
+Emoji : Octagonal sign >	MISC	
+Emoji	PER	
+Octagonal sign	MISC	
+pic.twitter.com/NeVze8vXeo Otra proposici ?	MISC	
 1	MISC	
-8	MISC	
-8.1	MISC	
+//twitter.com/Spainsif/status/1004035570815983616	MISC	
+As	PER	
+Smooth Criminal	ORG	
+Emoji : Down	MISC	
+http://dozz.es/luii57	MISC	
+Esta	PER	
+Carmen Calvo	PER	
+Ministerio de Igualdad	ORG	
+La velocidad de nuestra #tecnolog	MISC	
+Emoji : Face screaming in fear	MISC	
+Moore	PER	
+Carmen Calvo	PER	
+Gobierno	ORG	
+Ley de Igualdad Salarial	MISC	
+Ley	MISC	
+Igualdad de Trato entre Hombres y Mujeres	ORG	
+Laboral http://bit.ly/2LncsGc	MISC	
+Emoji : Flag of United Kingdom	MISC	
+Emoji : Flag of Spain	MISC	
+Acuerdos de Par	MISC	
+#UkSpain2030	MISC	
+PACMA	ORG	
+Ley Cero	MISC	
+Pode @Twitter	MISC	
+@OlayoAlmudena1	MISC	
+@5palabras5	MISC	
+Mecenazgo Cultural	ORG	
+Ley Aillagon	MISC	
+@xcervantes1	MISC	
+Barcelona	LOC	
+Rivera	PER	
+Belin	PER	
+GS	ORG	
+V ? DEO	MISC	
+Antitabaco	MISC	
+http://atres.red/2ovbg1	MISC	
+Rivera/status/1003981738320769024	MISC	
+Jos	ORG	
+martes	MISC	
+Madrid	LOC	
+http://www.cultoro.es/actualidad/2018/6/5/las-cuadrillas-para-el-festejo-de-jose-escolar-este-martes-en-madrid-30436.html??@UNPBEpic.twitter.com/itF2t86kBV L	MISC	
+A	MISC	
+//www.facebook.com/LCEGATUS/posts/402704983576800	MISC	
+Ley	MISC	
+pic.twitter.com/4tfH5kzHEk	MISC	
+Ley Mordaza	MISC	
+1	MISC	
+PP	ORG	
 Presidente	PER	
-Subdirección General	ORG	
-Dirección General	ORG	
-Secretario	MISC	
+//twitter.com/DebatAlRojoVivo/status/1003950402591748096	MISC	
+Ley Mordaza	MISC	
+1	MISC	
+Nueva Ley Hipotecaria	MISC	
+_	MISC	
+Tfno de SPAM	MISC	
+876 096 121	MISC	
+Emoji : Unamused face	MISC	
+/status/1003717376725090305	MISC	
+Que @EstadoCharnego	MISC	
+Sala III	MISC	
+Ley Sinde	MISC	
+RTVE	ORG	
+TV3	LOC	
+ley	MISC	
+Nicolo Maquiavelo	PER	
+EEUU	LOC	
+Gobernador de Misuri	PER	
+@joantapia00	MISC	
+25 %	MISC	
+Colegio de Logopedas	ORG	
+Ejecutivo	ORG	
+Consejo Consultivo	ORG	
+Colegio de Logopedas.	ORG	
+//twitter.com/PresiCan/status/1003613505466060801	MISC	
+Ley	MISC	
+Consejo de Control de la #CadenaAlimentaria	ORG	
+Lunes 04 de Mayo	MISC	
+White	PER	
+Emoji : White medium small square	MISC	
+Proyecto de Ley de Patrimonio Cultural	MISC	
+Emoji : White medium small square	MISC	
+Modificaci ? n del Reglamento del Servicio del Taxi	MISC	
+Emoji : White medium small square	MISC	
+34	MISC	
+Artesan	LOC	
+Canarias https : //twitter.com/PresiCan/status/1003656448600141824	LOC	
+04 de Mayo	MISC	
+Patrimonio	MISC	
+//twitter.com/rdavmam/status/1003644205703614464	MISC	
+Mecenazgo Cultural	ORG	
+Ley Aillagon	MISC	
+Ley Mordaza	MISC	
+Ley Mordaza	MISC	
+1	MISC	
+Ley Mordaza	MISC	
+Ley Mordaza	MISC	
+1	MISC	
+Congreso	ORG	
+Ley Mordaza	MISC	
+Senado	ORG	
+V ? DEO	MISC	
+Ley mordaza	MISC	
+RTVE	ORG	
+Pedro S	PER	
+http://atres.red/igmut3	MISC	
+Mariano Rajoy	PER	
+Emoji : Large red circle	MISC	
+//twitter.com/MediterraneoDGT/status/1003603871749505024	MISC	
+Catalu	PER	
+//twitter.com/mananascuatro/status/1003602901959311360	MISC	
+Manuel Vilas	PER	
+Ley Ordesa	MISC	
+Jos	ORG	
+Luis Ib	PER	
+Salas	PER	
+Mecenazgo Cultural	ORG	
+Ley Aillagon	MISC	
+@josepmassot@xcervantes1	MISC	
+http://owl.li/ewS630kk10o	MISC	
+Arag	LOC	
+BOE	MISC	
+TC	ORG	
+Arag	ORG	
+Cifuentes	PER	
+Colau	PER	
+Sr.	PER	
+Abogac	LOC	
+Estado	ORG	
+TC	ORG	
+diciembre de 2011	MISC	
+Ley de la Ciencia	MISC	
+Ministerio de Ciencia e Innovaci	ORG	
+Ley de Hanlon	MISC	
+PP	ORG	
+Cs < Emoji	ORG	
+Grinning face	MISC	
+Emoji : Grinning face > Mecenazgo Cultural	MISC	
+Ley Aillagon	MISC	
+@carlessala1	MISC	
+Iglesias	PER	
+Van	MISC	
+LEY MORDAZA	MISC	
+Europa	LOC	
+//es.gizmodo.com/algunos-sites-de-ee-uu-prohibiran-el-acceso-desde-euro-1826166395	MISC	
+Damocles	MISC	
+Rajoy	PER	
+Proyecto de Ley de Secretos Empresariales	MISC	
+1	MISC	
+3	MISC	
+Ley de Murphy	MISC	
+Ley mordaza	MISC	
+http://ver.20m.es/i31vb1?|Por@Nepomukiepic.twitter.com/EHbkZ5slA1 Las #prostitutas de ?	MISC	
+http://ver.20m.es/aptan2	MISC	
+Ley Electoral	MISC	
+TW	ORG	
+CC	ORG	
+V ? DEO	MISC	
+LGTBI	ORG	
+Madrid	LOC	
+http://atres.red/kwml11	MISC	
+@cmsg67	MISC	
+TC	ORG	
+21	MISC	
+@javier379880231	MISC	
+TC	ORG	
+Sr.	PER	
+21	MISC	
+Facebook	ORG	
+1.520	MISC	
+Europa	LOC	
+1565573	MISC	
+Eur	ORG	
+http://ver.20m.es/aptan1	MISC	
+LEY	MISC	
+Miura	PER	
+Madrid	LOC	
+http://www.cultoro.es/actualidad/2018/6/3/las-cuadrillas-para-la-de-miura-en-madrid-30392.html??@UNPBEpic.twitter.com/2K8ZIszQBR @PPopular	MISC	
+Ley de Dependencia	MISC	
+Sui V	MISC	
+DEO	MISC	
+Luis Montes	PER	
+http://atres.red/sigjc4	MISC	
+@pp	MISC	
+Espa	ORG	
+CE	ORG	
+@5s6s1	MISC	
+Ley	MISC	
+Tribunal Supremo	ORG	
+Ley	MISC	
+Proyecto de ley de electricidad de Miner	MISC	
+Bitcoin	PER	
+pic.twitter.com/1VSdP5lD6A	MISC	
+Sanidad de abril 2012	MISC	
+ABASCAL @euzk1895 @eva2712	MISC	
+ABASCAL @euzk1895 @eva2712	MISC	
+Ley de pluriling	MISC	
+2018	MISC	
+2019	MISC	
+LEY 4/2018	MISC	
+Emoji : Winking face	MISC	
+Ley Mordaza	MISC	
+Ley sanitaria de 2012	MISC	
+Espa	ORG	
+Gobierno	ORG	
+Emoji : Hatching chick > < Emoji : Baby chick >	MISC	
+Emoji : Front-facing baby chick > Y la ley del Suelo	MISC	
+Becas	ORG	
+Salario m	MISC	
+Reforma	MISC	
+Ley Mordaza	MISC	
+@protestona1	ORG	
+ORDEN	ORG	
+Protestona	PER	
+Emoji : Rolling on the floor laughing	MISC	
+Emoji : Rolling on the floor laughing	MISC	
+Emoji : Rolling on the floor laughing	MISC	
+Emoji : Rolling on the floor laughing	MISC	
+Emoji : Rolling @jazarzalejos @Albert _ Rivera Otra cosa m	MISC	
+As	PER	
+Smooth Criminal	ORG	
+Emoji : Down	MISC	
+http://dozz.es/luii56	MISC	
+Hola Marvin	MISC	
+Emoji : Face screaming in fear	MISC	
+Moore	PER	
+Madrid	LOC	
+3 %	MISC	
+Emoji : White heavy check mark	MISC	
+#1persona1voto	MISC	
+Emoji : Ballot box with ballot	MISC	
+pic.twitter.com/wb6ZbO6ax2 @jordievole @RaDaMo82 @giurgio85 Ley electoral	MISC	
+Emoji : Smiling face with halo	MISC	
+< Emoji : Smiling face with halo	MISC	
+< Emoji : Smiling face with halo	MISC	
+Emoji : Smiling face with halo	MISC	
+Nueva ley educativa	MISC	
+As	PER	
+Pedro S	PER	
+As	PER	
+Pedro S	PER	
+//twitter.com/PanfletoMetro/status/1002646259604353026	MISC	
+Ley de Vivienda de Baleares	MISC	
+http://www.elmundo.es/baleares/2018/05/29/5b0d6cd6268e3e5f5f8b4578.html	MISC	
+@Alvarito793	MISC	
+As	PER	
+Smooth Criminal	ORG	
+Emoji : Down	MISC	
+http://dozz.es/luii55	MISC	
+BOE	MISC	
+lunes	MISC	
+Ley Mordaza	MISC	
+Derigaci	MISC	
+Fin Art.155	MISC	
+Rep	LOC	
+Federal	MISC	
+Nueva Ley de Violencia de G	MISC	
+PNV	ORG	
+@24h	MISC	
+Iglesias	PER	
+@Miotroyo2parte Como	ORG	
+Ley Electoral	MISC	
+LEY ELECTORAL	MISC	
+Aznar	PER	
+PP	ORG	
+Pacma	PER	
+LEY	MISC	
+PP	ORG	
+PP	ORG	
+11	MISC	
+PP	ORG	
+Aznar	PER	
+LEY ELECTORAL	MISC	
+Rajoy	PER	
+Missota	PER	
+2013	MISC	
+210	MISC	
+http://bit.ly/2H9PXlm	MISC	
+Congreso	ORG	
+ERC	ORG	
+Ley Electoral	MISC	
+Espa	LOC	
+Jajajaja	PER	
+Rivera Ya	PER	
+//twitter.com/expansioncom/status/1002542538308444160 ?? @hermanntertsch @christinalosada @Pulifil @MafaldaVnzl Y sustituir la ley d' Hont	MISC	
+//twitter.com/Irreductible/status/1002483173287256064	MISC	
+Gobierno	ORG	
+Proyecto de Ley de Secretos Empresariales	MISC	
+http://bit.ly/2xh8bC8	ORG	
+Juli	LOC	
+Melgar	PER	
+Ley	MISC	
+Estado	ORG	
+Gobierno	ORG	
+Pedro S	PER	
+OJJ0-M.twitter	MISC	
+Hernando	PER	
+PP	ORG	
+PLATA DE LEY	MISC	
+viernes	MISC	
+Madrid	LOC	
+http://www.cultoro.es/actualidad/2018/6/1/las-cuadrillas-para-la-corrida-de-este-viernes-en-madrid-30332.html??@UNPBEpic.twitter.com/2SDWHfynJ8 @WillyTolerdoo @VitiLeon23	MISC	
+Dharma17 @alfanhui73 Ya	MISC	
+Arturo	PER	
+Espa	ORG	
+Emoji : Face with tears of joy	MISC	
+Emoji : Face with tears of joy	MISC	
+Emoji : Face with tears of joy	MISC	
+Emoji : Face with tears of joy	MISC	
+Emoji : Face with tears of joy	MISC	
+Emoji : Face with tears of joy	MISC	
+Perico	PER	
+Ley de Murphy	MISC	
+Ley Seca	MISC	
+http://www.revistagq.com/la-buena-vida/comer-y-beber/articulos/speakeasies-madrid/29413	MISC	
+Ley	MISC	
+abril de 2012	MISC	
+Despu	LOC	
+11	MISC	
+Transparencia Internacional	ORG	
+@anfaga1955 @LuisLasala1	MISC	
+Mientes Hernando	PER	
+De la Serna	PER	
+Anteproyecto de Ley de Medidas Administrativas	MISC	
+Procesales	MISC	
+357	MISC	
+Ley	MISC	
+Ley Electoral	MISC	
+La DGT	MISC	
+137469,226	MISC	
+Asturias	LOC	
+Emoji : Rolling on the floor laughing	MISC	
+TOTALMENTE PENAL	MISC	
+Ley	MISC	
+Constituci	LOC	
+ESTEBAN	PER	
+Pa	ORG	
+Vasco	ORG	
+Torra	PER	
+Pedro	PER	
+Ohm	LOC	
+2020	MISC	
+TVE	MISC	
+Senado	ORG	
+LA POBLACI	MISC	
+N REDUCE EL CONSUMO A LA MITAD DE GAS Y ELECTRICIDAD	MISC	
+ENERG	ORG	
+ESA	ORG	
+Pablo Iglesias	PER	
+Rivera	PER	
+Rivera	PER	
+Warclimb	MISC	
+Enrich Est	ORG	
+Adem	PER	
+Murcia	LOC	
+46	MISC	
+Espa	LOC	
+5	MISC	
+PSOE	ORG	
+Capit	LOC	
+Am	ORG	
+As	PER	
+Smooth Criminal	ORG	
+Emoji : Down	MISC	
+http://dozz.es/luii54	MISC	
+La Ley Fintech	MISC	
+2017	MISC	
+Rusia	LOC	
+Ley	MISC	
+Constituci	LOC	
+@Cenbecom #TRCompliance18 pic.twitter.com/04oZmX6wdK Parece	MISC	
+Marques de Sade	PER	
+1740-1814	MISC	
+Ley	MISC	
+Catalunya	LOC	
+Espa	LOC	
+Ciudad Ju	MISC	
+268.000	MISC	
+47.300.000	MISC	
+Ley	MISC	
+http://www.cultoro.es/actualidad/2018/5/31/las-cuadrillas-para-la-corrida-de-las-naciones-30301.html??@UNPBEpic.twitter.com/i9pdErmcBD Prof. Dr. Bartosz Makowicz La legislaci	ORG	
+Ley de Comercio Exterior	MISC	
+#TRCompliance18	MISC	
+Louisiana	LOC	
+EEUU	LOC	
+//gaceta.es/civilizacion/los-democratas-de-louisiana-aprueban-la-ley-abortista-mas-restrictiva-de-eeuu-20180531-1137	MISC	
+301.000	MISC	
+PNV	ORG	
+Espa	LOC	
+Y El 155	MISC	
+Espa	ORG	
+Servicios SOCIALES	MISC	
+Est	ORG	
+Ley de Protecci	MISC	
+Datos	ORG	
+//twitter.com/okdiario/status/1002096933077430272	MISC	
+2	MISC	
+PNV	ORG	
+PSOE	ORG	
+/status/1001907685976104960	MISC	
+Garcia	PER	
+G	MISC	
+Ley de Funci	MISC	
+Ley General de Salud P	MISC	
+Garcia	PER	
+G	MISC	
+LOPS	ORG	
+Ley	MISC	
+Emoji : Smiling face with EEUU	MISC	
+Presidente	PER	
+//ift.tt/2H7fuvx	MISC	
+Asistiendo	MISC	
+PNVdependencia	ORG	
+Ley Electoral	MISC	
+280.000	MISC	
+26.000.000 @luis0612catalan Me	MISC	
+Congreso	ORG	
+Vasco	ORG	
+Ley Electoral	ORG	
+La Fede-Aepe	ORG	
+Ley de Carreteras	MISC	
+http://dlvr.it/QVfWf8	MISC	
+FEDE-Aepe	ORG	
+Ley de Carreteras	MISC	
+2015 http://www.programapublicidad.com/la-fede-aepe-denuncia-la-ausencia-desarrollo-reglamentario-la-ley-carreteras-2015	MISC	
+Ley de Memoria Hist	MISC	
+ETA	ORG	
+Baleares	LOC	
+Ley Electoral	MISC	
+No	MISC	
+Joy Gartner	ORG	
+Ley	MISC	
+Emoji	MISC	
+Radio	MISC	
+Emoji : Down	MISC	
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO	ORG	
+Gobierno	ORG	
+Ley del Gobierno	MISC	
+@LucioAnneo1789	MISC	
+155	MISC	
+pic.twitter.com/7ZrPXQJKoF	ORG	
+Rajoy	PER	
+PNV	ORG	
+Gobierno	ORG	
+Gobierno	ORG	
+En verano	MISC	
+11	MISC	
+As	PER	
+Michael Jackson	PER	
+//www.muyinteresante.es/ciencia/articulo/asi-desafiaba-michael-jackson-la-ley-de-gravedad-941527672814	MISC	
+PNV	ORG	
+5	MISC	
+Gobierno de Espa	ORG	
+Ley Electoral	MISC	
+1974	MISC	
+Espa	ORG	
+As	PER	
+Michael Jackson	PER	
+III Jornada	MISC	
+Aplicaci	LOC	
+Ley 13/2015 Aspectos T	MISC	
+Juridicos	PER	
+Taller Pr	ORG	
+GML	MISC	
+Camila	PER	
+Marques de Sade	PER	
+Rosal	PER	
+Iglesias	PER	
+pic.twitter.com/0dZEnVqQs9	MISC	
+@Alberto33179040 Ojal	MISC	
+Congreso	ORG	
+Electoral	MISC	
+Espa	ORG	
+As	PER	
+Smooth Criminal	ORG	
+Emoji : Down	MISC	
+http://dozz.es/luii53	MISC	
+As	PER	
+Smooth Criminal	ORG	
+Emoji : Down	MISC	
+http://dozz.es/luii52	MISC	
+CGPJ	ORG	
+15	MISC	
+@mariocarrera77	MISC	
+Desktop	ORG	
+Ley 13/2015 https	MISC	
+//twitter.com/citopiccv/status/1001785767000203264	MISC	
+Madrid	LOC	
+http://www.cultoro.es/actualidad/2018/5/30/los-hombres-de-plata-para-este-miercoles-en-madrid-30277.html??@UNPBEpic.twitter.com/NcPa0KW1rW Baldov	MISC	
+Ley de financiaci	MISC	
+//twitter.com/compromis/status/1001779251341905926	MISC	
+Rosalia	PER	
+Iglesias	PER	
+LIBERTAD DE EXPRESI	MISC	
+N	MISC	
+//www.facebook.com/manuel.ponte/posts/10216755702066151	MISC	
+Catalu	LOC	
+//twitter.com/EspejoPublico/status/1001724183447945216	MISC	
+Gurtel	ORG	
+RGPD	ORG	
+WordPress	ORG	
+Murphy	PER	
+Emoji : Face vomiting > < Emoji : Face vomiting > Un total de 200 m	MISC	
+Ley de Espect	MISC	
+Galicia	LOC	
+http://bit.ly/2kAc5ge	MISC	
+Ley de Murphy	MISC	
+.#tierradenadie11 Las mentiras de #Cospedal.Suponiendo	MISC	
+Estado	ORG	
+Adem	PER	
+Mariano	PER	
+25/1527625347	MISC	
+603569.html	MISC	
+@republicano1945 Vergonzoso	MISC	
+ANC	ORG	
+Poder Judicial ?	ORG	
+ANC	ORG	
+Ley	MISC	
+FASCISMO	MISC	
+La Ley Mordaza	MISC	
+New Jersey	MISC	
+Emoji : Face screaming in fear	MISC	
+Moore	PER	
+Poder	ORG	
+Diosa	ORG	
+PP	ORG	
+Catalu	LOC	
+Quer	PER	
+POR UN HOMBRE Y COMPA	MISC	
+Secretos Empresariales	ORG	
+Taxistas	ORG	
+M	MISC	
+Uber	PER	
+Emoji : Face screaming in fear	MISC	
+Moore	PER	
+ETA	ORG	
+Ley	MISC	
+Rajoy	PER	
 4	MISC	
-9	MISC	
-9.4	MISC	
-LapresenteOrdenentraráenvigoreldíasiguientealdesupublicaciónenelBOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID	MISC	
-Madrid	ORG	
-11 de mayo de 2017	MISC	
-Consejero de Educación	ORG	
-Juventud	ORG	
-Deporte	ORG	
-RAFAEL VAN GRIEKEN SALVADOR	PER	
-03/17.458/17	MISC	
+Ley de @emilcar @Caillouna404	MISC	
+Marques de Sade	PER	
+1740-1814	MISC	
+Estados Unidos	ORG	
+Europa	LOC	
+//www.libertaddigital.com/ciencia-tecnologia/internet/2018-05-29/medios-digitales-de-estados-unidos-cierran-sus-puertas-a-europa-por-la-ley-de-cookies-1276619551	MISC	
+Jornada	MISC	
+Oportunidades de la Ley de Contratos del Sector P	MISC	
+http://www.creex.es/3.X/plan-de-empleo-de-extremadura/plan-de-empleo-de-extremadura-2018/4441-inscribete-en-la-jornada-oportunidades-de-la-ley-de-contratos-del-sector-publico-para-las-empresas-y-el-empleo-2?utm_source=dlvr.it	MISC	
+22	MISC	
+San Isidro	LOC	
+Madrid	LOC	
+http://www.cultoro.es/actualidad/2018/5/29/las-cuadrillas-para-la-22-de-san-isidro-hoy-en-madrid-30248.html???@UNPBEPLATADELEY-Lascuadrillasparala22?deSanIsidrohoyenMadridhttp://www.cultoro.es/actualidad/2018/5/29/las-cuadrillas-para-la-22-de-san-isidro-hoy-en-madrid-30248.html??pic.twitter.com/griAS3vQZP	PER	
+Lorca	PER	
+Ley Mordaza	MISC	
+EL ESPA	MISC	
+//goo.gl/Gm31rK	MISC	
+Est	ORG	
+Circo Gottani	LOC	
+Ley	MISC	
+PACMA	ORG	
+Joey G	MISC	
+Circo Gottani	MISC	
+Ley.No	ORG	
+Ley de Godwin	MISC	
+Holocausto	MISC	
+Godwin ?? @CarlosGamarraU	MISC	
+@martaprades66	MISC	
+Agrupaci	ORG	
+Ferrocarriles Hist	ORG	
+http://www.elcomercio.es/gijon/agrupacion-ferrocarriles-historicos-20180529001128-ntvo.html??v?a@elcomerciodigitpic.twitter.com/S8M4N19E3L Si Cospedal	ORG	
+UE	ORG	
+David Bittan	PER	
+Ley Mordaza	MISC	
+IV	MISC	
+Ley Org	MISC	
+4/2015	MISC	
+Seguridad Ciudadana	ORG	
+Comunidad de Madrid	ORG	
+Ley del Suelo	MISC	
+http://ow.ly/BhOd30kdd17	MISC	
+Google	ORG	
+WhatsApp	ORG	
+Facebook	ORG	
+43f14925	MISC	
+La Ley de Presupuestos	MISC	
+Rajoy	PER	
+Ley Mordaza	MISC	
+Lorca	PER	
+Ley Mordaza	MISC	
+//www.elespanol.com/cultura/20180528/lorca-libre-ley-mordaza/310719708	MISC	
+0.html	MISC	
+RGPD	ORG	
+WordPress	ORG	
+Ma	PER	
+Ley Seca	MISC	
+RCN	MISC	
+Postob	MISC	
+Win Sports	PER	
+Antioque	PER	
+Caracol	ORG	
+Maluma	ORG	
+Dang	PER	
+Miss	LOC	
+8 horas	MISC	
+7	MISC	
+6	MISC	
+@polibueno691	MISC	
+Estado	ORG	
+Ley de Seguridad Ciudadana	MISC	
+PP	ORG	
+Gurtel	ORG	
+DEO	MISC	
+Salve	MISC	
+Evaristo	PER	
+http://atres.red/bwzk79	MISC	
+//twitter.com/japtapias/status/1001125391967416321	MISC	
+Ley de Contratos	MISC	
+Sector P	MISC	
+1176956#.WwxQZp-RWBc.twitter	MISC	
+DEO	MISC	
+Espa	ORG	
+http://atres.red/lgssl8	MISC	
+Leyes Eternas	ORG	
+BBC	ORG	
+41	MISC	
+Ley	MISC	
+Ley de la Gravedad	MISC	
+qNNa0BByupU	MISC	
+Estado	ORG	
+Constituci	ORG	
+La Ley Mordaza	MISC	
+4/2015	MISC	
+Ley Org	MISC	
+Congreso	ORG	
+81.2 CE.	MISC	
+Comisi	LOC	
+Directiva	MISC	
+Comisi	LOC	
+Europea	PER	
+97229	MISC	
+5	MISC	
+Buen lunes	MISC	
+La Ley	ORG	
+110b48emcrkt0	MISC	
+ABASCAL	MISC	
+PLATA DE LEY	MISC	
+Partido de Resina http://www.cultoro.es/actualidad/2018/5/28/las-cuadrillas-para-la-de-partido-de-resina-30226.html??@UNPBEpic.twitter.com/JbqFqgOOuu	ORG	
+La Corona	LOC	
+FSE	ORG	
+Ley Sinde	PER	
+PSOE.Autor Ley Mordaza	ORG	
+PP.Tengan	ORG	
+Ley Sinde	PER	
+Ley Mordaza	MISC	
+Ley Sinde	PER	
+Ley Mordaza	MISC	
+Ley Sinde	MISC	
+Ley Mordaza	MISC	
+Ley Sinde	MISC	
+Ley Mordaza	MISC	
+Google	ORG	
+WhatsApp	ORG	
+Facebook	ORG	
+43f14925	MISC	
+Vienes 8-06-2018	MISC	
+Representaci	PER	
+Gr	MISC	
+Alternativa	MISC	
+#RGA	MISC	
+Ley 13/2015	MISC	
+Valencia.#TallerGML _ 8Jun18M	MISC	
+CCAA	MISC	
+Espa	ORG	
+La Ley de Secretos Empresariales	ORG	
+//goo.gl/3KtcD8	MISC	
+Ley Mordaza	MISC	
+Ley Mordaza	MISC	
+Ley Mordaza	MISC	
+Colombia	ORG	
+Frente Nacional	ORG	
+Gaviria	PER	
+Samper	PER	
+Pastrana	PER	
+Ley 100	MISC	
+Uribe	PER	
+Hemeroteca 7 de julio de 2017	MISC	
+_	MISC	
+Hemeroteca 2 diciembre 2017	MISC	
+viernes	MISC	
+Licencias VTC	ORG	
+//ift.tt/2sf9HQ5	MISC	
+Ley	MISC	
+pic.twitter.com/t41VGIq4Zw	MISC	

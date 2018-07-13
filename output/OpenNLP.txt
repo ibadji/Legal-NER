@@ -1,231 +1,226 @@
-Comunidad de Madrid   :  [238..241) location
-Comunidad de Madrid   :  [375..378) location
-Madrid   :  [771..772) location
-Comunidad de Madrid   :  [787..790) location
-Comunidad de Madrid   :  [1183..1186) location
-Comunidad de Madrid   :  [1200..1203) location
-España   :  [1284..1285) location
-Comunidad de Madrid   :  [1477..1480) location
-Comunidad de Madrid   :  [1507..1510) location
-Comunidad de Madrid   :  [1671..1674) location
-Comunidad de Madrid   :  [1779..1782) location
-Descripción   :  [2237..2238) location
-España   :  [2532..2533) location
-Comunidad de Madrid   :  [2710..2713) location
-Comunidad de Madrid   :  [2891..2894) location
-Comunidad de Madrid   :  [2957..2960) location
-Comunidad de Madrid   :  [4119..4122) location
-Comunidad de Madrid   :  [4180..4183) location
-Comunidad de Madrid   :  [4256..4259) location
-Madrid   :  [4278..4279) location
-Comunidad de Madrid   :  [4399..4402) location
-Comunidad de Madrid   :  [4478..4481) location
-Carácter   :  [4821..4822) location
-Comunidad de   :  [5081..5083) location
-Comunidad de Madrid   :  [5300..5303) location
-Comunidad de   :  [5317..5319) location
-Comunidad de Madrid   :  [6571..6574) location
-Comunidad de Madrid   :  [6782..6785) location
-Comunidad de Madrid   :  [6855..6858) location
-Comunidad de Madrid   :  [6906..6909) location
-Comunidad de Madrid   :  [6944..6947) location
-Comunidad de Madrid   :  [7037..7040) location
-Comunidad de Madrid   :  [7673..7676) location
-Comunidad de Madrid   :  [7791..7794) location
-Comunidad de Madrid   :  [7913..7916) location
-Madrid   :  [7935..7936) location
-Comunidad de Madrid   :  [8019..8022) location
-Grieken Salvador   :  [8031..8033) location
-Artículo   :  [986..987) person
-Ingeniero Técnico   :  [1241..1243) person
-Arquitecto Técnico   :  [1244..1246) person
-Se   :  [2211..2212) person
-Se   :  [2298..2299) person
-Dirección General   :  [2342..2344) person
-Dirección General   :  [2409..2411) person
-Dirección General   :  [3169..3171) person
-Dirección General   :  [3312..3314) person
-Si   :  [3815..3816) person
-Dirección General   :  [4135..4137) person
-Cualquier   :  [4603..4604) person
-Apoyar   :  [4776..4777) person
-Junto   :  [5939..5940) person
-Dirección General   :  [6246..6248) person
-Dirección General   :  [6500..6502) person
-Fondos Estructurales   :  [6714..6716) person
-Dirección General   :  [6899..6901) person
-Dirección General   :  [7383..7385) person
-Rafael van Grieken Salvador   :  [8029..8033) person
-Fondo Social Europeo El Fondo Social   :  [3..9) organization
-ORDEN   :  [13..14) organization
-YEI   :  [62..63) organization
-Fondo Social Europeo   :  [100..103) organization
-YEI   :  [118..119) organization
-Administraciones Públicas   :  [203..205) organization
-Administraciones   :  [328..329) organization
-Gobierno   :  [370..371) organization
-Consejo de Gobierno   :  [396..399) organization
-DISPONGO   :  [416..417) organization
-Fondo Social Europeo El Fondo Social   :  [579..585) organization
-BOCM   :  [592..593) organization
-BOCM   :  [618..619) organization
-Artículo   :  [748..749) organization
-Artículo   :  [814..815) organization
-Requisitos   :  [989..990) organization
-Fondo Social Europeo El Fondo Social   :  [1072..1078) organization
-Ministerio de Empleo y Seguridad Social   :  [1118..1124) organization
-Ministerio de Educación   :  [1303..1306) organization
-Duración   :  [1331..1332) organization
-Pago   :  [1352..1353) organization
-En   :  [1398..1399) organization
-Fondo Social Europeo El Fondo Social   :  [1593..1599) organization
-Comunidad de Madrid   :  [1629..1632) organization
-Fondo Social Europeo   :  [1681..1684) organization
-YEI   :  [1700..1701) organization
-Comunidad de Madrid   :  [1779..1782) organization
-Artículo   :  [1853..1854) organization
-Artículo   :  [1962..1963) organization
-8.1.   :  [1969..1970) organization
-I+D   :  [2065..2066) organization
-2.   :  [2075..2076) organization
-Fondo Social Europeo El Fondo Social   :  [2126..2132) organization
-Actividades   :  [2204..2205) organization
-Interés   :  [2251..2252) organization
-Existencia   :  [2271..2272) organization
-Administraciones Públicas   :  [2466..2468) organization
-Para   :  [2469..2470) organization
-Comunidad de Madrid   :  [2493..2496) organization
-TSL   :  [2528..2529) organization
-Ministerio de Industria   :  [2540..2543) organization
-Energía   :  [2544..2545) organization
-Se   :  [2612..2613) organization
-Fondo Social Europeo El Fondo Social   :  [2654..2660) organization
-Administración Electrónica   :  [2689..2691) organization
-8.4.   :  [2819..2820) organization
-Comunidad de Madrid   :  [2904..2907) organization
-Este   :  [2908..2909) organization
-Fondo Social Europeo El Fondo Social   :  [3252..3258) organization
-Evaluación   :  [3368..3369) organization
-Vocales   :  [3410..3411) organization
-I+D   :  [3466..3467) organization
-2.   :  [3473..3474) organization
-3.   :  [3480..3481) organization
-Actividades   :  [3529..3530) organization
-Interés   :  [3541..3542) organization
-Mecanismos   :  [3553..3554) organization
-Fondo Social Europeo El Fondo Social   :  [3801..3807) organization
-9.5.2   :  [3871..3872) organization
-Orden   :  [4210..4211) organization
-Sala   :  [4267..4268) organization
-Tribunal Superior de Justicia de Madrid   :  [4273..4279) organization
-Fondo Social Europeo El Fondo Social   :  [4376..4382) organization
-Proporcionar   :  [4739..4740) organization
-11.7.3   :  [4774..4775) organization
-Apoyar   :  [4776..4777) organization
-Fondo Social Europeo El Fondo Social   :  [4948..4954) organization
-La   :  [5000..5001) organization
-Fondo Social Europeo   :  [5105..5108) organization
-Fondo Social Europeo   :  [5128..5131) organization
-Centro de I+D   :  [5391..5394) organization
-La   :  [5482..5483) organization
-Fondo Social Europeo El Fondo Social   :  [5505..5511) organization
-A   :  [6056..6057) organization
-Fondo Social Europeo El Fondo Social   :  [6101..6107) organization
-Fondo Social Europeo   :  [6576..6579) organization
-Fondo Social Europeo   :  [6619..6622) organization
-Parlamento Europeo   :  [6651..6653) organization
-Consejo   :  [6655..6656) organization
-Fondo Social Europeo El Fondo Social   :  [6694..6700) organization
-Parlamento Europeo   :  [6797..6799) organization
-Consejo   :  [6801..6802) organization
-Fondo Social Europeo   :  [6823..6826) organization
-Fondo Social   :  [6888..6890) organization
-Fondo Social Europeo   :  [6957..6960) organization
-Parlamento Europeo   :  [7014..7016) organization
-Consejo   :  [7018..7019) organization
-Las   :  [7020..7021) organization
-Igualmente   :  [7137..7138) organization
-Parlamento Europeo   :  [7223..7225) organization
-Consejo   :  [7227..7228) organization
-Fondo Social Europeo El Fondo Social   :  [7291..7297) organization
-Parlamento Europeo   :  [7549..7551) organization
-Consejo   :  [7553..7554) organization
-Fondo Social Europeo El Fondo Social   :  [7834..7840) organization
-Sala   :  [7924..7925) organization
-Tribunal Superior de Justicia de Madrid   :  [7930..7936) organization
-Disposición   :  [7954..7955) organization
-Disposición   :  [7997..7998) organization
-artículo 41   :  [357..359) Articulo
-artículo 1   :  [383..385) Articulo
-artículo 23   :  [430..432) Articulo
-artículo 98   :  [1096..1098) Articulo
-artículo . La información así como el procedimiento para darse de alta en el fichero , en el caso de que no estuvieran ya inscritos , se puede encontrar en el siguiente enlace : http ://www.empleo.gob.es/es/garantiajuvenil/accesoJovenes .html b ) Estar empadronados en cualquier localidad de la Comunidad de Madrid en la fecha de publicación de esta convocatoria en el Boletín Oficial de la Comunidad de Madrid . c ) Estar en posesión de la titulación exigida en la fecha de firma del contrato con las instituciones . - Titulación exigida para investigadores predoctorales : Licenciado , Ingeniero , Arquitecto , Diplomado , Graduado , Ingeniero Técnico o Arquitecto Técnico . - Titulación exigida para investigadores postdoctorales : título de Doctor . En el caso de estar en posesión de un título académico extranjero , se deberá disponer de la correspondiente credencial de homologación al título equivalente en España , expedida por el órgano competente para el reconocimiento de títulos y cualificaciones extranjeras de educación en el Ministerio de Educación , Cultura y Deportes . Los documentos acreditativos de estos requisitos se aportarán tal como se indica en el artículo 12.6   :  [1137..1327) Articulo
-artículo 6.1   :  [1434..1436) Articulo
-artículo 10.1   :  [1460..1462) Articulo
-artículo 14.4   :  [1712..1714) Articulo
-artículo 13   :  [2847..2849) Articulo
-artículo 9.5   :  [4092..4094) Articulo
-artículo 6.5   :  [4169..4171) Articulo
-artículo 14   :  [4312..4314) Articulo
-artículo 15.3   :  [4700..4702) Articulo
-artículo 10   :  [4862..4864) Articulo
-artículo y ser presentados al órgano concedente en el plazo anteriormente citado junto a la documentación indicada en el artículo 12.6   :  [5452..5473) Articulo
-artículo 12.6   :  [5977..5979) Articulo
-art . 15.1   :  [6309..6312) Articulo
-artículo 115   :  [6644..6646) Articulo
-artículo 115.2   :  [6729..6731) Articulo
-artículo 140.1   :  [7006..7008) Articulo
-artículo 65   :  [7214..7216) Articulo
-art . 30.4   :  [7528..7531) Articulo
-artículo 65   :  [7540..7542) Articulo
-artículos 14   :  [7660..7662) Articulo
-artículo 37   :  [7680..7682) Articulo
-artículos 14 y   :  [7660..7663) Articulo
-artículo 14.4 . del Reglamento ( UE) 1304/2013 , las ayudas que se concedan a través esta convocatoria adoptarán la forma de baremos estándar de costes unitarios , de cara a su posterior certificación a la Comisión Europea . El coste unitario , tanto para los investigadores predoctorales , como para los investigadores postdoctorales , será el resultante de dividir entre 12 la cantidad aportada por la Comunidad de Madrid en el año de duración del contrato indicada en el punto 6.1 . Este coste unitario servirá de base para el cálculo de la solicitud de reembolso a los Servicios de la Comisión Europea , siempre y cuando la permanencia de la persona contratada sea inferior a un año . En el caso de cumplimiento de la totalidad de la anualidad , se aplicarán las cantidades por año/contrato anteriormente señaladas . Artículo 7. Instrucción del procedimiento . El órgano encargado de la instrucción del procedimiento será la Dirección General de Investigación e Innovación que , de oficio , acordará todas las actuaciones necesarias para la determinación , conocimiento y comprobación de datos en virtud de los cuales debe pronunciarse la resolución . En particular , las actuaciones de instrucción podrán comprender : - Designación de expertos para realizar la evaluación . - Solicitud de los informes de evaluación que se estime necesario . - Resolución de cuantas cuestiones surjan en la aplicación de la presente orden . - Elaboración de las instrucciones que sean precisas para su desarrollo o cumplimiento Artículo 8. Formalización de las solicitudes . 8.1. El organismo solicitante deberá aportar el impreso de solicitud en el que figura el siguiente contenido : a ) Instancia de solicitud . b ) Relación puestos de trabajo para investigadores predoctorales e investigadores postdoctorales propuestos así como de los correspondientes tutores de los futuros contratados . c ) Una memoria de actividades por cada puesto de trabajo ofertado que cumplimentará el tutor en cuyo departamento desarrollará su actividad el contratado y que consistirá en lo siguiente : 1 . Calidad de la propuesta de trabajo . Propuesta , descripción y objetivo de actividades de I+D a realizar por el contratado dentro del departamento . 2. Medios disponibles . Se describirán el contenido , medios y recursos que se disponen en el departamento y en la entidad que sean accesibles al departamento . La autenticidad de este documento se puede comprobar en www.madrid .org/csv mediante el siguiente código seguro de verificación : 1036491688507932959945 5 UNIÓN EUROPEA Fondo Social Europeo El Fondo Social invierte en tu futuro 3. Prolongación del contrato . En caso de que la entidad solicitante proponga extender la contratación del investigador durante un período adicional al que sería objeto de subvención , deberá expresar en la memoria la duración de dicho período adicional , los medios disponibles para hacer frente al mismo , así como las características del plan de actividades y formación previstos para dicho período adicional . 4 . Actividades de formación y capacitación propuestas . Se describirán el contenido , medios y recursos del plan de actividades así como las capacidades y competencias que se prevé que adquieran los contratados . Descripción del plan de formación en el que participará el contratado . 5 . Interés del puesto de trabajo propuesto . Justificación de la necesidad del puesto e impacto en la entidad solicitante . Existencia o no de puestos equivalentes en el departamento/laboratorio . 6 . Evaluación . Se describirán los mecanismos de evaluación y monitorización del progreso del personal . Se incluirá la repercusión que tendrá la actividad en la empleabilidad futura del contratado . 8.2. El impreso de solicitud y la memoria se deberán cumplimentar mediante la aplicación informática disponible en los servidores http ://www.madrid .org ( Consejería de Educación e Investigación , Dirección General competente en materia de investigación , convocatorias de ayudas a la investigación ) y en http ://www.madrimasd .org ( Madrid Ciencia y Tecnología , Convocatorias ) . Los organismos deberán presentar la solicitud de la ayuda a los contratos de manera telemática a través del Registro Electrónico de la Consejería de Educación e Investigación en http ://www.madrid .org ( Consejería de Educación e Investigación , Dirección General competente en materia de investigación , convocatorias de ayudas a la investigación ) o en http ://www.madrimasd .org ( Madrid Ciencia y Tecnología , Convocatorias ) . También podrán utilizar los demás registros electrónicos previstos en el artículo 16.4.a   :  [1712..2450) Articulo
-artículo 14 de la Ley 38/2003 , de 17 de noviembre , General de Subvenciones , los beneficiarios deberán cumplir las siguientes obligaciones : 11.1 . Enviar una declaración de ayudas concurrentes en un plazo de 10 días , contados a La autenticidad de este documento se puede comprobar en www.madrid .org/csv mediante el siguiente código seguro de verificación : 1036491688507932959945 9 UNIÓN EUROPEA Fondo Social Europeo El Fondo Social invierte en tu futuro partir del día siguiente a la publicación en el Boletín Oficial de la Comunidad de Madrid de la Orden de resolución de la convocatoria . En esta declaración se debe exponer el no haber recibido otras ayudas , subvenciones , ingresos o recursos que financien las actividades objeto de ayuda y que pudieran afectar a la compatibilidad de las ayudas contempladas en esta convocatoria . 11.2 . Los beneficiarios dispondrán de un plazo de 5 días , contados a partir del día siguiente a la publicación en el Boletín Oficial de la Comunidad de Madrid de la Orden de resolución de estas ayudas , para publicar en el Portal de Empleo de I+D+i http ://www.madrimasd .org/investigacion-empresas/empleo-idi una convocatoria para seleccionar a los candidatos para cubrir los puestos de trabajo para los cuales haya obtenido financiación . 11.3 . Informar al contratado de la imposibilidad de compatibilizar este empleo con cualquier otro sueldo o salario . 11.4 . Vigilar , con la tutela del tutor propuesto , que el personal contratado desarrolle con aprovechamiento su actividad , ajustándose a las normas de trabajo y disposiciones reglamentarias del centro donde aquél se lleve a cabo . 11.5 . Velar , con la tutela del tutor propuesto , que el contratado permanezca en el centro de aplicación del contrato . Cualquier alteración o incidencia que afecte a las condiciones bajo las cuales se concedió la ayuda , deberá ser comunicada a la Dirección General de Investigación e Innovación , que resolverá sobre las mismas . 11.6 . En el caso de que se plantee la renuncia al contrato , la entidad beneficiaria de la ayuda deberá reintegrar la parte proporcional de dicha ayuda correspondiente al tiempo de contrato no disfrutado por la persona contratada , salvo en los casos regulados en el artículo 14 . La renuncia deberá acompañarse de la documentación que se relaciona en el artículo 15.3 . de esta convocatoria . 11.7. Las obligaciones del beneficiario con el personal a contratar son las siguientes : 11.7.1 . Formalizar un contrato laboral por un año como mínimo , a tiempo completo . 11.7.2 . Proporcionar al contratado , a través del tutor propuesto , el apoyo necesario y facilitarle la utilización de los medios , instrumentos o equipos que resulten precisos para el normal desarrollo de su actividad . 11.7.3 . Apoyar , bajo la supervisión del tutor propuesto , la formación del contratado , facilitando cualquier actividad que sea necesaria para su mejor formación u orientación profesional y de empleo , y con las actividades relacionadas con su puesto de trabajo . Artículo 12 . Carácter y condiciones de disfrute del contrato . 12.1 . Los organismos dispondrán de un plazo de 60 días a contar desde el día siguiente al de la publicación de la resolución de concesión , a la que se refiere el artículo 10 , para formalizar los contratos con los investigadores predoctorales y los investigadores postdoctorales . En casos excepcionales y debidamente acreditados , los organismos podrán solicitar una ampliación de este plazo hasta un máximo de dos meses , contados a partir del día siguiente al del vencimiento del plazo inicial , para firmar el contrato e incorporar a los contratados a sus La autenticidad de este documento se puede comprobar en www.madrid .org/csv mediante el siguiente código seguro de verificación : 1036491688507932959945 10 UNIÓN EUROPEA Fondo Social Europeo El Fondo Social invierte en tu futuro destinos mediante una solicitud previa a la Dirección General de Investigación e Innovación , que decidirá sobre la conveniencia del aplazamiento . 12.2 . El contrato comenzará a computarse desde el momento en que el contratado seleccionado se incorpore al organismo . La incorporación de los contratados se realizará dentro de los 10 días siguientes a la firma del contrato . La fecha concreta de incorporación deberá quedar reflejada en los contratos . 12.3 . Los contratos financiados con cargo a esta convocatoria serán a tiempo completo e incompatibles con la vigencia de cualquier otro contrato laboral por parte del contratado . 12.4. Las ayudas para la realización de contratos objeto de esta Orden no establecerán relación contractual entre el contratado y la Comunidad de Madrid . 12.5 . En los contratos de los investigadores predoctorales e investigadores postdoctorales será de obligado cumplimiento incluir el emblema del Fondo Social Europeo , así como la cláusula de cofinanciación siguiente : “Este contrato está cofinanciado en un 91,89 % , por el Fondo Social Europeo dentro del Programa Operativo de Empleo Juvenil , para el periodo de programación 2014-2020 , así como la Iniciativa de Empleo Juvenil ( YEI)” . 12.6 . Los organismos beneficiarios dispondrán de un plazo de 10 días , a contar desde el día siguiente a la firma del contrato , para remitir a la Dirección General competente en materia de investigación la siguiente documentación de cada una de las personas contratadas : a ) Copia del contrato . b ) Copia del título o de la certificación académica de la titulación correspondiente . c ) Certificado del fichero del Sistema Nacional de Garantía Juvenil que acredite estar inscrito en dicho fichero y estar en situación de beneficiario de las acciones financiadas por el Plan Operativo de Empleo Juvenil en la fecha de la firma del contrato que puede obtener la persona inscrita en su buzón privado de notificaciones en la página web del Sistema Nacional de Garantía Juvenil . d ) Certificado de empadronamiento en cualquier localidad de la Comunidad de Madrid en la fecha de publicación de la convocatoria en el Boletín Oficial de la Comunidad de Madrid . 12.7. El órgano concedente , a la vista de la documentación aportada , revisará el cumplimiento por parte de las personas contratadas de los requisitos establecidos en el artículo 4 en relación con los puestos financiados y notificará a los organismos beneficiarios , la aceptación o denegación , a los efectos de esta convocatoria , de la elegibilidad de las personas contratadas . En el caso de denegación , el Centro de I+D correspondiente dispondrá de 30 días a contar desde el día siguiente al de la notificación para contratar una nueva persona . El contrato denegado no se financiará con cargo a estas ayudas , siendo el organismo el que deberá hacerse cargo económicamente de los términos del mismo . Los nuevos contratos deberán reunir las características dispuestas en este artículo y ser presentados al órgano concedente en el plazo anteriormente citado junto a la documentación indicada en el artículo 12.6 . Artículo 13 . Interrupción de la ayuda . La autenticidad de este documento se puede comprobar en www.madrid .org/csv mediante el siguiente código seguro de verificación : 1036491688507932959945 11 UNIÓN EUROPEA Fondo Social Europeo El Fondo Social invierte en tu futuro 13.1 . Las entidades beneficiarias , en el caso de que en los contratos celebrados al amparo de estas ayudas se produzcan suspensiones por la concurrencia de situaciones de incapacidad temporal por un periodo de , al menos , 3 meses consecutivos , maternidad o paternidad , riesgo durante el embarazo , riesgo durante la lactancia natural de un menor de nueve meses y adopción o acogimiento durante el período de duración del mismo , podrán solicitar la interrupción y prórroga del plazo de ejecución de la ayuda correspondiente al tiempo de la suspensión , adjuntando a su solicitud , en su caso , el contrato o documento justificativo de la prórroga que cubra dicho periodo . 13.2 . La interrupción y prórroga a la que hace referencia el apartado anterior deberá ser autorizada por el órgano concedente , que podrá recabar los informes que considere oportunos y dar lugar a la modificación de los términos de la concesión mediante nueva resolución . 13.3 . Cuando se autorice la interrupción y prórroga , no se considerarán subvencionables los gastos derivados de la contratación en los que pueda incurrir el beneficiario ( retribución y cuota patronal de la Seguridad Social ) durante el periodo de interrupción . La anualidad en la que se produzca la interrupción se verá ampliada por un periodo idéntico al de la duración de la interrupción , a los efectos contemplados en esta actuación . 13.4 . Esta autorización en ningún caso conlleva un aumento en la cuantía de la ayuda concedida inicialmente . Cualquier incremento en el pago de la cuota patronal de la seguridad social como consecuencia del periodo prolongado será por cuenta del centro de adscripción . Artículo 14 . Sustitución del personal contratado . 14.1 . Las entidades beneficiarias , en el caso de que se produzca la extinción anticipada del contrato formalizado , podrán incorporar a una nueva persona . Para que la sustitución sea autorizada se deberán cumplir los siguientes requisitos : a ) Que la extinción se produzca dentro de la primera anualidad de la ayuda . b ) Que la formalización del nuevo contrato e incorporación de la persona se produzca dentro de los 30 días a contar desde el día siguiente al de extinción del contrato . c ) Que la nueva persona cumpla los requisitos correspondientes para acceder al puesto financiado . La solicitud de autorización de la nueva incorporación deberá realizarse en el plazo de 10 días a contar desde el día siguiente al de formalización del nuevo contrato . Junto a dicha solicitud , se deberá adjuntar el contrato formalizado con la nueva persona , documento que justifique la extinción del contrato anterior con indicación de la fecha , así como la documentación correspondiente indicada en el artículo 12.6 . La duración del nuevo contrato deberá ser tal que , junto con la disfrutada por el anterior contratado , abarque el tiempo propuesto . 14.2 . El órgano concedente , a la vista de la documentación aportada , autorizará o denegará la sustitución solicitada , a los efectos de esta convocatoria . 14.3 . Cada puesto financiado solo podrá ser susceptible de sustitución una vez a lo largo del periodo de ejecución de la ayuda . A estos efectos , también se considerará sustitución a las personas contratadas tras una eventual denegación , recogida en el artículo 12.7. La autenticidad de este documento se puede comprobar en www.madrid .org/csv mediante el siguiente código seguro de verificación : 1036491688507932959945 12 UNIÓN EUROPEA Fondo Social Europeo El Fondo Social invierte en tu futuro Artículo 15 . Seguimiento de las ayudas a los contratos . 15.1 . La Dirección General de Investigación e Innovación realizará anualmente un seguimiento del trabajo desarrollado por el contratado . Para ello podrá recabar el asesoramiento de expertos en las materias específicas que se consideren necesarios . Un mes antes de finalizar el primer año de contrato , en su caso , el tutor responsable del contratado deberá remitir , a través de los organismos perceptores de la ayuda , un resumen explicativo de la labor desarrollada por el contratado , así como las tareas a realizar durante el siguiente año de contrato , en caso de prolongarse durante un período adicional . Para ello seguirán los modelos incluidos a tal efecto en http ://www.madrid .org , ( Consejería de Educación e Investigación , Dirección General de Investigación e Innovación , Convocatorias de ayudas a la investigación ) y en http ://www.madrimasd .org ( Madrid Ciencia y Tecnología , Convocatorias ) . Asimismo proporcionarán copia de la vida laboral del periodo trabajado hasta la fecha como garantía de que los contratados no hayan percibido otros salarios . 15.2 . Si como resultado del seguimiento señalado en el art . 15.1 , hubiera una valoración negativa del rendimiento del contratado , previo el correspondiente expediente , que determine el incumplimiento de las condiciones impuestas con motivo de la concesión , de conformidad con lo establecido en el artículo 17.3.n   :  [4312..6350) Articulo
-artículo 41   :  [357..359) Articulo
-artículo 1   :  [383..385) Articulo
-artículo 23   :  [430..432) Articulo
-artículo 98   :  [1096..1098) Articulo
-artículo 13   :  [2847..2849) Articulo
-artículo 14   :  [4312..4314) Articulo
-artículo 10   :  [4862..4864) Articulo
-artículo 115   :  [6644..6646) Articulo
-artículo 65   :  [7214..7216) Articulo
-artículo 65   :  [7540..7542) Articulo
-artículos 14   :  [7660..7662) Articulo
-artículo 37   :  [7680..7682) Articulo
-ORDEN 1669/2018   :  [13..15) Orden
-Orden 2484/2016   :  [67..69) Orden
-Orden 1663/2017   :  [166..168) Orden
-Orden 2484/2016   :  [546..548) Orden
-Orden 1663/2017   :  [607..609) Orden
-Decreto 4/2004   :  [6915..6917) Decreto
-recurso de reposición ante el propio órgano que lo ha dictado , en el plazo de un mes desde el día siguiente al de su publicación en el Boletín Oficial de la Comunidad de Madrid , o directamente el recurso contencioso-administrativo ante la Sala correspondiente de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid , en el plazo de dos meses , sin perjuicio de cuantos otros recursos se estime oportuno deducir . Artículo 11 . Obligaciones del beneficiario . Además de las obligaciones previstas en el artículo 14 de la Ley 38/2003   :  [4224..4318) Recurso
-Reglamento ( UE) 1304/2013   :  [1716..1720) Reglamento
-Reglamento ( UE) 1304/2013   :  [7087..7091) Reglamento
-Reglamento ( UE) 1303/2013   :  [7218..7222) Reglamento
-Reglamento ( UE) 1303/2013   :  [7544..7548) Reglamento
-Reglamento ( UE) 1304/2013   :  [1716..1720) Reglamento
-Reglamento ( UE) 1304/2013   :  [7087..7091) Reglamento
-Reglamento ( UE) 1303/2013   :  [7218..7222) Reglamento
-Reglamento ( UE) 1303/2013   :  [7544..7548) Reglamento
-Reglamentos ( UE) nº 1303/2013 y nº 1304/2013   :  [6788..6796) Reglamento
-Ley 39/2015   :  [189..191) LeyOrganica
-Ley 18/2014   :  [252..254) LeyOrganica
-Ley 18/2014   :  [271..273) LeyOrganica
-Ley 1/1983   :  [361..363) LeyOrganica
-Ley 38/2003   :  [434..436) LeyOrganica
-Ley 18/2014   :  [1100..1102) LeyOrganica
-Ley 2/1995   :  [1465..1467) LeyOrganica
-Ley 5/1998   :  [1487..1489) LeyOrganica
-Ley 38/2003   :  [2851..2853) LeyOrganica
-Ley 2/1995   :  [4174..4176) LeyOrganica
-Ley 38/2003   :  [4316..4318) LeyOrganica
-Ley 38/2003   :  [6353..6355) LeyOrganica
-Ley 9/1990   :  [6769..6771) LeyOrganica
-Ley 38/2003   :  [7533..7535) LeyOrganica
-Ley 2/1995   :  [7666..7668) LeyOrganica
-Ley 38/2003   :  [7684..7686) LeyOrganica
-Resolución de cuantas cuestiones surjan en la aplicación de la presente orden . - Elaboración de las instrucciones que sean precisas para su desarrollo o cumplimiento Artículo 8. Formalización de las solicitudes . 8.1. El organismo solicitante deberá aportar el impreso de solicitud en el que figura el siguiente contenido : a ) Instancia de solicitud . b ) Relación puestos de trabajo para investigadores predoctorales e investigadores postdoctorales propuestos así como de los correspondientes tutores de los futuros contratados . c ) Una memoria de actividades por cada puesto de trabajo ofertado que cumplimentará el tutor en cuyo departamento desarrollará su actividad el contratado y que consistirá en lo siguiente : 1 . Calidad de la propuesta de trabajo . Propuesta , descripción y objetivo de actividades de I+D a realizar por el contratado dentro del departamento . 2. Medios disponibles . Se describirán el contenido , medios y recursos que se disponen en el departamento y en la entidad que sean accesibles al departamento . La autenticidad de este documento se puede comprobar en www.madrid .org/csv mediante el siguiente código seguro de verificación : 1036491688507932959945 5 UNIÓN EUROPEA Fondo Social Europeo El Fondo Social invierte en tu futuro 3. Prolongación del contrato . En caso de que la entidad solicitante proponga extender la contratación del investigador durante un período adicional al que sería objeto de subvención , deberá expresar en la memoria la duración de dicho período adicional , los medios disponibles para hacer frente al mismo , así como las características del plan de actividades y formación previstos para dicho período adicional . 4 . Actividades de formación y capacitación propuestas . Se describirán el contenido , medios y recursos del plan de actividades así como las capacidades y competencias que se prevé que adquieran los contratados . Descripción del plan de formación en el que participará el contratado . 5 . Interés del puesto de trabajo propuesto . Justificación de la necesidad del puesto e impacto en la entidad solicitante . Existencia o no de puestos equivalentes en el departamento/laboratorio . 6 . Evaluación . Se describirán los mecanismos de evaluación y monitorización del progreso del personal . Se incluirá la repercusión que tendrá la actividad en la empleabilidad futura del contratado . 8.2. El impreso de solicitud y la memoria se deberán cumplimentar mediante la aplicación informática disponible en los servidores http ://www.madrid .org ( Consejería de Educación e Investigación , Dirección General competente en materia de investigación , convocatorias de ayudas a la investigación ) y en http ://www.madrimasd .org ( Madrid Ciencia y Tecnología , Convocatorias ) . Los organismos deberán presentar la solicitud de la ayuda a los contratos de manera telemática a través del Registro Electrónico de la Consejería de Educación e Investigación en http ://www.madrid .org ( Consejería de Educación e Investigación , Dirección General competente en materia de investigación , convocatorias de ayudas a la investigación ) o en http ://www.madrimasd .org ( Madrid Ciencia y Tecnología , Convocatorias ) . También podrán utilizar los demás registros electrónicos previstos en el artículo 16.4.a ) de la ley 39/2015 , de 1 de   :  [1936..2459) Resolution
-Resolución de la convocatoria . 10.1 . La resolución se efectuará mediante Orden del Consejero de Educación e Investigación a la vista de la propuesta elaborada por la Comisión de Selección . El plazo máximo de resolución y notificación será de seis meses contados desde la publicación de la convocatoria . El cómputo de este plazo se interrumpirá durante el plazo requerido para la subsanación y mejora de solicitud por el interesado y el tiempo de realización de informes de evaluación . Se entenderán desestimadas las solicitudes sobre las que no se haya resuelto expresamente en dicho plazo . 10.2 . La Orden de resolución establecerá una lista de los puestos de trabajo que han obtenido financiación , tanto para investigadores predoctorales como para investigadores postdoctorales como se establece en el artículo 9.5 . 10.3 . La resolución de la presente convocatoria se notificará a los organismos correspondientes y se hará pública en el Boletín Oficial de la Comunidad de Madrid y en http ://www.madrid .org , ( Consejería de Educación e Investigación , Dirección General de Investigación e Innovación , convocatorias de ayudas a la investigación ) y en http ://www.madrimasd .org ( Madrid Ciencia y Tecnología , Convocatorias ) . 10.4 . De conformidad con el artículo 6.5 . de la Ley 2/1995 de Subvenciones de la Comunidad de Madrid , toda alteración de las condiciones tenidas en cuenta para la concesión podrá dar lugar a la modificación de la subvención otorgada . 10.5 . Contra la Orden de resolución , que pone fin a la vía administrativa , podrá interponerse recurso de reposición ante el propio órgano que lo ha dictado , en el plazo de un mes desde el día siguiente al de su publicación en el Boletín Oficial de la Comunidad de Madrid , o directamente el recurso contencioso-administrativo ante la Sala correspondiente de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid , en el plazo de dos meses , sin perjuicio de cuantos otros recursos se estime oportuno deducir . Artículo 11 . Obligaciones del beneficiario . Además de las obligaciones previstas en el artículo 14 de la Ley 38/2003 , de 17 de   :  [3961..4322) Resolution
+Madrid   :  [1124..1125) location
+Aqu�   :  [1248..1249) location
+Aqu�   :  [1323..1324) location
+Nueva Ley   :  [1351..1353) location
+Canarias   :  [1761..1762) location
+calle   :  [1948..1949) location
+Nueva   :  [2379..2380) location
+Madrid   :  [2863..2864) location
+Madrid   :  [3079..3080) location
+2012   :  [3444..3445) location
+Madrid   :  [3796..3797) location
+Espero   :  [4183..4184) location
+Madrid   :  [4876..4877) location
+Despu�s de   :  [5075..5077) location
+Asturias   :  [5362..5363) location
+Murcia   :  [5621..5622) location
+Ley   :  [5906..5907) location
+EEUU   :  [6055..6056) location
+Madrid   :  [7264..7265) location
+San Isidro   :  [8259..8261) location
+Madrid   :  [8263..8264) location
+San Isidro   :  [8279..8281) location
+Madrid   :  [8283..8284) location
+Valencia   :  [9634..9635) location
+Mar�a Sharapova   :  [146..148) person
+Memo> Hoy   :  [477..479) person
+Hoy   :  [599..600) person
+Smooth Criminal   :  [626..628) person
+Carmen Calvo   :  [703..705) person
+Carmen Calvo   :  [749..751) person
+Que   :  [1070..1071) person
+Se   :  [1096..1097) person
+@oscarzx6r Las   :  [1194..1196) person
+Aqu�   :  [1248..1249) person
+Que   :  [1427..1428) person
+Nicolo Maquiavelo   :  [1545..1547) person
+Mecenazgo Cultural   :  [1818..1820) person
+Pedro S�nchez   :  [2059..2061) person
+Mariano Rajoy_ Sobre   :  [2071..2074) person
+Manuel Vilas   :  [2243..2245) person
+Luis Ib��ez Salas   :  [2252..2255) person
+MinisteriodeCienciaYa# MinisteriodeCiencia   :  [2428..2430) person
+Rajoy   :  [2609..2610) person
+Y   :  [3116..3117) person
+Luis Montes   :  [3136..3138) person
+Ley Mordaza   :  [3438..3440) person
+Rolling   :  [3605..3606) person
+Smooth Criminal   :  [3658..3660) person
+Hola Marvin   :  [3674..3676) person
+Pedro S�nchez   :  [3925..3927) person
+Pedro S�nchez   :  [3963..3965) person
+Smooth Criminal   :  [4121..4123) person
+Aznar   :  [4339..4340) person
+Aznar   :  [4502..4503) person
+Rajoy   :  [4530..4531) person
+Secretos   :  [4819..4820) person
+SecretosEmpresariales   :  [4821..4822) person
+Juli�n S�nchez Melgar   :  [4824..4827) person
+Pedro S�nchez   :  [4842..4844) person
+Mientes Hernando   :  [5186..5188) person
+Tambi�n   :  [5243..5244) person
+No   :  [5405..5406) person
+S�nchez   :  [5604..5605) person
+Smooth Criminal   :  [5718..5720) person
+PSOE. Se   :  [6186..6188) person
+Noticias Pregunta   :  [6312..6314) person
+Ley Electoral   :  [6395..6397) person
+Ha   :  [6398..6399) person
+Joy Gartner   :  [6628..6630) person
+Rajoy   :  [6795..6796) person
+Muyinteresante As�   :  [6882..6884) person
+Michael Jackson   :  [6885..6887) person
+Michael Jackson   :  [6949..6951) person
+D. Las   :  [6963..6965) person
+Smooth Criminal   :  [7144..7146) person
+Smooth Criminal   :  [7178..7180) person
+Mariano   :  [7730..7731) person
+New Jersey   :  [7778..7780) person
+Joey G�rtner   :  [8330..8332) person
+David Bittan   :  [8506..8508) person
+Rajoy   :  [8652..8653) person
+Ni Lorca   :  [8675..8677) person
+Comenzamos Ley Seca   :  [8716..8719) person
+Win Sports   :  [8724..8726) person
+CambioLey Electoral   :  [9401..9403) person
+Autor Ley Sinde   :  [9459..9462) person
+PSOE.Autor Ley Mordaza   :  [9463..9466) person
+Por   :  [9573..9574) person
+Vienes   :  [9613..9614) person
+Mar�a   :  [146..147) organization
+TC   :  [190..191) organization
+Gobierno   :  [287..288) organization
+Gracias   :  [366..367) organization
+DOCM   :  [422..423) organization
+Que   :  [583..584) organization
+Gobierno   :  [755..756) organization
+GS   :  [967..968) organization
+Por   :  [1017..1018) organization
+Que   :  [1070..1071) organization
+PP   :  [1283..1284) organization
+Foro   :  [1348..1349) organization
+Sala III   :  [1440..1442) organization
+RTVE   :  [1505..1506) organization
+Colegio de Logopedas   :  [1636..1639) organization
+Ejecutivo   :  [1646..1647) organization
+Consejo Consultivo   :  [1652..1654) organization
+Consejo de Control   :  [1685..1688) organization
+Gobierno del PP   :  [1864..1867) organization
+Quien   :  [1903..1904) organization
+Da   :  [1954..1955) organization
+pic.twitter.com/QMrh4Dc7Fx   :  [1959..1960) organization
+Solo   :  [1984..1985) organization
+Congreso   :  [1999..2000) organization
+Senado   :  [2013..2014) organization
+RTVE   :  [2049..2050) organization
+Nada   :  [2176..2177) organization
+TC   :  [2322..2323) organization
+Estado   :  [2358..2359) organization
+TC   :  [2366..2367) organization
+Ministerio de Ciencia   :  [2419..2422) organization
+Que   :  [2442..2443) organization
+PP   :  [2467..2468) organization
+://es.gizmodo.com/algunos-sites-de-ee-uu-prohibiran-el-acceso-desde-euro-1826166395��   :  [2553..2554) organization
+Damocles   :  [2588..2589) organization
+Cambio   :  [2630..2631) organization
+Hartos   :  [2744..2745) organization
+SI   :  [2793..2794) organization
+TC   :  [2924..2925) organization
+TC   :  [2986..2987) organization
+Ten�a   :  [3217..3218) organization
+CE   :  [3237..3238) organization
+Tribunal Supremo   :  [3273..3275) organization
+No   :  [3276..3277) organization
+Gobierno   :  [3479..3480) organization
+EL ORDEN Y LEY   :  [3564..3568) organization
+As�   :  [3639..3640) organization
+Cualquier   :  [3714..3715) organization
+YA   :  [3857..3858) organization
+Legalidad   :  [3944..3945) organization
+Legalidad   :  [3982..3983) organization
+Legalidad   :  [4012..4013) organization
+Todo   :  [4042..4043) organization
+Esto   :  [4048..4049) organization
+BOE   :  [4141..4142) organization
+PNV   :  [4180..4181) organization
+PP   :  [4371..4372) organization
+Vota   :  [4381..4382) organization
+PP   :  [4500..4501) organization
+Cada   :  [4592..4593) organization
+La   :  [4704..4705) organization
+Gobierno   :  [4796..4797) organization
+Estado   :  [4835..4836) organization
+Gobierno   :  [4840..4841) organization
+PP   :  [4860..4861) organization
+Que   :  [5115..5116) organization
+Mientes Hernando   :  [5186..5188) organization
+No   :  [5275..5276) organization
+Tambi�n   :  [5280..5281) organization
+DGT   :  [5313..5314) organization
+No   :  [5405..5406) organization
+Decreto   :  [5470..5471) organization
+Por   :  [5481..5482) organization
+Senado   :  [5529..5530) organization
+Gracias   :  [5608..5609) organization
+PSOE   :  [5680..5681) organization
+Rusia   :  [5798..5799) organization
+PNV   :  [6065..6066) organization
+Catal�n   :  [6104..6105) organization
+Servicios SOCIALES   :  [6118..6120) organization
+Hay 2   :  [6177..6179) organization
+PNV   :  [6184..6185) organization
+LOPS   :  [6277..6278) organization
+Ha   :  [6398..6399) organization
+No   :  [6411..6412) organization
+ETA   :  [6524..6525) organization
+Gobierno   :  [6702..6703) organization
+Gobierno   :  [6713..6714) organization
+PNV   :  [6804..6805) organization
+Gobierno   :  [6816..6817) organization
+Gobierno   :  [6836..6837) organization
+Y   :  [6874..6875) organization
+PNV   :  [6902..6903) organization
+Gobierno de Espa�a   :  [6916..6919) organization
+CGPJ   :  [7204..7205) organization
+Otra   :  [7220..7221) organization
+Otra   :  [7359..7360) organization
+Basta   :  [7444..7445) organization
+Entonces   :  [7524..7525) organization
+RGPD   :  [7595..7596) organization
+Hoy   :  [7611..7612) organization
+ANC   :  [7745..7746) organization
+FASCISMO   :  [7770..7771) organization
+Nadie   :  [7826..7827) organization
+PP   :  [7869..7870) organization
+Y   :  [7894..7895) organization
+Quer�ais   :  [7899..7900) organization
+Dan   :  [7990..7991) organization
+Otra   :  [8156..8157) organization
+Estados Unidos   :  [8207..8209) organization
+EL   :  [8299..8300) organization
+Si   :  [8575..8576) organization
+Quien   :  [8662..8663) organization
+Ni Lorca   :  [8675..8677) organization
+RGPD   :  [8692..8693) organization
+Ma�ana   :  [8708..8709) organization
+RCN   :  [8720..8721) organization
+Luego   :  [8770..8771) organization
+Estado   :  [8842..8843) organization
+Se   :  [8911..8912) organization
+PP   :  [8943..8944) organization
+V�DEO   :  [8948..8949) organization
+Estado   :  [9178..9179) organization
+Se   :  [9224..9225) organization
+Congreso   :  [9235..9236) organization
+Art�culo   :  [9237..9238) organization
+Autor Ley Sinde   :  [9459..9462) organization
+Primeras   :  [9547..9548) organization
+GML   :  [9621..9622) organization
+Si   :  [9651..9652) organization
+Las   :  [9665..9666) organization
+La   :  [9726..9727) organization
+Es   :  [9749..9750) organization
+Hemeroteca 2   :  [9887..9889) organization
+Peleemos   :  [9973..9974) organization
+Licencias VTC   :  [9989..9991) organization
+Algunos   :  [10012..10013) organization

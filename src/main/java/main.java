@@ -28,9 +28,9 @@ public class main {
     public static void main(String[] args) throws IOException, ParseException, TokenSequenceParseException, InterruptedException, Exception 
     {
         //text to be annotated
-        String text = "resources\\inputText\\Annotation\\\\\\other\\2.txt";
+        String text = "resources\\inputText\\Annotation\\\\\\other\\test-english.txt";
         String sentence = read.readFile(text);
-        String Language = SPANISH;
+        String Language = ENGLISH;
         String Type = "rule";// can be rule, nickname or other for spanish or rule and other for english
         
         if(Type.equals("nickname"))
